@@ -3,31 +3,35 @@
 // But for now, we assume `readQuestion` is in global scope
 import { readQuestion } from './reading.js'
 
-// Sample questions — in production, move this to a separate JSON file
-const questionsJson = [
+const questions = [
     {
         type: "Toss-Up",
-        subject: "Physics",
-        text: "What is the unit of force in the SI system?"
+        subject: "Math",
+        text: "What is the value of pi to two decimal places?"
     },
     {
         type: "Bonus",
-        subject: "Biology",
-        text: "Name the organelle responsible for photosynthesis."
+        subject: "Chemistry",
+        text: "Name the element with the atomic number six."
     }
 ];
 
-// Default reading speed (syllables per second)
-const defaultSpeed = 2;
-
-// Wait until DOM is ready
 window.addEventListener("DOMContentLoaded", () => {
     const button = document.getElementById("newQuestionBtn");
+    const speedSlider = document.getElementById("speedSlider");
+    const speedDisplay = document.getElementById("speedDisplay");
 
-    button.addEventListener("click", () => {
-        readQuestion(defaultSpeed, questionsJson);
+    // Update speed display when slider moves
+    speedSlider.addEventListener("input", () => {
+        speedDisplay.textContent = speedSlider.value;
     });
 
-    // Optional: auto-read on load
-    // readQuestion(defaultSpeed, questionsJson);
+    // On button click, read question with current speed
+    button.addEventListener("click", () => {
+        const readingSpeed = Number(speedSlider.value);
+        readQuestion(readingSpeed, questions);
+    });
+
+    // Optional: trigger first question on page load
+    readQuestion(Number(speedSlider.value), questions);
 });
