@@ -1,6 +1,7 @@
 // Import your question reading logic
 // (If you're using modules, you'd use `import { readQuestion } from './reading.js'`)
 // But for now, we assume `readQuestion` is in global scope
+import { readQuestion } from './reading.js'
 
 // Sample questions — in production, move this to a separate JSON file
 const questionsJson = [
