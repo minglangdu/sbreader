@@ -3,8 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <title>SBReader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #questionType, #questionSubject {
+            font-weight: bold;
+        }
+        #questionText {
+            margin-top: 20px;
+            font-size: 1.2em;
+            white-space: pre-wrap;
+        }
+    </style>
 </head>
 <body>
+    <button id="newQuestionBtn">Read New Question</button>
+    
+    <div id="questionType"></div>
+    <div id="questionSubject"></div>
+    <div id="questionText"></div>
 
+    <script src="reading.js"></script>
 </body>
 </html>
