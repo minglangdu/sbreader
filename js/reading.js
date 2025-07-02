@@ -49,6 +49,6 @@ function readQuestion(readingSpeed, questionsJson) {
 window.onload = () => {
     const button = document.getElementById("newQuestionBtn");
     button.addEventListener("click", () => {
-        readQuestion(2, questionsJson); // adjust reading speed if needed
+        readQuestion(speedSlider.value, questionsJson); // adjust reading speed if needed
     });
 };
