@@ -21,17 +21,16 @@ window.addEventListener("DOMContentLoaded", () => {
     const speedSlider = document.getElementById("speedSlider");
     const speedDisplay = document.getElementById("speedDisplay");
 
-    // Update speed display when slider moves
+    speedDisplay.textContent = speedSlider.value;
+
+    // Update the speed display text in real time
     speedSlider.addEventListener("input", () => {
         speedDisplay.textContent = speedSlider.value;
     });
 
-    // On button click, read question with current speed
+    // When button is clicked, get current slider value and read question
     button.addEventListener("click", () => {
-        const readingSpeed = Number(speedSlider.value);
-        readQuestion(readingSpeed, questions);
+        const readingSpeed = Number(speedSlider.value); // Get current speed
+        readQuestion(readingSpeed, questions); // Pass speed into function
     });
-
-    // Optional: trigger first question on page load
-    readQuestion(Number(speedSlider.value), questions);
 });
