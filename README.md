@@ -4,7 +4,7 @@
 
 ## Features
 
-- [ ] Read tossups  
+- [x] Read tossups  
 - [ ] User can buzz in and answer questions  
 - [ ] Give player bonus if they get question correct  
 - [ ] Keep score  
