@@ -1,36 +1,14 @@
-// Questions database
-const questions = [
-    {
-	type: "Toss-Up",
-	subject: "Math",
-	text: "What is the value of pi to two decimal places?"
-    },
-    {
-	type: "Bonus",
-	subject: "Chemistry",
-	text: "Name the element with the atomic number six."
-    },
-    {
-	type: "Toss-Up",
-	subject: "Physics",
-	text: "What is the unit of force in the SI system?"
-    },
-    {
-	type: "Bonus",
-	subject: "Biology",
-	text: "Name the organelle responsible for photosynthesis in plant cells."
-    },
-    {
-	type: "Toss-Up",
-	subject: "Earth Science",
-	text: "What type of rock is formed from the cooling and solidification of magma or lava?"
-    },
-    {
-	type: "Bonus",
-	subject: "Chemistry",
-	text: "What is the molecular formula for methane gas?"
-    }
-];
+// Questions
+var questions = [];
+const randomNumber = Math.floor(Math.random() * 17) + 1;
+console.log('./packets/set1/round' + randomNumber + '.json');
+fetch('./packets/set1/round' + randomNumber + '.json')
+  .then(response => response.json())
+  .then(data => {
+      questions = data;
+      console.log(questions);
+  })
+  .catch(error => console.error('Error fetching JSON:', error));
 
 let currentInterval = null; // To keep track of current reading interval
 
@@ -45,7 +23,7 @@ function readQuestion(readingSpeed, questionsArray) {
 
     const type = question.type || "Unknown Type";
     const subject = question.subject || "Unknown Subject";
-    const text = question.text || "";
+    const text = question.content || "";
 
     // Set type and subject
     document.getElementById("questionType").textContent = `Type: ${type}`;
@@ -107,5 +85,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     // When button is clicked, get current slider value and read question
     button.addEventListener("click", () => {
-    const readingSpeed = Number(speedSlider.value);
+	const readingSpeed = Number(speedSlider.value);
 	readQuestion(readingSpeed, questions);
+    });
+});

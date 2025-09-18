@@ -1,13 +1,7 @@
-# SBReader
+RUN A SERVER TO ACCESS QUESTIONS!!!!
 
-**SBReader** is a website to practice Science Bowl.
+python -m http.server
 
-## Features
+OTHERWISE IT WILL NOT WORK
 
-- [x] Read tossups  
-- [ ] User can buzz in and answer questions  
-- [ ] Give player bonus if they get question correct  
-- [ ] Keep score  
-- [ ] User can input packets  
-- [ ] Spell check on short answer (SA) questions  
-- [ ] Multiplayer support  
+

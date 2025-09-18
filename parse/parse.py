@@ -51,14 +51,19 @@ def parsepdf(url, file, result):
         if ("BONUS" in line):
             next["type"] = "Bonus"
         if ("Short Answer" in line):
+            inmult = True
             next["answertype"] = "Short Answer"
             after = line.rsplit("Short Answer", 1)[1]
+            before = line.rsplit("Short Answer", 1)[0].rsplit(")", 1)[1]
             next["content"] = after
+            next["subject"] = before
         if ("Multiple Choice" in line):
             inmult = True
             next["answertype"] = "Multiple Choice"
             after = line.rsplit("Multiple Choice", 1)[1]
+            before = line.rsplit("Multiple Choice", 1)[0].rsplit(")", 1)[1]
             next["content"] = after
+            next["subject"] = before
 
     with open(result, "w") as file:
         json.dump(data, file, indent=4)
