@@ -12,13 +12,18 @@ fetch('./packets/set1/round' + randomNumber + '.json')
 
 let currentInterval = null; // To keep track of current reading interval
 
+var randomIndex = 0;
+
 function readQuestion(readingSpeed, questionsArray) {
     // Clear any existing interval
     if (currentInterval) {
 	clearInterval(currentInterval);
     }
 
-    const randomIndex = Math.floor(Math.random() * questionsArray.length);
+    const answerDiv = document.getElementById("questionAnswer");
+    answerDiv.textContent = "";
+
+    randomIndex = Math.floor(Math.random() * questionsArray.length);
     const question = questionsArray[randomIndex];
 
     const type = question.type || "Unknown Type";
@@ -69,9 +74,15 @@ function readQuestion(readingSpeed, questionsArray) {
     }, intervalMs);
 }
 
+function showAnswer() {
+    const answerDiv = document.getElementById("questionAnswer");
+    answerDiv.textContent = questions[randomIndex]["answer"];
+}
+
 // Wait for DOM to load
 window.addEventListener("DOMContentLoaded", () => {
     const button = document.getElementById("newQuestionBtn");
+    const button2 = document.getElementById("showAnswerBtn");
     const speedSlider = document.getElementById("speedSlider");
     const speedDisplay = document.getElementById("speedDisplay");
 
@@ -88,4 +99,8 @@ window.addEventListener("DOMContentLoaded", () => {
 	const readingSpeed = Number(speedSlider.value);
 	readQuestion(readingSpeed, questions);
     });
+
+    button2.addEventListener("click", () => {
+	showAnswer();
+    })
 });

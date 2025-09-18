@@ -9,7 +9,7 @@ body {
     font-weight: bold;
             margin: 10px 0;
         }
-        #questionText {
+        .inlaid {
             margin-top: 20px;
             font-size: 1.2em;
             white-space: pre-wrap;
