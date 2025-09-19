@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " With which of the following does human interstitial fluid differ in\nconcentration the most when compared with plasma:\nW) sodium ions\nX) potassium ions\nY) magnesium ions\nZ) proteins",
+        "subject": " BIOLOGY ",
+        "answer": "Z) PROTEINS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What human organ produces the majority of immune complement\nproteins?",
+        "subject": " BIOLOGY ",
+        "answer": "LIVER"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a diprotic acid:\nW) H C O\n2 2 4\nX) H PO\n3 4\nY) HCl\nZ) HNO\n2",
+        "subject": " CHEMISTRY ",
+        "answer": "W) H C O2 2 4(Solution: oxalic acid with 2 acidic H atoms)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT true:\nW) an ideal gas cannot undergo condensation\nX) the less mass a particle has, the faster it will effuse\nY) when a gas is compressed, its temperature always increases\nZ) a gas is easier to compress than a liquid",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) WHEN A GAS IS COMPRESSED, ITS TEMPERATURE ALWAYS INCREASESHigh School Round 10 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the most common functions\nfor which most transistors are used:\nW) to switch on and off or amplify electronic signals\nX) to allow electric current to pass in only one direction while increasing or decreasing the voltage\nY) to store electrical energy\nZ) to regulate the frequency of electrical sine waves",
+        "subject": " PHYSICS ",
+        "answer": "W) TO SWITCH ON AND OFF OR AMPLIFY ELECTRONIC SIGNALS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the abbreviated name of the most common\nfield effect transistor in modern electronic circuitry:\nW) DET\nX) MOSFET\nY) BJT\nZ) BFET",
+        "subject": " PHYSICS ",
+        "answer": "X) MOSFET"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Find the cotangent and cosecant, respectively, of a 90\u00ba angle:",
+        "subject": " MATH ",
+        "answer": "COTAN = 0; COSECANT = 1"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following points is closest to the point (1, \u20132):\nW) (3, \u20135)\nX) (0, 3)\nY) (3, 0)\nZ) (\u20135, \u20135)",
+        "subject": " MATH ",
+        "answer": "Y) (3, 0)(Solution: d = (x \u2212x )2 +(y \u2212 y )2 ; (3\u22121)2 +(0\u2212(\u22122))2 = 8)2 1 2 1High School Round 10 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following lakes in North America would\nyou typically find a thriving community of halophiles and alkaliphiles:\nW) Lake Michigan\nX) Mono Lake, California\nY) Great Slave Lake, Canada\nZ) Lake Powell, Utah/Arizona",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) MONO LAKE, CALIFORNIA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains why Mono Lake in\nCalifornia is hypersaline:\nW) it has no outlet and a high evaporation rate\nX) it is subject to extreme saltwater intrusion emanating from a vast system of underground aquifers\nY) it is underlain by massive salt domes formed 250 million years ago\nZ) it has been subjected to periodic eruptions of volcanic ash",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) IT HAS NO OUTLET AND A HIGH EVAPORATION RATE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Most VOC\u2019s, or volatile organic compounds, are:\nW) hydrocarbons\nX) oxides\nY) nitrogenous wastes\nZ) particulates",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) HYDROCARBONS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " A 25-microliter blood serum sample contains 50\nmicrograms of an enzyme. What is the enzyme concentration in parts per million?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "2,000 (ACCEPT: 2 \u00d7 103)(Solution: 50 ug/0.025 ml = 2000 ug/ml = 2000 ppm)High School Round 10 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What specific class of stars was discovered by Henrietta Leavitt\nto have special properties that allowed it to be used in measuring long astronomical distances?",
+        "subject": " ASTRONOMY ",
+        "answer": "CEPHEID VARIABLES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following most directly addresses that a gas of\nlow density, when excited, will emit light of a certain wavelength:\nW) Kirchhoff\u2019s second law\nX) Bode\u2019s second law\nY) Wien\u2019s law\nZ) Balmer\u2019s law",
+        "subject": " ASTRONOMY ",
+        "answer": "W) KIRCHHOFF\u2019S SECOND LAW"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molecules would have the most peptide\nbonds:\nW) glycogen\nX) hemoglobin\nY) lecithin\nZ) DNA",
+        "subject": " BIOLOGY ",
+        "answer": "X) HEMOGLOBIN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 substances that would typically be\nconsidered exocrine products: insulin; pepsin; hemoglobin; epinephrine",
+        "subject": " BIOLOGY ",
+        "answer": "PEPSINHigh School Round 10 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would be LEAST applicable for\ndetermining the end point in a titration experiment:\nW) pH meter\nX) phenolphthalein (read as: fee-knoll-THAY-lean) solution\nY) potentiometer\nZ) mass spectrometry",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) MASS SPECTROMETRY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following gases will have the LOWEST freezing\npoint:\nW) hydrogen\nX) water\nY) helium\nZ) carbon dioxide",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) HELIUM"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " By what factor will the gravitational attraction between two masses\nbe multiplied, if the distance between their centers of mass remains the same, but the mass of one\ndoubles?",
+        "subject": " PHYSICS ",
+        "answer": "2 TIMES (ACCEPT: 2 or DOUBLES)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following occurs when a glass tube is rubbed with a\nsilk cloth:\nW) protons are transferred from the silk to the glass tube\nX) protons are transferred from the glass tube to the silk\nY) electrons are transferred from the silk to the glass tube\nZ) electrons are transferred from the glass tube to the silk",
+        "subject": " PHYSICS ",
+        "answer": "Z) ELECTRONS ARE TRANSFERRED FROM THE GLASS TUBE TO THE SILKHigh School Round 10 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What are the leading coefficient and degree, respectively, of the\nfollowing polynomial: 3x2 \u2013 6x5 + 7",
+        "subject": " MATH ",
+        "answer": "LEADING COEFFICIENT = \u20136; DEGREE = 5"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " The terminal side of angle \u03b8 (read as: theta) in standard position passes\nthrough the point (\u20135, 12). Find the sine, cosine and tangent, in fractional form:\n12 \u22125 \u221212",
+        "subject": " MATH ",
+        "answer": "SIN = ; COS = ; TAN =13 13 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is both fluorescent and\nradioactive:\nW) calcite\nX) halite\nY) talc\nZ) zircon",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) ZIRCON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following both have very similar chemical\ncompositions but exhibit different colors:\nW) ruby and sapphire\nX) opal and pearl\nY) diamond and quartz\nZ) amber and citrine",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) RUBY AND SAPPHIREHigh School Round 10 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has the largest seasonal\nhypoxic zone in coastal waters of the western hemisphere:\nW) the Chesapeake Bay\nX) the Gulf of Maine\nY) the Gulf of Mexico\nZ) Hudson Bay",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) THE GULF OF MEXICO"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " The hypoxic zone in the Gulf of Mexico, and many\nother areas in the world, is largely caused by the influx of which of the following into waterways:\nW) phosphorous\nX) nitrogen\nY) potassium\nZ) sulfur",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) NITROGEN"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of coronal mass\nejections:\nW) they can lead to a loss in radio communications\nX) they can indirectly cause damage to electrical transformers\nY) they typically will not damage space-based satellites\nZ) the next peak of ejections will likely be during the years 2010 to 2012",
+        "subject": " ASTRONOMY ",
+        "answer": "Y) THEY TYPICALLY WILL NOT DAMAGE SPACE-BASED SATELLITES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Choosing from upper left, upper right, lower left, and lower\nright, where on the HR diagram would a blue Supergiant be found?",
+        "subject": " ASTRONOMY ",
+        "answer": "UPPER LEFTHigh School Round 10 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the common name for the units in DNA to which phosphates\nare covalently linked?",
+        "subject": " BIOLOGY ",
+        "answer": "RIBOSE SUGARS (ACCEPT: PENTOSE SUGARS or SUGARS or DEOXYRIBOSESUGARS)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate regarding human\ngenetics:\nW) genes from gametes are typically unchanged during their passage to the zygote\nX) the zygote gets 1 allele from each parental gene pair\nY) all genes independently segregate\nZ) the number of copies of a particular gene can vary among individuals",
+        "subject": " BIOLOGY ",
+        "answer": "Y) ALL GENES INDEPENDENTLY SEGREGATE(Solution: genes on the same chromosome do not independently segregate)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a substance that is very reactive with\nthe oxygen in air and must be stored under water or some other substance to keep it from becoming\nincendiary:\nW) fullerene\nX) white phosphorous\nY) calcium fluoride\nZ) calcium oxide",
+        "subject": " CHEMISTRY ",
+        "answer": "X) WHITE PHOSPHOROUS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best describes the catalyst in the\ndestruction of ozone by chlorofluorocarbons:\nW) homogeneous\nX) heterogeneous\nY) enzymatic\nZ) autocatalytic",
+        "subject": " CHEMISTRY ",
+        "answer": "W) HOMOGENEOUS(Solution: all in the same phase, namely gases)High School Round 10 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes how and why electrical\nresistance is related to temperature:\nW) as temperature increases, resistance decreases because electrons move faster\nX) as temperature increases, resistance decreases because electrons are lost from the conductor\nY) as temperature increases, resistance increases because protons move faster\nZ) as temperature increases, resistance increases because atoms vibrate more, increasing electron\nscattering",
+        "subject": " PHYSICS ",
+        "answer": "Z) AS TEMPERATURE INCREASES, RESISTANCE INCREASES BECAUSEATOMS VIBRATE MORE, INCREASING ELECTRON SCATTERING"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " A 10-kilogram hay bale is raised to 5 meters above a barn floor and is\nthen lowered to 4 meters below the floor. Relative to its starting position on the floor, what is the\nfinal gravitational potential energy of the bale, in joules, if g is rounded to the first decimal place?",
+        "subject": " PHYSICS ",
+        "answer": "\u2013392 (must give negative value) (ACCEPT: 392 JOULES LESS)(Solution: E = mg\u0394h = 10kg \u00d7 9.8 \u00d7 (\u20134) = \u2013392 joules)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Identify the type of conic section represented by the equation,\nx2 \u2013 16y2 = 64:",
+        "subject": " MATH ",
+        "answer": "HYPERBOLA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in millimeters squared, find the lateral surface area\nof a right pentagonal prism whose altitude is 12 millimeters and base has sides of length 8, 10, 12,\n14, and 16 millimeters, respectively:",
+        "subject": " MATH ",
+        "answer": "720(Solution: LA = (P)(h) = (8+10+12+14+16)(12) = 720 mm2)High School Round 10 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Aeolian sandstones are produced primarily by sand grain\nmotion as a result of:\nW) river currents\nX) ocean currents\nY) glacial transports\nZ) winds",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) WINDS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " According to the Continental Drift Theory, Australia\nremained attached to Antarctica until the 2 entities drifted apart about how many million years ago:\nW) 80\nX) 120\nY) 250\nZ) 350",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) 80"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " From which of the following sources is the food\nadditive carrageenan (read as: carr-ah-GEE-nan) derived:\nW) petroleum\nX) seaweed\nY) corn husks\nZ) yarrow root",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) SEAWEED"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " When emissions of nitrogen oxides and VOC\u2019s react in\nthe presence of sunlight, what ground-level pollutant is formed?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "OZONE (ACCEPT: O )3High School Round 10 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What 2 planets of our solar system are most alike in elemental\nmakeup to the solar nebula?",
+        "subject": " ASTRONOMY ",
+        "answer": "JUPITER; SATURN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 stars from the HOTTEST to the\nCOOLEST: K-3; K-2; B-7; M-10",
+        "subject": " ASTRONOMY ",
+        "answer": "B-7; K-2; K-3; M-10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the specific type of protein from which spindle fibers are\ncomposed?",
+        "subject": " BIOLOGY ",
+        "answer": "TUBULIN (ACCEPT: ALPHA AND/OR BETA TUBULIN)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 diseases that are caused by protists:\nbotulism; rabies; typhoid fever; toxoplasmosis",
+        "subject": " BIOLOGY ",
+        "answer": "TOXOPLASMOSISHigh School Round 10 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the direct addition of water to\nan alkene (read as: al-KEEN) to make an alcohol?",
+        "subject": " CHEMISTRY ",
+        "answer": "HYDRATION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Under constant temperatures, a sample of gas at a pressure of 120\nkilopascals is allowed to expand from 2 liters to 8 liters. Calculate the new pressure, in kilopascals:",
+        "subject": " CHEMISTRY ",
+        "answer": "30(Solution: P V = P V ; (120 kPa)(2L) = (P )(8L); = 30 kPa)1 1 2 2 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Which of the 4 basic forces of the universe is most directly related to\nthe ability of various metals to be hammered and formed into various shapes?",
+        "subject": " PHYSICS ",
+        "answer": "ELECTROMAGNETIC (FORCE)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Given that the speed of sound at 0\u00baC at sea level in dry air is 331\nmeters per second, what is the speed of sound through dry air at sea level, giving your answer in\nproper SI units rounded to the nearest whole number, if the temperature of the air is 12\u00b0C?",
+        "subject": " PHYSICS ",
+        "answer": "338 METERS PER SECOND (must give units)(Solution: 0.6 \u00d7 12 + 331 = 338.2 m/s)High School Round 10 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What class of immunoglobulins is most directly responsible for\nhay fever and common allergies in humans?",
+        "subject": " BIOLOGY ",
+        "answer": "IGE (ACCEPT: E or IMMUNOGLOBULIN E)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 cells that typically possess\nmitochondria: erythrocytes; plasma cells; lymphocytes; neurons",
+        "subject": " BIOLOGY ",
+        "answer": "PLASMA CELLS; LYMPHOCYTES; NEURONS(ACCEPT: ALL BUT ERYTHROCYTES)High School Round 10 Page 13"
+    }
+]

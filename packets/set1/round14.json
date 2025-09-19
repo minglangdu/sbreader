@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Name the elements in the following reaction that have been\noxidized and reduced, respectively: Zn + CuSO \uf0e0 ZnSO + Cu\n(solid) 4(aqueous) 4(aqueous) (solid)",
+        "subject": " CHEMISTRY ",
+        "answer": "OXIDIZED = Zn (ACCEPT: ZINC); REDUCED = Cu (ACCEPT: COPPER)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the pK of an acid whose\na\nK = 5.0 \u00d7 10\u20134:\na\nW) 2.3\nX) 3.3\nY) 4.0\nZ) 5.0",
+        "subject": " CHEMISTRY ",
+        "answer": "X) 3.3(Solution: pK = \u2013log K = 3.3)a 10 a"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best describes the repressor protein in the\nlac (read as: LACK) operon:\nW) uncompetitive inhibitor\nX) structural protein\nY) regulatory protein\nZ) transcriptional factor",
+        "subject": " BIOLOGY ",
+        "answer": "Y) REGULATORY PROTEIN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Through which of the following mechanisms do allosteric\ninhibitors typically operate:\nW) binding the substrate\nX) binding to an enzyme\u2019s active site\nY) binding to a site other than the active site and changing the shape of an enzyme\nZ) acting as a competitive inhibitor and overpowering the active sites of enzymes",
+        "subject": " BIOLOGY ",
+        "answer": "Y) BINDING TO A SITE OTHER THAN THE ACTIVE SITE AND CHANGINGTHE SHAPE OF AN ENZYMEHigh School Round 14 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " In the radioactive decay scheme of uranium, what is the final stable\nelement produced?",
+        "subject": " PHYSICS ",
+        "answer": "LEAD"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider an astronaut on the Moon and g is exactly 1/6th of g on Earth.\nIf he threw an object vertically upwards with an initial velocity of 1.6 meters per second, how many\nmeters up would it be after 1 second, rounding your answer to the first decimal place?",
+        "subject": " PHYSICS ",
+        "answer": "0.8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following represents the inverse function of f(x) = x3 + 5:\nW) (x \u2013 5)3\nX) x3 \u2013 5\n1\nY) (x\u22125)3\n3\n\uf8eb 1 \uf8f6\nZ) \uf8ec \uf8f7\n\uf8edx\u22125\uf8f8\n1",
+        "subject": " MATH ",
+        "answer": "Y) (x\u22125)3"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in meters squared, find the total surface area of a\nright prism whose base is a right triangle with legs of length 3 meters and 4 meters and whose\naltitude is 2 meters:",
+        "subject": " MATH ",
+        "answer": "36(Solution: 3:4:5; P = 3+4+5 = 12m; A = \u00bdbh = 6 m2; TA = LA + 2B = (12)(2) + 2(6) = 36 m2)baseHigh School Round 14 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a tree that is very well-adapted to\nsurviving above shallow permafrost:\nW) cottonwood\nX) white pine\nY) aspen\nZ) black spruce",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) BLACK SPRUCE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes a small lake in an\narctic environment that is likely to be surrounded by a ring of so-called drunken trees leaning toward\nthe lake:\nW) paternoster lake\nX) thermokarst\nY) tarn\nZ) fen",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) THERMOKARST"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 hexadecimal numbers from\nSMALLEST to LARGEST: 3E8; BB8; 1F4;",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "1F4; 3E8; BB8(Solution: 1F4 = 500; 3E8 =1000; BB8 = 3000)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " An experiment aboard a recent Space Shuttle mission\nexposed Salmonella typhimurium (read as: TIE-fee-muhr-EE-um) to a space environment. Which of\nthe following resulted when the bacteria came back to Earth:\nW) they were more virulent\nX) they were less virulent\nY) they had about the same virulence\nZ) they changed into a new but similar species of bacteria",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) THEY WERE MORE VIRULENT(Solution: NASA\u2019s Space Shuttle mission STS-115)High School Round 14 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE of red supergiants:\nW) some form Cepheid variables\nX) most end as nova stars\nY) most have luminosities about 10 to 100 times that of our Sun\nZ) most have surface temperatures at least 2-times that of our Sun",
+        "subject": " ASTRONOMY ",
+        "answer": "W) SOME FORM CEPHEID VARIABLES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT characteristic of B-type stars\nlike Rigel or Spica (read as: SPY-kah):\nW) very luminous\nX) apparent blue color\nY) medium strength hydrogen spectral lines\nZ) average solar mass of about 3.2",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) AVERAGE SOLAR MASS OF ABOUT 3.2(Solution: solar mass of about 16-18)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " According to VSEPR bonding theory, if 2 of the bonded atoms\nin an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric\nshape, such as in XeF :\n4\nW) linear\nX) trigonal bipyramidal\nY) square planar\nZ) square pyramidal",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) SQUARE PLANAR"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " According to VSEPR bonding theory, if one of the bonded\natoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume\nwhat geometric shape, such as in ClF :\n3\nW) t-shaped\nX) see-saw\nY) linear\nZ) bent",
+        "subject": " CHEMISTRY ",
+        "answer": "W) T-SHAPEDHigh School Round 14 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following mutations would most likely affect a gene\nthe LEAST:\nW) single base deletion\nX) single base substitution\nY) single base insertion\nZ) quadruple base deletion",
+        "subject": " BIOLOGY ",
+        "answer": "X) SINGLE BASE SUBSTITUTION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains why a single base\nsubstitution in a gene-coding region for amino acids will sometimes lead to no change in amino acid\nsequence:\nW) all nucleotides are subject to the same mutation rate\nX) some nucleotide bases are covalently joined by stronger bonds\nY) the code is degenerate with more than one triplet coding for the same amino acid\nZ) some amino acids act in the same fashion in determining the tertiary structure of a protein",
+        "subject": " BIOLOGY ",
+        "answer": "Y) THE CODE IS DEGENERATE WITH MORE THAN ONE TRIPLET CODINGFOR THE SAME AMINO ACID"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following experimental approaches was used by\nscientists to discover that the atomic nucleus held most of the atom\u2019s mass and a positive charge:\nW) directing alpha particles at thin metal strips\nX) finding the amount of magnetic deflection in cathode rays within a well-evacuated tube\nY) exposing photographic film to certain radium salts\nZ) using a crude cyclotron to disintegrate large nuclei",
+        "subject": " PHYSICS ",
+        "answer": "W) DIRECTING ALPHA PARTICLES AT THIN METAL STRIPS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 sub-atomic particles that are never found\nin isolation: electrons; protons; quarks; positrons",
+        "subject": " PHYSICS ",
+        "answer": "QUARKSHigh School Round 14 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a quadratic equation with a root of\nmultiplicity of 2:\nW) 9x2 \u2013 30x2 + 25 = 0\nX) x2 + 2x \u2013 15 = 0\nY) 6x2 \u2013 11x \u2013 2 = 0\nZ) 4x2 \u2013 1 = 0",
+        "subject": " MATH ",
+        "answer": "W) 9x2 \u2013 30x2 + 25 = 0(Solution: x = 5/3)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Given f(x) = x2 + 2x + 3, express f(x + 1) in standard polynomial form:",
+        "subject": " MATH ",
+        "answer": "x2 + 4x + 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Placodonts, which lived during the Triassic Period, were a\ngroup of:\nW) meat-eating land reptiles\nX) flying reptiles\nY) small, lightweight, plant-eating reptiles\nZ) marine reptiles",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) MARINE REPTILES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true regarding seismic\nwaves through the Earth:\nW) P-waves travel through the mantle\nX) S-waves travel through the mantle\nY) P-waves travel through the outer core\nZ) S-waves travel through the outer core",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) S-WAVES TRAVEL THROUGH THE OUTER CORE(Solution: S-waves cannot travel through liquids and the outer core is liquid)High School Round 14 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would a Leyden jar most likely be\nconsidered:\nW) an electroscope\nX) a capacitor\nY) a resistor\nZ) a Tesla cage",
+        "subject": " PHYSICS ",
+        "answer": "X) A CAPACITOR"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many joules of energy are used by an electrical appliance\noperating on 8 amps of current flowing through a 20-ohm resistance circuit for 5 minutes?",
+        "subject": " PHYSICS ",
+        "answer": "384,000(Solution: E = I2 R \u00d7 T = (8A)2 \u00d7 20 ohms \u00d7 300 s = 384,000 joules)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes where the zodiacal\nlight is brightest to a stargazer at mid-northern latitudes:\nW) within about 20 degrees of the ecliptic\nX) at the western horizon at sunrise\nY) at right angles to the Milky Way\nZ) parallel with the Milky Way",
+        "subject": " ASTRONOMY ",
+        "answer": "W) WITHIN ABOUT 20 DEGREES OF THE ECLIPTIC"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST explanation for what\ncauses zodiacal light:\nW) reflection of moonlight off the Earth\u2019s surface\nX) dispersion of the Earth\u2019s radiant heat off the troposphere\nY) sunlight reflected off interplanetary dust particles\nZ) radiation from the Van Allen belts",
+        "subject": " ASTRONOMY ",
+        "answer": "Y) SUNLIGHT REFLECTED OFF INTERPLANETARY DUST PARTICLESHigh School Round 14 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " How many quantum numbers are required to completely describe\na specific electron in a multi-electron atom?",
+        "subject": " CHEMISTRY ",
+        "answer": "4"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following describes the quantum number that\nindicates the direction in space of the electron cloud surrounding the nucleus of an atom:\nW) magnetic quantum number\nX) principle quantum number\nY) angular momentum quantum number\nZ) spin quantum number",
+        "subject": " CHEMISTRY ",
+        "answer": "W) MAGNETIC QUANTUM NUMBER"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains why leaves fall off trees in\nthe autumn:\nW) the leaves die and passively fall off\nX) an abscission layer forms at the base of the leaf stem causing it to fall off\nY) the leaves slowly dry out from the bottom up because of abscisic acid that prevents phloem from\ndelivering nutrients\nZ) the vascular tissue of the leaves fill up with resin increasing their stiffness and causing them to\nbecome brittle",
+        "subject": " BIOLOGY ",
+        "answer": "X) AN ABSCISSION LAYER FORMS AT THE BASE OF THE LEAF STEMCAUSING IT TO FALL OFF"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following will most likely result from a single base\ndeletion in DNA:\nW) nonsense mutation\nX) stop codon\nY) frame shift mutation\nZ) inversion mutation",
+        "subject": " BIOLOGY ",
+        "answer": "Y) FRAME SHIFT MUTATIONHigh School Round 14 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Because of its linear-temperature relationship and its\nchemical inertness, which of the following materials is almost always used in resistance temperature\ndetectors:\nW) mercury\nX) platinum\nY) iron\nZ) brass",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) PLATINUM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the main advantage for the\nuse of geothermal heat pumps in the U.S.:\nW) geothermal steam reservoirs can be tapped almost anywhere in the U.S.\nX) heat can be delivered directly for its intended use\nY) steam can be used to directly generate electricity\nZ) all areas of the U.S. have nearly constant shallow-ground temperatures",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) ALL AREAS OF THE U.S. HAVE NEARLY CONSTANT SHALLOW-GROUNDTEMPERATURES"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " In the algebra of real-valued functions, give the name or number of all of\nthe following 3 choices that the implied domain usually excludes:\n1) numbers causing division by zero\n2) numbers causing imaginary numbers in the range\n3) numbers causing irrational numbers in the range",
+        "subject": " MATH ",
+        "answer": "1 AND 2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Add the following rational expressions and give your answer in fully\nx 4x\nfactored form: +\n(x+2) (x\u22126)\nx(5x+2) x(5x+2)",
+        "subject": " MATH ",
+        "answer": "(ACCEPT: )(x\u22126)(x+2) (x+2)(x\u22126)High School Round 14 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " The aurora occur high in what layer of Earth\u2019s atmosphere?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "THERMOSPHERE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " During a Nor\u2019easter, areas far to the east of the storm\ncenter will feel which of the following storm-generated winds:\nW) northeasterly\nX) southeasterly\nY) southwesterly\nZ) northwesterly",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) SOUTHWESTERLY"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following most accurately represents the\ncomplete range of wavelengths to which the human eye is sensitive:\nW) 320 to 600 nanometers\nX) 380 to 740 nanometers\nY) 450 to 850 nanometers\nZ) 480 to 950 nanometers",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) 380 TO 740 NANOMETERS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) over 50% of all stars that appear to be single are double or multiple systems\nX) aurora borealis can occur in all 4 seasons\nY) tetanus toxin causes muscle stiffness in affected humans\nZ) the Large Hadron Collider at CERN began colliding electrons in September of 2008",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) THE LARGE HADRON COLLIDER AT CERN BEGAN COLLIDINGELECTRONS IN SEPTEMBER OF 2008(Solution: the LHA collides hadrons\u2026electrons are leptons)High School Round 14 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " If the surface temperature of a star increased from 6,000 kelvin\nto 18,000 kelvin, how many times as much energy would it radiate?",
+        "subject": " ASTRONOMY ",
+        "answer": "81"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Using the most common temperature-based spectral\nclassification system, a star with an apparent color of blue and a surface temperature of 55,000\nkelvin would have what spectral letter classification?",
+        "subject": " ASTRONOMY ",
+        "answer": "O"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the terminus of a tRNA\nmolecule to which amino acids are attached?",
+        "subject": " BIOLOGY ",
+        "answer": "3-PRIME TERMINUS (ACCEPT: CCA 3-PIME END or 3-PRIME END or3-PRIME)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What protein, that takes its name from its apparent molecular weight,\ncan arrest cells in the G1-S checkpoint, initiate apoptosis (read as: aye-pop-TOE-sis) and, when\ndeactivated, is implicated in a wide variety of cancers?",
+        "subject": " BIOLOGY ",
+        "answer": "P53High School Round 14 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " According to general solubility rules, name all of the following 5\nsubstances that are NOT soluble in water:\nlithium iodide; sodium chloride; iron(II) hydroxide; sodium nitrate; barium sulfate",
+        "subject": " CHEMISTRY ",
+        "answer": "IRON(II) HYDROXIDE; BARIUM SULFATE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider a hypothetical reaction, A + B \uf0e0 C + D. At zero time,\nthe concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3\nmolar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50\nseconds, in molarity per second:",
+        "subject": " CHEMISTRY ",
+        "answer": "1 \u00d7 10\u20132 (ACCEPT: 0.01)(Solution: ave rate = \u2013\u2206A/\u2206t = (0.3 \u2013 0.5M)/(50 \u2013 30s) = 0.010 M/s)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the field, which is believed to act\nsomewhat like a fluid that fills space and endows quarks with mass?",
+        "subject": " PHYSICS ",
+        "answer": "HIGGS FIELD (ACCEPT: HIGGS)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 isotopes from the one with the LOWEST\nnuclear binding energy to the HIGHEST: iron-58; hydrogen-2; oxygen-16",
+        "subject": " PHYSICS ",
+        "answer": "HYDROGEN-2; OXYGEN-16; IRON-58High School Round 14 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Into what specific mitochondrial compartment are hydrogen ions\npumped out during chemiosmosis (read as: chem-ee-oz-MOE-sis)?",
+        "subject": " BIOLOGY ",
+        "answer": "MATRIX"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 hormones that are formed primarily\nfrom the amino acid tyrosine: glucagon; thyroxine; epinephrine; erythropoietin (read as: EE-rith-\nroe-POE-ih-tin)",
+        "subject": " BIOLOGY ",
+        "answer": "THYROXINE; EPINEPHRINEHigh School Round 14 Page 13"
+    }
+]

@@ -37,6 +37,18 @@ body {
         button:hover {
             background-color: #0056b3;
         }
+	button:disabled {
+	  background-color: #ccc !important;
+	  color: #666 !important;
+	  cursor: not-allowed !important;
+	  opacity: 0.6 !important;
+	}
+	.buzz:disabled {
+	  background-color: #ccc !important;
+	  color: #666 !important;
+	  cursor: not-allowed !important;
+	  opacity: 0.6 !important;
+	}
         #speedSlider {
             width: 200px;
         }

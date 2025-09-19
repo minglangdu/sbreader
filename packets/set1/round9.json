@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the magnitude of the focal length of a\nspherically curved convex mirror in air, where R stands for the radius of curvature:\nW) R divided by 1.22\nX) R divided by 2\nY) R divided by 1.5\nZ) R times 4",
+        "subject": " PHYSICS ",
+        "answer": "X) R DIVIDED BY 2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " An emergency floodlight draws 1 ampere from its battery pack. How\nmany coulombs will flow through the light in 4 hours?",
+        "subject": " PHYSICS ",
+        "answer": "14,400"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " About how many calories per gram will it take to sublimate\nwater at standard pressure:\nW) 180\nX) 360\nY) 540\nZ) 720",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) 720(Solution: sublimation is solid \uf0e0 vapor; 80 cal + 100 cal + 540 cal = 720 cal)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " A Buchner (read as: BYOU-kh-ner) funnel is a piece of\nlaboratory glassware often used in chemistry labs for which of the following procedures:\nW) combustion\nX) filtration\nY) centrifugation\nZ) distillation",
+        "subject": " CHEMISTRY ",
+        "answer": "X) FILTRATIONHigh School Round 9 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following tissues is most directly responsible for the\ngrowth in height of a tree:\nW) apical meristem\nX) shoot terminus\nY) terminal cambial\nZ) cambium terminus",
+        "subject": " BIOLOGY ",
+        "answer": "W) APICAL MERISTEM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What specific cells and how many of them border each stomal pore?",
+        "subject": " BIOLOGY ",
+        "answer": "GUARD CELLS; 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " If e5 = 30, which of the following is the value of x, assuming that the\nnatural log of 2 = 0.7, and the natural log of 15 = 2.7:\nW) 15\nX) 16\nY) 17\nZ) 18",
+        "subject": " MATH ",
+        "answer": "Y) 17(Solution: x/5 = ln 15 + ln 2 = 3.4; x/5 = 3.4; x = 17)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If the area of a regular pentagon is 280 square centimeters, what is the\nlength, in centimeters, of each side if the apothem is 16 centimeters?",
+        "subject": " MATH ",
+        "answer": "7(Solution: A = \u00bd ap; 280 = \u00bd (16)(p); p = 35/5 = 7 cm)High School Round 9 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Tree growth is often very stunted and gnarly at the tree line\nof high mountains in North America. Known as Krummholz formations, this is primarily caused by:\nW) winds\nX) subsidence\nY) lowered atmospheric pressure\nZ) low sunlight levels",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) WINDS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is generally NOT true of the alpine\nversus arctic tundra biomes:\nW) alpine tundra does not contain permafrost whereas arctic tundra does contain permafrost\nX) alpine tundra is warmer and has a longer growing season than arctic tundra\nY) alpine tundra has a lower species diversity than arctic tundra\nZ) alpine tundra has less severe winters than arctic tundra",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) ALPINE TUNDRA HAS A LOWER SPECIES DIVERSITY THAN ARCTICTUNDRA"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Name 2 of the following 4 choices that are the 2 main\nlogical reasoning methods used in science: inductive; synthetic; observational; deductive",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "INDUCTIVE; DEDUCTIVE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " To the nearest whole number, convert 50\u00baF into kelvin:",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "283(Solution: 5/9(50\u00ba \u2013 32\u00ba) = 10\u00ba C + 273 = 283 K)High School Round 9 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the star Sirius at its brightest has an apparent magnitude of about negative 1.5\nX) metal-rich stars sometimes have planets\nY) typical binoculars allow observation of stars with apparent magnitudes of about 9.0\nZ) the Sun has an apparent magnitude of about negative 12",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) THE SUN HAS AN APPARENT MAGNITUDE OF ABOUT NEGATIVE 12(Solution: the Sun\u2019s apparent magnitude is \u201326.73)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Astronomers will often refer to certain stars as low metal\ncontent stars. In this sense astronomers consider metals as any element:\nW) heavier than helium\nX) heavier than carbon\nY) heavier than copper\nZ) heavier than iron",
+        "subject": " ASTRONOMY ",
+        "answer": "W) HEAVIER THAN HELIUM"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following MOST directly determines the permittivity\nof a material:\nW) ability of the material to magnetize\nX) electrical susceptibility\nY) electrical insulation capacity\nZ) electrical conductivity",
+        "subject": " PHYSICS ",
+        "answer": "X) ELECTRICAL SUSCEPTIBILITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the SI units for permittivity?",
+        "subject": " PHYSICS ",
+        "answer": "FARADS PER METERHigh School Round 9 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is one of the main reasons why\noxygenates are used as gasoline additives:\nW) allow for more complete combustion\nX) decrease sulfur buildup in engine pistons\nY) prevent water condensation in stored fuels\nZ) corrosion inhibition",
+        "subject": " CHEMISTRY ",
+        "answer": "W) ALLOW FOR MORE COMPLETE COMBUSTION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider the following equilibrium reaction,\nPCl \u2194 PCl + Cl . If a 2 mole sample of PCl dissociates to give 0.2 moles of Cl\n5(gas) 3(gas) 2(gas) 5 2\nat equilibrium, find the molar amounts, to the 1st decimal place, of PCl at equilibrium:\n5",
+        "subject": " CHEMISTRY ",
+        "answer": "1.8(Solution: 2 \u2013 0.2 = 1.8)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " During what phase of meiosis-one do homologous chromosomes\nexchange genetic information?",
+        "subject": " BIOLOGY ",
+        "answer": "PROPHASE-ONE (ACCEPT: PROPHASE)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 choices from the EARLIEST stage to the\nLATEST stage of ovarian follicle development, and identify which of the structures is typically the\nLARGEST: secondary follicle; corpus luteum; corpus albicans",
+        "subject": " BIOLOGY ",
+        "answer": "SECONDARY FOLLICLE; CORPUS LUTEUM; CORPUS ALBICANS;LARGEST = CORPUS LUTEUMHigh School Round 9 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " A circle has a diameter of 32 meters. Find the degree measure of the\ncentral angle of a sector of the circle if its arc length measures 8\u03c0 meters:",
+        "subject": " MATH ",
+        "answer": "90(Solution: arc/circumference = n\u00ba/360\u00ba; n = 90\u00ba or (8\u03c0/2\u03c016)(360\u00ba) = 90\u00ba)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the sum of the first 10 terms of the arithmetic sequence whose first\nthree terms are 7, 11, and 15:",
+        "subject": " MATH ",
+        "answer": "250"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most common type of ocean\ntide throughout the world and is the type found along the U.S. Pacific coast:\nW) diurnal\nX) semidiurnal\nY) mixed\nZ) zonal",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) MIXED"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following regions of the world\u2019s oceans\nare you most likely to find the greatest uniformity in density changes with increasing depth:\nW) equator\nX) tropics\nY) high latitudes\nZ) desert latitudes",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) HIGH LATITUDES(Solution: at high polar latitudes, change is nearly constant)High School Round 9 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a jaw-less fish:\nW) lungfish\nX) catfish\nY) lamprey\nZ) sturgeon",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) LAMPREY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In the northern hemisphere, name all of the following 4\nnorthern degree latitudes that will experience a 12-hour length of day during the vernal equinox:\n0\u00ba; 10\u00ba; 15\u00ba; 20\u00ba",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "ALL"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " As a comet approaches the Sun, most of its icy substances are\nreleased during what phase change process?",
+        "subject": " ASTRONOMY ",
+        "answer": "SUBLIMATION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " During which of the following orbital arrangements can a\ntransit occur for the planet Venus:\nW) opposition\nX) greatest eastern elongation\nY) superior conjunction\nZ) inferior conjunction",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) INFERIOR CONJUNCTIONHigh School Round 9 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the general term for the process of making different types of\nsemiconductors by adding slight amounts of impurities into the silicon matrix?",
+        "subject": " PHYSICS ",
+        "answer": "DOPING"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What specific type of semiconductor is produced by doping silicon\nwith arsenic?",
+        "subject": " PHYSICS ",
+        "answer": "N-TYPE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The reaction CuCl + Na S \uf0e0 CuS + 2NaCl , is an example of\n2 2 2\nwhat class of chemical reaction:\nW) synthesis\nX) single replacement\nY) double replacement\nZ) decomposition",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) DOUBLE REPLACEMENT"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 species that contain an odd number\nof electrons: O 1\u2013; O 2\u2013; SO ; CO\n2 2 2",
+        "subject": " CHEMISTRY ",
+        "answer": "O 1\u20132High School Round 9 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most common term for an area of\nprimitive cells in plants where active cell division occurs:\nW) meristem\nX) ground tissue\nY) primary cells\nZ) germinal tissue",
+        "subject": " BIOLOGY ",
+        "answer": "W) MERISTEM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the layer typically found between 2 plant cell walls of\nadjoining plant cells which is composed of pectin?",
+        "subject": " BIOLOGY ",
+        "answer": "MIDDLE LAMELLA"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the name for the test that can be used to visually determine\nwhether or not a relation defined by a graph represents a function?",
+        "subject": " MATH ",
+        "answer": "VERTICAL LINE TEST (ACCEPT: VERTICAL LINE)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the x and y intercepts of the line passing through the point (4, 8)\nthat is perpendicular to the line 3x \u2013 6y \u2013 12 = 0:",
+        "subject": " MATH ",
+        "answer": "X-INTERCEPT = (8, 0) (ACCEPT: 8); Y-INTERCEPT = (0, 16) (ACCEPT: 16)High School Round 9 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a medium or coarse-grained\nrock that consists primarily of plagioclase feldspar and pyroxene and is essentially the plutonic\nequivalent of basalt:\nW) diorite\nX) rhyolite\nY) andesite\nZ) gabbro",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) GABBRO"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Scoria is most typically described as having which of the\nfollowing textures:\nW) phaneritic\nX) fragmental\nY) porphyritic\nZ) vesicular",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) VESICULAR"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Blepharitis (read as: bleff-ah-rye-tis) in humans is an\ninflammation of the:\nW) urinary bladder\nX) eyelid\nY) fingernail\nZ) tongue",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) EYELID"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a principal component of a\nsiderite meteorite:\nW) neptunium\nX) carbon\nY) iron\nZ) erbium",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) IRONHigh School Round 9 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Which 2 of the following 4 factors most directly determine the\napparent visual magnitude of a star: distance from Earth; intrinsic brightness; color; age",
+        "subject": " ASTRONOMY ",
+        "answer": "DISTANCE FROM EARTH; INTRINSIC BRIGHTNESS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What 2 characteristics of Uranus are most commonly noted as\nthe reasons why Uranus was not discovered until the late 1700\u2019s?",
+        "subject": " ASTRONOMY ",
+        "answer": "APPARENT MAGNITUDE; ORBITAL PERIOD ( ACCEPT: BRIGHTNESS orMAGNITUDE)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " In the electrolysis of water, if the production of each molecule of\noxygen requires 4 units of electricity, each hydrogen molecule will require how many units of\nelectricity?",
+        "subject": " PHYSICS ",
+        "answer": "2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the maximum number of 100-watt light bulbs that can run on\na 110-volt residential circuit protected by a 15-amp fuse without blowing the fuse?",
+        "subject": " PHYSICS ",
+        "answer": "16(Solution: 100W/110 = 0.9 amps; 15 amp fuse/0.9 amp = 16.7 or 16 bulbs)High School Round 9 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What are the 2 alkenes (read as: al-KEENS) with the shortest\ncarbon chains and lowest molecular weights?",
+        "subject": " CHEMISTRY ",
+        "answer": "ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 4 metals in order of increasing reactivity in\ndilute HCl: zinc; aluminum; gold; calcium",
+        "subject": " CHEMISTRY ",
+        "answer": "GOLD; ZINC; ALUMINUM; CALCIUM"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Which one of basic plant cell types has a primary and secondary cell\nwall that is dead when mature?",
+        "subject": " BIOLOGY ",
+        "answer": "SCLERENCHYMA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 plants that produce seeds:\ncycads; ferns; mosses; conifers",
+        "subject": " BIOLOGY ",
+        "answer": "CYCADS; CONIFERSHigh School Round 9 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the general name for a substance that facilitates a\nchemical reaction by providing an alternative reaction pathway with a lower activation energy while\nremaining unaltered?",
+        "subject": " CHEMISTRY ",
+        "answer": "CATALYST"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " You need to prepare 500 milliliters of a 0.100 molar NaOH\nsolution from a 0.250 molar solution. What volume, in milliliters, of the 0.250 molar solution must\nbe diluted to 500 milliliters?",
+        "subject": " CHEMISTRY ",
+        "answer": "200(Solution: M V = M V ; (0.250M)(x) = (0.100M)(500ml), x = 200 ml)1 1 2 2High School Round 9 Page 13"
+    }
+]

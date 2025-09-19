@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The conversion of solid CaSO into solid CaO and SO gas is an\n4 2\nexample of what class of chemical reaction:\nW) decomposition\nX) hydrolysis\nY) combustion\nZ) single replacement",
+        "subject": " CHEMISTRY ",
+        "answer": "W) DECOMPOSITION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the oxidation number of chromium in the chromate ion, or\nCrO 2\u2013?\n4",
+        "subject": " CHEMISTRY ",
+        "answer": "6 (ACCEPT: +6) (DO NOT ACCEPT: \u20136)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the method Louis Pasteur used to\ncreate the first rabies vaccine?",
+        "subject": " BIOLOGY ",
+        "answer": "ATTENUATION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes how Pasteur attenuated the\nrabies virus to create an effective vaccine:\nW) by heat-treating the purified virus\nX) by treating the live virus with a weak solution of formaldehyde\nY) by passing the rabies infection through a successive series of rabbits\nZ) by purifying the protein from the viral capsids",
+        "subject": " BIOLOGY ",
+        "answer": "Y) BY PASSING THE RABIES INFECTION THROUGH A SUCCESSIVE SERIESOF RABBITSHigh School Round 5 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " The nucleus of what element is the same as an alpha particle?",
+        "subject": " PHYSICS ",
+        "answer": "HELIUM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that would typically be considered\nto supply electromotive force: transformers; generators; batteries; conductors",
+        "subject": " PHYSICS ",
+        "answer": "TRANSFORMERS; GENERATORS; BATTERIES(ACCEPT: ALL BUT CONDUCTORS)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Simplify the following without the use of negative exponents:\n10y6z2\n12x3",
+        "subject": " MATH ",
+        "answer": "\u20135yz2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " It takes 20 minutes for Janis to prepare lunch. When Kristen helps, it only\ntakes 12 minutes. How many minutes would it take Kristen to prepare the same lunch if she worked\nalone?",
+        "subject": " MATH ",
+        "answer": "30(Solution: 12/20 + 12/x = 1, x = 30 min)High School Round 5 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is commonly accepted as the\nengine that most directly drives plate tectonic motion:\nW) mantle convection\nX) volcanic off-gassing\nY) a molten iron core\nZ) gravitational pull of the Moon and Sun",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) MANTLE CONVECTION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Although scientists are unable to obtain samples by\ndrilling, they believe the predominant mineral in the mantle is:\nW) iron pyrite\nX) potassium feldspar\nY) quartz\nZ) olivine",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) OLIVINE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " What is the MOST accurate term for predicting values\nof data that are located between known data points on a line graph:\nW) extrapolation\nX) extension\nY) interpolation\nZ) cheating",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) INTERPOLATION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Convert 0.001 grams per cubic millimeter into kilograms\nper cubic meter:",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "1,000 (ACCEPT: 1 \u00d7 103)High School Round 5 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The luminosity of a star is most directly related to the star\u2019s:\nW) relative magnitude\nX) magnitude\nY) distance from Earth\nZ) intrinsic brightness",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) INTRINSIC BRIGHTNESS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " At which of the following locations would Betelgeuse most\nlikely be found by a stargazer at mid-northern latitudes during January at about midnight:\nW) at the beginning of the handle of the big dipper\nX) at the zenith near the star Vega\nY) about 10\u00ba north of Orion\u2019s belt in the southern sky\nZ) in the northern sky just above the star Capella",
+        "subject": " ASTRONOMY ",
+        "answer": "Y) ABOUT 10\u00ba NORTH OF ORION\u2019S BELT IN THE SOUTHERN SKY"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Ca(OH) , NaOH, and Ba(OH) , are all:\n2 2\nW) weak bases\nX) completely ionized in water\nY) alkali halides\nZ) standard buffers",
+        "subject": " CHEMISTRY ",
+        "answer": "X) COMPLETELY IONIZED IN WATER"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following compounds is most SOLUBLE in water\nat 10\u00baC:\nW) KNO\n3\nX) CaSO\n4\nY) BaSO\n4\nZ) AgBr",
+        "subject": " CHEMISTRY ",
+        "answer": "W) KNO3High School Round 5 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molecules do methanogens (read as: meth-\nAN-oh-gens) most often use as their final electron acceptor in their generation of energy:\nW) hydrogen\nX) carbon dioxide\nY) methane\nZ) oxygen",
+        "subject": " BIOLOGY ",
+        "answer": "X) CARBON DIOXIDE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the general biological term for organisms that synthesize\norganic molecules from inorganic molecules using light as an energy source?",
+        "subject": " BIOLOGY ",
+        "answer": "PHOTOAUTOTROPHS (ACCEPT: PHOTOTROPHS)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains why gravitational\nacceleration on Earth varies from one place to another:\nW) the Sun\u2019s gravitational pull varies irregularly\nX) the Earth is not a uniform sphere\nY) the Moon and the Sun exert a complex combination of gravitational pulls on the Earth\nZ) the changing angular momentum of the Earth varies during its yearly orbit",
+        "subject": " PHYSICS ",
+        "answer": "X) THE EARTH IS NOT A UNIFORM SPHERE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If a wave has a frequency of 500 hertz, what is its period, in seconds?",
+        "subject": " PHYSICS ",
+        "answer": "0.002 (ACCEPT: 2 \u00d7 10\u20133)(Solution: period = 1/f )High School Round 5 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " In a circle with diameter AB, if the radius is 6 centimeters, find the\nlength in centimeters, giving your answer in terms of \u03c0, of the arc AB:",
+        "subject": " MATH ",
+        "answer": "6\u03c0(Solution: AB = \u00bd(2\u03c0r) = 6\u03c0 cm)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the area, in square centimeters, of a rhombus with a diagonal of 6\ncentimeters and a side of 5 centimeters:",
+        "subject": " MATH ",
+        "answer": "24(Solution: A = \u00bd d d = \u00bd (6)(8) = 24 cm2, (3:4:5 triangle))1 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) Mount Everest is a volcanic mountain\nX) shield volcanoes have surface slopes of only a few degrees\nY) the depression on the top of a typical composite volcano is known as a crater\nZ) Mount Kilimanjaro is a stratovolcano",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) MOUNT EVEREST IS A VOLCANIC MOUNTAIN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are likely to form in the crater of a\nstratovolcano following a catastrophic eruption, such as what happened several times in Mount Saint\nHelens:\nW) cinder cones\nX) lava domes\nY) flood basalts\nZ) spatter cones",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) LAVA DOMESHigh School Round 5 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Biomagnification is MOST likely to result in the\nconcentration of toxic chemicals in:\nW) chemoautotrophs\nX) eutrophic lakes\nY) primary consumers\nZ) primary producers",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) PRIMARY CONSUMERS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " HDPE is a tough plastic often used for the manufacture\nof toys. What monomer is the primary repeating unit in this polymer?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "ETHYLENE (ACCEPT: ETHENE)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " The formation of what is referred to as \u201cmetallic hydrogen\u201d on\nsome of the our solar system\u2019s planets is driven by what basic force?",
+        "subject": " ASTRONOMY ",
+        "answer": "GRAVITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would typically appear to be the\nfarthest away from the ecliptic:\nW) the planet Mars\nX) the constellation Leo\nY) the Sun\nZ) the constellation Cassiopeia",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) THE CONSTELLATION CASSIOPEIA(Solution: planets, the Sun and zodiacal constellations are all near the ecliptic plane)High School Round 5 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The electronegativity of oxygen is 3.4 and the electronegativity\nof calcium is 1.0. Which of the following best describes the formation of the calcium oxide:\nW) 2 electrons are transferred from calcium to oxygen\nX) 2 electrons are transferred from oxygen to calcium\nY) 2 electrons are shared between calcium and oxygen\nZ) 1 electron is shared and another is transferred from calcium to oxygen",
+        "subject": " CHEMISTRY ",
+        "answer": "W) 2 ELECTRONS ARE TRANSFERRED FROM CALCIUM TO OXYGEN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the chemical formula for the conjugate base of HNO ?\n2",
+        "subject": " CHEMISTRY ",
+        "answer": "NO \u20132"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " By words or numbers, name all of the following 3 functions that\nmeiosis accomplishes:\n1) reducing the copies of alleles in the ovum and sperm\n2) reducing the numbers of chromosomes in the ovum and sperm\n3) increasing genetic diversity through chromosomal exchange events",
+        "subject": " BIOLOGY ",
+        "answer": "ALL"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Which one of the basic 3 plant cell types has irregularly thickened\ncell walls, retains its cytoplasm, and functions in structural support?",
+        "subject": " BIOLOGY ",
+        "answer": "COLLENCHYMAHigh School Round 5 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the part of an electric motor that\nfunctions as an electromagnet:\nW) ballast\nX) relay\nY) armature\nZ) brushes",
+        "subject": " PHYSICS ",
+        "answer": "Y) ARMATURE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Using g rounded to the first decimal place, how much does an\n80-kilogram person weigh on Earth, giving your answer in proper SI units?",
+        "subject": " PHYSICS ",
+        "answer": "784 NEWTONS (must give units)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " A jar of 100 marbles contains only 2 colors of marbles, red and blue. If\nthere are 13 red marbles for every 12 blue marbles, how many blue marbles are in the jar?",
+        "subject": " MATH ",
+        "answer": "48(Solution: 12/25 = B/100, B = 48)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Solve the following inequality for x: |3 \u2013 2x| \u2264 7 (read as: the absolute\nvalue of, 3 minus 2x, close absolute value, is less than or equal to 7)",
+        "subject": " MATH ",
+        "answer": "\u20132 \u2264 x \u2264 5 (ACCEPT: 5 \u2265 x \u2265 \u20132)High School Round 5 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is igneous and pyroclastic in\nnature, and is of variable composition:\nW) pumice\nX) obsidian\nY) gabbro\nZ) tuff",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) TUFF"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are clastic in origin:\nW) chalk\nX) coal\nY) gypsum\nZ) sandstone",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) SANDSTONE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an all but obsolete battery\ntechnology stopped by government regulations in this country because of toxicity issues:\nW) nickel-cadmium cells\nX) mercury-oxide cells\nY) zinc-air cells\nZ) aluminum-air cells",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) MERCURY-OXIDE CELLS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best explains why carbon\nmonoxide is very harmful to animals:\nW) it binds very strongly to hemoglobin\nX) it is an irritant to the alveolar lining\nY) it is a highly potent neurotoxin\nZ) it causes a severe allergic reaction",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) IT BINDS VERY STRONGLY TO HEMOGLOBINHigh School Round 5 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What terrestrial planet has the most elliptical orbit?",
+        "subject": " ASTRONOMY ",
+        "answer": "MERCURY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Although you might expect this planet to be visible to the\nunaided eye because of its maximum apparent magnitude value of about +5.8, what planet is\nunlikely to be seen by most stargazers since it requires nearly ideal viewing conditions?",
+        "subject": " ASTRONOMY ",
+        "answer": "URANUS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following ions does NOT have a noble gas\nelectron configuration in ionic compounds:\nW) Ca2+\nX) F\u2013\nY) Al3+\nZ) Na\u2013",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) Na\u2013"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Charles law is particularly useful in explaining which of the\nfollowing:\nW) dry air is more dense than humid air\nX) CO escapes from a bottle of soda when opened\n2\nY) the change in enthalpy when nitrogen and oxygen react to form nitrogen dioxide\nZ) a hot-air balloon rises when the air in the balloon is heated",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) A HOT-AIR BALLOON RISES WHEN THE AIR IN THE BALLOON ISHEATED(Solution: W = Avogadro\u2019s law; X = Henry\u2019s law; Y = Hess\u2019s law)High School Round 5 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What are the common names for the 2 functional groups that\ncombine to form a peptide bond?",
+        "subject": " BIOLOGY ",
+        "answer": "AMINO; CARBOXYL (ACCEPT: AMINE AND CARBOXYLIC ACID)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What 2 ions are most directly involved with the conduction of a\nnerve cell message down an axon?",
+        "subject": " BIOLOGY ",
+        "answer": "SODIUM AND POTASSIUM (ACCEPT: Na+ AND K+)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " A boat\u2019s velocity has a northward velocity component of 15\nkilometers per hour and an eastward component of 10 kilometers per hour. Which of the following\nBEST represents the direction of the boat\u2019s motion:\nW) 35 kilometers per hour northeast\nX) 35 kilometers per hour southwest\nY) 18 kilometers per hour northeast\nZ) 12 kilometers per hour northeast",
+        "subject": " PHYSICS ",
+        "answer": "Y) 18 KILOMETERS PER HOUR NORTHEAST"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the frequencies of the first and second overtones,\nrespectively, for a string vibrating at a fundamental frequency of 440 hertz?",
+        "subject": " PHYSICS ",
+        "answer": "FIRST = 880; SECOND = 1320High School Round 5 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Assuming that the natural log of 5 = 1.6, find, to the first decimal place,\n1\nthe natural log of 53:",
+        "subject": " MATH ",
+        "answer": "0.5(Solution: (1/3)(ln 5) = 1.6/3 = 0.53)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Factor the following expression completely: 100x2 \u2013 25y2",
+        "subject": " MATH ",
+        "answer": "25(2x + y)(2x \u2013 y)High School Round 5 Page 13"
+    }
+]

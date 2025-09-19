@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) any foreign substance added to water will cause a freezing point drop\nX) a nonvolatile solute raises the boiling point of a solvent\nY) methane has a higher boiling point than ethane\nZ) freezing point depression is a colligative property",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) METHANE HAS A HIGHER BOILING POINT THAN ETHANE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " According to standard chemical nomenclature, what is the formula\nfor aluminum bicarbonate?",
+        "subject": " CHEMISTRY ",
+        "answer": "Al(HCO )3 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of biological molecules is digested by\ntrypsin:\nW) proteins\nX) nucleic acids\nY) carbohydrates\nZ) lipids",
+        "subject": " BIOLOGY ",
+        "answer": "W) PROTEINS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that are typically considered\nhuman autoimmune dysfunctions: Rheumatoid arthritis; Lupus; shingles; Down\u2019s syndrome",
+        "subject": " BIOLOGY ",
+        "answer": "RHEUMATOID ARTHRITIS; LUPUSHigh School Round 11 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the radius of a hydrogen\nnucleus:\nW) 1 micrometer\nX) 1 angstrom\nY) 1 picometer\nZ) 1 femtometer",
+        "subject": " PHYSICS ",
+        "answer": "Z) 1 FEMTOMETER"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider a planet where g equals 5.0 meters per second squared.\nIgnoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0\nseconds, giving your answer in standard SI units?",
+        "subject": " PHYSICS ",
+        "answer": "40 METERS (must give units)(Solution: d = \u00bd \u00d7 at2 = \u00bd \u00d7 5\u00d7 42 = 40 meters)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The graph of the relation y = \u2212 (25\u2212x2) is a:\nW) circle\nX) semi-circle\nY) parabola\nZ) straight line",
+        "subject": " MATH ",
+        "answer": "X) SEMI-CIRCLE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find y\nwhen x = 10 and z = 20:",
+        "subject": " MATH ",
+        "answer": "120(Solution: y= kxz; 12 = k(4)(5); k = 3/5; y = 3/5(10)(20) = 120)High School Round 11 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the third most common gas naturally found in the\nEarth\u2019s clean, dry atmosphere?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "ARGON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " The Earth\u2019s greenhouse effect is primarily caused by which\nof the following:\nW) incoming solar ultraviolet light is absorbed by the ozone layer\nX) outgoing infrared solar radiation is trapped by the lower atmosphere\nY) incoming infrared solar radiation is trapped by the magnetic field\nZ) outgoing X-rays are absorbed by the troposphere and reflected to the Earth\u2019s surface",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) OUTGOING INFRARED SOLAR RADIATION IS TRAPPED BY THE LOWERATMOSPHERE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Ed the entomologist is setting up mosquito traps in a\nfarmer\u2019s field in Nebraska. Which of the following would be the BEST mosquito attractant to\nensure he traps the greatest number and variety of mosquitoes:\nW) oxygen\nX) nitrogen\nY) dry ice\nZ) methane",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) DRY ICE(Solution: mosquitoes attracted to CO )2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest whole number, convert 3,000\nmeters per second into kilometers per hour:",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "10,800High School Round 11 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate:\nW) most stars visible to the unaided eye are part of the Milky Way galaxy\nX) there are 88 constellations officially recognized by the IAU\nY) a red supergiant has a hotter surface than our Sun\nZ) the constellation Leo is located within 9\u00ba of the ecliptic",
+        "subject": " ASTRONOMY ",
+        "answer": "Y) A RED SUPERGIANT HAS A HOTTER SURFACE THAN OUR SUN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the core of a red supergiant is hotter than the core of a main sequence K-type star\nX) helium flash is something that occurs in red giant stars\nY) the Pleiades is an open star cluster\nZ) there is more lithium than carbon in the universe",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) THERE IS MORE LITHIUM THAN CARBON IN THE UNIVERSE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Carbon monoxide, or CO, will be adsorbed (read as: ADD-\nsorbed) onto the surface of which of the following metals the MOST strongly:\nW) iron\nX) nickel\nY) cobalt\nZ) gold",
+        "subject": " CHEMISTRY ",
+        "answer": "W) IRON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 3 choices in order of increasing bond\nenergies: O ; N ; F\n2 2 2",
+        "subject": " CHEMISTRY ",
+        "answer": "F ; O ; N2 2 2High School Round 11 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " At which of the following pH levels will human pepsin be most\nactive:\nW) 2\nX) 4\nY) 6\nZ) 8",
+        "subject": " BIOLOGY ",
+        "answer": "W) 2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the most plentiful class of immunoglobulins in human\nplasma?",
+        "subject": " BIOLOGY ",
+        "answer": "IgG (ACCEPT: G or IMMUNOGLOBULIN G)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What constant is given as the amount of electric charge per mole of\nelectrons?",
+        "subject": " PHYSICS ",
+        "answer": "FARADAY CONSTANT (ACCEPT: FARADAY)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best describes the direction of the force on\nan electron moving through a magnetic field:\nW) opposite to the direction of the velocity\nX) the same direction as the velocity\nY) the same direction as the magnetic field\nZ) perpendicular to the magnetic field",
+        "subject": " PHYSICS ",
+        "answer": "Z) PERPENDICULAR TO THE MAGNETIC FIELDHigh School Round 11 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a second quadrant angle in standard\nposition:\nW) 500\u00ba\nX) \u2013180\u00ba\nY) \u2013680\u00ba\nZ) 930\u00ba",
+        "subject": " MATH ",
+        "answer": "W) 500\u00ba"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in simplest radical form, rationalize the denominator\n\u22123 2\nof the following expression:\n( 3 \u2212 5)\n3 6 +3 10 3",
+        "subject": " MATH ",
+        "answer": "( ACCEPT: ( 6 + 10))2 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals occurs in small amounts\nin many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with\ngood cleavage:\nW) biotite\nX) olivine\nY) plagioclase\nZ) quartz",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) BIOTITE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of basalt and gabbro:\nW) they formed from magma at the same temperature\nX) they are derived from basaltic magma\nY) they formed from magma with the same silica content\nZ) they are both intrusive igneous rocks",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) THEY ARE BOTH INTRUSIVE IGNEOUS ROCKS(Solution: basalt = extrusive; gabbro = intrusive)High School Round 11 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " A standard rain gauge consists of a metal canister open\nat the top in which a funnel drains rainwater into a narrow cylinder. Each time they are deployed to\nthe field, a small amount of light oil is added to the cylinder. This is done to:\nW) deter birds from drinking the water\nX) stop the canister from oxidizing\nY) prevent the growth of blue-green algae\nZ) prevent water evaporation",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) PREVENT WATER EVAPORATION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a widely-used analgesic and\nantipyretic medication which is not considered an NSAID (read as: en-say\u2019d):\nW) acetylcysteine\nX) acetaminophen\nY) acetylsalicylic acid\nZ) ibuprophen",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) ACETAMINOPHEN"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST likely to occur for a\nstargazer observing from mid-northern latitudes during summer months:\nW) the planet Venus passing within a few degrees of the Moon a few hours after sunset\nX) the Moon at perigee\nY) the planet Saturn passing with 5 degrees of the Moon\nZ) the planet Mercury within 10 degrees of the zenith",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) THE PLANET MERCURY WITHIN 10 DEGREES OF THE ZENITH"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Through how many degrees does the Earth rotate in 8 hours?",
+        "subject": " ASTRONOMY ",
+        "answer": "120(Solution: 15\u00ba per hour = 8 \u00d7 15\u00ba = 120\u00ba)High School Round 11 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The molal (read as: moe-lahl) is a concentration unit that is\nmost appropriately used in experimental designs that determine:\nW) freezing point depression\nX) osmotic pressure\nY) density\nZ) vapor pressure lowering",
+        "subject": " CHEMISTRY ",
+        "answer": "W) FREEZING POINT DEPRESSION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " A 4.0 gram sample of calcium chloride contains 6.0 \u00d7 1022\ncations. Giving your answer in scientific notation to the nearest whole number, determine the\nnumber of anions in 2 grams of CaCl . Assume the atomic mass of calcium is 40 and chloride is 35.\n2",
+        "subject": " CHEMISTRY ",
+        "answer": "6 \u00d7 1022(Solution: (2g CaCl )(6.0 \u00d7 1022 Ca2+/4g CaCl )(2 Cl\u2013/1 Ca2+) = 6.0 \u00d7 1022 Cl\u2013)2 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the main target of bacteria by the\nantibiotic penicillin:\nW) energy production\nX) DNA synthesis\nY) cell wall synthesis\nZ) translation",
+        "subject": " BIOLOGY ",
+        "answer": "Y) CELL WALL SYNTHESIS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the form of protection when a\nnon-poisonous frog has the same appearance as a poisonous frog?",
+        "subject": " BIOLOGY ",
+        "answer": "BATESIAN MIMICRY (ACCEPT: MIMICRY or WARNING MIMICRY)(DO NOT ACCEPT: MULLERIAN MIMICRY)High School Round 11 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " During positron emission, which of the following most likely\noccurs:\nW) a proton changes to an electron\nX) a proton changes to a neutron\nY) a neutron changes to an electron\nZ) a neutron changes to a proton",
+        "subject": " PHYSICS ",
+        "answer": "X) A PROTON CHANGES TO A NEUTRON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 isotopes that release energy if they\nundergo fission: helium-4; hydrogen-2; uranium-235; iron-56",
+        "subject": " PHYSICS ",
+        "answer": "URANIUM-235"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Identify the type of conic section represented by the equation,\nx2 + y2 + 10y + 16 = 0:",
+        "subject": " MATH ",
+        "answer": "CIRCLE(Solution: x2 + (y + 5)2 = 9)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the area, in centimeters squared and in simplest radical form, of a\nregular or equilateral triangle whose circumcircle has a radius of 8 centimeters:",
+        "subject": " MATH ",
+        "answer": "48 3(Solution: apothem = 4; perimeter = (8 3)(3); A = \u00bd(4)(24 3) = 48 3 cm2)High School Round 11 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What type of fog frequently forms in valleys when the wind\nis light and the ground cools until the dew point is reached?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "RADIATION FOG (ACCEPT: RADIATION or RADIATIONAL)(Solution: brought about by radiational cooling)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Giving your answer as morning, afternoon, evening, or\nnight, when does most radiational cooling occur for any location in the U.S.?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "NIGHT"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the sling psychrometer used to measure?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "HUMIDITY (ACCEPT: RELATIVE HUMIDITY; AMBIENT HUMIDITY)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " From which of the following is camphor derived:\nW) petroleum distillate\nX) the wood of an evergreen tree of the laurel family\nY) the bark of a fir tree from the Mediterranean\nZ) the seed pod of the camphor herb",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) THE WOOD OF AN EVERGREEN TREE OF THE LAUREL FAMILYHigh School Round 11 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " As seen from the Earth, what planet has the smallest maximum\neastern elongation?",
+        "subject": " ASTRONOMY ",
+        "answer": "MERCURY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Choosing from noon, sunset, midnight or sunrise, at what time\nof the day does a new Moon rise for an observer at mid-northern latitudes in September?",
+        "subject": " ASTRONOMY ",
+        "answer": "SUNRISE"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the electron capacity in each of the 4 sublevels s, p, d,\nand f, respectively?",
+        "subject": " CHEMISTRY ",
+        "answer": "s = 2; p = 6; d = 10; f = 14"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " A sample of oxygen gas is collected over water at 14\u00baC.\nKnowing that the vapor pressure of water at 14\u00baC is 1.6 kilopascals, and that the pressure of the\nresultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry\noxygen alone:",
+        "subject": " CHEMISTRY ",
+        "answer": "118.4(Solution: P = P \u2013 P = 120 kPa \u2013 1.6 kPa = 118.4 kPa)dry t wvHigh School Round 11 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What cell in the peripheral blood is the immediate precursor of the\nmacrophage?",
+        "subject": " BIOLOGY ",
+        "answer": "MONOCYTE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 cells that are leukocytes:\nneutrophil; basophil; melanocyte; macrophage",
+        "subject": " BIOLOGY ",
+        "answer": "NEUTROPHIL; BASOPHIL"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " As opposed to spontaneous emission, what is the type of emission,\nfirst theorized by Albert Einstein, where a photon interacts with an atom\u2019s electron which, when it\nreturns to a ground state, emits a coherent photon?",
+        "subject": " PHYSICS ",
+        "answer": "STIMULATED EMISSION (ACCEPT: STIMULATED)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 choices from the one with the LOWEST\ntemperature to the one with the HIGHEST temperature:\ncopper freezes; water boils; solar corona; lead melts",
+        "subject": " PHYSICS ",
+        "answer": "WATER BOILS; LEAD MELTS; COPPER FREEZES; SOLAR CORONAHigh School Round 11 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Simplify i17 (read as: i to the 17th power):",
+        "subject": " MATH ",
+        "answer": "i(Solution: i17 = i1 = i)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x: 27 \u00d72(x2\u22122) = 221",
+        "subject": " MATH ",
+        "answer": "4 OR \u20134 (ACCEPT: x = \u00b14)(Solution: 7 + x2 \u2013 2 = 21; x = 4 and \u20134)High School Round 11 Page 13"
+    }
+]

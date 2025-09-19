@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE:\nW) chimpanzees are an ancestor of Homo sapiens\nX) bipedal motion dominated hominoid ancestors by about 30 million years ago\nY) humans and modern apes have a common ancestor\nZ) Neanderthals were ancestors to modern humans",
+        "subject": " BIOLOGY ",
+        "answer": "Y) HUMANS AND MODERN APES HAVE A COMMON ANCESTOR"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 5 taxonomic group with the MOST members to\nthe one with the FEWEST members: genus; order; phylum; class; family",
+        "subject": " BIOLOGY ",
+        "answer": "PHYLUM; CLASS; ORDER; FAMILY; GENUS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an element that is very important to\nhuman life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic\nproperties like iron:\nW) selenium\nX) cobalt\nY) zinc\nZ) manganese",
+        "subject": " CHEMISTRY ",
+        "answer": "X) COBALT"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the pH of a 1 molar NaOH solution at 25\u00baC?",
+        "subject": " CHEMISTRY ",
+        "answer": "14High School Round 4 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most common instrument used for\nmeasuring gas pressure:\nW) manometer\nX) anemometer\nY) tensitometer\nZ) flow-meter",
+        "subject": " PHYSICS ",
+        "answer": "W) MANOMETER"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE of a sound wave traveling in dry\nair at STP at a constant velocity:\nW) if frequency increases, wavelength increases\nX) if frequency increases, wavelength decreases\nY) if frequency decreases, wavelength decreases\nZ) if frequency increases, wavelength stays the same",
+        "subject": " PHYSICS ",
+        "answer": "X) IF FREQUENCY INCREASES, WAVELENGTH DECREASES"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the\nmeasure, in inches, of the other 2 sides?",
+        "subject": " MATH ",
+        "answer": "12 AND 6 3"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider triangle ABC, where the measure of angle A = 20\u00ba, B =117\u00ba, and\nC = 43\u00ba. Arrange the 3 sides in order of increasing length:",
+        "subject": " MATH ",
+        "answer": "BC; AB; AC(Solution: the longer side is opposite the greater angle)High School Round 4 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Ocean tides of diminished range are called:\nW) spring tides\nX) neap tides\nY) diurnal tides\nZ) semi-diurnal tides",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) NEAP TIDES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was a time when glaciation was\nminimal on Earth:\nW) Cretaceous Period\nX) Quaternary Period\nY) Holocene Epoch\nZ) Pleistocene Epoch",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) CRETACEOUS PERIOD"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " 1 bar equals how many Pascals?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "100,000 (ACCEPT: 1 \u00d7 105 or 105)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Meteorologists commonly use the hectopascal for air\npressure. 1,000 hectopascals equals how many millibars?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "1,000(Solution: 1 Hpa = 1 mb)High School Round 4 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What planet of our solar system has the most nitrogen-rich\natmosphere?",
+        "subject": " ASTRONOMY ",
+        "answer": "EARTH"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Most of the galaxies in the universe are classified as which of\nthe following:\nW) spiral\nX) elliptical\nY) irregular\nZ) dwarf",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) DWARF"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the common name for the product of human lachrymal (read\nas: LACK-reh-mal) glands?",
+        "subject": " BIOLOGY ",
+        "answer": "TEARS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 plants that have their seeds typically\ndispersed by wind: dandelion; milkweed; maize; lupine",
+        "subject": " BIOLOGY ",
+        "answer": "DANDELION; MILKWEEDHigh School Round 4 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a weak electrolyte:\nW) ammonia\nX) dilute sulfuric acid\nY) 1 molar sodium chloride\nZ) dilute perchloric acid",
+        "subject": " CHEMISTRY ",
+        "answer": "W) AMMONIA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " A molecular solid will most typically have which of the\nfollowing melting points:\nW) very high\nX) high to very high\nY) low\nZ) variable",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) LOW"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What particle of an atom is most directly responsible for the emission\nof light when an atom is excited by electromagnetic radiation?",
+        "subject": " PHYSICS ",
+        "answer": "ELECTRON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the wavelength, in meters, of a wave moving at 500 meters\nper second if its frequency is 20 Hertz?",
+        "subject": " PHYSICS ",
+        "answer": "25(Solution: \u03bb = wave speed/f; 500/20 = 25 m)High School Round 4 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Simplify the following expression: x2x5\n9",
+        "subject": " MATH ",
+        "answer": "x10 (ACCEPT: 10 x9 )"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the slope of a line perpendicular to the line given by the graph of\nthe equation, \u20135x = \u20136y + 4\n6",
+        "subject": " MATH ",
+        "answer": "\u20135"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " When rain freezes into pellets while falling to the ground\nduring a winter storm, the most accurate forecast would have predicted:\nW) hail\nX) snow\nY) freezing rain\nZ) sleet",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) SLEET"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Identify each of the following 3 rocks, respectively, as\nigneous, metamorphic, or sedimentary: marble; pumice; conglomerate",
+        "subject": " EARTH SCIENCE ",
+        "answer": "MARBLE = METAMORPHIC; PUMICE = IGNEOUS; CONGLOMERATE =SEDIMENTARYHigh School Round 4 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Bioluminescence is a phenomenon most common in\nwhich of the following environments:\nW) marine\nX) fresh water\nY) land\nZ) atmosphere",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) MARINE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a mixing incompatibility of\ncommon household products that can produce toxic products:\nW) vinegar and baking soda\nX) vinegar and bleach\nY) vinegar and borax\nZ) castile soap and salt",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) VINEGAR AND BLEACH(Solution: small amounts of vinegar can be added to bleach to acidify the bleach, but it\u2019s generallynot a good idea to mix these two solutions)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the primary characteristic of the\nJovian planets:\nW) high axial spin rates\nX) low mean density\nY) retrograde orbits\nZ) prominent layer of liquid-metallic hydrogen",
+        "subject": " ASTRONOMY ",
+        "answer": "X) LOW MEAN DENSITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Which one of the Gas Giant planets emits the LEAST amount of\nenergy?",
+        "subject": " ASTRONOMY ",
+        "answer": "URANUSHigh School Round 4 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Eggs exit a chicken\u2019s body through what specific structure:\nW) rectal plexus\nX) cloaca (read as: KLO-aye-ka)\nY) rostrum\nZ) spiculum",
+        "subject": " BIOLOGY ",
+        "answer": "X) CLOACA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following areas of the human body is the\nzygomatic (read as: ZYE-go-MAT-ick) arch found:\nW) shoulder\nX) pelvis\nY) head\nZ) knee",
+        "subject": " BIOLOGY ",
+        "answer": "Y) HEAD"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the bond order between the 2 carbon atoms in acetylene?",
+        "subject": " CHEMISTRY ",
+        "answer": "3"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " According to standard chemical nomenclature and indicating the\nproper charge, what is the formula for the sulfite ion?",
+        "subject": " CHEMISTRY ",
+        "answer": "SO 2\u2013 (ACCEPT: SO \u20132)3 3High School Round 4 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " How many neutrons does the most common isotope of hydrogen\nhave?",
+        "subject": " PHYSICS ",
+        "answer": "ZERO"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many neutrons and how many protons are present in a single\noxygen-15 nucleus, respectively?",
+        "subject": " PHYSICS ",
+        "answer": "NEUTRONS = 7; PROTONS = 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a Pythagorean triple:\nW) 15, 20, 25\nX) 10, 24, 26\nY) 16, 24, 30\nZ) 33, 44, 55",
+        "subject": " MATH ",
+        "answer": "Y) 16, 24, 30"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Evaluate the following expression when a = , b = 4, c = \u20131, and\n3\nd = \u20135: 2[3a \u2013 (b + c) \u2013 4d]",
+        "subject": " MATH ",
+        "answer": "36High School Round 4 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Cirrus clouds are typically found at elevations of:\nW) 20,000 feet and above\nX) 10,000 to 20,000 feet\nY) 5,000 to 10,000 feet\nZ) 2,000 to 5,000 feet",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) 20,000 FEET AND ABOVE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Andesitic magmas typically erupt above:\nW) hot spots\nX) divergent plate boundaries\nY) subduction zones\nZ) fissure eruptions",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) SUBDUCTION ZONES"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the main reason why\nAfricanized honey bees are much more dangerous to humans and animals than European honey\nbees:\nW) they defend their nests more intensely\nX) their venom is 10-times more potent\nY) they can sting multiple times\nZ) they are larger and carry more venom",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) THEY DEFEND THEIR NESTS MORE INTENSELY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In most cars, what acts as the circuit ground?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "THE BODY (ACCEPT: FRAME or CHASSIS)High School Round 4 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " From mid-northern latitudes, during which of the following\nmonths would the constellation Orion be most prominent in the southern sky at about 10 PM:\nW) April\nX) July\nY) August\nZ) December",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) DECEMBER"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the apparent dividing line\nbetween night and day on the Moon?",
+        "subject": " ASTRONOMY ",
+        "answer": "TERMINATOR"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " From which of the following is the cell wall of plants mostly\ncomposed:\nW) protein\nX) lipid monolayer\nY) lipid bilayer\nZ) polysaccharide",
+        "subject": " BIOLOGY ",
+        "answer": "Z) POLYSACCHARIDE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the common biological name for the product of human\nsublingual glands?",
+        "subject": " BIOLOGY ",
+        "answer": "SALIVAHigh School Round 4 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the atomic sublevel with the next\nhighest energy after the 4p sublevel:\nW) 4d\nX) 4f\nY) 5s\nZ) 5p",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) 5s"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Give the electronic configuration for sulfur, located in Period 3\nand Group 16 of the Periodic Table:",
+        "subject": " CHEMISTRY ",
+        "answer": "1s22s22p63s23p4 (ACCEPT: [Ne] 3s23p4)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Jan is riding her bike northward on Main Street at 20 kilometers per\nhour and applies her brakes. In what direction would a physicist MOST likely record her\nacceleration?",
+        "subject": " PHYSICS ",
+        "answer": "SOUTH"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If 200 coulombs pass through a wire in 0.5 seconds, what is the\naverage current, in amps, passing through the wire?",
+        "subject": " PHYSICS ",
+        "answer": "400High School Round 4 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common color for the calyx (read as: KAL-IX) of\nangiosperms?",
+        "subject": " BIOLOGY ",
+        "answer": "GREEN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 diseases that are caused by viruses:\nmeasles; AIDS; tuberculosis; leprosy",
+        "subject": " BIOLOGY ",
+        "answer": "MEASLES; AIDSHigh School Round 4 Page 13"
+    }
+]

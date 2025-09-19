@@ -1,0 +1,338 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the common name for the 27-carbon lipid whose synthesis is\nin part regulated by HMG CoA (read as: H, M, G, koh, A) reductase and is the basic starting point\nfor estrogen synthesis?",
+        "subject": " BIOLOGY ",
+        "answer": "CHOLESTEROL"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true regarding ribosomes:\nW) they are about 20 nanometers in diameter\nX) eukaryotic ribosomes are slightly larger than prokaryotic ribosomes\nY) mitochondrial ribosomes have 40S (read as: forty S) small subunits\nZ) they are found in chloroplasts",
+        "subject": " BIOLOGY ",
+        "answer": "Y) MITOCHONDRIAL RIBOSOMES HAVE 40S SMALL SUBUNITS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has a melting point of 185\u00baC and readily\ndissolves in water at room temperature, but is NOT an electrolyte:\nW) NaCl\nX) decane\nY) methane\nZ) sucrose",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) SUCROSE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Give the systematic chemical name for the following ionic\ncompound: Cr (SeO )\n2 4 3",
+        "subject": " CHEMISTRY ",
+        "answer": "CHROMIUM(III) SELENATEHigh School Round 13 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the Balmer series:\nW) a series of quantum numbers indicating certain energy levels\nX) hydrogen atom spectral line emission\nY) a sequence of elements that are produced chronologically in supernovae\nZ) the energy spectrum of the early universe",
+        "subject": " PHYSICS ",
+        "answer": "X) HYDROGEN ATOM SPECTRAL LINE EMISSION"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " According to the Standard Model of Particle Physics, through what\nforce would the top quark decay?",
+        "subject": " PHYSICS ",
+        "answer": "WEAK FORCE (ACCEPT: WEAK or WEAK INTERACTION)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Giving your answers in terms of \u03c0 and in inches squared, find the total\nsurface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:",
+        "subject": " MATH ",
+        "answer": "96\u03c0(Solution: l2 = 82 + 62, l = 10 in; LSA = \u03c0rl = \u03c0(6)(10) = 60\u03c0; SA = LA + B = 60\u03c0 + \u03c0(6)2 = 96\u03c0 in2)High School Round 13 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the single most important factor\nthat generally sets a northern limit to tree growth, such as in the areas of transition between taiga and\ntundra in Alaska:\nW) high-winter winds\nX) lack of summer warmth\nY) lack of spring moisture\nZ) lack of soil nutrients",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) LACK OF SUMMER WARMTH"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of an El Nino:\nW) when an El Nino is present, fish are less abundant off the west coast of South America\nX) El Ninos typically come along every 4 to 5 years\nY) during a peak El Nino, strong high pressure will be present in the eastern Pacific with lower\npressure to the west\nZ) El Nino affects global weather patterns",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) DURING A PEAK EL NINO, STRONG HIGH PRESSURE WILL BE PRESENTIN THE EASTERN PACIFIC WITH LOWER PRESSURE TO THE WEST(Solution: during peak strong high pressure is in the western Pacific with lower pressure to the east,setting up an easterly wind flow)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Pitchblende is one of the main ores of what element?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "URANIUM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 temperature values from the\nCOOLEST to the WARMEST: 32\u00baC; 85\u00baF; 310 K",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "85\u00baF; 32\u00baC; 310 KHigh School Round 13 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The BEST explanation of why population I (read as: one) stars\nhave a higher proportion of elements heavier than helium than population II ( read as: two) stars, is\nbecause Population I stars are:\nW) younger than population II stars\nX) older than population II stars\nY) usually closer to planetary nebula than population II stars\nZ) often found near H-I (read as: H, one) regions",
+        "subject": " ASTRONOMY ",
+        "answer": "W) YOUNGER THAN POPULATION II STARS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many sidereal minutes are in 7.5 sidereal hours?",
+        "subject": " ASTRONOMY ",
+        "answer": "450"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of globular proteins in\nmammals:\nW) most are soluble in water\nX) some serve as transport molecules in the plasma\nY) plasma enzymes typically have an optimal operating pH of about 6.8 to 7.0\nZ) most protein hormones are globular",
+        "subject": " BIOLOGY ",
+        "answer": "Y) PLASMA ENZYMES TYPICALLY HAVE AN OPTIMAL OPERATING PH OFABOUT 6.8 TO 7.0"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " During photorespiration, the plant enzyme RuBisCO (read as: rue-\nBIS-ko) will bind what molecular substance rather than carbon dioxide?",
+        "subject": " BIOLOGY ",
+        "answer": "OXYGEN (ACCEPT: O )2High School Round 13 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a substance whose molecular and\nempirical formulas are NOT the same:\nW) benzene\nX) water\nY) ammonia\nZ) sulfur dioxide",
+        "subject": " CHEMISTRY ",
+        "answer": "W) BENZENE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a molecule with a square pyramidal\nmolecular geometry around its central atom:\nW) PCl\n5\nX) ClF\n5\nY) XeF\n4\nZ) SF\n6",
+        "subject": " CHEMISTRY ",
+        "answer": "X) ClF5(Solution: PCl = trigonal bipyramidal; XeF = square planar; SF = octahedral)5 4 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has the lowest refractive index at STP:\nW) diamond\nX) water\nY) dry air\nZ) a perfect vacuum",
+        "subject": " PHYSICS ",
+        "answer": "Z) A PERFECT VACUUM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest hundred joules, how much work is done in\npulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45\u00ba\nangle with the pond?",
+        "subject": " PHYSICS ",
+        "answer": "200(Solution: w = F \u00d7 d \u00d7 cos angle = 100N \u00d7 3 m \u00d7 0.7071 = 212.13)High School Round 13 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Find the center of the circle given by the following equation:\nx2 + y2 + 4x + 16y + 3 = 0",
+        "subject": " MATH ",
+        "answer": "(\u20132, \u20138)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the coordinates of the vertex in the graph of the following\nequation: y = 4x2 + 8x \u2013 5",
+        "subject": " MATH ",
+        "answer": "(\u20131, \u20139)(Solution: x = -b/2a = -8/2(4) = -1; y = 4(-1)2 +8(-1) \u2013 5 = -9)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a fine-grained silica-rich\nsedimentary rock that is made primarily of microcrystalline quartz:\nW) shale\nX) potash\nY) dolostone\nZ) chert",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) CHERT"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a foliated metamorphic rock\ncomposed of very fine-grained mica:\nW) marble\nX) phyllite\nY) quartzite\nZ) schist",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) PHYLLITE(Solution: marble = non-foliated; quartzite = non-foliated; schist = well-developed foliation)High School Round 13 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The largest deposits of diatomite, or diatomaceous\nearth, are typically found in which of the following regions of the U.S.:\nW) western\nX) eastern\nY) midwest\nZ) southern",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) WESTERN(Solution: most formed in shallow lakes and marine environments)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Diatomite, or diatomaceous earth, is readily available\nin the U.S. and is used primarily for which of the following functions:\nW) soil improvement\nX) crushed stone\nY) filtering agent\nZ) lubricant",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) FILTERING AGENT"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the range for the Balmer\nseries:\nW) microwave\nX) infrared through UV\nY) UV to soft x-ray\nZ) visible light to UV",
+        "subject": " ASTRONOMY ",
+        "answer": "Z) VISIBLE LIGHT TO UV"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Choosing from upper right, lower right, lower left, and upper\nleft, in what area of the Hertzsprung Russell diagram will the Sun end its life?",
+        "subject": " ASTRONOMY ",
+        "answer": "LOWER LEFTHigh School Round 13 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is most directly responsible for the colloid\nosmotic pressure in humans that acts to retain fluid in the vascular system:\nW) albumin\nX) sodium ions\nY) calcium ions\nZ) potassium ions",
+        "subject": " BIOLOGY ",
+        "answer": "W) ALBUMIN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of the most common form of\nDNA:\nW) it is a right-handed helix\nX) it has 3.4 nanometers between each successive nucleotide base of the same strand\nY) the strands are considered anti-parallel\nZ) each strand has a 3-prime phosphate and a 5-prime hydroxyl at opposite ends",
+        "subject": " BIOLOGY ",
+        "answer": "Z) EACH STRAND HAS A 3-PRIME PHOSPHATE AND A 5-PRIME HYDROXYLAT OPPOSITE ENDS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " An organic compound with the formula C H is an:\n6 14\nW) alkane\nX) alkene\nY) alkyne\nZ) arene",
+        "subject": " CHEMISTRY ",
+        "answer": "W) ALKANE(Solution: alkanes = C H )n 2n+2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following gases has the highest effusion rate\nthrough a pinhole opening from one compartment to another and at room temperature:\nW) argon\nX) CO\n2\nY) SO\n2\nZ) helium",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) HELIUMHigh School Round 13 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following did J. J. Thompson use that primarily led\nhim to conclude that electrons were basic particles of atoms and carried electric charge:\nW) a compass and batteries\nX) a solenoid\nY) cathode ray tubes\nZ) electromagnets",
+        "subject": " PHYSICS ",
+        "answer": "Y) CATHODE RAY TUBES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Consider a satellite that is a uniform sphere rotating about its axis.\nWhat is its moment of inertia, giving your answer in scientific notation and in kilogram meters\nsquared, if it has a mass of 10,000 kilograms and a diameter of 200 meters?",
+        "subject": " PHYSICS ",
+        "answer": "4 \u00d7 107(Solution: I = (2/5)(10,000 Kg)(100m)2 = 40,000,000 kg.m2)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " An object is launched straight up from the ground with an initial velocity\nof 176 feet per second. What is the height of the object above the ground, in feet, 2 seconds into the\nflight?",
+        "subject": " MATH ",
+        "answer": "288(Solution: P(t) = -16t2 + 176t; P(2) = -16(4) + 352 = 288 ft)High School Round 13 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Meteorologists think of wind as circulation patterns which\nare divided into 4 \u201cscales of motion\u201d. A land-breeze circulation is grouped into which of the\nfollowing categories:\nW) mesoscale\nX) microscale\nY) medium scale\nZ) synoptic",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) MICROSCALE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " If the air temperature is 0\u00baF and the wind speed is 10\nmiles per hour, which of the following is closest to the wind chill, in degrees Fahrenheit:\nW) 10\nX) 0\nY) \u201310\nZ) \u201320",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) \u201320"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following anthropogenic air pollutants is\nthe major contributor to reduced visibility in most regions of the U.S., excluding fires and dust:\nW) elemental carbon\nX) hydrogen sulfide\nY) sulfate particles\nZ) lead",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Y) SULFATE PARTICLES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the edible vegetable\noil that is derived from cultivars of rapeseed plants and is low in erucic acid?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "CANOLA OIL (ACCEPT: CANOLA)High School Round 13 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in decimal form, what would the \u201cZ\u201d value\nbe if a distant celestial object were shifted towards longer wavelengths by 40% of the original\nwavelength?",
+        "subject": " ASTRONOMY ",
+        "answer": "0.4"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If a planet had an orbital period of 11.2 years, what is the length\nof its orbital semi-major axis, in astronomical units rounded to the nearest whole number?",
+        "subject": " ASTRONOMY ",
+        "answer": "5(Solution: d3 = p2; d3 = (11.2)2; d3 = 125.4; d = 5)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 choices that are chemoautotrophs:\nNitrosomonas (read as: nitro-so-MOAN-us) Paramecium; Volvox",
+        "subject": " BIOLOGY ",
+        "answer": "NITROSOMONAS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " From what vitamin is the electron carrier FAD (read as: F, A, D)\nderived?",
+        "subject": " BIOLOGY ",
+        "answer": "RIBOFLAVIN (ACCEPT: VITAMIN B2)High School Round 13 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 concentration units that are\ntemperature-dependent: molal (read as: moe-LAHL); molarity; normality",
+        "subject": " CHEMISTRY ",
+        "answer": "MOLARITY; NORMALITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Calculate the enthalpy of vaporization, in kilojoules, of water at\n25\u00baC and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is \u2013286\nkilojoules and the standard enthalpy of formation of water gas is \u2013242 kilojoules:",
+        "subject": " CHEMISTRY ",
+        "answer": "44(Solution: \u2206H\u00b0 = \u03a3n \u2206H\u00b0(products) \u2013 \u03a3n\u2206H\u00b0(reactants) = [\u2013242 \u2013 (\u2013286) = +44.0 kJ)reaction p f r f"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What was the most sensitive device Coulomb used to measure the\nelectric forces between pith balls?",
+        "subject": " PHYSICS ",
+        "answer": "TORSION BALANCE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 choices from the MOST penetrating through a\nthin sheet of cardboard to the LEAST: beta rays; alpha rays; x-rays",
+        "subject": " PHYSICS ",
+        "answer": "X-RAYS; BETA RAYS; ALPHA RAYSHigh School Round 13 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the histone octamer used in the\ncoiling and packing of DNA and regulation of gene expression?",
+        "subject": " BIOLOGY ",
+        "answer": "NUCLEOSOMES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organelles that are bounded by a double\nmembrane: nucleus; mitochondrion; lysosome; chloroplast",
+        "subject": " BIOLOGY ",
+        "answer": "NUCLEUS; MITOCHONDRION; CHLOROPLAST(ACCEPT: ALL BUT LYSOSOME)High School Round 13 Page 13"
+    }
+]

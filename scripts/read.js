@@ -1,8 +1,11 @@
 // Questions
+const used = 1;
+const sets = [-1, 17, 15, 17];
 var questions = [];
-const randomNumber = Math.floor(Math.random() * 17) + 1;
-console.log('./packets/set1/round' + randomNumber + '.json');
-fetch('./packets/set1/round' + randomNumber + '.json')
+const randomSet = Math.floor(Math.random() * used) + 1;
+const randomNumber = Math.floor(Math.random() * sets[randomSet]) + 1;
+console.log('./packets/set' + randomSet + '/round' + randomNumber + '.json');
+fetch('./packets/set' + randomSet + '/round' + randomNumber + '.json')
   .then(response => response.json())
   .then(data => {
       questions = data;
@@ -19,6 +22,9 @@ function readQuestion(readingSpeed, questionsArray) {
     if (currentInterval) {
 	clearInterval(currentInterval);
     }
+    const buzz = document.getElementById("BuzzBtn");
+    buzz.disabled = false;
+    reading = true;
 
     const answerDiv = document.getElementById("questionAnswer");
     answerDiv.textContent = "";
@@ -64,13 +70,14 @@ function readQuestion(readingSpeed, questionsArray) {
 	    currentInterval = null;
 	    return;
 	}
-
-	if (i === 0) {
-	    questionTextDiv.textContent = chunks[i];
-	} else {
-	    questionTextDiv.textContent += ' ' + chunks[i];
+	if (document.getElementById("BuzzBtn").disabled == false) {
+	    if (i === 0) {
+		questionTextDiv.textContent = chunks[i];
+	    } else {
+		questionTextDiv.textContent += ' ' + chunks[i];
+	    }
+	    i++;
 	}
-	i++;
     }, intervalMs);
 }
 
@@ -79,10 +86,16 @@ function showAnswer() {
     answerDiv.textContent = questions[randomIndex]["answer"];
 }
 
+function Buzz() {
+    reading = false;
+    document.getElementById("BuzzBtn").disabled = true;
+}
+
 // Wait for DOM to load
 window.addEventListener("DOMContentLoaded", () => {
     const button = document.getElementById("newQuestionBtn");
     const button2 = document.getElementById("showAnswerBtn");
+    const buzz = document.getElementById("BuzzBtn");
     const speedSlider = document.getElementById("speedSlider");
     const speedDisplay = document.getElementById("speedDisplay");
 
@@ -102,5 +115,9 @@ window.addEventListener("DOMContentLoaded", () => {
 
     button2.addEventListener("click", () => {
 	showAnswer();
-    })
+    });
+
+    buzz.addEventListener("click", () => {
+	Buzz();
+    });
 });

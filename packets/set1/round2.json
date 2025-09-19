@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the scientific term for the ratio between the density of a\ngiven substance to that of water when both are at the same temperature?",
+        "subject": " CHEMISTRY ",
+        "answer": "SPECIFIC GRAVITY (ACCEPT: RELATIVE DENSITY)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following pure substances has the highest melting\npoint at 1 atmosphere of pressure:\nW) magnesium oxide\nX) diamond\nY) sodium chloride\nZ) cesium chloride",
+        "subject": " CHEMISTRY ",
+        "answer": "X) DIAMOND(Solution: MgO = 2800\u00baC; diamond = 3550\u00baC; NaCl = 801\u00baC; Cs = 645\u00baC)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the MOST common anatomical synonym for ventral, when\nlocating a part of the human body in relation to another part?",
+        "subject": " BIOLOGY ",
+        "answer": "ANTERIOR"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the names for the pyrimidine bases found in DNA?",
+        "subject": " BIOLOGY ",
+        "answer": "CYTOSINE; THYMINEHigh School Round 2 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " According to one of the most common color triangles, if blue and\ngreen are primary colors, what is the third primary color?",
+        "subject": " PHYSICS ",
+        "answer": "RED"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the pattern of light and dark lines\nproduced when coherent light is passed through two horizontal slits in a thin opaque sheet, causing\nsuperposition of waves projected on a wall?",
+        "subject": " PHYSICS ",
+        "answer": "INTERFERENCE PATTERN (ACCEPT: INTERFERENCE)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the smaller of two integers whose sum is 19 and whose product is\n48?",
+        "subject": " MATH ",
+        "answer": "3(Solution: 16 + 3 = 19; 16 \u00d7 3 = 48)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following numbers is evenly divisible by both 11 and 3:\nW) 7791\nX) 7553\nY) 5181\nZ) 8769",
+        "subject": " MATH ",
+        "answer": "Y) 5181High School Round 2 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is best classified as a plutonic\nintrusive rock:\nW) obsidian\nX) granite\nY) basalt\nZ) pumice",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) GRANITE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " The principle constituent of most granites is:\nW) feldspar\nX) muscovite\nY) calcite\nZ) dolomite",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) FELDSPAR"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " The related quantities charted on a line graph are most\noften called:\nW) results\nX) lines\nY) sets\nZ) variables",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) VARIABLES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many grams of sodium chloride is in 2,000 milliliters\nof 0.9% NaCl solution?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "18(Solution: 0.9g/100 mL \u00d7 2000 mL = 18.0 g)High School Round 2 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What basic force of the universe is most responsible for holding\nthe planets of our solar system in their orbits?",
+        "subject": " ASTRONOMY ",
+        "answer": "GRAVITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the proper names of the 5 celestial bodies called\nwanderers by Greek astronomers because they had unusual paths in the sky throughout the year?",
+        "subject": " ASTRONOMY ",
+        "answer": "MERCURY; VENUS; MARS; JUPITER; SATURN (in any order)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Group 1 cations and group 7 anions combine to form:\nW) metal alloys\nX) alkali halides\nY) alkaloids\nZ) organometallic compounds",
+        "subject": " CHEMISTRY ",
+        "answer": "X) ALKALI HALIDES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Give the chemical name for the compound formed when pure iron\nand pure sulfur are mixed together and heated:",
+        "subject": " CHEMISTRY ",
+        "answer": "IRON SULFIDE (ACCEPT: IRON(II) SULFIDE or FERROUS SULFIDE)High School Round 2 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " From what chamber of the human heart does blood carried by the left\npulmonary artery leave?",
+        "subject": " BIOLOGY ",
+        "answer": "RIGHT VENTRICLE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What human gland or organ produces tri-iodothyronine (read as:\nTRY- I-OH-doh-THY-row-neen)?",
+        "subject": " BIOLOGY ",
+        "answer": "THYROID"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " A white-colored object illuminated by a green light will appear as\nwhat color to the human eye?",
+        "subject": " PHYSICS ",
+        "answer": "GREEN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " A child learns that mixing approximately equal amounts of the\npaint colors orange and green produces brown. This is an example of:\nW) additive color mixing\nX) summative color generation\nY) subtractive color synthesis\nZ) neutral coloration",
+        "subject": " PHYSICS ",
+        "answer": "Y) SUBTRACTIVE COLOR SYNTHESISHigh School Round 2 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " One-fifth of 0.04% is equal to:\nW) 8 \u00d7 10\u20132\nX) 8 \u00d7 10\u20133\nY) 8 \u00d7 10\u20134\nZ) 8 \u00d7 10\u20135",
+        "subject": " MATH ",
+        "answer": "Z) 8 \u00d7 10\u20135(Solution: (0.2)(0.0004) = 0.00008)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the prime factorization of 240:",
+        "subject": " MATH ",
+        "answer": "2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 3 \u00d7 5 (ACCEPT: 24 \u00d7 3 \u00d7 5)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " When spreading centers reach above the ocean\u2019s surface,\nthey typically form which of the following types of volcanoes:\nW) shield\nX) composite\nY) stratovolcano\nZ) cinder cone",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) SHIELD"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Mount Vesuvius in Italy is a typical:\nW) mud volcano\nX) caldera\nY) cinder cone\nZ) composite volcano",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Z) COMPOSITE VOLCANOHigh School Round 2 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " The fertilizer potash provides plants with what element\nnecessary for healthy growth and which is also the seventh most abundant element on Earth?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "POTASSIUM (ACCEPT: K)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " From what protein is gelatin, which is used as a food\nadditive, most commonly derived?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "COLLAGEN"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " First proposed by Georges Lemaitre, what is the name, most\nlikely coined by Fred Hoyle, for the theory that the universe originated at a finite time many eons\nago from an extremely compressed hot state?",
+        "subject": " ASTRONOMY ",
+        "answer": "BIG BANG"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In what constellation is the star Polaris found?",
+        "subject": " ASTRONOMY ",
+        "answer": "URSA MINOR (DO NOT ACCEPT: LITTLE DIPPER)High School Round 2 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the pH of a solution with a pOH of 6.8 at 25\u00baC?",
+        "subject": " CHEMISTRY ",
+        "answer": "7.2"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances is water soluble:\nW) ethanol\nX) dichloro-methane\nY) chloroform\nZ) benzene",
+        "subject": " CHEMISTRY ",
+        "answer": "W) ETHANOL"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Yersinia, Drosophila and Homo are all what taxonomical category?",
+        "subject": " BIOLOGY ",
+        "answer": "GENUS (ACCEPT: GENERA)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " From what monosaccharide is cellulose primarily composed?",
+        "subject": " BIOLOGY ",
+        "answer": "GLUCOSE (ACCEPT: \u0392-D-GLUCOPYRANOSYL or D-GLUCOSE)High School Round 2 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Although in many respects difficult to define, what term is MOST\noften described as a push or a pull that can cause an object to accelerate?",
+        "subject": " PHYSICS ",
+        "answer": "FORCE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the MOST common term for the inwardly directed force\nexerted on an object to keep the object moving in a circle?",
+        "subject": " PHYSICS ",
+        "answer": "CENTRIPETAL (ACCEPT: CENTRIPETAL FORCE)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in centimeters, what is the length of a side of a\nsquare whose diagonal measures 12 2 centimeters?",
+        "subject": " MATH ",
+        "answer": "12"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Multiply the following 4 numbers and give your answer in scientific\nnotation: 30,000 \u00d7 3,000 \u00d7 30 \u00d7 0.1",
+        "subject": " MATH ",
+        "answer": "2.7 \u00d7 108High School Round 2 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the oldest Eon on the Geological Time Scale within\nwhich the first organisms appeared between 550 million and 3.4 billion years ago?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "PRECAMBRIAN"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Homo sapiens evolved during which geological era of the\nGeological Time Scale?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "CENOZOIC"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Anthropogenic means:\nW) generated by humans\nX) created many years ago\nY) carried in primate genes\nZ) harmful to elderly people",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) GENERATED BY HUMANS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " The primary anthropogenic cause of acid rain is the\nemission of what 2 gases?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "SULFUR OXIDES; NITROGEN OXIDES (in any order)(ACCEPT: SULFUR DIOXIDE or SO AND NITROGEN DIOXIDE or NO )2 2(DO NOT ACCEPT: SULFURIC ACID or NITRIC ACID)High School Round 2 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the primary elemental product of stellar hydrogen\nfusion?",
+        "subject": " ASTRONOMY ",
+        "answer": "HELIUM"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In the equatorial celestial coordinate system, what terms are\nsynonymous with longitude and latitude, respectively?",
+        "subject": " ASTRONOMY ",
+        "answer": "LONGITUDE = RIGHT ASCENSION; LATITUDE = DECLINATION"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the atomic number for the ground state element with the\nfollowing electron configuration: 1s22s22p5 (read as: 1, s, 2; 2, s, 2; 2, p, 5)",
+        "subject": " CHEMISTRY ",
+        "answer": "9"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many grams of KCl, with a molar mass of 75, are needed to\nmake 1 liter of a 3 molar solution?",
+        "subject": " CHEMISTRY ",
+        "answer": "225(Solution: 1 L \u00d7 (3.0 mol/L)(75 g/mol) = 225 g)High School Round 2 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in standard form, what is the last term in the\nbinomial expansion of the following: (x + y)6",
+        "subject": " MATH ",
+        "answer": "y6"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Simplify the following expression by combining like terms:\n12.03A \u2013 4.03B \u2013 0.03(A \u2013 40)",
+        "subject": " MATH ",
+        "answer": "12A \u2013 4.03B + 1.2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What specific law of motion most directly implies that every action\nhas an equal and opposite reaction?",
+        "subject": " PHYSICS ",
+        "answer": "NEWTON\u2019S THIRD LAW (ACCEPT: THIRD LAW)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Jay walks to his car and drives to the store. The trip takes 20\nminutes. Jay figures how far he traveled on foot and by car and divides the distance by how long the\ntrip took. Which of the following BEST describes what Jay has computed:\nW) total velocity\nX) average acceleration\nY) average speed\nZ) instantaneous velocity",
+        "subject": " PHYSICS ",
+        "answer": "Y) AVERAGE SPEEDHigh School Round 2 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " The sinoatrial (read as: sine-oh-AYE-tree-al) node is located in what\nhuman organ?",
+        "subject": " BIOLOGY ",
+        "answer": "HEART"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In what chamber of the human heart is the sinoatrial (read as: sine-\noh-AYE-tree-al) node located?",
+        "subject": " BIOLOGY ",
+        "answer": "RIGHT ATRIUMHigh School Round 2 Page 13"
+    }
+]

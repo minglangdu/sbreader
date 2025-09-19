@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " L-alanine and D-alanine are BEST classified as what type of\nisomers:\nW) cis\nX) trans\nY) structural\nZ) optical",
+        "subject": " CHEMISTRY ",
+        "answer": "Z) OPTICAL"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " How many sigma and pi bonds, respectively, are there in a\nmolecule with the following formula: [read slowly] CH CHCHCH CH\n3 2 3",
+        "subject": " CHEMISTRY ",
+        "answer": "SIGMA 14; PI = 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains how cyclic AMP can cause\nso many different intracellular responses in a mammalian cell:\nW) it is produced in large quantities\nX) it migrates to the DNA where it binds to a variety of histones\nY) it activates a wide variety of specific protein kinases\nZ) it prevents the activation of other hormonal signals",
+        "subject": " BIOLOGY ",
+        "answer": "Y) IT ACTIVATES A WIDE VARIETY OF SPECIFIC PROTEIN KINASES"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the function of a\nspliceosome (read as: SPLY-see-oh-zome):\nW) splicing DNA together during replication\nX) splicing out mutations\nY) joining multiple copies of structural genes\nZ) removing introns",
+        "subject": " BIOLOGY ",
+        "answer": "Z) REMOVING INTRONSHigh School Round 17 Page 1"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains how a radium isotope with a\nhalf-life of about 1,600 years can be found in the crust of the Earth that was formed millions of years\nago:\nW) its decay is slowed by the pressure of the Earth\nX) the radium is replenished by decay of longer lived radioactive elements\nY) the radium was replenished by meteors and asteroids over the millennia\nZ) the radium is recycled from the Earth\u2019s core where magnetic fields slow the decay",
+        "subject": " PHYSICS ",
+        "answer": "X) THE RADIUM IS REPLENISHED BY DECAY OF LONGER LIVEDRADIOACTIVE ELEMENTS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is probably the most significant limitation\nfor PET scans being used in remote rural hospital sites:\nW) lack of properly trained personnel\nX) the proximity to production facilities for short-lived radioisotopes\nY) the high level of radiation requiring special training and increased radiation risk\nZ) difficulty in PET radiotracers binding to receptors when imaging certain human tissues",
+        "subject": " PHYSICS ",
+        "answer": "X) THE PROXIMITY TO PRODUCTION FACILITIES FOR SHORT-LIVEDRADIOISOTOPES"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE about any two successive terms in the\nFibonacci sequence:\nW) their product is a Fibonacci number\nX) they are either both odd or both even\nY) they are relatively prime\nZ) their quotient is the golden ratio",
+        "subject": " MATH ",
+        "answer": "Y) THEY ARE RELATIVELY PRIME"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Find the inverse of the 2-by-2 matrix whose rows are 3, 5 and 7, \u20132. Give\nyour answer in rows.\n2 5 7 3",
+        "subject": " MATH ",
+        "answer": ", , ,\u221241 41 41 41High School Round 17 Page 2"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Most terrestrial plants grow best in soil with a pH range of:\nW) 4.5 to 5.5\nX) 6.0 to 7.0\nY) 7.0 to 8.0\nZ) 7.5 to 8.5",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) 6.0 TO 7.0"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a problem that affects most\nplants growing in very acidic soil:\nW) iron deficiency\nX) accumulation of excess salt in their foliage\nY) aluminum toxicity to their roots\nZ) excess calcium and magnesium ion uptake",
+        "subject": " EARTH SCIENCE ",
+        "answer": "Y) ALUMINUM TOXICITY TO THEIR ROOTS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best illustrates a limitation of a\nsupercapacitor, or electric double-layer capacitor, versus an electrochemical battery:\nW) virtually unlimited cycle life\nX) rapid recharging\nY) low impedance\nZ) high self-discharge rate",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) HIGH SELF-DISCHARGE RATE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If it is 7:47 AM, Tuesday September 23rd in Beijing\nChina at 116\u00ba east longitude, what day and time, respectively, would it be in London, England?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "TUESDAY; 12:47 AMHigh School Round 17 Page 3"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would astronomers most likely\nconsider emission nebula:\nW) Population III (read as: 3) regions\nX) Population II (read as: 2) regions\nY) glowing H II (read as: H, 2) regions\nZ) active regions",
+        "subject": " ASTRONOMY ",
+        "answer": "Y) GLOWING H II REGIONS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following locations would there typically be\nmore Population Two stars than Population One stars:\nW) in globular clusters\nX) in spiral arms of galaxies\nY) in planetary nebula\nZ) in regions actively forming stars",
+        "subject": " ASTRONOMY ",
+        "answer": "W) IN GLOBULAR CLUSTERS"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are the units of the rate constant for a\n2nd order reaction given that concentration is measured in molarity and time in seconds:\nW) M\u20132s\u20131\nX) M\u20131s\u20131\nY) Ms\u20131\nZ) M\u20132minutes\u20131",
+        "subject": " CHEMISTRY ",
+        "answer": "X) M\u20131s\u20131(Solution: units relationship is M1\u2013order \u00d7 time\u20131)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " 1.0 gram of an unknown organic molecule is dissolved in 50.0\ngrams of benzene. Determine the molecular mass of the unknown if this solution freezes at 4.5\u00baC.\nAssume the freezing point constant of benzene is 5.0\u00baC per molal, and the freezing point of benzene\nis 5.5\u00baC. Give your answer to the nearest whole number in grams per mole.",
+        "subject": " CHEMISTRY ",
+        "answer": "100(Solution: \u0394T = 5.5\u00ba \u2013 4.5\u00ba = 1.0\u00baC; m = \u0394T/ K = 1.0\u00ba/5.0\u00ba = 0.2m or 0.2mol/kg;f f f(1.0g unkn/0.05 kg benz)(1kg benz/0.2 mol unkn) = 100 g/mol)High School Round 17 Page 4"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the target tissue of the hormone leptin\nwhere it binds with LepRB (read as: L, E, P, R, B) receptors:\nW) hypothalamus\nX) pancreas\nY) adipose tissue\nZ) kidney",
+        "subject": " BIOLOGY ",
+        "answer": "W) HYPOTHALAMUS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of fatty acids would alpha linolenic or\nall cis-9,12,15-Octadecatrienoic (read as: octa-deca-tri-en-oh-ick) acid most commonly be classified:\nW) an alpha 9 fatty acid\nX) an alpha 9,12,15 fatty acid\nY) an omega 3 fatty acid\nZ) an omega 6 fatty acid",
+        "subject": " BIOLOGY ",
+        "answer": "Y) AN OMEGA 3 FATTY ACID"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 sub-atomic particles that interact with all\n4 of the fundamental forces: electron; quarks; neutrino",
+        "subject": " PHYSICS ",
+        "answer": "QUARKS"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Until the Large Hadron Collider came on-line at CERN, what\naccelerator was generally believed to be the only one energetic enough to produce top quarks?",
+        "subject": " PHYSICS ",
+        "answer": "TEVATRON (ACCEPT: FERMILAB ACCELERATOR)High School Round 17 Page 5"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the equation for the tangent line for y = x4 at\nthe point (1, 1):\nW) y = 4x \u2013 3\nX) y = 4x \u2013 1\nY) y = 4x + 1\nZ) y = 4x + 3",
+        "subject": " MATH ",
+        "answer": "W) y = 4x \u2013 3(Solution: using the derivative, y\u2019 = 4x3, the slope of the tangent line at x = 1 is 4. The line must passthrough (1, 1) so y \u2013 1 = 4(x \u2013 1))"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What are the coordinates of the hole in the graph of the function,\n(2x2 \u22128)\ng(x) = ?\n(x\u22122)",
+        "subject": " MATH ",
+        "answer": "(2, 8)(Solution: simplifies to 2(x + 2); graph looks like a line except at the indicated hole)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " According to the discontinuous side of Bowen\u2019s reaction\nseries, which of the following is likely to first crystallize as basaltic magma cools:\nW) quartz\nX) olivine\nY) pyroxene\nZ) hornblende",
+        "subject": " EARTH SCIENCE ",
+        "answer": "X) OLIVINE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Of the 3 basic types of magma on Earth, which one generally\nhas a chemical composition intermediate in iron, magnesium, and calcium?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "ANDESITIC (ACCEPT: ANDESITE)(Solution: 3 basic types: basaltic, andesitic, rhyolitic)High School Round 17 Page 6"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following age groups would have the\nmost brown fat per kilogram of body weight:\nW) infant\nX) adolescent\nY) middle age\nZ) elderly",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "W) INFANT"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following physiological processes\ngenerates most of the heat needed to keep an infant warm:\nW) digestion of food in the gut\nX) oxidative metabolism\nY) inspiration of air\nZ) bacterial activity in the gut",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "X) OXIDATIVE METABOLISM"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What element makes up the innermost core of a type II (read as:\ntype 2) supernova just before core collapse?",
+        "subject": " ASTRONOMY ",
+        "answer": "IRON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the magnification of a telescope with an objective lens\nthat has a focal length of 250 centimeters and an eyepiece with a focal length of 0.50 centimeters?",
+        "subject": " ASTRONOMY ",
+        "answer": "500X (ACCEPT: 500 or 500 TIMES)(Solution: M = F \u00f7 F = 250/0.50 = 500)o eHigh School Round 17 Page 7"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Consider the following equilibrium reaction,\nFeO + CO \u2194 Fe + CO , where \u2206H (read as: delta H) equals \u201310 kilojoules. Which\n(solid) (gas) (solid) 2(gas)\nof the following would have a similar effect on the equilibrium position as lowering the temperature:\nW) adding iron\nX) increasing pressure\nY) removing carbon dioxide\nZ) removing carbon monoxide",
+        "subject": " CHEMISTRY ",
+        "answer": "Y) REMOVING CARBON DIOXIDE(Solution: shifts to the right)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " In the electrolysis of water, if a very small amount of sodium\nsulfate is added to the water, give the equation for the half reaction that occurs at the ANODE.\nMake sure to indicate proper charges and the state of each substance, such as solid, liquid, aqueous,\nor gas:",
+        "subject": " CHEMISTRY ",
+        "answer": "2H O \uf0e0 O + 4H+ + 4e\u20132 (liquid) 2(gas) (aqueous)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " From what specific biological molecule are Barbara McClintock\u2019s\ntransposons (read as: trans-POE-zons) made?",
+        "subject": " BIOLOGY ",
+        "answer": "DNA"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organisms in which transposons (read\nas: trans-POE-zons) are found: humans; maize; fruit fly; bacteria",
+        "subject": " BIOLOGY ",
+        "answer": "ALLHigh School Round 17 Page 8"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes how one would compute\nthe speed for a sound wave through a liquid:\nW) the square of the density of liquid divided by its bulk modulus\nX) the square of the bulk modulus of the liquid divided by its density\nY) the square root of the density of liquid divided by its bulk modulus\nZ) the square root of the bulk modulus of the liquid divided by its density",
+        "subject": " PHYSICS ",
+        "answer": "Z) THE SQUARE ROOT OF THE BULK MODULUS OF THE LIQUID DIVIDEDBY ITS DENSITY"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Name all the leptons that are produced during beta minus decay?",
+        "subject": " PHYSICS ",
+        "answer": "ELECTRONS AND ANTINEUTRINOS (ACCEPT: ELECTRON ANTINEUTRINOFOR NEUTRINO)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " How many solutions are there for the equation, cosine 4x = , for the\n2\ninterval 0 \u2264 x < 2\u03c0?",
+        "subject": " MATH ",
+        "answer": "8(Solution: 4 cycles, 2 solutions per cycle)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Cards numbered 1 through 10 lie on a table. If two cards are picked at\nrandom, without replacement, what is the probability, as a fraction in lowest terms, that the two\ncards will have values within one of each other?",
+        "subject": " MATH ",
+        "answer": "1/5(Solution: 9/(10 nCr 2) = 9/45 = 1/5)High School Round 17 Page 9"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " In the southern hemisphere, Ekman transport generated by\ntrade winds over the equatorial Pacific Ocean is how many degrees to the left of the prevailing\nwinds?",
+        "subject": " EARTH SCIENCE ",
+        "answer": "90"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes an air mass that\noriginates in northern Mexico, moves into the Great Plains and stagnates, resulting in severe\ndrought:\nW) continental tropical\nX) continental polar\nY) maritime tropical\nZ) maritime polar",
+        "subject": " EARTH SCIENCE ",
+        "answer": "W) CONTINENTAL TROPICAL"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true regarding the\nburning of biodiesel versus gasoline in automobile engines:\nW) biodiesel combustion does not emit SO\n2\nX) biodiesel contains more oxygen than gasoline\nY) the CO released when biodiesel is burned is the same CO the plants removed from the\n2 2\natmosphere as they grew\nZ) the energy content per gallon of biodiesel is approximately 28% lower than that of ethanol",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "Z) THE ENERGY CONTENT PER GALLON OF BIODIESEL ISAPPROXIMATELY 28% LOWER THAN THAT OF ETHANOL"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " A physician orders 0.1 gram of a drug be administered to\na patient. If it is only available as 20 milligrams per 5 milliliters, how many milliliters needs to be\nadministered?",
+        "subject": " GENERAL SCIENCE ",
+        "answer": "25(Solution: (100mg/20mg)(5mL) = 25 mL)High School Round 17 Page 10"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " From the LEAST to the MOST, what are the 3 most abundant\nelements in a G-type star?",
+        "subject": " ASTRONOMY ",
+        "answer": "HYDROGEN; HELIUM; CARBON"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " If a supernova with an apparent magnitude of \u20132.0 was observed\nfor the first time in the year 2,000 at 35.00 kiloparsecs from Earth, how many years before\nobservation, rounded to the nearest whole number, did the supernova most likely occur?",
+        "subject": " ASTRONOMY ",
+        "answer": "114(Solution: 3.26 \u00d7 35.00 = 114.1)"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the specific intermediate informational molecule for human\nretrotransposons (read as: rhet-tro-trans-POE-zons):",
+        "subject": " BIOLOGY ",
+        "answer": "RNA (ACCEPT: RIBONUCLEIC ACID or mRNA or MESSENGER RNA)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 processes from the one to typically occur the\nEARLIEST to the one to occur the LATEST in the production of collagen:\n(read slowly) spliceosome (read as: SPLY-see-oh-zome); transcription; translation; golgi\nmodification",
+        "subject": " BIOLOGY ",
+        "answer": "TRANSCRIPTION; SPLICEOSOME; TRANSLATION; GOLGI MODIFICATIONHigh School Round 17 Page 11"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What is the overall reaction order for the following rate law:\nrate = k[NH +][NO \u2013] (read as: k times the concentration of NH + times the concentration of NO \u2013)\n4 2 4 2",
+        "subject": " CHEMISTRY ",
+        "answer": "2 (ACCEPT: 2nd ORDER)(Solution: exponents 1 + 1 = 2)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Calculate the one-atmosphere boiling point elevation, in degrees\nCelsius to the 2nd decimal place, for a solution made by dissolving 1 gram of solute in 0.1 kilograms\nof water. Assume the formula weight of the solute is 300 and the boiling point depression constant\nis 2.0\u00baC per molal..",
+        "subject": " CHEMISTRY ",
+        "answer": "0.07 (ACCEPT: 0.06)(Solution: moles solute = 1g/300g/mol = 0.003m; m = 0.0033 moles solute /0.1kg = 0.033m;\u0394T = K (m) = (2.0\u00baC/m)(0.033m) = 0.066\u00baC)b b"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " What boson is the only particle predicted by the Standard Model of\nParticle Physics that had not yet been observed as of June 2008?",
+        "subject": " PHYSICS ",
+        "answer": "HIGGS BOSON (ACCEPT: HIGGS)"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " Through what two particles is most of the energy released by a star\nlike our Sun?",
+        "subject": " PHYSICS ",
+        "answer": "PHOTONS AND NEUTRINOSHigh School Round 17 Page 12"
+    },
+    {
+        "type": "Toss-up",
+        "answertype": "Short Answer",
+        "content": " From what amino acid is the vasodilator histamine primarily\nsynthesized?",
+        "subject": " BIOLOGY ",
+        "answer": "HISTIDINE"
+    },
+    {
+        "type": "Bonus",
+        "answertype": "Short Answer",
+        "content": " What is the typical reported initial threshold value, in millivolts, of a\nhuman peripheral nerve axon?",
+        "subject": " BIOLOGY ",
+        "answer": "\u201345 (ACCEPT: \u201350 TO \u201340)High School Round 17 Page 13"
+    }
+]
