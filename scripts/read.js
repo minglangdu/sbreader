@@ -1,21 +1,34 @@
-// Questions
-const used = 1;
+/*-- Global Variables --*/
+const usedSets = 1;
 const sets = [-1, 17, 15, 17];
 var questions = [];
-const randomSet = Math.floor(Math.random() * used) + 1;
-const randomNumber = Math.floor(Math.random() * sets[randomSet]) + 1;
-console.log('./packets/set' + randomSet + '/round' + randomNumber + '.json');
-fetch('./packets/set' + randomSet + '/round' + randomNumber + '.json')
-  .then(response => response.json())
-  .then(data => {
-      questions = data;
-      console.log(questions);
-  })
-  .catch(error => console.error('Error fetching JSON:', error));
 
 let currentInterval = null; // To keep track of current reading interval
 
 var randomIndex = 0;
+
+/*--                  --*/
+
+function getQuestions() {
+    var selectedSet = document.getElementById("SetInput").value;
+    var selectedRound = document.getElementById("RoundInput").value;
+    console.log(selectedSet, selectedRound);
+    if (selectedSet > 0 && selectedSet <= usedSets
+        && selectedRound <= sets[selectedSet] && selectedRound > 0
+    ) {
+        document.getElementById("newQuestionBtn").disabled = false;
+        console.log('./packets/set' + selectedSet + '/round' + selectedRound + '.json');
+        fetch('./packets/set' + selectedSet + '/round' + selectedRound + '.json')
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            console.log(questions);
+        })
+        .catch(error => console.error('Error fetching JSON:', error));
+    } else {
+        document.getElementById("newQuestionBtn").disabled = true;
+    }
+}
 
 function readQuestion(readingSpeed, questionsArray) {
     // Clear any existing interval
@@ -98,6 +111,8 @@ window.addEventListener("DOMContentLoaded", () => {
     const buzz = document.getElementById("BuzzBtn");
     const speedSlider = document.getElementById("speedSlider");
     const speedDisplay = document.getElementById("speedDisplay");
+    const set = document.getElementById("SetInput");
+    const round = document.getElementById("RoundInput");
 
     // Initialize speed display
     speedDisplay.textContent = speedSlider.value;
@@ -113,11 +128,13 @@ window.addEventListener("DOMContentLoaded", () => {
 	readQuestion(readingSpeed, questions);
     });
 
-    button2.addEventListener("click", () => {
-	showAnswer();
-    });
+    button2.addEventListener("click", () => {showAnswer();});
+    buzz.addEventListener("click", () => {Buzz();});
 
-    buzz.addEventListener("click", () => {
-	Buzz();
+    set.addEventListener("input", () => {
+        getQuestions();
+    });
+    round.addEventListener("input", () => {
+        getQuestions();
     });
 });

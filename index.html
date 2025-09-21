@@ -9,9 +9,15 @@
     <h1>Science Bowl Question Reader</h1>
     
     <div class="controls">
-        <button id="newQuestionBtn">Read New Question</button>
-        <label for="speedSlider">Reading Speed: <span id="speedDisplay">2</span> syllables/sec</label>
+        <button id="newQuestionBtn" disabled>Read New Question</button>
+        <label for="speedSlider">Reading Speed: <span id="speedDisplay">5</span> syllables/sec</label>
         <input type="range" id="speedSlider" min="1" max="10" value="5" step="0.5">
+    </div>
+    <div class="controls">
+        <label for="SetInput">Set: </label>
+        <input type="number" id="SetInput">
+        <label for="RoundInput">Round: </label>
+        <input type="number" id="RoundInput">
     </div>
 
     <div id="questionType"></div>
@@ -22,6 +28,9 @@
     <button id="BuzzBtn" class="buzz">Buzz</button>
     <button id="showAnswerBtn">Show Answer</button>
     <div id="questionAnswer" class="inlaid"></div>
+    <br>
+    <button id="AnkiBtn">Add to Anki</button> 
+    <p>Anki API coming soon!</p>
 
     <script src="scripts/read.js"></script>
 </body>
