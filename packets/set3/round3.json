@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The slope of a velocity versus time graph represents:\nW) acceleration\nX) velocity\nY) position\nZ) displacement",
+        "answer": " W) ACCELERATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Under which of the following conditions is the average velocity\nequal to the average of an object\u2019s initial and final velocity:\nW) always\nX) never\nY) only when the acceleration changes\nZ) only when the acceleration is constant",
+        "answer": " Z) ONLY WHEN THE ACCELERATION IS CONSTANT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an EXTENSIVE property of matter:\nW) temperature\nX) density\nY) mass\nZ) viscosity",
+        "answer": " Y) MASS\n(Solution: extensive properties depend on the amount of substance present)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the phenomenon that occurs when a light\nbeam becomes visible after passing through a colloid, an example of which is a beam of light\npassing through fog at night?",
+        "answer": " THE TYNDALL EFFECT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " How many autosomes are in a normal nucleated human nerve cell in\nG-zero of the cell cycle?",
+        "answer": " 44"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of the human body:\nW) there are substantial numbers of lymph nodes in the wall of the large intestine\nX) veins have comparatively thick walls with more muscle than arteries\nY) there are two layers of smooth muscle in the walls of the small intestine\nZ) the small intestine is longer than the large intestine",
+        "answer": " X) VEINS HAVE COMPARATIVELY THICK WALLS WITH MORE MUSCLE\nTHAN ARTERIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the side of a square, in centimeters to the nearest whole number,\ngiven that its diagonal is 16 centimeters?",
+        "answer": " 11\n(Solution: s = 16/ 2 = 11.3 cm)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x: \u201310 |(x + 2)| = \u201350 (read as: negative\n10 times the absolute value of, open parenthesis, x + 2, close parenthesis, equals negative 50)",
+        "answer": " 3 AND \u20137"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the percent relative humidity if the vapor content is\none-half the amount of vapor the mass of air can hold?",
+        "answer": " 50%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following MOST directly modulates the\nintensity of incoming solar radiation through the course of a year:\nW) the eccentricity of Earth\u2019s orbit\nX) the time for 1 orbit of Earth around the Sun\nY) Earth\u2019s rapid rotation about its axis\nZ) the tilt of Earth\u2019s axis",
+        "answer": " Z) THE TILT OF EARTH\u2019S AXIS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the conversion of\n900 millibars into atmospheres:\nW) 0.09\nX) 0.9\nY) 9.0\nZ) 90.0",
+        "answer": " X) 0.9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Convert 2,000 meters per second into kilometers per hour:",
+        "answer": " 7,200"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " At about 10 PM in late summer of 2006, an observer at about\n35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the\nfollowing places in the sky:\nW) low in the east\nX) low in the west\nY) about half way up in the northern sky\nZ) almost directly overhead",
+        "answer": " Z) ALMOST DIRECTLY OVERHEAD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the most common astronomical term for the interval of\ntime between two successive passages of the Sun through the vernal equinox?",
+        "answer": " TROPICAL YEAR (ACCEPT: SOLAR YEAR)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Stories have been told about opera singers breaking crystal glass by\nsinging a certain tone loud enough. What is the most common term for the property that would\naccount for this happening?",
+        "answer": " RESONANCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the wavelength, in meters, of a sound wave that has a\nfrequency of 600 hertz and a speed in a certain medium of 360 meters per second?",
+        "answer": " 0.6\n(Solution: wavelength = speed/f = 360/600 = 0.6 meters)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following techniques employs a moving phase and\na stationary phase to separate components of a mixture:\nW) filtration\nX) centrifugation\nY) distillation\nZ) chromatography",
+        "answer": " Z) CHROMATOGRAPHY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would you expect to have an electron\naffinity of zero:\nW) chlorine\nX) carbon\nY) hydrogen\nZ) helium",
+        "answer": " Z) HELIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What specific part of the human brain has the most influence on\nheart rate, sleep, body temperature, and metabolism, and is a large part of the ventral portion of the\ndiencephalon (read as: die-en-SEFF-ah-lon):\nW) hypothalamus (read as: hypo-THAL-ah-mus)\nX) cerebellum\nY) pituitary\nZ) sella turcica (read as: TURR-sik-ah)",
+        "answer": " W) HYPOTHALAMUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 5 muscles that are NOT part of the human\nrotator cuff: supraspinatus; infraspinatus; subscapularis; teres minor; latissimus dorsi",
+        "answer": " LATISSIMUS DORSI"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following inequality for x: x2 < 3x",
+        "answer": " 0 < x < 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the least common multiple of the following 4 numbers:\n12, 15, 16, 20",
+        "answer": " 240"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the specific name for the tides that occur during the\nfirst and third-quarter phases of the Moon and have the smallest range?",
+        "answer": " NEAP TIDES (ACCEPT: NEAP)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Typically, thin veils or sheets of white fibrous clouds\ncomposed entirely of ice crystals which can sometimes cover the whole sky are called:\nW) alto-cumulus\nX) cirro-stratus\nY) nimbo-stratus\nZ) alto-stratus",
+        "answer": " X) CIRRO-STRATUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Suppose you measured the voltage of a fully-charged\n12-volt battery and you get 3 identical results of 10.45 volts. Which of the following BEST\ndescribes your data:\nW) precise but not accurate\nX) accurate but not precise\nY) both accurate and precise\nZ) neither accurate nor precise",
+        "answer": " W) PRECISE BUT NOT ACCURATE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in proper scientific notation, convert\n100 millimeters into kilometers:",
+        "answer": " 1 x 10-4 (DO NOT ACCEPT 10-4)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following can you estimate BEST if you know\nthe color of a star:\nW) luminosity\nX) elemental makeup\nY) temperature\nZ) mass",
+        "answer": " Y) TEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the maximum apparent\nbrightness of the brightest star in the night sky from anywhere on Earth:\nW) \u201315\nX) \u20131.5\nY) 4.5\nZ) 6",
+        "answer": " X) \u20131.5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The area under the curve of a velocity versus time graph\nrepresents:\nW) acceleration\nX) velocity\nY) displacement\nZ) position",
+        "answer": " Y) DISPLACEMENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) a spring scale can be used to indirectly measure acceleration\nX) momentum is a vector\nY) impulse is a vector\nZ) a change in direction of an object\u2019s motion cannot affect its momentum",
+        "answer": " Z) A CHANGE IN DIRECTION OF AN OBJECT\u2019S MOTION CANNOT AFFECT\nITS MOMENTUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the voltaic cells in which the reactants are\ncontinuously supplied to the cell and the products are continuously removed?",
+        "answer": " FUEL CELL (ACCEPT: HYDROGEN-OXYGEN FUEL CELL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A Lewis base is defined as any species that does which of the\nfollowing in a chemical reaction:\nW) donates a proton\nX) accepts a proton\nY) donates a pair of electrons\nZ) accepts a pair of electrons",
+        "answer": " Y) DONATES A PAIR OF ELECTRONS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the area of the human brain that functions to allow the two\nhemispheres to communicate?",
+        "answer": " CORPUS CALLOSUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Myelination of nerves is an adaptation to:\nW) increase axon lifetime\nX) increase speed of nerve conduction\nY) protect nerves from damage\nZ) prevent nerves from misfiring",
+        "answer": " X) INCREASE SPEED OF NERVE CONDUCTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In a Venn diagram, what is the most appropriate name of the rectangle\nthat contains the circles that represent the subsets?",
+        "answer": " UNIVERSAL SET"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How many different letter arrangements are possible with the six letters\nin the word \u2018SECOND\u2019?",
+        "answer": " 720\n(Solution: 6! = 720)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a rock that is commonly made\nof microscopic shells:\nW) limestone\nX) schist\nY) shale\nZ) quartzite",
+        "answer": " W) LIMESTONE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " In what Era of the geological time scale did mammals and\ngrasses become abundant?",
+        "answer": " CENOZOIC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What technology used to transmit digital information\nspecifically takes advantage of the property of light called total internal reflection?",
+        "answer": " FIBER OPTICS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the generic name for the trade-named drug\nTylenol?",
+        "answer": " ACETAMINOPHEN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " If a stargazer in Vermont during the midnight April sky follows\nthe pointer stars of the Big Dipper about 35\u00ba in the opposite direction of Polaris, which one of the\nfollowing 5 constellations will she most likely encounter: Bootes; Libra; Canus Major; Leo;\nLepus",
+        "answer": " LEO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " To an observer on the Moon, in what phase would the Earth\nappear when an observer on Earth saw the Moon in its 3rd quarter?",
+        "answer": " FIRST QUARTER\n(Solution: to observers on the Moon the Earth goes through opposite phases to the moon)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the mass, in kilograms, of a 5-kilogram rock on a planet with\na gravitational acceleration one-half that of the Earth\u2019s?",
+        "answer": " 5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the specific gravity, to the first decimal place, of a cubic foot\nof metal that has a density of 188 pounds per cubic foot if water has a density of 62.4 pounds per\ncubic foot?",
+        "answer": " 3.0\n(Solution: 188/62.4 = 3.01)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT generally true regarding trends\nfor the representative elements in the Periodic Table:\nW) nonmetals predominate the periodic table\nX) metallic character increases from top to bottom\nY) nonmetallic character increases from left to right\nZ) atomic radii increases from top to bottom",
+        "answer": " W) NONMETALS PREDOMINATE THE PERIODIC TABLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Which one of the following 5 atoms can violate the octet rule\nwith more than 8 electrons: O; F; Cl; N; C",
+        "answer": " Cl"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What substance converts pepsinogen (read as: pep-SIN-oh-gen) into\nits active form in the human stomach?",
+        "answer": " HCl (ACCEPT: HYDROCHLORIC ACID) (DO NOT ACCEPT: GASTRIC JUICES)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specific cells of the human stomach secrete pepsinogen?",
+        "answer": " CHIEF CELLS (ACCEPT: CHIEF)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Boyle\u2019s gas law concerns which of the following two\nvariables:\nW) volume and pressure\nX) volume and temperature\nY) pressure and temperature\nZ) pressure and moles",
+        "answer": " W) VOLUME AND PRESSURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What mass of sodium hydroxide, in grams, would contain 40\ngrams of oxygen?",
+        "answer": " 100\n(Solution: NaOH = 40g \u00d7 1 mol O/16 \u00d7 1 mol NaOH/1 mol O \u00d7 40g NaOH/1 mol NaOH = 100g)"
+    }
+]

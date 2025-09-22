@@ -1,183 +1,338 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " The cell wall of a diatom is primarily composed of which of the\nfollowing?\nW) Silicon dioxide\nX) Calcium carbonate\nY) Magnesium carbonate\nZ) Cellulose",
-        "subject": "",
-        "answer": "W) SILICON DIOXIDE"
+        "answer": " W) SILICON DIOXIDE"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following conjugate acid-base pairs will NOT\nfunction as a buffer?\nW) HNO and NO -\n3 3\nX) NH and NH +\n3 4\nY) CH COOH and CH COO-\n3 3\nZ) HF and F-\nANSWER: W) HNO AND NO -\n3 3",
-        "subject": "",
-        "answer": "3, 1, 4, 2 (ACCEPT: PRIMARY BRONCHUS, BRONCHIOLE, ALVEOLAR DUCT,ALVEOLAR SAC)TOSS UP2. CHEMISTRY Multiple Choice Which of the following conjugate acid-base pairs will NOTfunction as a buffer?W) HNO and NO -3 3X) NH and NH +3 4Y) CH COOH and CH COO-3 3Z) HF and F-ANSWER: W) HNO AND NO -3 3"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is equivalent to [25 to the power of\nthe log base 5 of 8]? log58\n25\nW)\nX)\nY) 8\nZ) 16\n64\nAN1S2W8ER: Y)",
-        "subject": "",
-        "answer": "1) 1, 2) 2, 3) 10Round Robin ~ Round 5 Page 1TOSS UP3. MATH Multiple Choice Which of the following is equivalent to [25 to the power ofthe log base 5 of 8]? log5825W)X)Y) 8Z) 1664AN1S2W8ER: Y)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Suppose woodchucks can chuck 1 cords of wood in hours;\n1 1 1\nproviding your answer as a fraction in simplest form, how many cords of wood can 1 woodchuck\n22 4 15\nchuck in 1 hour?\nANSWER:\n5/12\nTOSS UP\n4. PHYSICS Multiple Choice A block floats at rest with 1/3 of its total volume below the surface\nof the water. The block is pushed down until it is completely submerged. Which of the following\nis the magnitude of the net force on the block when it is released?\nW) Half of the block\u2019s weight\nX) Equal to the block\u2019s weight\nY) Twice the block\u2019s weight\nZ) Three times the block\u2019s weight",
-        "subject": "",
-        "answer": "Y) TWICE THE BLOCK\u2019S WEIGHT"
+        "content": " Arrange the following four choices from proximal to distal of the\ntrachea [truh-KE-uh]: 1) bronchiole [BRONG-kee-ohl], 2) alveolar [al-VEE-uh-ler] sac, 3)\nprimary bronchus, 4) alveolar duct.",
+        "answer": " 3, 1, 4, 2 (ACCEPT: PRIMARY BRONCHUS, BRONCHIOLE, ALVEOLAR DUCT,\nALVEOLAR SAC)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following conjugate acid-base pairs will NOT\nfunction as a buffer?\nW) HNO and NO -\n3 3\nX) NH and NH +\n3 4\nY) CH COOH and CH COO-\n3 3\nZ) HF and F-",
+        "answer": " W) HNO AND NO -\n3 3"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " After the Mount St. Helens volcanic eruption, what type\nof mudflow resulted from glacial melting and caused extensive damage?\nANSWER: LAHAR",
-        "subject": "",
-        "answer": "11Round Robin ~ Round 5 Page 2TOSS UP5. EARTH AND SPACE Short Answer After the Mount St. Helens volcanic eruption, what typeof mudflow resulted from glacial melting and caused extensive damage?ANSWER: LAHAR"
+        "content": " Giving your answers to the nearest integers, identify the\npressure in atmospheres of a gas that starts at 1 atmosphere and 23\u00b0 Celsius at each of the\nfollowing three temperatures: 1) 52o, 2) 317o, 3) 2700o.",
+        "answer": " 1) 1, 2) 2, 3) 10"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " In which of the following sets of three states is most U.S. oil shale\nlocated?\nW) Utah, Montana, and Idaho\nX) Colorado, Nevada, and New Mexico\nY) Colorado, Utah, and Wyoming\nZ) Montana, Colorado, and Utah\nANSWER: Y) COLORADO, UTAH, AND WYOMING",
-        "subject": "",
-        "answer": "Z) TOBATOSS UP6. ENERGY Multiple Choice In which of the following sets of three states is most U.S. oil shalelocated?W) Utah, Montana, and IdahoX) Colorado, Nevada, and New MexicoY) Colorado, Utah, and WyomingZ) Montana, Colorado, and UtahANSWER: Y) COLORADO, UTAH, AND WYOMING"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following methods of fish harvesting is most\ndamaging to benthic habitats?\nW) Purse-seining [SAYN-ing]\nX) Long-lining\nY) Drift-net fishing\nZ) Bottom trawling\nANSWER: Z) BOTTOM TRAWLING",
-        "subject": "",
-        "answer": "6,000,000Round Robin ~ Round 5 Page 3TOSS UP7. BIOLOGY Multiple Choice Which of the following methods of fish harvesting is mostdamaging to benthic habitats?W) Purse-seining [SAYN-ing]X) Long-liningY) Drift-net fishingZ) Bottom trawlingANSWER: Z) BOTTOM TRAWLING"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following elements is a metalloid?\nW) Copper\nX) Magnesium\nY) Silicon\nZ) Sulfur\nANSWER: Y) SILICON",
-        "subject": "",
-        "answer": "Z) BRISTLES ACT AS NETS, CATCHING INSECTS THAT THE BIRD MISSESWITH ITS BILLTOSS UP8. CHEMISTRY Multiple Choice Which of the following elements is a metalloid?W) CopperX) MagnesiumY) SiliconZ) SulfurANSWER: Y) SILICON"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " A room contains 2000 gnats at 12:00 noon and the number of gnats in\nthe room doubles every 6 minutes. The room is filled with gnats at 1:00 p.m. To the nearest\nminute, at what time was the room one-fourth full of gnats?\nANSWER: 12:48 p.m.",
-        "subject": "",
-        "answer": "9.5 (ACCEPT: 9.6)Round Robin ~ Round 5 Page 4TOSS UP9. MATH Short Answer A room contains 2000 gnats at 12:00 noon and the number of gnats inthe room doubles every 6 minutes. The room is filled with gnats at 1:00 p.m. To the nearestminute, at what time was the room one-fourth full of gnats?ANSWER: 12:48 p.m."
+        "content": " Suppose woodchucks can chuck 1 cords of wood in hours;\n1 1 1\nproviding your answer as a fraction in simplest form, how many cords of wood can 1 woodchuck\n22 4 15\nchuck in 1 hour?",
+        "answer": "\n5/12"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " If the position of a moving object in meters is given by s t\n[s of t equals 4 t cubed minus 6 natural log of t], what is its velocity in meters per sec3ond at\nt seconds? ( ) =t 4 -6Itn\nA =N 3SWER:\n106\nTOSS UP\n10. PHYSICS Multiple Choice A skydiver is falling at a speed slightly less than terminal\nvelocity. Which of the following statements about the magnitude of the forces on the skydiver is\ntrue?\nW) The air resistance is less than the weight, and the net force is down\nX) The air resistance is equal to the weight, and the net force is zero\nY) The air resistance is equal to the weight, and the net force is down\nZ) The air resistance is greater than the weight, and the net force is down",
-        "subject": "",
-        "answer": "W) THE AIR RESISTANCE IS LESS THAN THE WEIGHT, AND THE NET FORCEIS DOWN"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Which of the Galilean moons experiences the\nstrongest tidal forces?\nANSWER: IO",
-        "subject": "",
-        "answer": "X) 45\u00b0Round Robin ~ Round 5 Page 5TOSS UP11. EARTH AND SPACE Short Answer Which of the Galilean moons experiences thestrongest tidal forces?ANSWER: IO"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following organisms would be described as\ndemersal?\nW) Anchovy\nX) Flounder\nY) Tuna\nZ) Sailfish\nANSWER: X) FLOUNDER",
-        "subject": "",
-        "answer": "Z) WASATCH MOUNTAINSTOSS UP12. BIOLOGY Multiple Choice Which of the following organisms would be described asdemersal?W) AnchovyX) FlounderY) TunaZ) SailfishANSWER: X) FLOUNDER"
+        "content": " A block floats at rest with 1/3 of its total volume below the surface\nof the water. The block is pushed down until it is completely submerged. Which of the following\nis the magnitude of the net force on the block when it is released?\nW) Half of the block\u2019s weight\nX) Equal to the block\u2019s weight\nY) Twice the block\u2019s weight\nZ) Three times the block\u2019s weight",
+        "answer": " Y) TWICE THE BLOCK\u2019S WEIGHT"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " According to the VSEPR model, what is the molecular\ngeometry of carbon dioxide?\nANSWER: LINEAR",
-        "subject": "",
-        "answer": "W) COEVOLUTION OF FLOWERS AND HUMMINGBIRDS, LEADING TOSPECIALIZATION OF HUMMINGBIRDS ON PARTICULAR FLOWERSRound Robin ~ Round 5 Page 6TOSS UP13. CHEMISTRY Short Answer According to the VSEPR model, what is the moleculargeometry of carbon dioxide?ANSWER: LINEAR"
+        "content": " A 2 kilogram box is pushed forward with a 10 newton force while it\nexperiences a 5 newton force of kinetic friction in the opposite direction. Providing your answer\nto the nearest meter, after 3 seconds, how far has the box moved?",
+        "answer": " 11"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " If f x is an odd function and [the integral from 0 to 4\n4\nof f of x dx equals 6] then what is the value of [the integral from negative 4 to 4\n( ) \u222b0 \ud835\udc53\ud835\udc53 (\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 6\nof f of x dx]? 4\n\u222b\u22124\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65\nANSWER:",
-        "subject": "",
-        "answer": "1) BENT (ACCEPT: BENT 109 OR V-SHAPED), 2) TRIGONAL BIPYRAMIDAL, 3)TRIGONAL PYRAMIDAL, 4) TRIGONAL PLANARTOSS UP14. MATH Short Answer If f x is an odd function and [the integral from 0 to 44of f of x dx equals 6] then what is the value of [the integral from negative 4 to 4( ) \u222b0 \ud835\udc53\ud835\udc53 (\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 6of f of x dx]? 4\u222b\u22124\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65ANSWER:"
+        "content": " After the Mount St. Helens volcanic eruption, what type\nof mudflow resulted from glacial melting and caused extensive damage?",
+        "answer": " LAHAR"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following volcanoes erupted the most\nsulfuric acid into the atmosphere?\nW) Mount St. Helens\nX) Pinatubo\nY) Tambora\nZ) Toba",
+        "answer": " Z) TOBA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following sets of three states is most U.S. oil shale\nlocated?\nW) Utah, Montana, and Idaho\nX) Colorado, Nevada, and New Mexico\nY) Colorado, Utah, and Wyoming\nZ) Montana, Colorado, and Utah",
+        "answer": " Y) COLORADO, UTAH, AND WYOMING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Find the length, to the nearest tenth of a centimeter, of the arc of a\ncircle with a radius of 6 centimeters that is intercepted by a central angle that measures 15\ndegrees.\nANSWER:\n1.6\nRound Robin ~ Round 5 Page 7\nTOSS UP\n15. PHYSICS Short Answer A student is in a rollercoaster that is going through a loop on the\ninside of the track. At the top of the loop, the normal force on the student has a magnitude of\n100 newtons. If the student\u2019s weight and mass are 500 newtons and 50 kilograms, respectively,\nthen what is the magnitude of the student\u2019s acceleration at the top of the loop in meters per\nsecond squared?",
-        "subject": "",
-        "answer": "12"
+        "content": " If a million people leave their cell phone chargers plugged in\nunnecessarily for 16 hours per day and each charger consumes 1 watt when not in use,\nproviding your answer to the nearest million, how many kilowatt-hours are consumed per year\nwhile the chargers are plugged in but not charging?",
+        "answer": " 6,000,000"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following statements about\ngroundwater is NOT true?\nW) Precipitation becomes groundwater after falling to the ground and seeping into aquifers\nX) Groundwater occurs almost everywhere beneath the land surface\nY) Groundwater flows mainly in underground rivers\nZ) Groundwater is naturally pure and usually remains undisturbed for years before it is used\nANSWER: Y) GROUNDWATER FLOWS MAINLY IN UNDERGROUND RIVERS",
-        "subject": "",
-        "answer": "2.5TOSS UP16. EARTH AND SPACE Multiple Choice Which of the following statements aboutgroundwater is NOT true?W) Precipitation becomes groundwater after falling to the ground and seeping into aquifersX) Groundwater occurs almost everywhere beneath the land surfaceY) Groundwater flows mainly in underground riversZ) Groundwater is naturally pure and usually remains undisturbed for years before it is usedANSWER: Y) GROUNDWATER FLOWS MAINLY IN UNDERGROUND RIVERS"
+        "content": " Which of the following methods of fish harvesting is most\ndamaging to benthic habitats?\nW) Purse-seining [SAYN-ing]\nX) Long-lining\nY) Drift-net fishing\nZ) Bottom trawling",
+        "answer": " Z) BOTTOM TRAWLING"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Who is generally credited with defining the term horsepower?\nW) Thomas Edison\nX) James Watt\nY) Michael Faraday\nZ) Samuel Clinton\nANSWER: X) JAMES WATT",
-        "subject": "",
-        "answer": "OLIVINERound Robin ~ Round 5 Page 8TOSS UP17. ENERGY Multiple Choice Who is generally credited with defining the term horsepower?W) Thomas EdisonX) James WattY) Michael FaradayZ) Samuel ClintonANSWER: X) JAMES WATT"
+        "content": " Long bristles are found around the bills of insectivorous [in-sek-\nTIV-er-uhs] birds. How might these bristles help birds when they catch prey?\nW) Bristles help birds snap up insects by improving the bird\u2019s aerial balance\nX) Bristles protect the bird\u2019s nares [NAIR-eez] from an insect\u2019s legs\nY) Bristles function only for attracting a mate, not for catching prey\nZ) Bristles act as nets, catching insects that the bird misses with its bill",
+        "answer": " Z) BRISTLES ACT AS NETS, CATCHING INSECTS THAT THE BIRD MISSES\nWITH ITS BILL"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following invertebrate groups has the\nmost complex nervous system?\nW) Crustaceans [kruh-STAY-shuhns]\nX) Cephalopods [SEF-uh-luh-pods]\nY) Scyphozoans [sy-fuh-ZOH-uhns]\nZ) Segmented worms\nANSWER: X) CEPHALOPODS",
-        "subject": "",
-        "answer": "63/64TOSS UP18. BIOLOGY Multiple Choice Which of the following invertebrate groups has themost complex nervous system?W) Crustaceans [kruh-STAY-shuhns]X) Cephalopods [SEF-uh-luh-pods]Y) Scyphozoans [sy-fuh-ZOH-uhns]Z) Segmented wormsANSWER: X) CEPHALOPODS"
+        "content": " Which of the following elements is a metalloid?\nW) Copper\nX) Magnesium\nY) Silicon\nZ) Sulfur",
+        "answer": " Y) SILICON"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT a colligative property?\nW) Solubility\nX) Freezing point depression\nY) Boiling point elevation\nZ) Osmotic pressure\nANSWER: W) SOLUBILITY",
-        "subject": "",
-        "answer": "Y) LESS SEASONALITY IN PACK ICERound Robin ~ Round 5 Page 9TOSS UP19. CHEMISTRY Multiple Choice Which of the following is NOT a colligative property?W) SolubilityX) Freezing point depressionY) Boiling point elevationZ) Osmotic pressureANSWER: W) SOLUBILITY"
-    },
-    {
-        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " How many unique 5-letter arrangements are possible from the letters\nin the word PAPER?\nANSWER:",
-        "subject": "",
-        "answer": "1) 3d, 2) 4d, 3) 3pTOSS UP20. MATH Short Answer How many unique 5-letter arrangements are possible from the lettersin the word PAPER?ANSWER:"
+        "content": " Assuming that the transition of an electron in the hydrogen atom\nfrom the fourth to the second electron energy level is two electron volts, providing your answer\nto the nearest tenth, how many electronvolts is the transition between the first and third energy\nlevel?",
+        "answer": " 9.5 (ACCEPT: 9.6)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " You stand 2 meters from a point source of sound. Ignoring any\neffects due to reflection and providing your answer as a fraction in simplest form, by what factor\nwould the intensity of sound be multiplied if you were to move to a position 3 meters from the\nsource?\nANSWER: 4/9",
-        "subject": "",
-        "answer": "(4, 2)5/4Round Robin ~ Round 5 Page 10TOSS UP21. PHYSICS Short Answer You stand 2 meters from a point source of sound. Ignoring anyeffects due to reflection and providing your answer as a fraction in simplest form, by what factorwould the intensity of sound be multiplied if you were to move to a position 3 meters from thesource?ANSWER: 4/9"
+        "content": " A room contains 2000 gnats at 12:00 noon and the number of gnats in\nthe room doubles every 6 minutes. The room is filled with gnats at 1:00 p.m. To the nearest\nminute, at what time was the room one-fourth full of gnats?",
+        "answer": " 12:48 p.m."
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A skydiver is falling at a speed slightly less than terminal\nvelocity. Which of the following statements about the magnitude of the forces on the skydiver is\ntrue?\nW) The air resistance is less than the weight, and the net force is down\nX) The air resistance is equal to the weight, and the net force is zero\nY) The air resistance is equal to the weight, and the net force is down\nZ) The air resistance is greater than the weight, and the net force is down",
+        "answer": " W) THE AIR RESISTANCE IS LESS THAN THE WEIGHT, AND THE NET FORCE\nIS DOWN"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A laser beam moves from inside a glass block with an index of\nrefraction of 1.4 to a vacuum. Which of the following angles in degrees best represents the\ncritical angle where total internal reflection will begin to occur?\nW) 30\u00b0\nX) 45\u00b0\nY) 60\u00b0\nZ) 135\u00b0",
+        "answer": " X) 45\u00b0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " As corals grow and expand, reefs take on one of three\nmajor characteristic structures. Name all three.\nANSWER: FRINGING, BARRIER, AND ATOLL",
-        "subject": "",
-        "answer": "0.25TOSS UP22. EARTH AND SPACE Short Answer As corals grow and expand, reefs take on one of threemajor characteristic structures. Name all three.ANSWER: FRINGING, BARRIER, AND ATOLL"
+        "content": " Which of the Galilean moons experiences the\nstrongest tidal forces?",
+        "answer": " IO"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the typical electrical efficiency of a large\nenergy-efficient electric motor?\nW) 74%\nX) 89%\nY) 94%\nZ) 99%\nANSWER: Y) 94%",
-        "subject": "",
-        "answer": "SPECIFIC HEATRound Robin ~ Round 5 Page 11TOSS UP23. ENERGY Multiple Choice Which of the following is the typical electrical efficiency of a largeenergy-efficient electric motor?W) 74%X) 89%Y) 94%Z) 99%ANSWER: Y) 94%"
+        "content": " Which of the following mountain ranges exhibits\nbasin and range topography?\nW) Cascade Mountains\nX) Rocky Mountains\nY) Appalachian Mountains\nZ) Wasatch Mountains",
+        "answer": " Z) WASATCH MOUNTAINS"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " If the two alleles for color sensitivity are Xb [X-little-B] = color-\nblind, and XB [X-big-B] = color-sensitive, which of the following genotypes corresponds to a\ncolor-blind individual?\nW) XBXb [X-big-B-X-little-B]\nX) XBXB [X-big-B-X-big-B]\nY) XbY [X-little-B-Y]\nZ) XBY [X-big-B-Y]\nANSWER: Y) XbY",
-        "subject": "",
-        "answer": "W) A 1 KILOGRAM MASS MOVING AT 10 METERS PER SECONDTOSS UP24. BIOLOGY Multiple Choice If the two alleles for color sensitivity are Xb [X-little-B] = color-blind, and XB [X-big-B] = color-sensitive, which of the following genotypes corresponds to acolor-blind individual?W) XBXb [X-big-B-X-little-B]X) XBXB [X-big-B-X-big-B]Y) XbY [X-little-B-Y]Z) XBY [X-big-B-Y]ANSWER: Y) XbY"
+        "content": " Which of the following organisms would be described as\ndemersal?\nW) Anchovy\nX) Flounder\nY) Tuna\nZ) Sailfish",
+        "answer": " X) FLOUNDER"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " The energy of a photon is directly proportional to which of\nthe following properties?\nW) Intensity\nX) Frequency\nY) Polarity\nZ) Wavelength\nANSWER: X) FREQUENCY",
-        "subject": "",
-        "answer": "X) RADIOLARIANSRound Robin ~ Round 5 Page 12TOSS UP25. CHEMISTRY Multiple Choice The energy of a photon is directly proportional to which ofthe following properties?W) IntensityX) FrequencyY) PolarityZ) WavelengthANSWER: X) FREQUENCY"
+        "content": " Different species of hummingbirds have bills that vary in length\nand shape, matching the structure of the flowers on which they feed. Which of the following\nevolutionary scenarios best explains this diversity of hummingbird bill morphology?\nW) Coevolution of flowers and hummingbirds, leading to specialization of hummingbirds on\nparticular flowers\nX) Random mutation of plants to develop varying flower shapes, and subsequent evolution of\nhummingbird bills to match these shapes\nY) Evolutionary race between flowers and hummingbirds, in which flowers become more\nextreme in shape to prevent nectar feeding\nZ) Evolution of various bill shapes, since all hummingbirds opportunistically feed on many\ndifferent species of flower, regardless of shape",
+        "answer": " W) COEVOLUTION OF FLOWERS AND HUMMINGBIRDS, LEADING TO\nSPECIALIZATION OF HUMMINGBIRDS ON PARTICULAR FLOWERS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " According to the VSEPR model, what is the molecular\ngeometry of carbon dioxide?",
+        "answer": " LINEAR"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Identify, respectively, the VSEPR theory shapes of the\nfollowing four molecules: 1) sulfur dioxide, 2) phosphorous pentachloride, 3) ammonia, and 4)\nboron trichloride.",
+        "answer": " 1) BENT (ACCEPT: BENT 109 OR V-SHAPED), 2) TRIGONAL BIPYRAMIDAL, 3)\nTRIGONAL PYRAMIDAL, 4) TRIGONAL PLANAR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If f x is an odd function and [the integral from 0 to 4\n4\nof f of x dx equals 6] then what is the value of [the integral from negative 4 to 4\n( ) \u222b0 \ud835\udc53\ud835\udc53 (\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 6\nof f of x dx]? 4\n\u222b\u22124\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the length, to the nearest tenth of a centimeter, of the arc of a\ncircle with a radius of 6 centimeters that is intercepted by a central angle that measures 15\ndegrees.",
+        "answer": "\n1.6"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A student is in a rollercoaster that is going through a loop on the\ninside of the track. At the top of the loop, the normal force on the student has a magnitude of\n100 newtons. If the student\u2019s weight and mass are 500 newtons and 50 kilograms, respectively,\nthen what is the magnitude of the student\u2019s acceleration at the top of the loop in meters per\nsecond squared?",
+        "answer": " 12"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A pendulum that has a period of 2 seconds on the Earth is moved\nto another planet where the period is now 4 seconds. Given the acceleration due to gravity on\nEarth as 10 meters per second squared and providing your answer to two significant figures,\nwhat is the acceleration due to gravity on this new planet in meters per second squared?",
+        "answer": " 2.5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements about\ngroundwater is NOT true?\nW) Precipitation becomes groundwater after falling to the ground and seeping into aquifers\nX) Groundwater occurs almost everywhere beneath the land surface\nY) Groundwater flows mainly in underground rivers\nZ) Groundwater is naturally pure and usually remains undisturbed for years before it is used",
+        "answer": " Y) GROUNDWATER FLOWS MAINLY IN UNDERGROUND RIVERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What mineral commonly comprises green sand\nbeaches forming in volcanic areas?",
+        "answer": " OLIVINE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Who is generally credited with defining the term horsepower?\nW) Thomas Edison\nX) James Watt\nY) Michael Faraday\nZ) Samuel Clinton",
+        "answer": " X) JAMES WATT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " The half life of radium is 1600 years. What fraction of the original\nquantity of radium has decayed after 9600 years?",
+        "answer": " 63/64"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following invertebrate groups has the\nmost complex nervous system?\nW) Crustaceans [kruh-STAY-shuhns]\nX) Cephalopods [SEF-uh-luh-pods]\nY) Scyphozoans [sy-fuh-ZOH-uhns]\nZ) Segmented worms",
+        "answer": " X) CEPHALOPODS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Compared to the Antarctic region, the Arctic region has which of\nthe following?\nW) Fewer endemic species\nX) Fewer terrestrial mammal species\nY) Less seasonality in pack ice\nZ) More flightless birds",
+        "answer": " Y) LESS SEASONALITY IN PACK ICE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a colligative property?\nW) Solubility\nX) Freezing point depression\nY) Boiling point elevation\nZ) Osmotic pressure",
+        "answer": " W) SOLUBILITY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In the following three ions, what are the highest energy\nsublevels, respectively, that contain electrons: 1) Fe2+, 2) Sn4+, 3) P3-?",
+        "answer": " 1) 3d, 2) 4d, 3) 3p"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How many unique 5-letter arrangements are possible from the letters\nin the word PAPER?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer as a fraction in simplest form, what is the slope\nof the tangent line to the curve [y equals the square root of the quantity x\nsquared minus 3 x] at the point 2?\n\ud835\udc66\ud835\udc66 = \u221a\ud835\udc65\ud835\udc65 \u22123\ud835\udc65\ud835\udc65",
+        "answer": " (4, 2)\n5/4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " You stand 2 meters from a point source of sound. Ignoring any\neffects due to reflection and providing your answer as a fraction in simplest form, by what factor\nwould the intensity of sound be multiplied if you were to move to a position 3 meters from the\nsource?",
+        "answer": " 4/9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A wave pulse travels along a string with a speed of 20 meters per\nsecond. If the tension in the string is 100 newtons, providing your answer as a decimal, what is\nthe linear density of the string in kilograms per meter?",
+        "answer": " 0.25"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " As corals grow and expand, reefs take on one of three\nmajor characteristic structures. Name all three.",
+        "answer": " FRINGING, BARRIER, AND ATOLL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Imagine that you\u2019ve just spent a long, hot summer day\nat the beach. The water was cool and refreshing after being out in the hot sun. As the Sun sets\nand night falls, you start to get chilled by the drop in air temperature. You decide to get back into\nthe water, and you notice that its temperature doesn\u2019t seem to have changed much. In fact, it is\nwarmer than the air. Which property of water best explains your observation?",
+        "answer": " SPECIFIC HEAT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the typical electrical efficiency of a large\nenergy-efficient electric motor?\nW) 74%\nX) 89%\nY) 94%\nZ) 99%",
+        "answer": " Y) 94%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has the most kinetic energy?\nW) A 1 kilogram mass moving at 10 meters per second\nX) A 2 kilogram mass moving at 7 meters per second\nY) A 0.5 kilogram mass moving at 14 meters per second\nZ) A 0.25 kilogram mass moving at 18 meters per second",
+        "answer": " W) A 1 KILOGRAM MASS MOVING AT 10 METERS PER SECOND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If the two alleles for color sensitivity are Xb [X-little-B] = color-\nblind, and XB [X-big-B] = color-sensitive, which of the following genotypes corresponds to a\ncolor-blind individual?\nW) XBXb [X-big-B-X-little-B]\nX) XBXB [X-big-B-X-big-B]\nY) XbY [X-little-B-Y]\nZ) XBY [X-big-B-Y]",
+        "answer": " Y) XbY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following groups consists only of organisms\nincapable of photosynthesizing without the aid of symbiotic organisms?\nW) Dinoflagellates [din-uh-FLAJ-uh-layts]\nX) Radiolarians [ray-dee-oh-LAIR-ee-uhns]\nY) Diatoms\nZ) Bacteria",
+        "answer": " X) RADIOLARIANS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The energy of a photon is directly proportional to which of\nthe following properties?\nW) Intensity\nX) Frequency\nY) Polarity\nZ) Wavelength",
+        "answer": " X) FREQUENCY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " At extremely high temperatures and pressures, nitrogen gas\nand oxygen gas react to produce nitrogen dioxide gas. If the cylinder volume in which this\nreaction takes place is doubled and the temperature is held constant, which of the following\neffects will this have on the reaction?\nW) No effect\nX) The reaction will shift to the left\nY) The reaction will shift to the right\nZ) The equilibrium [ee-kwuh-LIB-ree-uhm] constant will double",
-        "subject": "",
-        "answer": "X) THE REACTION WILL SHIFT TO THE LEFTRound Robin ~ Round 5 Page 13"
+        "answer": " X) THE REACTION WILL SHIFT TO THE LEFT"
     }
 ]

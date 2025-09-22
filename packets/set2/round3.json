@@ -1,183 +1,338 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Solve the following equation for x x x x [2 open\nbrackets x minus open parenthesis 3x plus 1 close parenthesis close brackets equals 4\nminus 2x]. : 2[ \u2013 (3 + 1)] = 4 \u2013 2",
-        "subject": "",
-        "answer": "x"
+        "answer": " x"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What geomorphic province is best described as an area\nconsisting of separate broad mountain ranges separated by broad valleys?\nANSWER: BASIN AND RANGE",
-        "subject": "",
-        "answer": "6TOSS UP2. EARTH AND SPACE Short Answer What geomorphic province is best described as an areaconsisting of separate broad mountain ranges separated by broad valleys?ANSWER: BASIN AND RANGE"
+        "content": " How many zeroes are at the end of 25! [25 factorial]?",
+        "answer": " 6"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT an effect of epinephrine [e-puh-\nNE-fruhn]?\nW) Decreased blood pressure\nX) Increased breathing rate\nY) Decreased digestion\nZ) Glycogenolysis [gly-KUH-juh-NOL-i-sis]\nANSWER: W) DECREASED BLOOD PRESSURE",
-        "subject": "",
-        "answer": "X) DENDROCHRONOLOGYRound Robin ~ Round 3 Page 1TOSS UP3. BIOLOGY Multiple Choice Which of the following is NOT an effect of epinephrine [e-puh-NE-fruhn]?W) Decreased blood pressureX) Increased breathing rateY) Decreased digestionZ) Glycogenolysis [gly-KUH-juh-NOL-i-sis]ANSWER: W) DECREASED BLOOD PRESSURE"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " If the amplitude of a simple harmonic oscillator is decreased to 50%\nof its initial value, providing your answer as a decimal, compute the ratio of its final energy to its\ninitial energy.\nANSWER: 0.25",
-        "subject": "",
-        "answer": "X) ICHTHYOPLANKTONTOSS UP4. PHYSICS Short Answer If the amplitude of a simple harmonic oscillator is decreased to 50%of its initial value, providing your answer as a decimal, compute the ratio of its final energy to itsinitial energy.ANSWER: 0.25"
+        "content": " What geomorphic province is best described as an area\nconsisting of separate broad mountain ranges separated by broad valleys?",
+        "answer": " BASIN AND RANGE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is considered a zero marginal cost\ngenerator?\nW) Nuclear\nX) Wind\nY) Biomass\nZ) Geothermal\nANSWER: X) WIND",
-        "subject": "",
-        "answer": "1Round Robin ~ Round 3 Page 2TOSS UP5. ENERGY Multiple Choice Which of the following is considered a zero marginal costgenerator?W) NuclearX) WindY) BiomassZ) GeothermalANSWER: X) WIND"
+        "content": " A new study has found that white spruce trees on the\nedge of the tundra in Alaska\u2019s far north have thrived in the past 100 years. Which of the\nfollowing methodologies was most likely used to determine the age of the trees?\nW) Sclerochronology\nX) Dendrochronology\nY) Radiometric dating\nZ) Acanthochronology",
+        "answer": " X) DENDROCHRONOLOGY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT an effect of epinephrine [e-puh-\nNE-fruhn]?\nW) Decreased blood pressure\nX) Increased breathing rate\nY) Decreased digestion\nZ) Glycogenolysis [gly-KUH-juh-NOL-i-sis]",
+        "answer": " W) DECREASED BLOOD PRESSURE"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During a plankton tow, you catch many fish larvae. Which of the\nfollowing categories best characterizes your organisms?\nW) Holoplankton\nX) Ichthyoplankton [ik-thee-uh-PLAN(k)-tuhn]\nY) Larvaceans [lahr-vuh-SEE-uhns]\nZ) Mysids [MY-sids]",
+        "answer": " X) ICHTHYOPLANKTON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " What is the molecular geometry of sulfur tetrafluoride?\nANSWER: SEESAW",
-        "subject": "",
-        "answer": "2904TOSS UP6. CHEMISTRY Short Answer What is the molecular geometry of sulfur tetrafluoride?ANSWER: SEESAW"
+        "content": " If the amplitude of a simple harmonic oscillator is decreased to 50%\nof its initial value, providing your answer as a decimal, compute the ratio of its final energy to its\ninitial energy.",
+        "answer": " 0.25"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " What is the ratio of the area of a square that circumscribes a circle to\nthe area of a square inscribed in the same circle?\nANSWER: TO (ACCEPT: 2)\n2 1",
-        "subject": "",
-        "answer": "Z) 1.00Round Robin ~ Round 3 Page 3TOSS UP7. MATH Short Answer What is the ratio of the area of a square that circumscribes a circle tothe area of a square inscribed in the same circle?ANSWER: TO (ACCEPT: 2)2 1"
+        "content": " Three capacitors with capacitances of 2 microfarads, 2.5\nmicrofarads, and 10 microfarads are connected in series. Find the combined capacitance in\nmicrofarads.",
+        "answer": " 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is considered a zero marginal cost\ngenerator?\nW) Nuclear\nX) Wind\nY) Biomass\nZ) Geothermal",
+        "answer": " X) WIND"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Find the coordinates of the center and the radius of the circle:\nx y x y\n2 2\nAN+S W -E 8R: +C 6EN -T1E1 R= =0 (4, -3); RADIUS = 6\nTOSS UP\n8. EARTH AND SPACE Multiple Choice Which of the following is the term for the depositional\nfeature created as streams deposit sediments beneath a glacier?\nW) Tarn\nX) Esker\nY) Kame\nZ) Arete [ahr-i-TAY]",
-        "subject": "",
-        "answer": "X) ESKER"
+        "content": " How much power in watts is consumed by a motor running at 440\nvolts and drawing 6.6 amperes?",
+        "answer": " 2904"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following recent fossil discoveries helped\nevolutionary biologists understand how tetrapods could have evolved from fishes?\nW) Tiktaalik roseae [tik-TAH-lik roh-ZEE-uh]\nX) Australopithecus sediba [aw-stray-loh-PITH-i-kuhs se-DEE-buh]\nY) Titanoboa [ti-tan-uh-BOH-uh]\nZ) Acherontisuchus guajiraenisis [AK-uh-ron-tee-SU-choos gwah-HEE-rah-EHN-soos]\nANSWER: W) TIKTAALIK ROSEAE",
-        "subject": "",
-        "answer": "ORTHOCLASE (ACCEPT: POTASSIUM FELDSPAR, K-SPAR)Round Robin ~ Round 3 Page 4TOSS UP9. BIOLOGY Multiple Choice Which of the following recent fossil discoveries helpedevolutionary biologists understand how tetrapods could have evolved from fishes?W) Tiktaalik roseae [tik-TAH-lik roh-ZEE-uh]X) Australopithecus sediba [aw-stray-loh-PITH-i-kuhs se-DEE-buh]Y) Titanoboa [ti-tan-uh-BOH-uh]Z) Acherontisuchus guajiraenisis [AK-uh-ron-tee-SU-choos gwah-HEE-rah-EHN-soos]ANSWER: W) TIKTAALIK ROSEAE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " When a piano tuner uses a tuning fork to tune the piano, she\nknows a string is in tune when the beat frequency has which of the following values in hertz?\nW) 0\nX) 2\nY) 10\nZ) 33\nANSWER: W) 0",
-        "subject": "",
-        "answer": "W) DECREASED METHYLATION OF THE AGOUTI GENETOSS UP10. PHYSICS Multiple Choice When a piano tuner uses a tuning fork to tune the piano, sheknows a string is in tune when the beat frequency has which of the following values in hertz?W) 0X) 2Y) 10Z) 33ANSWER: W) 0"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following solid compounds would NOT be\nsoluble to a large extent in water, but would be soluble in hydrochloric acid?\nW) Ba(NO )\n3 2\nX) CuSO\n4\nY) MgCO\n3\nZ) KClO\n4\nANSWER: Y) MgCO\n3",
-        "subject": "",
-        "answer": "X) 8.0 x 10-16Round Robin ~ Round 3 Page 5TOSS UP11. CHEMISTRY Multiple Choice Which of the following solid compounds would NOT besoluble to a large extent in water, but would be soluble in hydrochloric acid?W) Ba(NO )3 2X) CuSO4Y) MgCO3Z) KClO4ANSWER: Y) MgCO3"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following species can be considered partially\nendothermic?\nW) Salmon\nX) Trout\nY) Tuna\nZ) Flounder\nANSWER: Y) TUNA",
-        "subject": "",
-        "answer": "Z) POTASSIUM PHOSPHATETOSS UP12. BIOLOGY Multiple Choice Which of the following species can be considered partiallyendothermic?W) SalmonX) TroutY) TunaZ) FlounderANSWER: Y) TUNA"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " State the quadrant in which [theta] lies if and\n[cotangent of theta is less than 0 and secant of theta is greater than 0].\n\u03b8 cot \u03b8 < 0 sec \u03b8 > 0\nANSWER: IV (ACCEPT: 4 OR FOURTH)",
-        "subject": "",
-        "answer": "3\u2019- ATA GTC GGG-5\u2019 (ACCEPT: 5\u2019-GGG CTG ATA-3\u2019)Round Robin ~ Round 3 Page 6TOSS UP13. MATH Short Answer State the quadrant in which [theta] lies if and[cotangent of theta is less than 0 and secant of theta is greater than 0].\u03b8 cot \u03b8 < 0 sec \u03b8 > 0ANSWER: IV (ACCEPT: 4 OR FOURTH)"
+        "content": " What is the molecular geometry of sulfur tetrafluoride?",
+        "answer": " SEESAW"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following types of sand is commonly\nassociated with beach areas close to tropical reef environments?\nW) White\nX) Quartz\nY) Black\nZ) Green\nANSWER: W) WHITE",
-        "subject": "",
-        "answer": "(DO NOT ACCEPT: )14 23 14+23\ud835\udc56\ud835\udc5629+29\ud835\udc56\ud835\udc56 29TOSS UP14. EARTH AND SPACE Multiple Choice Which of the following types of sand is commonlyassociated with beach areas close to tropical reef environments?W) WhiteX) QuartzY) BlackZ) GreenANSWER: W) WHITE"
+        "content": " A total of 50.0 milliliters of 0.100 molar sulfuric acid are used\nto titrate 10.0 milliliters of sodium hydroxide to its endpoint. Which of the following is the molarity\nof the sodium hydroxide?\nW) 0.025\nX) 0.100\nY) 0.50\nZ) 1.00",
+        "answer": " Z) 1.00"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the ratio of the area of a square that circumscribes a circle to\nthe area of a square inscribed in the same circle?",
+        "answer": " TO (ACCEPT: 2)\n2 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " In many organisms, sex-determination is genetic. However, in\nturtles and crocodiles, this is not the case. Which of the following plays a role in sex-\ndetermination for turtles and crocodiles?\nW) Humidity\nX) Atmospheric pressure\nY) Temperature\nZ) UV index\nANSWER: Y) TEMPERATURE",
-        "subject": "",
-        "answer": "W) HORNBLENDERound Robin ~ Round 3 Page 7TOSS UP15. BIOLOGY Multiple Choice In many organisms, sex-determination is genetic. However, inturtles and crocodiles, this is not the case. Which of the following plays a role in sex-determination for turtles and crocodiles?W) HumidityX) Atmospheric pressureY) TemperatureZ) UV indexANSWER: Y) TEMPERATURE"
+        "content": " Which of the following is the term for the depositional\nfeature created as streams deposit sediments beneath a glacier?\nW) Tarn\nX) Esker\nY) Kame\nZ) Arete [ahr-i-TAY]",
+        "answer": " X) ESKER"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " What is the current in amperes for a simple circuit with a potential\ndifference of 100 volts and two 10 ohm resistors in parallel?\nANSWER: 20",
-        "subject": "",
-        "answer": "Y) SEEDLESS WATERMELONTOSS UP16. PHYSICS Short Answer What is the current in amperes for a simple circuit with a potentialdifference of 100 volts and two 10 ohm resistors in parallel?ANSWER: 20"
+        "content": " Based on Bowen\u2019s reaction series, which feldspar forms\nlast as a magma cools?",
+        "answer": " ORTHOCLASE (ACCEPT: POTASSIUM FELDSPAR, K-SPAR)"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " How many kilowatt-hours do you use annually if you have a 14\nwatt light bulb operating for 2,000 hours per year?\nANSWER: 28",
-        "subject": "",
-        "answer": "W) THE MOMENT OF INERTIA OF THE EARTH WOULD INCREASERound Robin ~ Round 3 Page 8TOSS UP17. ENERGY Short Answer How many kilowatt-hours do you use annually if you have a 14watt light bulb operating for 2,000 hours per year?ANSWER: 28"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " The specific heat of an unknown metal is 0.230 joules per\ngram degree Celsius. A 45.0 gram sample of the metal is heated from 25.0o Celsius to 35.0o\nCelsius. How much heat in joules is required to heat the metal?\nW) 10.4\nX) 104\nY) 342\nZ) 600\nANSWER: X) 104",
-        "subject": "",
-        "answer": "W) TRANSMISSION AND DISTRIBUTIONTOSS UP18. CHEMISTRY Multiple Choice The specific heat of an unknown metal is 0.230 joules pergram degree Celsius. A 45.0 gram sample of the metal is heated from 25.0o Celsius to 35.0oCelsius. How much heat in joules is required to heat the metal?W) 10.4X) 104Y) 342Z) 600ANSWER: X) 104"
+        "content": " Which of the following recent fossil discoveries helped\nevolutionary biologists understand how tetrapods could have evolved from fishes?\nW) Tiktaalik roseae [tik-TAH-lik roh-ZEE-uh]\nX) Australopithecus sediba [aw-stray-loh-PITH-i-kuhs se-DEE-buh]\nY) Titanoboa [ti-tan-uh-BOH-uh]\nZ) Acherontisuchus guajiraenisis [AK-uh-ron-tee-SU-choos gwah-HEE-rah-EHN-soos]",
+        "answer": " W) TIKTAALIK ROSEAE"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " If [the fraction with numerator x minus y and\n\ud835\udc65\ud835\udc65\u2212\ud835\udc66\ud835\udc66 9\ndenominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form,\n\ud835\udc65\ud835\udc65+\ud835\udc66\ud835\udc66 = 13\ncompute the value of .\n\ud835\udc65\ud835\udc65\n\ud835\udc66\ud835\udc66\nANSWER:\n11",
-        "subject": "",
-        "answer": "1) 2, 2) 3, 3) 2, 4) 5Round Robin ~ Round 3 Page 9TOSS UP19. MATH Short Answer If [the fraction with numerator x minus y and\ud835\udc65\ud835\udc65\u2212\ud835\udc66\ud835\udc66 9denominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form,\ud835\udc65\ud835\udc65+\ud835\udc66\ud835\udc66 = 13compute the value of .\ud835\udc65\ud835\udc65\ud835\udc66\ud835\udc66ANSWER:11"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " The slope of a line is The two points with coordinates\ny are on the line. Determine the value of y.\n-2/3. (4, 7) and\n(A-N2,S W)ER:\n11\nTOSS UP\n20. EARTH AND SPACE Multiple Choice Normal faults suggest which of the following sorts of\nforces on the crust?\nW) Tension\nX) Shear\nY) Compression\nZ) Listral",
-        "subject": "",
-        "answer": "W) TENSION"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the name of the muscle in humans that\nextends the forearm?\nW) Triceps brachii [BRAY-kee-ee]\nX) Biceps brachii\nY) Pronator teres\nZ) Brachialis [bray-kee-AL-uhs]\nANSWER: W) TRICEPS BRACHII",
-        "subject": "",
-        "answer": "Z) MUCH LESS THAN ONE TENTH AS MUCHRound Robin ~ Round 3 Page 10TOSS UP21. BIOLOGY Multiple Choice Which of the following is the name of the muscle in humans thatextends the forearm?W) Triceps brachii [BRAY-kee-ee]X) Biceps brachiiY) Pronator teresZ) Brachialis [bray-kee-AL-uhs]ANSWER: W) TRICEPS BRACHII"
+        "content": " Which of the following mechanisms would best explain how\nbisphenol A causes above average production of yellow agouti [uh-GOO-tee] mice?\nW) Decreased methylation [meth-uh-LAY-shuhn] of the agouti [uh-GOO-tee] gene\nX) Increased methylation of the agouti gene\nY) Decreased phosphorylation [FOS-fer-uh-lay-shuhn] of the agouti gene\nZ) Increased phosphorylation of the agouti gene",
+        "answer": " W) DECREASED METHYLATION OF THE AGOUTI GENE"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " For a small ball at the end of a string, calculate the angular\nmomentum in joule seconds if the ball weighs 3 kilograms, has a tangential velocity of 10\nmeters per second, and has an orbit with a 10 meter radius?\nW) 33.3\nX) 100\nY) 300\nZ) 900\nANSWER: Y) 300",
-        "subject": "",
-        "answer": "Y) FORAMEN MAGNUMTOSS UP22. PHYSICS Multiple Choice For a small ball at the end of a string, calculate the angularmomentum in joule seconds if the ball weighs 3 kilograms, has a tangential velocity of 10meters per second, and has an orbit with a 10 meter radius?W) 33.3X) 100Y) 300Z) 900ANSWER: Y) 300"
+        "content": " When a piano tuner uses a tuning fork to tune the piano, she\nknows a string is in tune when the beat frequency has which of the following values in hertz?\nW) 0\nX) 2\nY) 10\nZ) 33",
+        "answer": " W) 0"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Kirchhoff's second law states that the directed sum of the voltage\naround any closed circuit is equal to what?\nANSWER: ZERO",
-        "subject": "",
-        "answer": "X) THE MAXIMUM KINETIC ENERGY OF THE PHOTOELECTRONS EMITTEDINCREASESRound Robin ~ Round 3 Page 11TOSS UP23. ENERGY Short Answer Kirchhoff's second law states that the directed sum of the voltagearound any closed circuit is equal to what?ANSWER: ZERO"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " What type of white blood cell differentiates to form antibody\nsecreting cells and memory cells?\nANSWER: B LYMPHOCYTE (ACCEPT: B CELL)",
-        "subject": "",
-        "answer": "$15TOSS UP24. BIOLOGY Short Answer What type of white blood cell differentiates to form antibodysecreting cells and memory cells?ANSWER: B LYMPHOCYTE (ACCEPT: B CELL)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the maximum number of orbitals\nallowed when l = 5 [L equals 5]?\nW) 2\nX) 5\nY) 11\nZ) 13\nANSWER: Y) 11",
-        "subject": "",
-        "answer": "4 (ACCEPT: ASCENDING LIMB OF THE LOOP OF HENLE)Round Robin ~ Round 3 Page 12TOSS UP25. CHEMISTRY Multiple Choice Which of the following is the maximum number of orbitalsallowed when l = 5 [L equals 5]?W) 2X) 5Y) 11Z) 13ANSWER: Y) 11"
+        "content": " An electron is accelerated through a potential difference of 5.0\nkilovolts. Which of the following is the kinetic energy in joules gained in the process?\nW) 8.0 x 1022\nX) 8.0 x 10-16\nY) 1.6 x 10-16\nZ) 1.6 x 10-22",
+        "answer": " X) 8.0 x 10-16"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following solid compounds would NOT be\nsoluble to a large extent in water, but would be soluble in hydrochloric acid?\nW) Ba(NO )\n3 2\nX) CuSO\n4\nY) MgCO\n3\nZ) KClO\n4",
+        "answer": " Y) MgCO\n3"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Assuming complete dissociation and the absence of ion\npairing, which of the following 1.00 molar aqueous solutions would have the lowest freezing\npoint?\nW) Sucrose\nX) Sodium chloride\nY) Calcium hydroxide\nZ) Potassium phosphate",
+        "answer": " Z) POTASSIUM PHOSPHATE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following species can be considered partially\nendothermic?\nW) Salmon\nX) Trout\nY) Tuna\nZ) Flounder",
+        "answer": " Y) TUNA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " During DNA replication, what would be the complement of the\ntemplate strand: 5\u2019 [5 prime]-TAT CAG CCC-3\u2019 [3 prime], including strand polarity in your\nanswer.",
+        "answer": " 3\u2019- ATA GTC GGG-5\u2019 (ACCEPT: 5\u2019-GGG CTG ATA-3\u2019)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " State the quadrant in which [theta] lies if and\n[cotangent of theta is less than 0 and secant of theta is greater than 0].\n\u03b8 cot \u03b8 < 0 sec \u03b8 > 0",
+        "answer": " IV (ACCEPT: 4 OR FOURTH)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Express the following quotient of complex numbers in simplest a + bi\nform: [the numerator is 4 plus 3i and the denominator is 5 minus 2i].\n4+3\ud835\udc56\ud835\udc56\n5\u22122\ud835\udc56\ud835\udc56",
+        "answer": " (DO NOT ACCEPT: )\n14 23 14+23\ud835\udc56\ud835\udc56\n29+29\ud835\udc56\ud835\udc56 29"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of sand is commonly\nassociated with beach areas close to tropical reef environments?\nW) White\nX) Quartz\nY) Black\nZ) Green",
+        "answer": " W) WHITE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals shows two directions\nof cleavage?\nW) Hornblende\nX) Calcite\nY) Olivine\nZ) Quartz",
+        "answer": " W) HORNBLENDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In many organisms, sex-determination is genetic. However, in\nturtles and crocodiles, this is not the case. Which of the following plays a role in sex-\ndetermination for turtles and crocodiles?\nW) Humidity\nX) Atmospheric pressure\nY) Temperature\nZ) UV index",
+        "answer": " Y) TEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following organisms is triploid?\nW) Aphid\nX) Escherichia coli [esh-uh-RIK-ee-uh]\nY) Seedless watermelon\nZ) Wheat",
+        "answer": " Y) SEEDLESS WATERMELON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the current in amperes for a simple circuit with a potential\ndifference of 100 volts and two 10 ohm resistors in parallel?",
+        "answer": " 20"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Some scientists have predicted the melting of polar ice caps due\nto climate change. Which of the following changes would be caused by the melting?\nW) The moment of inertia of the Earth would increase\nX) The moment of inertia of the Earth would decrease\nY) The angular momentum associated with the Earth\u2019s rotation would increase\nZ) The angular momentum associated with the Earth\u2019s rotation would decrease",
+        "answer": " W) THE MOMENT OF INERTIA OF THE EARTH WOULD INCREASE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " How many kilowatt-hours do you use annually if you have a 14\nwatt light bulb operating for 2,000 hours per year?",
+        "answer": " 28"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Modern smart grid technology predominantly improves which of\nthe following components of the electricity system?\nW) Transmission and distribution\nX) Fuel extraction\nY) Renewable energy generation\nZ) Fossil fuel energy generation",
+        "answer": " W) TRANSMISSION AND DISTRIBUTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The specific heat of an unknown metal is 0.230 joules per\ngram degree Celsius. A 45.0 gram sample of the metal is heated from 25.0o Celsius to 35.0o\nCelsius. How much heat in joules is required to heat the metal?\nW) 10.4\nX) 104\nY) 342\nZ) 600",
+        "answer": " X) 104"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Providing your answers to the nearest integer, convert the\nfollowing four pressures to atmospheres: 1) 203 kilopascals, 2) 2660 Torr, 3) 2.2 bar, and 4)\n3700 millimeters of mercury.",
+        "answer": " 1) 2, 2) 3, 3) 2, 4) 5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If [the fraction with numerator x minus y and\n\ud835\udc65\ud835\udc65\u2212\ud835\udc66\ud835\udc66 9\ndenominator x plus y equals 9 over 13], providing your answer as a fraction in simplest form,\n\ud835\udc65\ud835\udc65+\ud835\udc66\ud835\udc66 = 13\ncompute the value of .\n\ud835\udc65\ud835\udc65\n\ud835\udc66\ud835\udc66",
+        "answer": "\n11"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Normal faults suggest which of the following sorts of\nforces on the crust?\nW) Tension\nX) Shear\nY) Compression\nZ) Listral",
+        "answer": " W) TENSION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the metallicity of Population\nIII stars as compared to that of the Sun?\nW) Much greater\nX) About the same\nY) About one tenth as much\nZ) Much less than one tenth as much",
+        "answer": " Z) MUCH LESS THAN ONE TENTH AS MUCH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the name of the muscle in humans that\nextends the forearm?\nW) Triceps brachii [BRAY-kee-ee]\nX) Biceps brachii\nY) Pronator teres\nZ) Brachialis [bray-kee-AL-uhs]",
+        "answer": " W) TRICEPS BRACHII"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following foramina of the human skull houses the\nspinal cord?\nW) Foramen ovale [for-A-men oh-VAL-ay]\nX) Foramen incisivum\nY) Foramen magnum\nZ) Foramen spinosum",
+        "answer": " Y) FORAMEN MAGNUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " For a small ball at the end of a string, calculate the angular\nmomentum in joule seconds if the ball weighs 3 kilograms, has a tangential velocity of 10\nmeters per second, and has an orbit with a 10 meter radius?\nW) 33.3\nX) 100\nY) 300\nZ) 900",
+        "answer": " Y) 300"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a photoelectric experiment, if the intensity of the incident light\nbeam is unchanged while the frequency of the light beam is increased, which of the following is\ntrue?\nW) The number of photoelectrons emitted per second increases\nX) The maximum kinetic energy of the photoelectrons emitted increases\nY) The maximum kinetic energy of the photoelectrons emitted decreases\nZ) The maximum kinetic energy of the photoelectrons emitted remains unchanged",
+        "answer": " X) THE MAXIMUM KINETIC ENERGY OF THE PHOTOELECTRONS EMITTED\nINCREASES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Kirchhoff's second law states that the directed sum of the voltage\naround any closed circuit is equal to what?",
+        "answer": " ZERO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a 20 watt computer monitor is left on 5,000 hours per year, how\nmuch does it cost to operate per year if a kilowatt-hour costs $0.15?",
+        "answer": " $15"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What type of white blood cell differentiates to form antibody\nsecreting cells and memory cells?",
+        "answer": " B LYMPHOCYTE (ACCEPT: B CELL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all the following four components of the human kidney that\nextend into the kidney medulla: 1) proximal convoluted tubule, 2) distal convoluted tubule, 3)\nBowman\u2019s capsule, 4) ascending limb of the Loop of Henle.",
+        "answer": " 4 (ACCEPT: ASCENDING LIMB OF THE LOOP OF HENLE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the maximum number of orbitals\nallowed when l = 5 [L equals 5]?\nW) 2\nX) 5\nY) 11\nZ) 13",
+        "answer": " Y) 11"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Rank the following four substances according to increasing\nboiling point: 1) helium, 2) water, 3) ammonia, 4) carbon monoxide.",
-        "subject": "",
-        "answer": "1, 4, 3, 2 (ACCEPT: HELIUM, CARBON MONOXIDE, AMMONIA, WATER)Round Robin ~ Round 3 Page 13"
+        "answer": " 1, 4, 3, 2 (ACCEPT: HELIUM, CARBON MONOXIDE, AMMONIA, WATER)"
     }
 ]

@@ -1,183 +1,345 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " For which of the following processes is the change in entropy\nnegative?\nW) Water freezing\nX) Dry ice sublimation\nY) Salt dissolving in water\nZ) Gasoline burning",
-        "subject": "",
-        "answer": "W) WATER FREEZING"
+        "answer": " W) WATER FREEZING"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " During the formation of a peptide bond between two amino acids,\nwhat molecule is formed as a byproduct?\nANSWER: WATER (ACCEPT: H O)\n2",
-        "subject": "",
-        "answer": "N = 150; H = 50; O = 1002 2 2TOSS UP2. BIOLOGY Short Answer During the formation of a peptide bond between two amino acids,what molecule is formed as a byproduct?ANSWER: WATER (ACCEPT: H O)2"
+        "content": " The pressure of a mixture of three gases in a fixed volume\ncontainer is 300 kilopascals. If the number of nitrogen molecules is three times the number of\nhydrogen molecules and the number of oxygen molecules is two times the number of hydrogen\nmolecules, what are the partial pressures of the three gases?",
+        "answer": " N = 150; H = 50; O = 100\n2 2 2"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT an advantage of using ethanol over\ngasoline for internal combustion engines?\nW) High octane rating\nX) High thermal efficiency\nY) High compression rating\nZ) High energy density\nANSWER: Z) HIGH ENERGY DENSITY",
-        "subject": "",
-        "answer": "W) THE LAKE WILL BECOME DEPLETED OF OXYGENRound Robin ~ Round 6 Page 1TOSS UP3. ENERGY Multiple Choice Which of the following is NOT an advantage of using ethanol overgasoline for internal combustion engines?W) High octane ratingX) High thermal efficiencyY) High compression ratingZ) High energy densityANSWER: Z) HIGH ENERGY DENSITY"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following groups of elements comprises\nthe greatest proportion of the Earth\u2019s continental crust?\nW) Oxygen, silicon, aluminum\nX) Hydrogen, iron, silicon\nY) Oxygen, iron, carbon\nZ) Carbon, aluminum, magnesium\nANSWER: W) OXYGEN, SILICON, ALUMINUM",
-        "subject": "",
-        "answer": "Y) CARBON DIOXIDE AND WATER VAPORTOSS UP4. EARTH AND SPACE Multiple Choice Which of the following groups of elements comprisesthe greatest proportion of the Earth\u2019s continental crust?W) Oxygen, silicon, aluminumX) Hydrogen, iron, siliconY) Oxygen, iron, carbonZ) Carbon, aluminum, magnesiumANSWER: W) OXYGEN, SILICON, ALUMINUM"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Capacitance is inversely related to which of the following\nproperties of a plate capacitor?\nW) Area of plates\nX) Distance between plates\nY) Dielectric constant\nZ) Absolute permittivity\nANSWER: X) DISTANCE BETWEEN PLATES",
-        "subject": "",
-        "answer": "512Round Robin ~ Round 6 Page 2TOSS UP5. PHYSICS Multiple Choice Capacitance is inversely related to which of the followingproperties of a plate capacitor?W) Area of platesX) Distance between platesY) Dielectric constantZ) Absolute permittivityANSWER: X) DISTANCE BETWEEN PLATES"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " If [f of x equals the fraction with numerator x squared\n2\nminus 9 and denominator x minu \ud835\udc65\ud835\udc65 s \u2212 3 9 ], what is the limit of f x as x approaches ?\n\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = \ud835\udc65\ud835\udc65\u22123\nANSWER: ( ) 3",
-        "subject": "",
-        "answer": "8TOSS UP6. MATH Short Answer If [f of x equals the fraction with numerator x squared2minus 9 and denominator x minu \ud835\udc65\ud835\udc65 s \u2212 3 9 ], what is the limit of f x as x approaches ?\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = \ud835\udc65\ud835\udc65\u22123ANSWER: ( ) 3"
+        "content": " During the formation of a peptide bond between two amino acids,\nwhat molecule is formed as a byproduct?",
+        "answer": " WATER (ACCEPT: H O)\n2"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " If oranges are piled in a pyramid with 1 orange on the top layer, 4\noranges in the second layer, 9 oranges in the third layer, and 16 oranges in the fourth layer,\nhow many oranges will be needed to make a pile with 10 layers?\nANSWER:\n385\nRound Robin ~ Round 6 Page 3\nTOSS UP\n7. CHEMISTRY Multiple Choice Which of the following is NOT a state function?\nW) Pressure\nX) Work\nY) Temperature\nZ) Internal energy",
-        "subject": "",
-        "answer": "X) WORK"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT a likely reason for decreased\nsuccess of bird populations in small, fragmented habitats?\nW) Fewer food resources\nX) Increased nest parasitism\nY) Increased area to edge ratio of habitat\nZ) Decreased suitable habitat area for territories\nANSWER: Y) INCREASED AREA TO EDGE RATIO OF HABITAT",
-        "subject": "",
-        "answer": "250TOSS UP8. BIOLOGY Multiple Choice Which of the following is NOT a likely reason for decreasedsuccess of bird populations in small, fragmented habitats?W) Fewer food resourcesX) Increased nest parasitismY) Increased area to edge ratio of habitatZ) Decreased suitable habitat area for territoriesANSWER: Y) INCREASED AREA TO EDGE RATIO OF HABITAT"
+        "content": " How might fertilizer runoff from a farm affect a nearby lake?\nW) The lake will become depleted of oxygen\nX) Secchi [SEK-ee] depth will increase\nY) Algae will become less abundant\nZ) Organic matter will decrease",
+        "answer": " W) THE LAKE WILL BECOME DEPLETED OF OXYGEN"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the immediate use of glucose produced\nby photosynthesis?\nW) To capture light\nX) To form fats and lipids\nY) To be consumed by heterotrophs\nZ) An energy source for cellular respiration\nANSWER: Z) AN ENERGY SOURCE FOR CELLULAR RESPIRATION",
-        "subject": "",
-        "answer": "Z) THE NORMAL PROTEIN STIMULATES CELL DIVISION, AND THE MUTATEDPROTEIN IS EITHER OVEREXPRESSED OR CAN\u2019T BE DEACTIVATEDRound Robin ~ Round 6 Page 4TOSS UP9. ENERGY Multiple Choice Which of the following is the immediate use of glucose producedby photosynthesis?W) To capture lightX) To form fats and lipidsY) To be consumed by heterotrophsZ) An energy source for cellular respirationANSWER: Z) AN ENERGY SOURCE FOR CELLULAR RESPIRATION"
+        "content": " Which of the following is NOT an advantage of using ethanol over\ngasoline for internal combustion engines?\nW) High octane rating\nX) High thermal efficiency\nY) High compression rating\nZ) High energy density",
+        "answer": " Z) HIGH ENERGY DENSITY"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " A shallow-water wave with a speed of 600 kilometers\nper hour and a period of 15 minutes is most likely which of the following types of wave?\nW) Tsunami\nX) Capillary\nY) Tide\nZ) Wind\nANSWER: W) TSUNAMI",
-        "subject": "",
-        "answer": "W) LEADTOSS UP10. EARTH AND SPACE Multiple Choice A shallow-water wave with a speed of 600 kilometersper hour and a period of 15 minutes is most likely which of the following types of wave?W) TsunamiX) CapillaryY) TideZ) WindANSWER: W) TSUNAMI"
+        "content": " Which of the following are the two primary products of combustion\nof methane gas in increasing order of molar amount?\nW) Water vapor and carbon dioxide\nX) Carbon monoxide and water vapor\nY) Carbon dioxide and water vapor\nZ) Carbon monoxide and carbon dioxide",
+        "answer": " Y) CARBON DIOXIDE AND WATER VAPOR"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " The 2011 Nobel Prize in Physics was awarded for the\ndemonstration of which of the following properties of the expansion of the universe?\nW) It is speeding up\nX) It is slowing down\nY) It will reverse itself\nZ) It is constant\nANSWER: W) IT IS SPEEDING UP",
-        "subject": "",
-        "answer": "HAILSTORM (ACCEPT: HAIL)Round Robin ~ Round 6 Page 5TOSS UP11. PHYSICS Multiple Choice The 2011 Nobel Prize in Physics was awarded for thedemonstration of which of the following properties of the expansion of the universe?W) It is speeding upX) It is slowing downY) It will reverse itselfZ) It is constantANSWER: W) IT IS SPEEDING UP"
+        "content": " Which of the following groups of elements comprises\nthe greatest proportion of the Earth\u2019s continental crust?\nW) Oxygen, silicon, aluminum\nX) Hydrogen, iron, silicon\nY) Oxygen, iron, carbon\nZ) Carbon, aluminum, magnesium",
+        "answer": " W) OXYGEN, SILICON, ALUMINUM"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If a Kuiper [KY-per] belt object has an orbit with a semi-\nmajor axis of 64 AU, what is its orbital period in years?",
+        "answer": " 512"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Evaluate ( .\n14\ud835\udf0b\ud835\udf0b\ncos \u2212 3 )\nW)\n1\nX) \u2212 2\n1\nY) 2\n\u221a3\nZ) 2\n\u221a3\n\u2212 2\nANSWER: W)\n1\n\u22122",
-        "subject": "",
-        "answer": "16TOSS UP12. MATH Multiple Choice Evaluate ( .14\ud835\udf0b\ud835\udf0bcos \u2212 3 )W)1X) \u2212 21Y) 2\u221a3Z) 2\u221a3\u2212 2ANSWER: W)1\u22122"
+        "content": " Capacitance is inversely related to which of the following\nproperties of a plate capacitor?\nW) Area of plates\nX) Distance between plates\nY) Dielectric constant\nZ) Absolute permittivity",
+        "answer": " X) DISTANCE BETWEEN PLATES"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " Evaluate arctan ) [arctangent of the tangent of the\nquantity 3 pi over 4].\n(tan 3\u03c0/4\nANSWER:\n-\u03c0/4\nRound Robin ~ Round 6 Page 6\nTOSS UP\n13. CHEMISTRY Multiple Choice A pure enantiomeric sample that rotates plane-polarized light\nto the right is called which of the following?\nW) Levorotary [lee-vuh-ROH-tawr-ee]\nX) Dextrorotary [dek-stroh-ROH-tawr-ee]\nY) Meso [ME-zoh]\nZ) Optically inactive",
-        "subject": "",
-        "answer": "X) DEXTROROTARY"
+        "content": " A figure skater goes into a spin with her arms outstretched, having\na moment of inertia of 2.5 kilogram meters squared and an angular velocity of 5 radians per\nsecond. If the skater pulls her arms in and reduces her moment of inertia to 1.5 kilogram meters\nsquared, what is her final angular velocity to the nearest radian per second?",
+        "answer": " 8"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If [f of x equals the fraction with numerator x squared\n2\nminus 9 and denominator x minu \ud835\udc65\ud835\udc65 s \u2212 3 9 ], what is the limit of f x as x approaches ?\n\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = \ud835\udc65\ud835\udc65\u22123",
+        "answer": " ( ) 3"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If oranges are piled in a pyramid with 1 orange on the top layer, 4\noranges in the second layer, 9 oranges in the third layer, and 16 oranges in the fourth layer,\nhow many oranges will be needed to make a pile with 10 layers?",
+        "answer": "\n385"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following nucleotide bases is a purine?\nW) Cytosine [SY-tuh-seen]\nX) Uracil [YOOR-uh-sil]\nY) Adenine [AD-n-een]\nZ) Thymine\nANSWER: Y) ADENINE",
-        "subject": "",
-        "answer": "W) RED BROWNTOSS UP14. BIOLOGY Multiple Choice Which of the following nucleotide bases is a purine?W) Cytosine [SY-tuh-seen]X) Uracil [YOOR-uh-sil]Y) Adenine [AD-n-een]Z) ThymineANSWER: Y) ADENINE"
+        "content": " Which of the following is NOT a state function?\nW) Pressure\nX) Work\nY) Temperature\nZ) Internal energy",
+        "answer": " X) WORK"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " The convergence of what type of atmospheric\ncirculation cell at the intertropical convergence zone results in strong atmospheric heating and\nprecipitation near the equator?\nANSWER: HADLEY",
-        "subject": "",
-        "answer": "W) PRESENCE OF A HOLDFASTRound Robin ~ Round 6 Page 7TOSS UP15. EARTH AND SPACE Short Answer The convergence of what type of atmosphericcirculation cell at the intertropical convergence zone results in strong atmospheric heating andprecipitation near the equator?ANSWER: HADLEY"
+        "content": " What volume, in milliliters, of a 12.0 molar hydrochloric acid\nstock solution would you use to make 0.50 liters of a 6.00 molar hydrochloric acid solution?",
+        "answer": " 250"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " What is the potential difference in volts for a simple circuit with a\ncurrent of 6 amperes and three 10 ohm resistors in series?\nANSWER: 180",
-        "subject": "",
-        "answer": "Y) 8.8TOSS UP16. PHYSICS Short Answer What is the potential difference in volts for a simple circuit with acurrent of 6 amperes and three 10 ohm resistors in series?ANSWER: 180"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " If [the integral from 0 to 5 of f of x dx equals 10]\n5\nand [the integral from 0 to 2 of f of x dx equals 12], then what is the value of\n\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 10\n2\n[the integral from 2 to 5 of f of x dx]?\n\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 12\n5\n\u222b2 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65\nANSWER:",
-        "subject": "",
-        "answer": "-11kRound Robin ~ Round 6 Page 8TOSS UP17. MATH Short Answer If [the integral from 0 to 5 of f of x dx equals 10]5and [the integral from 0 to 2 of f of x dx equals 12], then what is the value of\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 102[the integral from 2 to 5 of f of x dx]?\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 125\u222b2 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65ANSWER:"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Providing an exact answer, solve the following equation for x:\nx x [e to the x times the quantity 8 minus e to the x equals 16].\nAeN(8S \u2013W eE)R =: N16A TURAL LOG OF 4\nTOSS UP\n18. CHEMISTRY Short Answer A straight line is produced in the graph of the natural log of the\nconcentration of a substance versus the time that the substance reacts. An experimenter can\ndefinitively say what about the reaction, with respect to this substance?",
-        "subject": "",
-        "answer": "IT IS FIRST ORDER"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following would NOT be important for a typical cell\ndividing by binary fission?\nW) DNA is replicated\nX) The nuclear envelope disintegrates\nY) Cytoplasm and its content is divided between daughter cells\nZ) New cell wall is formed between the developing daughter cells\nANSWER: X) THE NUCLEAR ENVELOPE DISINTEGRATES",
-        "subject": "",
-        "answer": "Y) BOYLE\u2019S LAWRound Robin ~ Round 6 Page 9TOSS UP19. BIOLOGY Multiple Choice Which of the following would NOT be important for a typical celldividing by binary fission?W) DNA is replicatedX) The nuclear envelope disintegratesY) Cytoplasm and its content is divided between daughter cellsZ) New cell wall is formed between the developing daughter cellsANSWER: X) THE NUCLEAR ENVELOPE DISINTEGRATES"
+        "content": " Which of the following is NOT a likely reason for decreased\nsuccess of bird populations in small, fragmented habitats?\nW) Fewer food resources\nX) Increased nest parasitism\nY) Increased area to edge ratio of habitat\nZ) Decreased suitable habitat area for territories",
+        "answer": " Y) INCREASED AREA TO EDGE RATIO OF HABITAT"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the best approximation of the amount of\nenergy in megaelectron-volts released from a single uranium-235 fission reaction?\nW) 7\nX) 215\nY) 235\nZ) 238\nANSWER: X) 215",
-        "subject": "",
-        "answer": "Y) PROTECTION FROM PREDATORSTOSS UP20. ENERGY Multiple Choice Which of the following is the best approximation of the amount ofenergy in megaelectron-volts released from a single uranium-235 fission reaction?W) 7X) 215Y) 235Z) 238ANSWER: X) 215"
+        "content": " Proto-oncogenes [ONG-kuh-jeens] are frequently mutated in\ncancer cells. Which of the following best explains how a mutation in a proto-oncogene could\nchange the protein it encodes and lead to cancer?\nW) The normal protein inhibits cell division, and the mutated protein is either turned off or non-\nfunctional\nX) The normal protein stimulates cell division, and the mutated protein is either turned off or\nnon-functional\nY) The normal protein inhibits cell division, and the mutated protein is either over expressed or\ncan\u2019t be deactivated\nZ) The normal protein stimulates cell division, and the mutated protein is either over expressed\nor can\u2019t be deactivated",
+        "answer": " Z) THE NORMAL PROTEIN STIMULATES CELL DIVISION, AND THE MUTATED\nPROTEIN IS EITHER OVEREXPRESSED OR CAN\u2019T BE DEACTIVATED"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " What is the primary type of nuclear fusion reaction that\ntakes place in a 1.5 solar mass main sequence star?\nANSWER: CNO CYCLE",
-        "subject": "",
-        "answer": "X) PERIODS 2 AND 3 OF GROUP 17Round Robin ~ Round 6 Page 10TOSS UP21. EARTH AND SPACE Short Answer What is the primary type of nuclear fusion reaction thattakes place in a 1.5 solar mass main sequence star?ANSWER: CNO CYCLE"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " An unpolarized electromagnetic plane wave is incident on a\nlinear polarizer whose transmission axis is parallel to the y-axis. After passing through the\npolarizer, which of the following best describes the oscillation direction of the magnetic field?\nW) Along the positive and negative x-axis\nX) Along the positive and negative y-axis\nY) A direction pointing in either the 1st or 3rd quadrant\nZ) A direction pointing in either the 2nd or 4th quadrant\nANSWER: W) ALONG THE POSITIVE AND NEGATIVE X-AXIS",
-        "subject": "",
-        "answer": "Y) CORE HELIUM BURNINGTOSS UP22. PHYSICS Multiple Choice An unpolarized electromagnetic plane wave is incident on alinear polarizer whose transmission axis is parallel to the y-axis. After passing through thepolarizer, which of the following best describes the oscillation direction of the magnetic field?W) Along the positive and negative x-axisX) Along the positive and negative y-axisY) A direction pointing in either the 1st or 3rd quadrantZ) A direction pointing in either the 2nd or 4th quadrantANSWER: W) ALONG THE POSITIVE AND NEGATIVE X-AXIS"
+        "content": " Which of the following is the immediate use of glucose produced\nby photosynthesis?\nW) To capture light\nX) To form fats and lipids\nY) To be consumed by heterotrophs\nZ) An energy source for cellular respiration",
+        "answer": " Z) AN ENERGY SOURCE FOR CELLULAR RESPIRATION"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following elements has the greatest number of stable\nisotopes?\nW) Lead\nX) Plutonium\nY) Uranium\nZ) Hydrogen",
+        "answer": " W) LEAD"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A shallow-water wave with a speed of 600 kilometers\nper hour and a period of 15 minutes is most likely which of the following types of wave?\nW) Tsunami\nX) Capillary\nY) Tide\nZ) Wind",
+        "answer": " W) TSUNAMI"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " Evaluate [the integral from negative pi over 4 to pi\n\ud835\udf0b\ud835\udf0b\n4\nover 4 of tangent of x dx]. \u222b\u2212 \ud835\udf0b\ud835\udf0b 4 tan\ud835\udc65\ud835\udc65 \ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65\nANSWER:",
-        "subject": "",
-        "answer": "40Round Robin ~ Round 6 Page 11TOSS UP23. MATH Short Answer Evaluate [the integral from negative pi over 4 to pi\ud835\udf0b\ud835\udf0b4over 4 of tangent of x dx]. \u222b\u2212 \ud835\udf0b\ud835\udf0b 4 tan\ud835\udc65\ud835\udc65 \ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65ANSWER:"
+        "content": " When a strong convective cell forms and there is a\nsufficient amount of supercooled water and ice crystals, what phenomenon can occur?",
+        "answer": " HAILSTORM (ACCEPT: HAIL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The 2011 Nobel Prize in Physics was awarded for the\ndemonstration of which of the following properties of the expansion of the universe?\nW) It is speeding up\nX) It is slowing down\nY) It will reverse itself\nZ) It is constant",
+        "answer": " W) IT IS SPEEDING UP"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " A sample of ethyl ether has a boiling point of 35 degrees\nCelsius, whereas a sample of butanol has a boiling point of 120 degrees Celsius. To what\nintermolecular force can this discrepancy be attributed?\nANSWER: HYDROGEN BONDING",
-        "subject": "",
-        "answer": "x= 3TOSS UP24. CHEMISTRY Short Answer A sample of ethyl ether has a boiling point of 35 degreesCelsius, whereas a sample of butanol has a boiling point of 120 degrees Celsius. To whatintermolecular force can this discrepancy be attributed?ANSWER: HYDROGEN BONDING"
+        "content": " A wheel spinning at a rate of 20 revolutions per minute slows\nsteadily to a stop in a time of 30 seconds. If the wheel has a radius of 0.5 meters, through what\ndistance to the nearest meter does a point on the rim travel during this time?",
+        "answer": " 16"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Evaluate ( .\n14\ud835\udf0b\ud835\udf0b\ncos \u2212 3 )\nW)\n1\nX) \u2212 2\n1\nY) 2\n\u221a3\nZ) 2\n\u221a3\n\u2212 2",
+        "answer": " W)\n1\n\u22122"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Cacti have adapted to dry environments by closing their stomata\nduring the day and opening them at night to reduce water loss. What is the name of the\nphotosynthesis adaptation that incorporates this strategy?\nANSWER: CAM (ACCEPT: CRASSULACEAN ACID METABOLISM)",
-        "subject": "",
-        "answer": "X) +63Round Robin ~ Round 6 Page 12TOSS UP25. BIOLOGY Short Answer Cacti have adapted to dry environments by closing their stomataduring the day and opening them at night to reduce water loss. What is the name of thephotosynthesis adaptation that incorporates this strategy?ANSWER: CAM (ACCEPT: CRASSULACEAN ACID METABOLISM)"
+        "content": " Evaluate arctan ) [arctangent of the tangent of the\nquantity 3 pi over 4].\n(tan 3\u03c0/4",
+        "answer": "\n-\u03c0/4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A pure enantiomeric sample that rotates plane-polarized light\nto the right is called which of the following?\nW) Levorotary [lee-vuh-ROH-tawr-ee]\nX) Dextrorotary [dek-stroh-ROH-tawr-ee]\nY) Meso [ME-zoh]\nZ) Optically inactive",
+        "answer": " X) DEXTROROTARY"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " When an aqueous solution of copper (II) bromide is\nelectrolyzed, which of the following colors will occur at the anode?\nW) Red brown\nX) Greenish red\nY) Dark blue\nZ) No color change",
+        "answer": " W) RED BROWN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following nucleotide bases is a purine?\nW) Cytosine [SY-tuh-seen]\nX) Uracil [YOOR-uh-sil]\nY) Adenine [AD-n-een]\nZ) Thymine",
+        "answer": " Y) ADENINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a specific adaptation to reduce\ndesiccation in intertidal organisms?\nW) Presence of a holdfast\nX) Covering with shell fragments\nY) Living in a dense group\nZ) Highly ridged shell coverings",
+        "answer": " W) PRESENCE OF A HOLDFAST"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The convergence of what type of atmospheric\ncirculation cell at the intertropical convergence zone results in strong atmospheric heating and\nprecipitation near the equator?",
+        "answer": " HADLEY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was the moment magnitude of\nthe 2010 Chilean earthquake that was caused by the subduction of the Nazca Plate underneath\nthe South American Plate?\nW) 6.8\nX) 7.8\nY) 8.8\nZ) 9.8",
+        "answer": " Y) 8.8"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the potential difference in volts for a simple circuit with a\ncurrent of 6 amperes and three 10 ohm resistors in series?",
+        "answer": " 180"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Vectors F and R are given by, respectively, 2 i minus 3 j and\ni plus 4 j. What is the cross product R X F [R cross F]?",
+        "answer": " -11k"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If [the integral from 0 to 5 of f of x dx equals 10]\n5\nand [the integral from 0 to 2 of f of x dx equals 12], then what is the value of\n\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 10\n2\n[the integral from 2 to 5 of f of x dx]?\n\u222b0 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65 = 12\n5\n\u222b2 \ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65",
+        "answer": ""
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A straight line is produced in the graph of the natural log of the\nconcentration of a substance versus the time that the substance reacts. An experimenter can\ndefinitively say what about the reaction, with respect to this substance?",
+        "answer": " IT IS FIRST ORDER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " At a constant temperature, a syringe containing 20.0\nmilliliters of air at 1 atmosphere of pressure is pulled out so that the volume inside the syringe is\nincreased to 40.0 milliliters. The total pressure of the gases inside the syringe decreases to\napproximately 0.5 atmospheres. Which of the following best explains this observation?\nW) Gay-Lussac\u2019s Law\nX) Charles\u2019s Law\nY) Boyle\u2019s Law\nZ) Avogadro\u2019s Law",
+        "answer": " Y) BOYLE\u2019S LAW"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would NOT be important for a typical cell\ndividing by binary fission?\nW) DNA is replicated\nX) The nuclear envelope disintegrates\nY) Cytoplasm and its content is divided between daughter cells\nZ) New cell wall is formed between the developing daughter cells",
+        "answer": " X) THE NUCLEAR ENVELOPE DISINTEGRATES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT an advantage for the coral in the\ncoral-zooxanthellae [zoh-uh-zan-THEL-ee] symbiosis?\nW) Increased growth\nX) Increasing calcification\nY) Protection from predators\nZ) Relatively constant supply of reduced carbon",
+        "answer": " Y) PROTECTION FROM PREDATORS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the best approximation of the amount of\nenergy in megaelectron-volts released from a single uranium-235 fission reaction?\nW) 7\nX) 215\nY) 235\nZ) 238",
+        "answer": " X) 215"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Elements from which of the following sections of the periodic\ntable have the highest ionization energies?\nW) Periods 2 and 3 of Group 1\nX) Periods 2 and 3 of Group 17\nY) Periods 5 and 6 of Group 17\nZ) Periods 6 and 7 of Group 1",
+        "answer": " X) PERIODS 2 AND 3 OF GROUP 17"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the primary type of nuclear fusion reaction that\ntakes place in a 1.5 solar mass main sequence star?",
+        "answer": " CNO CYCLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the energy source of stars\non the horizontal branch of stellar evolution?\nW) Core hydrogen burning\nX) Shell hydrogen burning\nY) Core helium burning\nZ) Shell helium burning",
+        "answer": " Y) CORE HELIUM BURNING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An unpolarized electromagnetic plane wave is incident on a\nlinear polarizer whose transmission axis is parallel to the y-axis. After passing through the\npolarizer, which of the following best describes the oscillation direction of the magnetic field?\nW) Along the positive and negative x-axis\nX) Along the positive and negative y-axis\nY) A direction pointing in either the 1st or 3rd quadrant\nZ) A direction pointing in either the 2nd or 4th quadrant",
+        "answer": " W) ALONG THE POSITIVE AND NEGATIVE X-AXIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 5 kilogram object moves with a velocity v = 2t 2 + 2 meters per\nsecond where t is in seconds. What is the net force on the object in newtons after 2 seconds?",
+        "answer": " 40"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Evaluate [the integral from negative pi over 4 to pi\n\ud835\udf0b\ud835\udf0b\n4\nover 4 of tangent of x dx]. \u222b\u2212 \ud835\udf0b\ud835\udf0b 4 tan\ud835\udc65\ud835\udc65 \ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x over the real numbers: x\nx [log base 2 of open parenthesis x plus 5 close parenthesis minus log base\n2\n2 of the quantity x minus 1 equals 2]. log ( + 5) \u2013\n2\nl og ( \u2013 1) = 2",
+        "answer": " x\n= 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A sample of ethyl ether has a boiling point of 35 degrees\nCelsius, whereas a sample of butanol has a boiling point of 120 degrees Celsius. To what\nintermolecular force can this discrepancy be attributed?",
+        "answer": " HYDROGEN BONDING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A balloon expands isothermally from 1.0 to 10.0 liters against\na constant external pressure of 7.0 atmospheres. The work in liter atmospheres performed by\nthe system is which of the following?\nW) -63\nX) +63\nY) -70\nZ) +70",
+        "answer": " X) +63"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Cacti have adapted to dry environments by closing their stomata\nduring the day and opening them at night to reduce water loss. What is the name of the\nphotosynthesis adaptation that incorporates this strategy?",
+        "answer": " CAM (ACCEPT: CRASSULACEAN ACID METABOLISM)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following statements about seagrass is NOT true?\nW) Rhizomes grow horizontally in the sediment\nX) Seagrass systems tend to be depositional environments\nY) Seagrass does not reproduce sexually\nZ) Seagrass can be found in both tropical and temperate habitats",
-        "subject": "",
-        "answer": "Y) SEAGRASS DOES NOT REPRODUCE SEXUALLYRound Robin ~ Round 6 Page 13"
+        "answer": " Y) SEAGRASS DOES NOT REPRODUCE SEXUALLY"
     }
 ]

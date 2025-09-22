@@ -1,352 +1,352 @@
 [
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " The Meissner effect is most directly associated with which of the\nfollowing:\nW) superconductors\nX) rare earth magnets\nY) very strong electromagnets\nZ) Tesla coils",
-        "subject": " PHYSICS ",
-        "answer": "W) SUPERCONDUCTORS"
+        "answer": " W) SUPERCONDUCTORS"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Rounding g to the first decimal place, how many newtons are required\nto keep a 120-kilogram sled moving at a constant velocity across a pond if there is a frictional\ncoefficient of 0.20 between the sled and the pond\u2019s surface? Round your answer to the nearest\nwhole number.",
-        "subject": " PHYSICS ",
-        "answer": "235(Solution: 0.2 \u00d7 120 kg \u00d7 9.8m/s2 = 235.2 N)"
+        "answer": " 235\n(Solution: 0.2 \u00d7 120 kg \u00d7 9.8m/s2 = 235.2 N)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT generally true of activation\nenergies in chemical reactions:\nW) activation energies vary from reaction to reaction\nX) the Arrhenius equation can be used to determine the activation energy of a reaction\nY) the lower the activation energy is, the faster the reaction\nZ) increasing the temperature of a reaction decreases the activation energy",
-        "subject": " CHEMISTRY ",
-        "answer": "Z) INCREASING THE TEMPERATURE OF A REACTION DECREASES THEACTIVATION ENERGY"
+        "answer": " Z) INCREASING THE TEMPERATURE OF A REACTION DECREASES THE\nACTIVATION ENERGY"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true about aqueous solutions:\nW) diluting a buffer with water can change the pH of the water\nX) metal cations can act as weak acids in water solutions\nY) an acid whose K = 6 \u00d7 10\u201310 is weaker than an acid whose K = 5.8 \u00d7 10\u20134\na a\nZ) an acid whose pK is 3.0 is stronger than an acid whose pK is 7.0\na a",
-        "subject": " CHEMISTRY ",
-        "answer": "W) DILUTING A BUFFER WITH WATER CAN CHANGE THE PH OF THEWATERHigh School Round 12 Page 1"
+        "answer": " W) DILUTING A BUFFER WITH WATER CAN CHANGE THE PH OF THE\nWATER"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following was first proposed by Peter Mitchell as a\npotential energy ion gradient across a selectively permeable membrane that is responsible for the\nproduction of ATP:\nW) osmosis\nX) chemiosmosis (read as: chem-ee-oz-MOE-sis):\nY) electro-phosphorylation\nZ) photosynthesis",
-        "subject": " BIOLOGY ",
-        "answer": "X) CHEMIOSMOSIS"
+        "answer": " X) CHEMIOSMOSIS"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 3 groups of organisms that generate ATP\nby chemiosmosis (read as: chem-ee-oz-MOE-sis): Cyanobacteria; plant cells; animal cells",
-        "subject": " BIOLOGY ",
-        "answer": "ALL"
+        "answer": " ALL"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Multiple Choice",
         "content": " What is the product of the following 2 values: (1) the greatest common\ndivisor of 7 and 14; and (2) the least common multiple of 7 and 14:\nW) 21\nX) 49\nY) 98\nZ) 196",
-        "subject": " MATH ",
-        "answer": "Y) 98(Solution: the product will be the same as the product of the two numbers, 7 and 14)"
+        "answer": " Y) 98\n(Solution: the product will be the same as the product of the two numbers, 7 and 14)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Multiply the following complex numbers, giving your answer in standard\na + bi form: (6 + 3i)(4 + i)",
-        "subject": " MATH ",
-        "answer": "21 + 18iHigh School Round 12 Page 2"
+        "answer": " 21 + 18i"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST determines the maximum\nheight of open ocean waves and is the point where breaking white caps form in a fully developed\nsea:\nW) the cohesive forces in water molecules are overcome and the waves break apart\nX) the waves are losing as much energy as breaking white caps as they are receiving from the wind\nY) the trough moves a little bit faster than the crest and the wave becomes unstable\nZ) the waves have reached a maximum period",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) THE WAVES ARE LOSING AS MUCH ENERGY AS BREAKING WHITECAPS AS THEY ARE RECEIVING FROM THE WIND"
+        "answer": " X) THE WAVES ARE LOSING AS MUCH ENERGY AS BREAKING WHITE\nCAPS AS THEY ARE RECEIVING FROM THE WIND"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Although the crystal habit of quartz is widely variable, its\nmost common habit is:\nW) orthorhombic\nX) cubic\nY) hexagonal\nZ) triclinic",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Y) HEXAGONAL"
+        "answer": " Y) HEXAGONAL"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of coelacanths\n(read as: SEE-laa-kanths):\nW) the coelacanth is considered a living fossil\nX) the coelacanth is a bottom dweller fish and uses its 4 limbs for walking\nY) the coelacanth is essentially inedible to humans\nZ) the coelacanth gives birth to live young",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) THE COELACANTH IS A BOTTOM DWELLER FISH AND USES ITS 4 LIMBSFOR WALKING"
+        "answer": " X) THE COELACANTH IS A BOTTOM DWELLER FISH AND USES ITS 4 LIMBS\nFOR WALKING"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " What alkene is a plant pigment that is a precursor to\nvitamin-A?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "BETA-CAROTENEHigh School Round 12 Page 3"
+        "answer": " BETA-CAROTENE"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a space observatory, launched in\n2004 through the combined effort of Italy, the United Kingdom, and the United States, for the\ndetection and study of gamma-ray bursts:\nW) SOHO\nX) SWIFT\nY) MOC\nZ) international GRB",
-        "subject": " ASTRONOMY ",
-        "answer": "X) SWIFT"
+        "answer": " X) SWIFT"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " How were the rings of the planet Uranus discovered:\nW) astronomers in 1977 noticed stars were occulted by Uranus before the planet passed in front of\nthem and reappeared afterwards\nX) the Magellan 1 space probe took pictures of them\nY) the Hubble space telescope detected them with its infrared detector\nZ) the rings are made of gases with certain signatures revealed in absorption spectra",
-        "subject": " ASTRONOMY ",
-        "answer": "W) ASTRONOMERS IN 1977 NOTICED STARS WERE OCCULTED BY URANUSBEFORE THE PLANET PASSED IN FRONT OF THEM AND REAPPEARED AFTERWARDS"
+        "answer": " W) ASTRONOMERS IN 1977 NOTICED STARS WERE OCCULTED BY URANUS\nBEFORE THE PLANET PASSED IN FRONT OF THEM AND REAPPEARED AFTERWARDS"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST describes Fermat\u2019s principle:\nW) light disperses in a specific medium depending on the medium\u2019s refractive index\nX) light follows the path of least time between two points\nY) the angle of incidence can be greater than the angle of reflection\nZ) light always travels in the same medium at the same speed",
-        "subject": " PHYSICS ",
-        "answer": "X) LIGHT FOLLOWS THE PATH OF LEAST TIME BETWEEN TWO POINTS"
+        "answer": " X) LIGHT FOLLOWS THE PATH OF LEAST TIME BETWEEN TWO POINTS"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the ideal mechanical advantage of a wheel and axle, if the\ndiameter of the wheel is 500 centimeters and the radius of the axle is 2.5 centimeters?",
-        "subject": " PHYSICS ",
-        "answer": "100(Solution: mechanical advantage, radius of wheel/radius of axle = 250 cm/2.5 cm = 100)High School Round 12 Page 4"
+        "answer": " 100\n(Solution: mechanical advantage, radius of wheel/radius of axle = 250 cm/2.5 cm = 100)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " A lead chromate solution is typically what color:\nW) blue\nX) red\nY) yellow\nZ) green",
-        "subject": " CHEMISTRY ",
-        "answer": "Y) YELLOW"
+        "answer": " Y) YELLOW"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following molecules exhibits a dipole moment:\nW) CH\n4\nX) H S\n2\nY) CO\n2\nZ) SO\n3",
-        "subject": " CHEMISTRY ",
-        "answer": "X) H S2"
+        "answer": " X) H S\n2"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " From which of the following does the seed coat of angiosperm\nseeds typically develop:\nW) integuments\nX) polar nuclei\nY) nucleus\nZ) cotyledons",
-        "subject": " BIOLOGY ",
-        "answer": "W) INTEGUMENTS"
+        "answer": " W) INTEGUMENTS"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Beadle and Tatum primarily used what organism to show that\nmutations in a single gene caused disruptions in metabolic pathways because of the lack of a single\nenzyme?",
-        "subject": " BIOLOGY ",
-        "answer": "NEUROSPORA (ACCEPT: BREAD MOLD or NEUROSPORA CRASSA)High School Round 12 Page 5"
+        "answer": " NEUROSPORA (ACCEPT: BREAD MOLD or NEUROSPORA CRASSA)"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of matrices:\nW) a square matrix that has an inverse is called invertible\nX) a matrix does not have to have an inverse\nY) a matrix that does not have an inverse is called non-singular\nZ) a matrix must be square in order to have an inverse",
-        "subject": " MATH ",
-        "answer": "Y) A MATRIX THAT DOES NOT HAVE AN INVERSE IS CALLED NON-SINGULAR(Solution: it\u2019s called singular)"
+        "answer": " Y) A MATRIX THAT DOES NOT HAVE AN INVERSE IS CALLED NON-\nSINGULAR\n(Solution: it\u2019s called singular)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Giving your answer as an ordered pair, find the solution of the system of\n2\nthe following 2 equations: x = y \u2013 2 and x = y \u2013 3:\n3",
-        "subject": " MATH ",
-        "answer": "(0, 3)"
+        "answer": " (0, 3)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following are thought to form the mantle of\nthe Earth:\nW) ultramafic rocks\nX) felsic rocks\nY) silicic rocks\nZ) mafic rocks",
-        "subject": " EARTH SCIENCE ",
-        "answer": "W) ULTRAMAFIC ROCKS"
+        "answer": " W) ULTRAMAFIC ROCKS"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Short Answer",
         "content": " Of the 3 basic types of magma on Earth, which one generally\nhas the LOWEST gas content?",
-        "subject": " EARTH SCIENCE ",
-        "answer": "BASALTIC (ACCEPT: BASALT)(Solution: 3 basic types: basaltic = low; andesitic = intermediate; rhyolitic = high)High School Round 12 Page 6"
+        "answer": " BASALTIC (ACCEPT: BASALT)\n(Solution: 3 basic types: basaltic = low; andesitic = intermediate; rhyolitic = high)"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the p value for F = 0 in an\nANOVA F test:\nW) 0.00\nX) 0.50\nY) 0.95\nZ) 1.00",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Z) 1.00"
+        "answer": " Z) 1.00"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " Name all of the following 4 choices that are characteristic\nof scientific publications:\n1) scientific papers are peer reviewed\n2) scientific papers present more detailed data\n3) conclusions in scientific papers are supported by original data in the publication\n4) scientific papers have data that has been proven to be true",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "1; 2; 3"
+        "answer": " 1; 2; 3"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true:\nW) an eclipse of the Moon only occurs during a full Moon\nX) Mercury will appear to be in its full phase when it is farthest from Earth\nY) an event horizon is associated with black holes\nZ) no more than 50% of the Moon\u2019s surface can be seen over any one year",
-        "subject": " ASTRONOMY ",
-        "answer": "Z) NO MORE THAN 50% OF THE MOON\u2019S SURFACE CAN BE SEEN OVERANY ONE YEAR(Solution: libration will allow more than 55% to be seen over a year)"
+        "answer": " Z) NO MORE THAN 50% OF THE MOON\u2019S SURFACE CAN BE SEEN OVER\nANY ONE YEAR\n(Solution: libration will allow more than 55% to be seen over a year)"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the most common location of\nyoung blue and white stars in a spiral galaxy:\nW) halo\nX) spiral arms\nY) nucleus\nZ) throughout the entire galaxy",
-        "subject": " ASTRONOMY ",
-        "answer": "X) SPIRAL ARMSHigh School Round 12 Page 7"
+        "answer": " X) SPIRAL ARMS"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What physical property of neutrinos, which was confirmed in the past\ndecade, contradicts earlier assumptions that neutrinos travel at the speed of light?",
-        "subject": " PHYSICS ",
-        "answer": "MASS (ACCEPT: NEUTRINOS HAVE MASS)"
+        "answer": " MASS (ACCEPT: NEUTRINOS HAVE MASS)"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the angular velocity, in radians per second, of a wheel with a\nradius of 250 centimeters and a surface velocity of 50 meters per second?",
-        "subject": " PHYSICS ",
-        "answer": "20(Solution: \u03a4 = v/r = 50m/s/2.5m = 20 rad/s)"
+        "answer": " 20\n(Solution: \u03a4 = v/r = 50m/s/2.5m = 20 rad/s)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " When dissociated in water, which of the following acids has its\ndissociation equilibrium shifted farthest to the right:\nW) HClO\nX) HClO\n2\nY) HClO\n3\nZ) HClO\n4",
-        "subject": " CHEMISTRY ",
-        "answer": "Z) HClO4"
+        "answer": " Z) HClO\n4"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Arrange the following 4 bonds in order of decreasing polarity:\nBr\u2013Br; K\u2013Br; P\u2013Cl; Li\u2013F",
-        "subject": " CHEMISTRY ",
-        "answer": "Li\u2013F; K\u2013Br; P\u2013Cl; Br\u2013BrHigh School Round 12 Page 8"
+        "answer": " Li\u2013F; K\u2013Br; P\u2013Cl; Br\u2013Br"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Of which of the following is endosperm in wheat primarily\ncomposed:\nW) protein\nX) nucleic acid\nY) carbohydrate\nZ) lipid",
-        "subject": " BIOLOGY ",
-        "answer": "Y) CARBOHYDRATE"
+        "answer": " Y) CARBOHYDRATE"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true regarding glycogen:\nW) glycogen synthesis is endergonic (read as: en-der-GONE-ick)\nX) glycogen is a polysaccharide\nY) glycogen side branches have beta 1,4 linkages\nZ) glycogen in the human liver often has more than 10,000 glucose monomers",
-        "subject": " BIOLOGY ",
-        "answer": "Y) GLYCOGEN SIDE BRANCHES HAVE BETA 1,4 LINKAGES(Solution: beta-1,4 linkages are indigestible to humans and are found in cellulose. Glycogen hasalpha 1-4 and alpha 1-6 linkages)"
+        "answer": " Y) GLYCOGEN SIDE BRANCHES HAVE BETA 1,4 LINKAGES\n(Solution: beta-1,4 linkages are indigestible to humans and are found in cellulose. Glycogen has\nalpha 1-4 and alpha 1-6 linkages)"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " By words or number, name all of the following 3 statements that are\nTRUE for the function, f(x) = \u20133x2 \u2013 2x \u2013 2 = 0:\n1) there are no real zeros\n2) the graph is a parabola opening downward\n3) the graph has no x-intercepts",
-        "subject": " MATH ",
-        "answer": "ALL"
+        "answer": " ALL"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Factor the following expression completely over the integers: x4 \u2013 16",
-        "subject": " MATH ",
-        "answer": "(x \u2013 2)(x + 2)(x2 + 4)High School Round 12 Page 9"
+        "answer": " (x \u2013 2)(x + 2)(x2 + 4)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Halos and rings around the Moon in the night sky are\nmost often caused by which of the following:\nW) nucleation particles in the stratosphere\nX) small water droplets in nimbostratus clouds\nY) temperature inversions\nZ) ice crystals in cirrus clouds",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) ICE CRYSTALS IN CIRRUS CLOUDS"
+        "answer": " Z) ICE CRYSTALS IN CIRRUS CLOUDS"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following types of volcanic eruptions is\ndistinguished primarily by its eruption of basaltic and andesitic magma from its vent, producing\nincandescent bombs that fall near the vent, eventually building a small cone of tephra:\nW) Plinian\nX) Hawaiin\nY) Pelean\nZ) Strombolian",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) STROMBOLIAN"
+        "answer": " Z) STROMBOLIAN"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following plastics is very tough, optically\ntransparent, and often used in the manufacture of CD\u2019s:\nW) polypropylene\nX) polycarbonate\nY) low density polyethylene\nZ) polyvinyl chloride",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) POLYCARBONATE"
+        "answer": " X) POLYCARBONATE"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " What 2 simple alkenes (read as: al-KEENS) are the two\nmost important organic industrial chemicals?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)High School Round 12 Page 10"
+        "answer": " ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " For someone standing at 43\u00b0 north latitude, how many degrees\nabove the horizon will the north celestial pole be?",
-        "subject": " ASTRONOMY ",
-        "answer": "43"
+        "answer": " 43"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " In what phase does the planet Venus appear during superior\nconjunction?",
-        "subject": " ASTRONOMY ",
-        "answer": "FULL"
+        "answer": " FULL"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " If a satellite moving in a circular orbit is raised to another circular\norbit 3-times as far from the Earth's center and where the kinetic energy of the satellite is 3-times\nless, by what factor does the centripetal force on the satellite decrease?",
-        "subject": " PHYSICS ",
-        "answer": "9(Solution: F = mv2/R, numerator times 1/3, denominator times 3; or use Newton's law of universalgravitation, F proportional to 1/R2)"
+        "answer": " 9\n(Solution: F = mv2/R, numerator times 1/3, denominator times 3; or use Newton's law of universal\ngravitation, F proportional to 1/R2)"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Rounded to the first decimal place, how many kilowatt-hours of\nenergy are used if 10 amps flows for one day though a circuit with a resistance of 2 ohms?",
-        "subject": " PHYSICS ",
-        "answer": "4.8(Solution: E = Wt = (10A)2 \u00d7 2 ohms \u00d7 24 hr = 4.8 kilowatt-hours)High School Round 12 Page 11"
+        "answer": " 4.8\n(Solution: E = Wt = (10A)2 \u00d7 2 ohms \u00d7 24 hr = 4.8 kilowatt-hours)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Name the LARGEST atom or ion in EACH of the following 3\npairs:\n1) an iron 3 plus ion or an iron 2 plus ion\n2) an oxygen atom or an oxygen 2 minus ion\n3) a gallium 3 plus ion or a gallium atom",
-        "subject": " CHEMISTRY ",
-        "answer": "1) IRON 2 PLUS ION; 2) OXYGEN 2 MINUS ION; 3) GALLIUM ATOM"
+        "answer": " 1) IRON 2 PLUS ION; 2) OXYGEN 2 MINUS ION; 3) GALLIUM ATOM"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Using proper chemical nomenclature, finish balancing the\nfollowing chemical reaction. Make sure to indicate the state of each substance, such as solid, liquid,\naqueous, or gas: 3NaOH + H PO \uf0e0 what?\n(aqueous) 3 4(aqueous)",
-        "subject": " CHEMISTRY ",
-        "answer": "Na PO + 3H O (products in any order)3 4(aqueous) 2 (liquid)"
+        "answer": " Na PO + 3H O (products in any order)\n3 4(aqueous) 2 (liquid)"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " From the FIRST to the LAST, what are the stages into which\ninterphase is most commonly divided?",
-        "subject": " BIOLOGY ",
-        "answer": "G-1; S; G-2 (ACCEPT: GAP ONE, DNA SYNTHESIS, GAP 2)"
+        "answer": " G-1; S; G-2 (ACCEPT: GAP ONE, DNA SYNTHESIS, GAP 2)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Cells that become quiescent enter G-zero from what stage of the cell\ncycle?",
-        "subject": " BIOLOGY ",
-        "answer": "G-1High School Round 12 Page 12"
+        "answer": " G-1"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Giving your answer to the first decimal place and in liters, one\nmole of gas at 1.00 atmosphere pressure and a temperature of 273.15 kelvin occupies what volume?",
-        "subject": " CHEMISTRY ",
-        "answer": "22.4"
+        "answer": " 22.4"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " A sample of gas occupies a volume of 300 cubic centimeters at a\npressure of 2 atmospheres. Calculate what the pressure would have to be, in atmospheres to the first\ndecimal place, in order for the gas to have a volume of 500 cubic centimeters at constant\ntemperature:",
-        "subject": " CHEMISTRY ",
-        "answer": "1.2(Solution: P = P V /V = (2 atm)(300 cm3)/500 cm3 = 1.2 atm)2 1 1 2High School Round 12 Page 13"
+        "answer": " 1.2\n(Solution: P = P V /V = (2 atm)(300 cm3)/500 cm3 = 1.2 atm)\n2 1 1 2"
     }
 ]

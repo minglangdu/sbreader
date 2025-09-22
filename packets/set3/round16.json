@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Human skin pigmentation and height may vary greatly and are\nprobably controlled by multiple genes. This is an example most specifically of:\nW) pleiotropy\nX) polygenic inheritance\nY) epistasis (read as: ep-ee-STAY-sis)\nZ) incomplete codominance",
+        "answer": " X) POLYGENIC INHERITANCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " There are more possible antibodies to antigens than there are genes\nthat code for these antibodies in the human genome. Which of the following BEST accounts for this:\nW) genes mutate constantly in B cells\nX) genes for antibodies are spliced together from different chromosomal loci\nY) antibodies have large amounts of cross reactivity with various antigens\nZ) antibodies are only specific for certain parts of an antigen",
+        "answer": " X) GENES FOR ANTIBODIES ARE SPLICED TOGETHER FROM DIFFERENT\nCHROMOSOMAL LOCI"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about amino acids:\nW) amino acids exist primarily as zwitterions\nX) amino acid are amphoteric\nY) an amino acid becomes neutral at its isoelectric point\nZ) tryptophan and cysteine contain sulfur atoms in their side chains",
+        "answer": " Z) TRYPTOPHAN AND CYSTEINE CONTAIN SULFUR ATOMS IN THEIR SIDE\nCHAINS\n(Solution: tryptophan contains a nitrogen atom)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 4 bonds in order of INCREASING bond\nlengths: C\u2212C (read as: C single bond C); C=C (read as: C double bond C); C\u2261C (read as: C triple\nbond C); C\u2013H (read as: C single bond H)",
+        "answer": " C\u2013H; C\u2261C; C=C; C\u2212C"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The discovery of the cosmic background radiation was originally\ndone with:\nW) the Hubble space telescope\nX) the Arecibo radio telescope\nY) a ground-based horn-shaped microwave antenna\nZ) a microwave receiver in a high altitude hot air balloon",
+        "answer": " Y) A GROUND-BASED HORN-SHAPED MICROWAVE ANTENNA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following recently gave what many think as irrefutable\nevidence for the existence of dark matter:\nW) the discovery of gravitational waves at the LIGO facility at Pacific Northwest National Lab\nX) Chandra X-ray images of hot gases during a violent merger of the \u201cbullet cluster\u201d of galaxies\nY) creation of quark-gluon plasma at the Relativistic Heavy Ion Collider\nZ) the finding that neutrinos account for more mass of the universe than all the stars in the universe",
+        "answer": " X) CHANDRA X-RAY IMAGES OF HOT GASES DURING A VIOLET MERGER\nOF THE \u201cBULLET CLUSTER\u201d OF GALAXIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Differentiate the following trigonometric function: f(x) = sin x2",
+        "answer": " 2x cos x2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the area of a triangle whose sides\nare a = 10, b = 12 and c = 18:\nW) 57\nX) 81\nY) 90\nZ) 108",
+        "answer": " W) 57\n(Solution: s = (10+12+18)/2; K = s(s\u2212a)(s\u2212b)(s\u2212c) = 20(20\u221210)(20\u221212)(20\u221218)=\n3200= 56.6)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Reverse faults commonly form as a result of which of the\nfollowing tectonic forces:\nW) tensional\nX) transform\nY) shear\nZ) compressive",
+        "answer": " Z) COMPRESSIVE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an ocean current that\npredominately travels in an EASTERLY direction:\nW) the Labrador Current\nX) the North Equatorial Current\nY) the Antarctic Circumpolar Current\nZ) the South Equatorial Current",
+        "answer": " Y) THE ANTARCTIC CIRCUMPOLAR CURRENT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE:\nW) neutrinos released from Fermi National Lab in Illinois have been detected by an underground\nfacility in Minnesota\nX) the European Space Agency\u2019s Planck Surveyor recently confirmed a critical postulate of string\ntheory\nY) baryonic matter accounts for most of the mass of the universe\nZ) the LISA detector recently detected gravitational waves from 2 colliding black holes",
+        "answer": " W) NEUTRINOS RELEASED FROM FERMI NATIONAL LAB IN ILLINOIS\nHAVE BEEN DETECTED BY AN UNDERGROUND FACILITY IN MINNESOTA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Your boat has a true course of 88\u00ba, the variation is 18\u00ba\nwest, and the deviation is 12\u00ba west. What is your compass course, in degrees?",
+        "answer": " 118\n(Solution: 88 + 18 + 12 = 118\u00ba)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE:\nW) the far side of the Moon from Earth has more large maria than the near side\nX) the next sunspot minimum is expected in 2008\nY) the declination of the Sun during the winter solstice is 23.5 degrees north\nZ) B-type stars have strong absorption lines for neutral helium",
+        "answer": " Z) B-TYPE STARS HAVE STRONG ABSORPTION LINES FOR NEUTRAL\nHELIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST description of a Cepheid\nvariable star:\nW) a pulsating variable varying in brightness in a very regular time period of 1 to 50 days\nX) a short pulsating variable with a very regular period of 1 to 4 minutes\nY) a binary star system with an eclipsing partner\nZ) a small k-type star with a very regular period of 1 to 3 weeks",
+        "answer": " W) A PULSATING VARIABLE VARYING IN BRIGHTNESS IN A VERY\nREGULAR TIME PERIOD OF 1 TO 50 DAYS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was a technique invented by Meselson and\nStahl in their classic experiments to support the theory of semiconservative replication:\nW) radiolabeling of DNA\nX) density gradient centrifugation\nY) electrophoresis\nZ) autoradiography",
+        "answer": " X) DENSITY GRADIENT CENTRIFUGATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a solution of phospholipids were dropped into a non-polar liquid,\nwhich of the following would MOST likely happen:\nW) the fatty acid tails would be stripped from the phosphate heads\nX) the phospholipids would mix evenly in the non-polar liquid\nY) micelles (read as: MY-CELLS) would form with polar heads on the outside\nZ) micelles would form with polar heads on the inside",
+        "answer": " Z) MICELLES WOULD FORM WITH POLAR HEADS ON THE INSIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following fatty acids has the HIGHEST melting\npoint:\nW) an 18-carbon saturated fatty acid\nX) an 18-carbon polyunsaturated fatty acid\nY) an 18-carbon monounsaturated fatty acid\nZ) a 16-carbon monounsaturated fatty acid",
+        "answer": " W) AN 18-CARBON SATURATED FATTY ACID\n(Solution: W = 70\u00baC, X = -5\u00baC, Y = 16\u00baC, Z = 32\u00baC; Saturated Fats are usually solids)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Consider an acid solution whose density is 1.5 grams per cubic\ncentimeter and which is 30% acid by mass. Find the volume, in milliliters, of the acid solution that\nis needed to contain 90 grams of acid:",
+        "answer": " 200\n(Solution: 90g acid \u00d7 100g soln/30g acid \u00d7 1cm3/1.5 g soln = 200 cm3 = 200 ml)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Generally, physicists cannot use light to explore the composition of\nthe subatomic world since light wavelengths are too long. Which of the following do they MOST\noften resort to as a tool of probing the nature of the atomic nucleus:\nW) high energy gamma-rays\nX) high energy charged particles\nY) tunneling microscopes\nZ) ultrasonic analysis",
+        "answer": " X) HIGH ENERGY CHARGED PARTICLES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that are types of particles called\nhadrons: neutron; proton; positron; antiproton",
+        "answer": " NEUTRON; PROTON; ANTIPROTON (ACCEPT: ALL BUT POSITRON)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) a function\u2019s graph may intersect one of its horizontal asymptotes\nX) a function\u2019s graph may intersect one of its vertical asymptotes\nY) the identity function f(x) = x is its own inverse\nZ) the function f(x) = \u2212x is its own inverse",
+        "answer": " X) A FUNCTION\u2019S GRAPH MAY INTERSECT ONE OF ITS VERTICAL\nASYMPTOTES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the 1st term of an arithmetic sequence is 4 and the 20th term is 156,\nwhat are the first five terms in the sequence:",
+        "answer": " 4, 12, 20, 28, 36\n(Solution: a = a + (n \u2013 1)d; 156 = 4 + (20 \u2013 1)d, d = 8)\n20 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is considered an activator of\nfluorescence because when present in small concentrations it usually causes a ruby crystal to\nfluoresce a bright deep red:\nW) iron\nX) chromium\nY) nickel\nZ) copper",
+        "answer": " X) CHROMIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Termed Yedoma in Siberia, what is the name for the\nwindblown dust that was deposited during the glacial age and covers more than 1 million square\nkilometers of the north plains of Siberia and Central Alaska?",
+        "answer": " LOESS (ACCEPT: FROZEN LOESS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The famous hominid skeleton called Lucy has been\ndated to be how many years old:\nW) 100 thousand years\nX) 500 thousand years\nY) 1.6 million years\nZ) 3.2 million years",
+        "answer": " Z) 3.2 MILLION YEARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is LEAST accurate:\nW) a U.S. barrel of crude oil is 42 gallons\nX) one barrel of U.S. crude oil typically yields about 20 gallons of motor gasoline\nY) the distillation step in crude oil refinement typically eliminates nearly all the sulfur\nZ) a U.S. barrel of crude oil can yield more than 44 gallons of petroleum products",
+        "answer": " Y) THE DISTILLATION STEP IN CRUDE OIL REFINEMENT TYPICALLY\nELIMINATES NEARLY ALL THE SULFUR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nW) the Sun\u2019s corona is hotter than both the photosphere and the chromosphere\nX) the Crab nebula is a remnant of a supernova that collapsed in the year 1054\nY) equinoxes are points on the celestial sphere where the celestial equator is intersected by the\necliptic\nZ) epicycles were employed by Ptolemy to explain retrograde motion in planets",
+        "answer": " X) THE CRAB NEBULA IS A REMNANT OF A SUPERNOVA THAT\nCOLLAPSED IN THE YEAR 1054"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST likely true about gamma\nray bursts:\nW) they are extremely powerful emissions of energy\nX) they are probably often associated with black holes\nY) they probably result from a neutron star merging with a black hole\nZ) they typically last less than a hundredth of a second",
+        "answer": " Z) THEY TYPICALLY LAST LESS THAN A HUNDREDTH OF A SECOND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is MOST directly involved in the motility\nand intercellular signaling in T-cells:\nW) filamentous actin\nX) 200-nanometer myosin fibrils\nY) cathepsin-myosin complexes\nZ) microvilli",
+        "answer": " W) FILAMENTOUS ACTIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of micro RNA in eukaryotes:\nW) they regulate gene expression\nX) they target homologous sequences in mRNA\nY) they are small polypeptide-coding sequences\nZ) they are transcribed by RNA polymerase two",
+        "answer": " Y) THEY ARE SMALL POLYPEPTIDE-CODING SEQUENCES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following reversible gas reactions does the\nvalue of K = K (read as: K sub P equal K sub C):\np c\nW) A + B \u2194 C (read as: A plus B, double arrow, yields C)\nX) 2A + B \u2194 C + D\nY) A + B \u2194 C + D\nZ) A \u2194 B + C",
+        "answer": " Y) A + B \u2194 C + D"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many milliliters of 0.1 molar hydrochloric acid are required\nto neutralize 50 milliliters of a 0.1 molar strontium hydroxide solution?",
+        "answer": " 100\n(Solution: (0.05L)(0.1mol/L) = 0.005 M Sr(OH) \u00d7 2HCl/1Sr(OH) = 0.01 mol HCl;\n2 2\n0.01 mol HCl \u00d7 L/0.1 mol = 0.100L = 100ml)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Physicists have developed theories, called Grand Unified Theories,\nthat attempt to unify the forces of the universe into one. As temperatures get higher going back\nthrough the early universe, which three of the four forces do these theories typically unify first?",
+        "answer": " ELECTROMAGNETIC; STRONG; WEAK (ACCEPT: ALL BUT GRAVITY)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Many physicists are highly critical of the rationale that seeks to\nexplain phenomena of the universe by indicating that, if things had been otherwise, life and humans\nwould not exist. This is MOST commonly known as what principle?",
+        "answer": " ANTHROPIC PRINCIPLE (ACCEPT: ANTHROPIC)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer as up, down, left, or right, if a > 0, which way does\nthe parabola given by the equation, x = \u2013a(y \u2013 k)2 + h open:",
+        "answer": " LEFT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the following indefinite integral: !(3sinx+5cosx)dx (read as: the\nintegral of 3 sine x + 5 cosine x, dx)",
+        "answer": " \u20133 cos x + 5 sin x + C"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Most banded iron formations found today began to form\nabout how many years ago:\nW) 2.5 billion years\nX) 500 million years\nY) 5 million years\nZ) 100,000 years",
+        "answer": " W) 2.5 BILLION YEARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Also known as fall-stripes, precipitation falling from the\nundersurface of a cloud but not reaching the ground is known as:\nW) virga\nX) fog\nY) Rossby waves\nZ) fans",
+        "answer": " W) VIRGA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is LEAST accurate:\nW) angina is chest pain\nX) catalytic converters require unleaded fuels to run properly\nY) citrus canker is caused by a fungus\nZ) long-period comets are believed to originate in the Oort cloud",
+        "answer": " Y) CITRUS CANKER IS CAUSED BY A FUNGUS\n(Solution: citrus canker is caused by bacteria)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following pathways that are considered\nmajor risks for the movement of H5N1 virus throughout the world: 1) poultry shipments; 2)\ncontaminated poultry equipment; 3) migratory birds; 4) infected humans",
+        "answer": " 1; 2; 3 (ACCEPT: ALL BUT 4 - INFECTED HUMANS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " The abundance of what element in T-Tauri stars is the best\nindication that they are young stars?",
+        "answer": " LITHIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following instruments that have been used to\nhelp understand the critical density of our universe: COBE; WMAP; BOOMERANG",
+        "answer": " COBE; WMAP; BOOMERANG (ACCEPT: ALL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the primary target organ of luteinizing hormone in the\nhuman male?",
+        "answer": " TESTIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 plant types that are specifically adapted\nto arid environments with bright Sun: C4 plants; CAM plants; C3 plants",
+        "answer": " C4; CAM PLANTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Identify, by chemical formula, the oxidizing agent and the\nreducing agent, respectively, for the following reaction:\nSiCl + 2Mg \u00e0\uf0e0 2MgCl + Si\n4 2",
+        "answer": " OXIDIZING AGENT = SiCl ; REDUCING AGENT = Mg\n4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the molar mass of a gas, in grams per mole to the nearest\nwhole number, if it has a density of 0.50 grams per liter at 400K and standard pressure?",
+        "answer": " 16\n(Solution: M = (dRT/P) = [(0.5g/L)(0.0821L-atm/K-mol)(400K)]/(1.0 atm) = 16.42 g/mol)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a 100-kilogram bear climbs from the bottom to the top of a vertical\n10-meter tree in 10 seconds, what is the bear\u2019s average power output, in watts?",
+        "answer": " 980\n(Solution: P = mgd/t = [(100kg)(10m/s2)(9.8m)]/10s = 980W)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Two masses are hung in a physics lab. These are tied to opposite\nends of a weightless string which passes over a frictionless pulley. If the masses are released from\nrest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first\ndecimal place, of mass #1 and in what direction, up or down?",
+        "answer": " 3.3 AND UP (ACCEPT: 3.2 AND UP)\n(Solution: F = F \u2013 F = m g = m g = (2 kg)(9.8m/s) \u2013 (1kg)(9.8m/s) = 9.8N; a = F/m =\nnet g1 g2 1 1 2 2\n9.8N/3kg = 3.27 m/s2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What protein is the primary component of the thick filaments seen in\na cross section of a sarcomere\u2019s myofilaments?",
+        "answer": " MYOSIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " To what specific protein do calcium ions bind directly leading to\nmuscle contraction in striated human muscle?",
+        "answer": " TROPONIN-C (ACCEPT: TROPONIN)"
+    }
+]

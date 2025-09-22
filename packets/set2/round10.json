@@ -1,183 +1,331 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following pairs of animals each possesses a\ngizzard?\nW) A bird and an alligator\nX) A shark and a hippopotamus\nY) A bird and an echidna [i-KID-nuh]\nZ) A teleost and a Llama [TEL-ee-ost]",
-        "subject": "",
-        "answer": "W) A BIRD AND AN ALLIGATOR"
+        "answer": " W) A BIRD AND AN ALLIGATOR"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During replication, which of the following enzymes is needed to\nseal a single phosphodiester [fos-foh-dy-ES-tuhr] bond?\nW) Ligase\nX) Phosphatase [FOS-fuh-tays]\nY) DNA polymerase [POL-uh-muh-rays]\nZ) Gyrase [JY-rays]",
+        "answer": " W) LIGASE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " Acetyl-CoA [CO-A] carboxylase-1 alpha, a fatty acid synthesis\nregulatory enzyme, functions to carboxylate Acetyl-CoA. What is the name of the newly formed\ncarboxylated product?\nANSWER: MALONYL-CoA",
-        "subject": "",
-        "answer": "W) LIGASETOSS UP2. CHEMISTRY Short Answer Acetyl-CoA [CO-A] carboxylase-1 alpha, a fatty acid synthesisregulatory enzyme, functions to carboxylate Acetyl-CoA. What is the name of the newly formedcarboxylated product?ANSWER: MALONYL-CoA"
+        "content": " Acetyl-CoA [CO-A] carboxylase-1 alpha, a fatty acid synthesis\nregulatory enzyme, functions to carboxylate Acetyl-CoA. What is the name of the newly formed\ncarboxylated product?",
+        "answer": " MALONYL-CoA"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following protons will appear farthest downfield in\nthe 1H [Proton]-NMR spectrum?\nW) Alkane\nX) Alkene\nY) Alkyne\nZ) Aromatic",
+        "answer": " Z) AROMATIC"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Factor the following polynomial completely over the real numbers:\nx x.\n5\nA2NS- 3W2ER: x x x x\n2",
-        "subject": "",
-        "answer": "Z) AROMATICRound Robin ~ Round 10 Page 1TOSS UP3. MATH Short Answer Factor the following polynomial completely over the real numbers:x x.5A2NS- 3W2ER: x x x x2"
+        "content": " A series is defined recursively. If and [a\nsub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthe\ud835\udc5b\ud835\udc5bs\u2212i1s to\nthe power of the quantity n minus 1], determine the val u\ud835\udc4e\ud835\udc4ee 1 o=f \u22122. \ud835\udc4e\ud835\udc4e\ud835\udc5b\ud835\udc5b = 3+(\ud835\udc4e\ud835\udc4e\ud835\udc5b\ud835\udc5b\u22121)",
+        "answer": "\n\ud835\udc4e\ud835\udc4e4\n67"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT correct?\nW) All planets travel in elliptical orbits with the Sun at the center of the ellipse\nX) The period of a simple pendulum is independent of the mass of the bob\nY) Gravitational force is a conservative force\nZ) The kilowatt-hour is a unit of energy",
+        "answer": " W) ALL PLANETS TRAVEL IN ELLIPTICAL ORBITS WITH THE SUN AT THE\nCENTER OF THE ELLIPSE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " There are crossed electric and magnetic fields given,\nrespectively, by 5.0 X 106 newtons per coulomb in the x direction and 0.5 tesla in the y direction.\nA proton traveling in the positive z direction experiences zero resultant force due to these fields.\nWhich of the following is the speed of the proton in meters per second?\nW) 107\nX) 2.5 x 106\nY) 106\nZ) 10-7",
+        "answer": " W) 107"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " A series is defined recursively. If and [a\nsub n equals 3 plus open parenthesis a sub the quantity n minus 1 close parenthe\ud835\udc5b\ud835\udc5bs\u2212i1s to\nthe power of the quantity n minus 1], determine the val u\ud835\udc4e\ud835\udc4ee 1 o=f \u22122. \ud835\udc4e\ud835\udc4e\ud835\udc5b\ud835\udc5b = 3+(\ud835\udc4e\ud835\udc4e\ud835\udc5b\ud835\udc5b\u22121)\nANSWER:\n\ud835\udc4e\ud835\udc4e4\n67\nTOSS UP\n4. PHYSICS Multiple Choice Which of the following is NOT correct?\nW) All planets travel in elliptical orbits with the Sun at the center of the ellipse\nX) The period of a simple pendulum is independent of the mass of the bob\nY) Gravitational force is a conservative force\nZ) The kilowatt-hour is a unit of energy",
-        "subject": "",
-        "answer": "W) ALL PLANETS TRAVEL IN ELLIPTICAL ORBITS WITH THE SUN AT THECENTER OF THE ELLIPSE"
+        "content": " Due to radar-bright reflections received by the Very\nLarge Array, what substance is believed to exist in polar craters on Mercury?",
+        "answer": " ICE (ACCEPT: WATER ICE; DO NOT ACCEPT: WATER)"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT accurate\nabout the similarities between Earth and Saturn's largest moon, Titan?\nW) Both feature liquid lakes and clouds\nX) Both are sculpted by wind, rain, volcanoes, and tectonic processes\nY) Both possess a thick atmosphere\nZ) Their atmospheres contain very similar nitrogen concentrations",
+        "answer": " Z) THEIR ATMOSPHERES CONTAIN VERY SIMILAR NITROGEN\nCONCENTRATIONS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following correctly matches the major energy source\nand fuel for most stars?\nW) Nuclear fission and hydrogen\nX) Nuclear fission and helium\nY) Nuclear fusion and hydrogen\nZ) Nuclear fusion and helium",
+        "answer": " Y) NUCLEAR FUSION AND HYDROGEN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Due to radar-bright reflections received by the Very\nLarge Array, what substance is believed to exist in polar craters on Mercury?\nANSWER: ICE (ACCEPT: WATER ICE; DO NOT ACCEPT: WATER)",
-        "subject": "",
-        "answer": "W) 107Round Robin ~ Round 10 Page 2TOSS UP5. EARTH AND SPACE Short Answer Due to radar-bright reflections received by the VeryLarge Array, what substance is believed to exist in polar craters on Mercury?ANSWER: ICE (ACCEPT: WATER ICE; DO NOT ACCEPT: WATER)"
+        "content": " By number, identify all of the following three statements that\ncorrectly indicate advantages of the high energy phosphate system: 1) It produces energy at a\nslow rate but for a long duration; 2) Its rate of recovery is relatively rapid; 3) It can produce large\namounts of energy in a short amount of time.",
+        "answer": " 2 AND 3"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following correctly matches the major energy source\nand fuel for most stars?\nW) Nuclear fission and hydrogen\nX) Nuclear fission and helium\nY) Nuclear fusion and hydrogen\nZ) Nuclear fusion and helium\nANSWER: Y) NUCLEAR FUSION AND HYDROGEN",
-        "subject": "",
-        "answer": "Z) THEIR ATMOSPHERES CONTAIN VERY SIMILAR NITROGENCONCENTRATIONSTOSS UP6. ENERGY Multiple Choice Which of the following correctly matches the major energy sourceand fuel for most stars?W) Nuclear fission and hydrogenX) Nuclear fission and heliumY) Nuclear fusion and hydrogenZ) Nuclear fusion and heliumANSWER: Y) NUCLEAR FUSION AND HYDROGEN"
+        "content": " Which of the following animals does NOT belong in the phylum\nMollusca [FY-luhm muh-LUHS-kuh]?\nW) Giant squid\nX) Geoduck [GOO-ee-duck]\nY) Cuttlefish\nZ) Salp",
+        "answer": " Z) SALP"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following animals does NOT belong in the phylum\nMollusca [FY-luhm muh-LUHS-kuh]?\nW) Giant squid\nX) Geoduck [GOO-ee-duck]\nY) Cuttlefish\nZ) Salp\nANSWER: Z) SALP",
-        "subject": "",
-        "answer": "2 AND 3Round Robin ~ Round 10 Page 3TOSS UP7. BIOLOGY Multiple Choice Which of the following animals does NOT belong in the phylumMollusca [FY-luhm muh-LUHS-kuh]?W) Giant squidX) Geoduck [GOO-ee-duck]Y) CuttlefishZ) SalpANSWER: Z) SALP"
+        "content": " In a histological preparation stained with Hematoxylin [hee-muh-\nTOK-suh-lin] and Eosin [EE-uh-sin], the nucleus, cytoplasm, and collagen would be rendered,\nrespectively, which of the following colors?\nW) Blue, pink, blue\nX) Pink, blue, pink\nY) Blue, pink, pink\nZ) Pink, pink, blue",
+        "answer": " Y) BLUE, PINK, PINK"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " An atom of an unknown element has 33 electrons. What is the\nlikely ratio of the numbers of atoms of that element to calcium when in an ionic compound?\nANSWER: 2:3",
-        "subject": "",
-        "answer": "Y) BLUE, PINK, PINKTOSS UP8. CHEMISTRY Short Answer An atom of an unknown element has 33 electrons. What is thelikely ratio of the numbers of atoms of that element to calcium when in an ionic compound?ANSWER: 2:3"
+        "content": " An atom of an unknown element has 33 electrons. What is the\nlikely ratio of the numbers of atoms of that element to calcium when in an ionic compound?",
+        "answer": " 2:3"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The Henderson-Hasselbalch equation can provide the percent\ndissociation of a weak acid. When the pH is equal to pK , the weak acid is which of the\na\nfollowing?\nW) 99% dissociated\nX) 75% dissociated\nY) 50% dissociated\nZ) 25% dissociated",
+        "answer": " Y) 50% DISSOCIATED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Solve the following equation for x on the interval :\n2\n0 \u2264 \ud835\udc65\ud835\udc65 < 2\ud835\udf0b\ud835\udf0b\nA4NcoSsW\ud835\udc65\ud835\udc65E\u2212R:1 = 0\n\u03c0/3, 2\u03c0/3, 4\u03c0/3, 5\u03c0/3",
-        "subject": "",
-        "answer": "Y) 50% DISSOCIATEDRound Robin ~ Round 10 Page 4TOSS UP9. MATH Short Answer Solve the following equation for x on the interval :20 \u2264 \ud835\udc65\ud835\udc65 < 2\ud835\udf0b\ud835\udf0bA4NcoSsW\ud835\udc65\ud835\udc65E\u2212R:1 = 0\u03c0/3, 2\u03c0/3, 4\u03c0/3, 5\u03c0/3"
+        "content": " If x+y [8 to the power of the quantity x plus y equals 16],\ndetermine the slope-intercept form of the equation satisfied by points with coordinates (x, y).\n8 = 16",
+        "answer": " y -x\n= + 4/3"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " A force of 10 newtons compresses a spring to 5.0 centimeters\nfrom its equilibrium position. How far in centimeters can a force of 5.0 newtons stretch the same\nspring?\nW) 0.50\nX) 2.5\nY) 10.0\nZ) 25\nANSWER: X) 2.5",
-        "subject": "",
-        "answer": "y -x= + 4/3TOSS UP10. PHYSICS Multiple Choice A force of 10 newtons compresses a spring to 5.0 centimetersfrom its equilibrium position. How far in centimeters can a force of 5.0 newtons stretch the samespring?W) 0.50X) 2.5Y) 10.0Z) 25ANSWER: X) 2.5"
+        "content": " A force of 10 newtons compresses a spring to 5.0 centimeters\nfrom its equilibrium position. How far in centimeters can a force of 5.0 newtons stretch the same\nspring?\nW) 0.50\nX) 2.5\nY) 10.0\nZ) 25",
+        "answer": " X) 2.5"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following shapes would the pure\nparallactic motion of a star on the celestial equator describe?\nW) Ellipse\nX) Line\nY) Circle\nZ) Parabola\nANSWER: W) ELLIPSE",
-        "subject": "",
-        "answer": "40Round Robin ~ Round 10 Page 5TOSS UP11. EARTH AND SPACE Multiple Choice Which of the following shapes would the pureparallactic motion of a star on the celestial equator describe?W) EllipseX) LineY) CircleZ) ParabolaANSWER: W) ELLIPSE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " There are over 50,000 known invasive species in North\nAmerica. Which of the following species is NOT invasive to North America?\nW) Nutria\nX) Rosy boa\nY) Round goby\nZ) Zebra mussel\nANSWER: X) ROSY BOA",
-        "subject": "",
-        "answer": "Y) 6000TOSS UP12. BIOLOGY Multiple Choice There are over 50,000 known invasive species in NorthAmerica. Which of the following species is NOT invasive to North America?W) NutriaX) Rosy boaY) Round gobyZ) Zebra musselANSWER: X) ROSY BOA"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " According to the Clausius [KLOU-zee-uhs] inequality, the\nderivative of entropy is greater than or equal to the derivative of heat, divided by temperature.\nWhen is the equal case true?\nW) For an irreversible change\nX) For a reversible change\nY) For temperatures greater than 273 Kelvin\nZ) For temperatures less than or equal to 273 Kelvin\nANSWER: X) FOR A REVERSIBLE CHANGE",
-        "subject": "",
-        "answer": "2, 4, 1, 3 (ACCEPT: INTACT CELL, NUCLEUS, MITOCHONDRION,ENDOPLASMIC RETICULUM)Round Robin ~ Round 10 Page 6TOSS UP13. CHEMISTRY Multiple Choice According to the Clausius [KLOU-zee-uhs] inequality, thederivative of entropy is greater than or equal to the derivative of heat, divided by temperature.When is the equal case true?W) For an irreversible changeX) For a reversible changeY) For temperatures greater than 273 KelvinZ) For temperatures less than or equal to 273 KelvinANSWER: X) FOR A REVERSIBLE CHANGE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " Solve the following expression when x -1/2 [open\n3 P\n\ud835\udc65\ud835\udc65\nparenthesis, x cubed over 9, close parenthesis, to the negative \u00bd power].\n= 4: ( 9 )\nANSWER: x",
-        "subject": "",
-        "answer": "5.0 x 10-3TOSS UP14. MATH Short Answer Solve the following expression when x -1/2 [open3 P\ud835\udc65\ud835\udc65parenthesis, x cubed over 9, close parenthesis, to the negative \u00bd power].= 4: ( 9 )ANSWER: x"
+        "content": " A ball is launched straight up with a speed of 30 meters per\nsecond. Given the magnitude of the acceleration due to gravity as 10 meters per second\nsquared, how far in meters is the ball displaced from its launching point after 4 seconds?",
+        "answer": " 40"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following shapes would the pure\nparallactic motion of a star on the celestial equator describe?\nW) Ellipse\nX) Line\nY) Circle\nZ) Parabola",
+        "answer": " W) ELLIPSE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately which of the following in Kelvin is the\nsurface temperature of a G-type star?\nW) 2000\nX) 4000\nY) 6000\nZ) 8000",
+        "answer": " Y) 6000"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " There are over 50,000 known invasive species in North\nAmerica. Which of the following species is NOT invasive to North America?\nW) Nutria\nX) Rosy boa\nY) Round goby\nZ) Zebra mussel",
+        "answer": " X) ROSY BOA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Express the following complex number in simplest a bi form:\ni i i i.\n13 12 10\n+\n5ANS+W 6ER\u2013: 7 + 3i\n13 + 8\nRound Robin ~ Round 10 Page 7\nTOSS UP\n15. PHYSICS Short Answer A solid sphere, a solid cylinder, and a hoop are rolled down an\ninclined plane without slipping. Given that they have identical masses and diameters, what\nobject reaches the bottom of the ramp first?",
-        "subject": "",
-        "answer": "SPHERE"
+        "content": " You desire to separate cellular components by homogenization\nfollowed by differential centrifugation whereby components separate out based on their\ncoefficient of sedimentation measured in Svedbergs or S values. Components with larger S\nvalues will sediment out first. Arrange the following four choices from highest to lowest S value:\n1) mitochondrion [my-tuh-KON-dree-uhn], 2) intact cell, 3) endoplasmic reticulum [EN-duh-\nplaz-mik ri-TIK-yuh-luhm], 4) nucleus.",
+        "answer": " 2, 4, 1, 3 (ACCEPT: INTACT CELL, NUCLEUS, MITOCHONDRION,\nENDOPLASMIC RETICULUM)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the Clausius [KLOU-zee-uhs] inequality, the\nderivative of entropy is greater than or equal to the derivative of heat, divided by temperature.\nWhen is the equal case true?\nW) For an irreversible change\nX) For a reversible change\nY) For temperatures greater than 273 Kelvin\nZ) For temperatures less than or equal to 273 Kelvin",
+        "answer": " X) FOR A REVERSIBLE CHANGE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " What is the only planet in our solar system with a\npermanent bulge due to tidal forcing?\nANSWER: MERCURY",
-        "subject": "",
-        "answer": "Y) -1.5TOSS UP16. EARTH AND SPACE Short Answer What is the only planet in our solar system with apermanent bulge due to tidal forcing?ANSWER: MERCURY"
+        "content": " Providing your answer in scientific notation, calculate the rate\nof decomposition in molar per second, using appropriate significant figures, if the concentration\ndifference is 0.10 molar over a 20.0 second interval.",
+        "answer": " 5.0 x 10-3"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " About how many Btus does a therm of natural gas have?\nW) 100,000\nX) 1 million\nY) 10 million\nZ) 100 million\nANSWER: W) 100,000",
-        "subject": "",
-        "answer": "W) VERY SHORT-LIVED AND SO CAN ONLY BE SEEN AT HIGH REDSHIFTSRound Robin ~ Round 10 Page 8TOSS UP17. ENERGY Multiple Choice About how many Btus does a therm of natural gas have?W) 100,000X) 1 millionY) 10 millionZ) 100 millionANSWER: W) 100,000"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following organisms is NOT matched correctly with\nits main form of nitrogen excretion?\nW) Squirrel and urea\nX) Sparrow and uric acid\nY) Planaria and ammonia\nZ) Land snail and urea\nANSWER: Z) LAND SNAIL AND UREA",
-        "subject": "",
-        "answer": "1 X 1022TOSS UP18. BIOLOGY Multiple Choice Which of the following organisms is NOT matched correctly withits main form of nitrogen excretion?W) Squirrel and ureaX) Sparrow and uric acidY) Planaria and ammoniaZ) Land snail and ureaANSWER: Z) LAND SNAIL AND UREA"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " When mixed at a molar ratio of 3 to 1, which of the following\nsolution mixtures is a buffer system?\nW) Hydrochloric acid and sodium chloride\nX) Acetic acid and sodium hydroxide\nY) Potassium hydroxide and phosphoric acid\nZ) Perchloric acid and ammonia\nANSWER: X) ACETIC ACID AND SODIUM HYDROXIDE",
-        "subject": "",
-        "answer": "SNAIL (ACCEPT: AQUATIC SNAIL)Round Robin ~ Round 10 Page 9TOSS UP19. CHEMISTRY Multiple Choice When mixed at a molar ratio of 3 to 1, which of the followingsolution mixtures is a buffer system?W) Hydrochloric acid and sodium chlorideX) Acetic acid and sodium hydroxideY) Potassium hydroxide and phosphoric acidZ) Perchloric acid and ammoniaANSWER: X) ACETIC ACID AND SODIUM HYDROXIDE"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Providing your answer as a fraction in simplest form, what is the\nprobability of drawing a heart or a king from a standard playing deck of cards?\nANSWER:",
-        "subject": "",
-        "answer": "X) FAST, NONREVERSIBLE STEPS ARE NEVER PRESENTTOSS UP20. MATH Short Answer Providing your answer as a fraction in simplest form, what is theprobability of drawing a heart or a king from a standard playing deck of cards?ANSWER:"
+        "content": " Solve the following expression when x -1/2 [open\n3 P\n\ud835\udc65\ud835\udc65\nparenthesis, x cubed over 9, close parenthesis, to the negative \u00bd power].\n= 4: ( 9 )",
+        "answer": " x"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " If the recursive sequence is defined by and ,\nwhat is the value of t ?\n6 n 1 n n-1\nt t = 3 t = -5 +t 3\nANSWER:\n124\nRound Robin ~ Round 10 Page 10\nTOSS UP\n21. PHYSICS Multiple Choice A glass rod with index of refraction n is submersed in an oil\nbath. Which of the following indices of refraction should the oil have in order to render the rod\noptically invisible?\nW) Less than n\nX) Greater than n\nY) The same as n\nZ) None; it\u2019s impossible",
-        "subject": "",
-        "answer": "Y) THE SAME AS N"
+        "content": " A solid sphere, a solid cylinder, and a hoop are rolled down an\ninclined plane without slipping. Given that they have identical masses and diameters, what\nobject reaches the bottom of the ramp first?",
+        "answer": " SPHERE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Three seconds after the Big Bang, which of the\nfollowing dominated the energy content of the universe?\nW) Dark energy\nX) Baryonic matter\nY) Dark matter\nZ) Radiation\nANSWER: Z) RADIATION",
-        "subject": "",
-        "answer": "1, 2 (ACCEPT: ANGULAR MOMENTUM AND TOTAL ENERGY)TOSS UP22. EARTH AND SPACE Multiple Choice Three seconds after the Big Bang, which of thefollowing dominated the energy content of the universe?W) Dark energyX) Baryonic matterY) Dark matterZ) RadiationANSWER: Z) RADIATION"
+        "content": " The ground state energy of the hydrogen atom is \u201313.6 electron\nvolts. Which of the following is the energy, in electron volts, of the second excited state of\nhydrogen?\nW) 3.4\nX) 1.5\nY) -1.5\nZ) -3.4",
+        "answer": " Y) -1.5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the only planet in our solar system with a\npermanent bulge due to tidal forcing?",
+        "answer": " MERCURY"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " When comparing the amount of food energy taken in to the\nenergy available to do work, about how efficient is a human?\nW) 15%\nX) 25%\nY) 35%\nZ) 45%\nANSWER: X) 25%",
-        "subject": "",
-        "answer": "Y) PHYSICISTS DISCOVERED THAT NEUTRINO FLAVORS OSCILLATE ASTHEY TRAVEL FROM THE SUNRound Robin ~ Round 10 Page 11TOSS UP23. ENERGY Multiple Choice When comparing the amount of food energy taken in to theenergy available to do work, about how efficient is a human?W) 15%X) 25%Y) 35%Z) 45%ANSWER: X) 25%"
+        "content": " Detections of Population III stars are very\ncontroversial. It is believed that they are so difficult to detect because they are which of the\nfollowing?\nW) Very short-lived and so can only be seen at high redshifts\nX) Very low-mass and are therefore very faint\nY) Heavily obscured by dust\nZ) Only visible in millimeter wavelengths",
+        "answer": " W) VERY SHORT-LIVED AND SO CAN ONLY BE SEEN AT HIGH REDSHIFTS"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following exhibits viviparity?\nW) Salt cedars\nX) Cord grass\nY) Mangroves\nZ) Eelgrasses\nANSWER: Y) MANGROVES",
-        "subject": "",
-        "answer": "$1,750TOSS UP24. BIOLOGY Multiple Choice Which of the following exhibits viviparity?W) Salt cedarsX) Cord grassY) MangrovesZ) EelgrassesANSWER: Y) MANGROVES"
+        "content": " About how many Btus does a therm of natural gas have?\nW) 100,000\nX) 1 million\nY) 10 million\nZ) 100 million",
+        "answer": " W) 100,000"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Given h = 6.62 x10-34 joule seconds and providing your answer in\nscientific notation, calculate the number of photons in 6.62 joules of radiation energy of\nfrequency 1012 hertz.",
+        "answer": " 1 X 1022"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " A particular molecule of XeF displays 3 IR bands and 3\n4\nRaman bands at completely different energies. Based on this information, which of the following\nis its VSEPR structure?\nW) Tetrahedral\nX) Octahedral\nY) Square planar\nZ) See-saw\nANSWER: Y) SQUARE PLANAR",
-        "subject": "",
-        "answer": "2, 4 (ACCEPT: BASOPHILIC ERYTHROBLAST, NORMOBLAST)Round Robin ~ Round 10 Page 12TOSS UP25. CHEMISTRY Multiple Choice A particular molecule of XeF displays 3 IR bands and 34Raman bands at completely different energies. Based on this information, which of the followingis its VSEPR structure?W) TetrahedralX) OctahedralY) Square planarZ) See-sawANSWER: Y) SQUARE PLANAR"
+        "content": " Which of the following organisms is NOT matched correctly with\nits main form of nitrogen excretion?\nW) Squirrel and urea\nX) Sparrow and uric acid\nY) Planaria and ammonia\nZ) Land snail and urea",
+        "answer": " Z) LAND SNAIL AND UREA"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Sheep serve as a definitive host for sheep liver flukes. What\nanimal serves as the intermediate host?",
+        "answer": " SNAIL (ACCEPT: AQUATIC SNAIL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " When mixed at a molar ratio of 3 to 1, which of the following\nsolution mixtures is a buffer system?\nW) Hydrochloric acid and sodium chloride\nX) Acetic acid and sodium hydroxide\nY) Potassium hydroxide and phosphoric acid\nZ) Perchloric acid and ammonia",
+        "answer": " X) ACETIC ACID AND SODIUM HYDROXIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true with respect to reaction\nmechanisms?\nW) Fast, reversible steps may be present\nX) Fast, nonreversible steps are never present\nY) The elementary reactions sum to give the overall reaction\nZ) The slow step is sometimes the first step",
+        "answer": " X) FAST, NONREVERSIBLE STEPS ARE NEVER PRESENT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer as a fraction in simplest form, what is the\nprobability of drawing a heart or a king from a standard playing deck of cards?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the recursive sequence is defined by and ,\nwhat is the value of t ?\n6 n 1 n n-1\nt t = 3 t = -5 +t 3",
+        "answer": "\n124"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A glass rod with index of refraction n is submersed in an oil\nbath. Which of the following indices of refraction should the oil have in order to render the rod\noptically invisible?\nW) Less than n\nX) Greater than n\nY) The same as n\nZ) None; it\u2019s impossible",
+        "answer": " Y) THE SAME AS N"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " As a planet travels around a star in an elliptical orbit, identify all of\nthe following four quantities related to the planet that are conserved: 1) angular momentum; 2)\ntotal energy; 3) angular velocity; 4) kinetic energy.",
+        "answer": " 1, 2 (ACCEPT: ANGULAR MOMENTUM AND TOTAL ENERGY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Three seconds after the Big Bang, which of the\nfollowing dominated the energy content of the universe?\nW) Dark energy\nX) Baryonic matter\nY) Dark matter\nZ) Radiation",
+        "answer": " Z) RADIATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A major problem solved during the 1990s was the\nsolar neutrino problem, in which only one-third the predicted number of neutrinos from the Sun\nwere observed. Which of the following was its resolution?\nW) Solar astronomers discovered that the solar core is smaller than was thought\nX) Solar astronomers discovered a new nuclear reaction in the Sun's core\nY) Physicists discovered that neutrino flavors oscillate as they travel from the Sun\nZ) Neutrino detectors were less sensitive than thought",
+        "answer": " Y) PHYSICISTS DISCOVERED THAT NEUTRINO FLAVORS OSCILLATE AS\nTHEY TRAVEL FROM THE SUN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " When comparing the amount of food energy taken in to the\nenergy available to do work, about how efficient is a human?\nW) 15%\nX) 25%\nY) 35%\nZ) 45%",
+        "answer": " X) 25%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a gallon of gasoline costs $3.50, how much will you save each\nyear if you have a car getting 40 miles per gallon compared to a car getting 20 miles per gallon\nif you drive 20,000 miles per year?",
+        "answer": " $1,750"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following exhibits viviparity?\nW) Salt cedars\nX) Cord grass\nY) Mangroves\nZ) Eelgrasses",
+        "answer": " Y) MANGROVES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following four cell types that are examples of\nimmature red blood cells: 1) promyelocyte [proh-mee-UH-luh-syt], 2) basophilic erythroblast\n[ih-RITH-ruh-blast], 3) pro-eosinophilic [(pro) ee-uh-sin-uh-FIL-ik] cell, 4) normoblast.",
+        "answer": " 2, 4 (ACCEPT: BASOPHILIC ERYTHROBLAST, NORMOBLAST)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A particular molecule of XeF displays 3 IR bands and 3\n4\nRaman bands at completely different energies. Based on this information, which of the following\nis its VSEPR structure?\nW) Tetrahedral\nX) Octahedral\nY) Square planar\nZ) See-saw",
+        "answer": " Y) SQUARE PLANAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Thirty-two grams of oxygen gas are reacted with 10 grams of\nhydrogen gas to form water. If all of the oxygen is consumed, how many grams of excess\nhydrogen remain?",
-        "subject": "",
-        "answer": "6Round Robin ~ Round 10 Page 13"
+        "answer": " 6"
     }
 ]

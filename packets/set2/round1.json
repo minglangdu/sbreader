@@ -1,183 +1,345 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Stomata are pores in leaves that allow gas exchange. What is the\nname of the structure with this function that is present in twigs, stems, bark, and fruit?",
-        "subject": " BIOLOGY ",
         "answer": " LENTICEL"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following species would be expected to have\nthe most covalent character?\nW) Beryllium fluoride\nX) Magnesium chloride\nY) Aluminum oxide\nZ) Silver bromide\nANSWER: W) BERYLLIUM FLUORIDE",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Identify all of the following four choices that are typically K\nstrategist life history characteristics: 1) Type III survivorship curve, 2) density dependent\nmortality, 3) large body size, 4) rapid embryonic development.",
+        "answer": " 2, 3 (ACCEPT: DENSITY DEPENDENT MORTALITY, LARGE BODY SIZE)"
+    },
+    {
+        "type": "Toss-up",
         "subject": " CHEMISTRY ",
-        "answer": " 2, 3 (ACCEPT: DENSITY DEPENDENT MORTALITY, LARGE BODY SIZE)TOSS UP2. CHEMISTRY Multiple Choice Which of the following species would be expected to havethe most covalent character?W) Beryllium fluorideX) Magnesium chlorideY) Aluminum oxideZ) Silver bromideANSWER: W) BERYLLIUM FLUORIDE"
+        "answertype": "Multiple Choice",
+        "content": " Which of the following species would be expected to have\nthe most covalent character?\nW) Beryllium fluoride\nX) Magnesium chloride\nY) Aluminum oxide\nZ) Silver bromide",
+        "answer": " W) BERYLLIUM FLUORIDE"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " What is the smallest possible sum of a positive number and its\nreciprocal?\nANSWER: 2",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Under which of the following sets of conditions would\nnitrogen gas deviate the MOST from the ideal gas law?\nW) 500 Kelvin and 50 atmospheres\nX) 500 Kelvin and 5 atmospheres\nY) 150 Kelvin and 50 atmospheres\nZ) 150 Kelvin and 5 atmospheres",
+        "answer": " Y) 150 KELVIN AND 50 ATMOSPHERES"
+    },
+    {
+        "type": "Toss-up",
         "subject": " MATH ",
-        "answer": " Y) 150 KELVIN AND 50 ATMOSPHERESRound Robin ~ Round 1 Page 1TOSS UP3. MATH Short Answer What is the smallest possible sum of a positive number and itsreciprocal?ANSWER: 2"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " The escape velocity for a 100 kilogram object to leave planet\nEarth is approximately 11,000 meters per second. Which of the following is the escape velocity in\nmeters per second for a 200 kilogram object to leave Earth?\nW) 5,500\nX) 11,000\nY) 16,500\nZ) 22,000\nANSWER: X) 11,000",
-        "subject": " PHYSICS ",
-        "answer": " 2 + 3 = -4 5 \u2013 = 7(1, -2)TOSS UP4. PHYSICS Multiple Choice The escape velocity for a 100 kilogram object to leave planetEarth is approximately 11,000 meters per second. Which of the following is the escape velocity inmeters per second for a 200 kilogram object to leave Earth?W) 5,500X) 11,000Y) 16,500Z) 22,000ANSWER: X) 11,000"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " In terms of naturally supplied nutrients, which of the\nfollowing elements is typically least abundant and most limiting to biological productivity in lakes?\nW) Nitrogen\nX) Phosphorus\nY) Calcium\nZ) Carbon\nANSWER: X) PHOSPHORUS",
-        "subject": " EARTH AND SPACE ",
-        "answer": " 6.4 x 10-14Round Robin ~ Round 1 Page 2TOSS UP5. EARTH AND SPACE Multiple Choice In terms of naturally supplied nutrients, which of thefollowing elements is typically least abundant and most limiting to biological productivity in lakes?W) NitrogenX) PhosphorusY) CalciumZ) CarbonANSWER: X) PHOSPHORUS"
-    },
-    {
-        "type": "Bonus",
         "answertype": "Short Answer",
-        "content": " If it takes 900 Btus [B-T-USE] of fuel to produce a gallon of hot\nwater and you take a 10 minute shower using 2 gallons of hot water per minute, how many Btus\nof fuel were used in the shower?\nANSWER: 18,000",
+        "content": " What is the smallest possible sum of a positive number and its\nreciprocal?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the point of intersection of x y and x y .",
+        "answer": " 2 + 3 = -4 5 \u2013 = 7\n(1, -2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The escape velocity for a 100 kilogram object to leave planet\nEarth is approximately 11,000 meters per second. Which of the following is the escape velocity in\nmeters per second for a 200 kilogram object to leave Earth?\nW) 5,500\nX) 11,000\nY) 16,500\nZ) 22,000",
+        "answer": " X) 11,000"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A proton with a charge of 1.6 x 10-19 coulombs is moving with a\nspeed of 2 x 105 meters per second when it encounters a uniform magnetic field of 2 teslas in a\ndirection perpendicular to the proton\u2019s motion. Providing your answer in scientific notation to two\nsignificant figures, what is the magnitude of the force in newtons experienced by the proton?",
+        "answer": " 6.4 x 10-14"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " In terms of naturally supplied nutrients, which of the\nfollowing elements is typically least abundant and most limiting to biological productivity in lakes?\nW) Nitrogen\nX) Phosphorus\nY) Calcium\nZ) Carbon",
+        "answer": " X) PHOSPHORUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following rock types could form from the\nearthfall material following a mass wasting event?\nW) Limestone\nX) Tillite [TIL-eyet]\nY) Breccia [BRECH-ee-uh]\nZ) Schist [SHIST]",
+        "answer": " Y) BRECCIA"
+    },
+    {
+        "type": "Toss-up",
         "subject": " ENERGY ",
-        "answer": " Y) BRECCIATOSS UP6. ENERGY Short Answer If it takes 900 Btus [B-T-USE] of fuel to produce a gallon of hotwater and you take a 10 minute shower using 2 gallons of hot water per minute, how many Btusof fuel were used in the shower?ANSWER: 18,000"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following unusual vertebrates was known in the\nfossil record for over 100 years before a living specimen was discovered?\nW) Okapi [oh-KAH-pee]\nX) Coelacanth [SEE-luh-kanth]\nY) Pangolin [PANG-guh-lin] or [pang-GOH-lin]\nZ) Seven gilled shark\nANSWER: X) COELACANTH",
-        "subject": " BIOLOGY ",
-        "answer": " Y) 1Round Robin ~ Round 1 Page 3TOSS UP7. BIOLOGY Multiple Choice Which of the following unusual vertebrates was known in thefossil record for over 100 years before a living specimen was discovered?W) Okapi [oh-KAH-pee]X) Coelacanth [SEE-luh-kanth]Y) Pangolin [PANG-guh-lin] or [pang-GOH-lin]Z) Seven gilled sharkANSWER: X) COELACANTH"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Infrared spectroscopy typically analyzes which of the\nfollowing?\nW) Electronic excitement\nX) Nuclear spins\nY) Molecular vibrations\nZ) Atomic rotation\nANSWER: Y) MOLECULAR VIBRATIONS",
-        "subject": " CHEMISTRY ",
-        "answer": " 1, 3, 4 (ACCEPT: WIDELY DILATED BRONCHI, DRY MOUTH, DILATED PUPILS)TOSS UP8. CHEMISTRY Multiple Choice Infrared spectroscopy typically analyzes which of thefollowing?W) Electronic excitementX) Nuclear spinsY) Molecular vibrationsZ) Atomic rotationANSWER: Y) MOLECULAR VIBRATIONS"
-    },
-    {
-        "type": "Bonus",
         "answertype": "Short Answer",
-        "content": " If f(t) = t , what is the limit of f(t) as t approaches ?\nANSWER: 3 +1 2",
-        "subject": " MATH ",
-        "answer": " +3 (ACCEPT: THREE PLUS)Round Robin ~ Round 1 Page 4TOSS UP9. MATH Short Answer If f(t) = t , what is the limit of f(t) as t approaches ?ANSWER: 3 +1 2"
+        "content": " If it takes 900 Btus [B-T-USE] of fuel to produce a gallon of hot\nwater and you take a 10 minute shower using 2 gallons of hot water per minute, how many Btus\nof fuel were used in the shower?",
+        "answer": " 18,000"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " A planet is found with a mass that is 50 times the mass of Earth\nand a radius that is 5 times that of the Earth. Providing your answer to the nearest integer, what\nis the acceleration due to gravity in meters per second squared on this planet, given that the\nacceleration due to gravity on the Earth is 9.8 meters per second squared?\nANSWER: 20",
-        "subject": " PHYSICS ",
-        "answer": " TO (ACCEPT: 5)5 1TOSS UP10. PHYSICS Short Answer A planet is found with a mass that is 50 times the mass of Earthand a radius that is 5 times that of the Earth. Providing your answer to the nearest integer, whatis the acceleration due to gravity in meters per second squared on this planet, given that theacceleration due to gravity on the Earth is 9.8 meters per second squared?ANSWER: 20"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " In the early part of the 20th century, the German\ngeologist and meteorologist Alfred Wegener introduced what theory?\nANSWER: CONTINENTAL DRIFT",
-        "subject": " EARTH AND SPACE ",
-        "answer": " WAVELENGTH AND MOMENTUM (ACCEPT: FREQUENCY AND ENERGY)Round Robin ~ Round 1 Page 5TOSS UP11. EARTH AND SPACE Short Answer In the early part of the 20th century, the Germangeologist and meteorologist Alfred Wegener introduced what theory?ANSWER: CONTINENTAL DRIFT"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A realized ecological niche [NICH] includes all but which of the\nfollowing?\nW) Resource requirements\nX) Range of tolerance\nY) Geographical location\nZ) Competitors\nANSWER: Y) GEOGRAPHICAL LOCATION",
-        "subject": " BIOLOGY ",
-        "answer": " W) AMPHIBOLITETOSS UP12. BIOLOGY Multiple Choice A realized ecological niche [NICH] includes all but which of thefollowing?W) Resource requirementsX) Range of toleranceY) Geographical locationZ) CompetitorsANSWER: Y) GEOGRAPHICAL LOCATION"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following does NOT have to contain an\noxygen atom single-bonded to at least one carbon atom?\nW) Ether\nX) Ester\nY) Mercaptan\nZ) Carboxylic acid\nANSWER: Y) MERCAPTAN",
-        "subject": " CHEMISTRY ",
-        "answer": " W) SEA SQUIRTRound Robin ~ Round 1 Page 6TOSS UP13. CHEMISTRY Multiple Choice Which of the following does NOT have to contain anoxygen atom single-bonded to at least one carbon atom?W) EtherX) EsterY) MercaptanZ) Carboxylic acidANSWER: Y) MERCAPTAN"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " If it takes 12 minutes to cut a log into 4 pieces, how many minutes\nwill it take to cut a log into 3 pieces?\nANSWER:",
-        "subject": " MATH ",
-        "answer": " W) POTASSIUMTOSS UP14. MATH Short Answer If it takes 12 minutes to cut a log into 4 pieces, how many minuteswill it take to cut a log into 3 pieces?ANSWER:"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " A 10 kilogram object falls to the surface of a planet where the\nacceleration due to gravity is 6.5 meters per second squared. If the object is falling at terminal\nvelocity, what is the drag force on the object in newtons?\nANSWER: 65",
-        "subject": " PHYSICS ",
-        "answer": "2\u221a5Round Robin ~ Round 1 Page 7TOSS UP15. PHYSICS Short Answer A 10 kilogram object falls to the surface of a planet where theacceleration due to gravity is 6.5 meters per second squared. If the object is falling at terminalvelocity, what is the drag force on the object in newtons?ANSWER: 65"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Give the name of the depressions that are the result\nof a violent volcanic eruption and within which lakes often form.\nANSWER: CALDERAS",
-        "subject": " EARTH AND SPACE ",
-        "answer": " THERE IS NO NET FORCETOSS UP16. EARTH AND SPACE Short Answer Give the name of the depressions that are the resultof a violent volcanic eruption and within which lakes often form.ANSWER: CALDERAS"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Chlorophyll undergoes which of the following types of reaction\nwhen it is activated by light?\nW) Reduction\nX) Oxidation\nY) Hydrolysis [hy-DROL-uh-sis]\nZ) Phosphorylation [FOS-fer-uh-lay-shuhn]\nANSWER: X) OXIDATION",
         "subject": " ENERGY ",
-        "answer": " W) GIANT MOLECULAR CLOUDSRound Robin ~ Round 1 Page 8TOSS UP17. ENERGY Multiple Choice Chlorophyll undergoes which of the following types of reactionwhen it is activated by light?W) ReductionX) OxidationY) Hydrolysis [hy-DROL-uh-sis]Z) Phosphorylation [FOS-fer-uh-lay-shuhn]ANSWER: X) OXIDATION"
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the maximum horsepower a\nhealthy person can briefly generate?\nW) 0.25\nX) 0.5\nY) 1\nZ) 2",
+        "answer": " Y) 1"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " The development of a streamlined body in a variety of fast\nswimming animals, including penguins, sharks, and dolphins, is a good example of which of the\nfollowing evolutionary concepts?\nW) Coevolution\nX) Divergent evolution\nY) Convergent evolution\nZ) Founder\u2019s effect\nANSWER: Y) CONVERGENT EVOLUTION",
+        "type": "Toss-up",
         "subject": " BIOLOGY ",
-        "answer": " Z) 700TOSS UP18. BIOLOGY Multiple Choice The development of a streamlined body in a variety of fastswimming animals, including penguins, sharks, and dolphins, is a good example of which of thefollowing evolutionary concepts?W) CoevolutionX) Divergent evolutionY) Convergent evolutionZ) Founder\u2019s effectANSWER: Y) CONVERGENT EVOLUTION"
-    },
-    {
-        "type": "Bonus",
         "answertype": "Multiple Choice",
-        "content": " A student is titrating an unknown acid with 0.100 molar\nsodium hydroxide. At the end of the experiment, the student calculates the concentration of the\nacid to be 1.1% higher than the actual value. Which of the following sources of possible\nexperimental error most likely contributed to this final error?\nW) Not zeroing the balance\nX) Adding 2 drops of indicator instead of the procedure-stated 3 drops\nY) Not reading from the bottom of the meniscus when reading the burette\nZ) Leaving some water in the receiving Erlenmeyer flask before adding the acid\nANSWER: Z) LEAVING SOME WATER IN THE RECEIVING ERLENMEYER FLASK BEFORE\nADDING THE ACID",
-        "subject": " CHEMISTRY ",
-        "answer": " Y) KANGAROO RAT POPULATIONRound Robin ~ Round 1 Page 9TOSS UP19. CHEMISTRY Multiple Choice A student is titrating an unknown acid with 0.100 molarsodium hydroxide. At the end of the experiment, the student calculates the concentration of theacid to be 1.1% higher than the actual value. Which of the following sources of possibleexperimental error most likely contributed to this final error?W) Not zeroing the balanceX) Adding 2 drops of indicator instead of the procedure-stated 3 dropsY) Not reading from the bottom of the meniscus when reading the buretteZ) Leaving some water in the receiving Erlenmeyer flask before adding the acidANSWER: Z) LEAVING SOME WATER IN THE RECEIVING ERLENMEYER FLASK BEFOREADDING THE ACID"
+        "content": " Which of the following unusual vertebrates was known in the\nfossil record for over 100 years before a living specimen was discovered?\nW) Okapi [oh-KAH-pee]\nX) Coelacanth [SEE-luh-kanth]\nY) Pangolin [PANG-guh-lin] or [pang-GOH-lin]\nZ) Seven gilled shark",
+        "answer": " X) COELACANTH"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following represents the degree measure of the angle\nbetween the circle and the chord for an arc of measure 90\u00b0?\nW)\nX)\nY) 45\u00b0\nZ) 90\u00b0\n135\u00b0\nAN1S8W0\u00b0ER: W)",
-        "subject": " MATH ",
-        "answer": " 1, 4, 3, 2 (ACCEPT: CALCIUM OXIDE, LITHIUM FLUORIDE, POTASSIUMCHLORIDE, CESIUM IODIDE)TOSS UP20. MATH Multiple Choice Which of the following represents the degree measure of the anglebetween the circle and the chord for an arc of measure 90\u00b0?W)X)Y) 45\u00b0Z) 90\u00b0135\u00b0AN1S8W0\u00b0ER: W)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " A 5 kilogram ball is thrown at a wall with a speed of 10 meters\nper second. If the ball rebounds with a speed of 7 meters per second, what was the magnitude of\nthe impulse that the ball experienced in kilogram meters per second?\nANSWER: 85",
-        "subject": " PHYSICS ",
-        "answer": "\u221a74Round Robin ~ Round 1 Page 10TOSS UP21. PHYSICS Short Answer A 5 kilogram ball is thrown at a wall with a speed of 10 metersper second. If the ball rebounds with a speed of 7 meters per second, what was the magnitude ofthe impulse that the ball experienced in kilogram meters per second?ANSWER: 85"
+        "content": " While chilling with your favorite tunes, the parasympathetic\ndivision of your autonomic nervous system is driving many of your physiological systems.\nIndicate all of the following four physiological responses that would be unlikely to occur: 1) widely\ndilated bronchi [BRONG-kee], 2) stimulated digestive processes, 3) dry mouth, 4) dilated pupils.",
+        "answer": " 1, 3, 4 (ACCEPT: WIDELY DILATED BRONCHI, DRY MOUTH, DILATED PUPILS)"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following map projections has true\nlatitude and longitude lines and angles, yet distortion increases near the map's polar regions?\nW) Globe\nX) Mercator\nY) Equidistant\nZ) Robinson\nANSWER: X) MERCATOR",
-        "subject": " EARTH AND SPACE ",
-        "answer": " X) 60 DEGREES NORTH OF EASTTOSS UP22. EARTH AND SPACE Multiple Choice Which of the following map projections has truelatitude and longitude lines and angles, yet distortion increases near the map's polar regions?W) GlobeX) MercatorY) EquidistantZ) RobinsonANSWER: X) MERCATOR"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Methane\u2019s influence on global warming is approximately how\nmany times that of carbon dioxide?\nW) 1/2\nX) 10\nY) 20\nZ) 40\nANSWER: Y) 20",
-        "subject": " ENERGY ",
-        "answer": " ARound Robin ~ Round 1 Page 11TOSS UP23. ENERGY Multiple Choice Methane\u2019s influence on global warming is approximately howmany times that of carbon dioxide?W) 1/2X) 10Y) 20Z) 40ANSWER: Y) 20"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following molluscan [mol-UHS-kuhn] structures\nis NOT correctly paired with its function?\nW) Adductor muscle and closing valves\nX) Siphon and feeding while buried\nY) Radula and reproduction\nZ) Foot and locomotion\nANSWER: Y) RADULA AND REPRODUCTION",
-        "subject": " BIOLOGY ",
-        "answer": " W) 22TOSS UP24. BIOLOGY Multiple Choice Which of the following molluscan [mol-UHS-kuhn] structuresis NOT correctly paired with its function?W) Adductor muscle and closing valvesX) Siphon and feeding while buriedY) Radula and reproductionZ) Foot and locomotionANSWER: Y) RADULA AND REPRODUCTION"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Jacques Charles is well-known as the inventor of the hot air\nballoon, and there is also a law that carries his name. Which of the following is a correct\npostulation, based on Charles\u2019s Law?\nW) As the gas in a balloon is heated, its mass increases\nX) As the gas in a balloon is heated, the pressure of the gas outside the balloon decreases\nY) As the gas in a balloon is heated, the pressure of the gas outside the balloon increases\nZ) As the gas in a balloon is cooled, its density increases\nANSWER: Z) AS THE GAS IN A BALLOON IS COOLED, ITS DENSITY INCREASES",
+        "type": "Toss-up",
         "subject": " CHEMISTRY ",
-        "answer": " W) PROSTAGLANDINS ARE PARACRINE REGULATORS THAT ACT LOCALLYRound Robin ~ Round 1 Page 12TOSS UP25. CHEMISTRY Multiple Choice Jacques Charles is well-known as the inventor of the hot airballoon, and there is also a law that carries his name. Which of the following is a correctpostulation, based on Charles\u2019s Law?W) As the gas in a balloon is heated, its mass increasesX) As the gas in a balloon is heated, the pressure of the gas outside the balloon decreasesY) As the gas in a balloon is heated, the pressure of the gas outside the balloon increasesZ) As the gas in a balloon is cooled, its density increasesANSWER: Z) AS THE GAS IN A BALLOON IS COOLED, ITS DENSITY INCREASES"
+        "answertype": "Multiple Choice",
+        "content": " Infrared spectroscopy typically analyzes which of the\nfollowing?\nW) Electronic excitement\nX) Nuclear spins\nY) Molecular vibrations\nZ) Atomic rotation",
+        "answer": " Y) MOLECULAR VIBRATIONS"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the oxidation number of the central cobalt atom in\n[Co(NH3)4Cl2]+ [C-O-N-H-3-4-C-L-2-plus]?",
+        "answer": " +3 (ACCEPT: THREE PLUS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If f(t) = t , what is the limit of f(t) as t approaches ?",
+        "answer": " 3 +1 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the ratio of x to y if: [the fraction with numerator x\n(\ud835\udc65\ud835\udc65\u2212\ud835\udc66\ud835\udc66) 2\nminus y and denominator x plus y equals two thirds].\n(\ud835\udc65\ud835\udc65+\ud835\udc66\ud835\udc66) = 3",
+        "answer": " TO (ACCEPT: 5)\n5 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A planet is found with a mass that is 50 times the mass of Earth\nand a radius that is 5 times that of the Earth. Providing your answer to the nearest integer, what\nis the acceleration due to gravity in meters per second squared on this planet, given that the\nacceleration due to gravity on the Earth is 9.8 meters per second squared?",
+        "answer": " 20"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In the de Broglie [duh broh-GLEE] equation, Planck\u2019s constant\nrelates which two properties of a particle?",
+        "answer": " WAVELENGTH AND MOMENTUM (ACCEPT: FREQUENCY AND ENERGY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " In the early part of the 20th century, the German\ngeologist and meteorologist Alfred Wegener introduced what theory?",
+        "answer": " CONTINENTAL DRIFT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following materials is most commonly\nassociated with schistosity [shis-TOHS-i-tee]?\nW) Amphibolite [am-FIB-uh-lyt]\nX) Gneiss [NYS]\nY) Schist [SHIST]\nZ) Slate",
+        "answer": " W) AMPHIBOLITE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A realized ecological niche [NICH] includes all but which of the\nfollowing?\nW) Resource requirements\nX) Range of tolerance\nY) Geographical location\nZ) Competitors",
+        "answer": " Y) GEOGRAPHICAL LOCATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following organisms starts out as a\nfree-swimming larva and then undergoes a metamorphosis during which its tail, notochord, and\nmost of its nervous system are reabsorbed?\nW) Sea squirt\nX) Arrow worm\nY) Eel\nZ) Hellgrammite [HEL-gruh-myt]",
+        "answer": " W) SEA SQUIRT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does NOT have to contain an\noxygen atom single-bonded to at least one carbon atom?\nW) Ether\nX) Ester\nY) Mercaptan\nZ) Carboxylic acid",
+        "answer": " Y) MERCAPTAN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following elements is most reactive to water?\nW) Potassium\nX) Zinc\nY) Palladium [puh-LAY-dee-uhm]\nZ) Nickel",
+        "answer": " W) POTASSIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If it takes 12 minutes to cut a log into 4 pieces, how many minutes\nwill it take to cut a log into 3 pieces?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In simplest form, find the radius of a semi-circle in which is inscribed\na square of side 4 units.",
+        "answer": "\n2\u221a5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 10 kilogram object falls to the surface of a planet where the\nacceleration due to gravity is 6.5 meters per second squared. If the object is falling at terminal\nvelocity, what is the drag force on the object in newtons?",
+        "answer": " 65"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 2000 kilogram car moves with a steady speed of 10 meters per\nsecond up a hill that is inclined 10 degrees above the horizontal. Describe the magnitude and\ndirection of the net force on the car after 10 seconds.",
+        "answer": " THERE IS NO NET FORCE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Give the name of the depressions that are the result\nof a violent volcanic eruption and within which lakes often form.",
+        "answer": " CALDERAS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Where in the interstellar medium are stars believed\nto form?\nW) Giant molecular clouds\nX) Warm-hot interstellar medium\nY) H I regions\nZ) H II regions",
+        "answer": " W) GIANT MOLECULAR CLOUDS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Chlorophyll undergoes which of the following types of reaction\nwhen it is activated by light?\nW) Reduction\nX) Oxidation\nY) Hydrolysis [hy-DROL-uh-sis]\nZ) Phosphorylation [FOS-fer-uh-lay-shuhn]",
+        "answer": " X) OXIDATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately how many pounds of coal are required to light a\n100 watt light bulb for one year?\nW) 325\nX) 450\nY) 575\nZ) 700",
+        "answer": " Z) 700"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The development of a streamlined body in a variety of fast\nswimming animals, including penguins, sharks, and dolphins, is a good example of which of the\nfollowing evolutionary concepts?\nW) Coevolution\nX) Divergent evolution\nY) Convergent evolution\nZ) Founder\u2019s effect",
+        "answer": " Y) CONVERGENT EVOLUTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Access to desert aquifers has provided a positive feedback\nstimulus to all but which of the following?\nW) Human population\nX) Cattle population\nY) Kangaroo rat population\nZ) Commercial agriculture",
+        "answer": " Y) KANGAROO RAT POPULATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A student is titrating an unknown acid with 0.100 molar\nsodium hydroxide. At the end of the experiment, the student calculates the concentration of the\nacid to be 1.1% higher than the actual value. Which of the following sources of possible\nexperimental error most likely contributed to this final error?\nW) Not zeroing the balance\nX) Adding 2 drops of indicator instead of the procedure-stated 3 drops\nY) Not reading from the bottom of the meniscus when reading the burette\nZ) Leaving some water in the receiving Erlenmeyer flask before adding the acid",
+        "answer": " Z) LEAVING SOME WATER IN THE RECEIVING ERLENMEYER FLASK BEFORE\nADDING THE ACID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Place the following four molecules in order from strongest to\nweakest ionic bonding: 1) calcium oxide, 2) cesium iodide, 3) potassium chloride, 4) lithium\nfluoride.",
+        "answer": " 1, 4, 3, 2 (ACCEPT: CALCIUM OXIDE, LITHIUM FLUORIDE, POTASSIUM\nCHLORIDE, CESIUM IODIDE)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Savannah travels 5 miles in a direction north 30o east and then 7\nmiles in a direction south 60o east. In simplest form, how many miles is she from her starting\npoint?",
+        "answer": "\n\u221a74"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 5 kilogram ball is thrown at a wall with a speed of 10 meters\nper second. If the ball rebounds with a speed of 7 meters per second, what was the magnitude of\nthe impulse that the ball experienced in kilogram meters per second?",
+        "answer": " 85"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An airplane is scheduled to travel to a city that is 100 miles due\nnorth of the departure city. If there is a wind that blows from east to west at a steady rate of 100\nmiles per hour, and the plane travels at a speed of 200 miles per hour in still air, then which of the\nfollowing directions should the plane be directed?\nW) 30 degrees north of east\nX) 60 degrees north of east\nY) 30 degrees north of west\nZ) 60 degrees north of west",
+        "answer": " X) 60 DEGREES NORTH OF EAST"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following map projections has true\nlatitude and longitude lines and angles, yet distortion increases near the map's polar regions?\nW) Globe\nX) Mercator\nY) Equidistant\nZ) Robinson",
+        "answer": " X) MERCATOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which spectral class of stars has the strongest\nhydrogen lines?",
+        "answer": " A"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Methane\u2019s influence on global warming is approximately how\nmany times that of carbon dioxide?\nW) 1/2\nX) 10\nY) 20\nZ) 40",
+        "answer": " Y) 20"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " About how many pounds of carbon dioxide are generated by\nburning 6 pounds of pure carbon?\nW) 22\nX) 32\nY) 42\nZ) 52",
+        "answer": " W) 22"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molluscan [mol-UHS-kuhn] structures\nis NOT correctly paired with its function?\nW) Adductor muscle and closing valves\nX) Siphon and feeding while buried\nY) Radula and reproduction\nZ) Foot and locomotion",
+        "answer": " Y) RADULA AND REPRODUCTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is true?\nW) Prostaglandins [pros-tuh-GLAN-dins] are paracrine [PAR-uh-kruhn] regulators that act\nlocally\nX) Insulin is a paracrine regulator that acts over long distances\nY) Melatonin is an endocrine hormone that acts locally [EN-duh-krin]\nZ) Prostaglandins are endocrine hormones that act over long distances",
+        "answer": " W) PROSTAGLANDINS ARE PARACRINE REGULATORS THAT ACT LOCALLY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Jacques Charles is well-known as the inventor of the hot air\nballoon, and there is also a law that carries his name. Which of the following is a correct\npostulation, based on Charles\u2019s Law?\nW) As the gas in a balloon is heated, its mass increases\nX) As the gas in a balloon is heated, the pressure of the gas outside the balloon decreases\nY) As the gas in a balloon is heated, the pressure of the gas outside the balloon increases\nZ) As the gas in a balloon is cooled, its density increases",
+        "answer": " Z) AS THE GAS IN A BALLOON IS COOLED, ITS DENSITY INCREASES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " A 10.0 gram sample of gold with a specific heat capacity of\n0.1 joules per gram degree Celsius is heated using 100.0 joules of energy. If the original\ntemperature of the gold is 25.0\u00b0 Celsius, what is its final temperature in degrees Celsius?",
-        "subject": " CHEMISTRY ",
-        "answer": " 125Round Robin ~ Round 1 Page 13"
+        "answer": " 125"
     }
 ]

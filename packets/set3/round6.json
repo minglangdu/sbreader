@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the resulting electrical potential, in volts, when a charge of 12\ncoulombs is applied to a 1 farad capacitor?",
+        "answer": " 12"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the magnetic field associated with the current on a straight long wire is inversely proportional to\nthe distance from the wire\nX) Kirchhoff\u2019s first rule has to do with the accounting of total charges entering and leaving a\njunction per unit time\nY) superconducting quantum interference devices, or SQUID\u2019s, are based on the Josephson Effect\nZ) resistance and voltage are the two most common parameters used to characterize a resistor",
+        "answer": " Z) RESISTANCE AND VOLTAGE ARE THE TWO MOST COMMON\nPARAMETERS USED TO CHARACTERIZE A RESISTOR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a colligative property:\nW) vapor pressure lowering\nX) osmotic pressure\nY) boiling point elevation\nZ) color of solution",
+        "answer": " Z) COLOR OF SOLUTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a type of colloid that is classified as a\nsol at room temperature:\nW) gelatin\nX) milk\nY) whipped cream\nZ) marshmallow",
+        "answer": " W) GELATIN\n(Solution: sol is a solid dispersed in a liquid)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following tissues is MOST directly responsible for\nthe increased diameter of a tree trunk from year to year:\nW) apical meristem\nX) pericycle\nY) vascular cambium\nZ) pith",
+        "answer": " Y) VASCULAR CAMBIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 metabolic processes which directly\nrequire oxygen: glycolysis; alcohol fermentation; electron transport system",
+        "answer": " ELECTRON TRANSPORT SYSTEM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Convert log base 4 of 53 into a base 10 expression:\nlog53 log 53",
+        "answer": " (ACCEPT: 10 )\nlog4 log 4\n10"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Consider a 6-sided irregular polygon whose perimeter is 100 centimeters.\nIf 4 of the sides have a length of 7 centimeters each, what is the length, in centimeters, of each of the\nremaining two sides if they are congruent?",
+        "answer": " 36\n(Solution: 100 \u2013 28 = 72; 72/2 = 36cm)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a man-made coastal structure\nthat causes coastal erosion by blocking oceanic longshore drift:\nW) jetty\nX) barrier island\nY) atoll\nZ) fringing reef",
+        "answer": " W) JETTY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Used as a way to categorize rivers and streams, what is the\nterm for the volume of water flowing through the cross-section of a channel over a given period of\ntime?",
+        "answer": " DISCHARGE (ACCEPT: DISCHARGE RATE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Case hardening is a process through which:\nW) the surface of a metal is hardened\nX) the metal is hardened completely through\nY) the hardness of a metal is determined\nZ) metals are shaped or formed",
+        "answer": " W) THE SURFACE OF A METAL IS HARDENED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The oil used with an oil-immersion objective in\ncompound light microscopes takes advantage of what optical phenomenon to improve\nmagnification:\nW) chromatic coherence\nX) index of refraction\nY) polarization\nZ) dispersion",
+        "answer": " X) INDEX OF REFRACTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the rotation of the Sun\u2019s surface is faster at the equator than at the poles\nX) the apparent magnitude of an RR Lyrae depends most on its distance from the Earth\nY) Venus appears its largest to nighttime observers when it is in its full phase\nZ) a star\u2019s light curve typically plots brightness verses time",
+        "answer": " Y) VENUS APPEARS ITS LARGEST TO NIGHTTIME OBSERVERS WHEN IT IS\nIN ITS FULL PHASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following techniques would you most directly be\nusing if you were analyzing a Balmer and Lyman series:\nW) astrolabe measurements\nX) spectroscopy\nY) nuclear fission\nZ) bolometric analysis",
+        "answer": " X) SPECTROSCOPY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the strongest spectral line in the visible\nregion of the hydrogen spectrum:\nW) red Balmer line\nX) orange Lyman line\nY) green Paschen line\nZ) blue Brackett line",
+        "answer": " W) RED BALMER LINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has the highest vapor pressure at standard\ntemperature and pressure:\nW) mercury\nX) ethyl alcohol\nY) methyl alcohol\nZ) acetone",
+        "answer": " Z) ACETONE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the Arrhenius theory, an Arrhenius acid is any\nsubstance that does which of the following in a chemical reaction:\nW) donates a pair of electrons\nX) accepts a pair of electrons\nY) produces H+ ions in aqueous solution\nZ) produces OH\u2013 ions in aqueous solution",
+        "answer": " Y) PRODUCES H+ IONS IN AQUEOUS SOLUTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " If you were to evaporate 1 liter or kilogram of water, how many\ncalories of latent heat are stored in the vapor?",
+        "answer": " 540,000 (ACCEPT: 5.4 \u00d7 105)\n(Solution: lat heat = 540cal/g)\nvap"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " During meiosis, how many chromatids are in a chromosomal tetrad?",
+        "answer": " 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of nucleated mammalian\ncells:\nW) mast cells contain large amounts of histamine\nX) the golgi apparatus processes proteins for exocytosis\nY) microtubules are components in cilia\nZ) all the DNA in a nucleated cell is in the nucleus",
+        "answer": " Z) ALL THE DNA IN A HUMAN NUCLEATED CELL IS IN THE NUCLEUS\n(Solution: mitochondrial DNA is present)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x:\nx2 \u2013 20x + 19 = 0",
+        "answer": " 19 AND 1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Express the following radical in its simplest radical form:\n!2 (80a2b4c3)",
+        "answer": " !8ab2c 5c"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about Earth\u2019s history:\nW) the Ordovician Period predates the Silurian Period\nX) we currently live in the Cenozoic Era\nY) we currently live in the Pleistocene Epoch\nZ) the Holocene Epoch began about 10,000 years ago",
+        "answer": " Y) WE CURRENTLY LIVE IN THE PLEISTOCENE EPOCH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the global wind system that\nmost influences weather in the U.S.:\nW) prevailing westerlies\nX) tropical easterlies\nY) trade winds\nZ) polar easterlies",
+        "answer": " W) PREVAILING WESTERLIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " One metric ton equals how many grams?",
+        "answer": " ONE MILLION (ACCEPT: 1 \u00d7 106 or 106)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Gout in humans is the result of the precipitation of what\nsubstance in joints?",
+        "answer": " URIC ACID (ACCEPT: LITHIC ACID or TRIKETOPURINE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " With reference to the Sun\u2019s position in the sky, when does a full\nMoon set?",
+        "answer": " WHEN THE SUN RISES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " In a Newtonian telescope, how many degrees is the secondary\nmirror tilted in reference to the primary?",
+        "answer": " 45"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If 1000 pounds is applied to a spring with spring constant of 100\npounds per inch on top of a hydraulic piston, how many pounds of force is transferred to the piston:\nW) 1,000\nX) 900\nY) 100\nZ) zero",
+        "answer": " W) 1,000"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If the atomic mass of carbon-12 is exactly 12 atomic mass units,\nwhy is the atomic mass of carbon not exactly 12 when listed on the Periodic Table:\nW) the mass deficit\nX) neutrons are not the same mass as protons\nY) it adds the mass of the electrons\nZ) the presence in nature of about 1.1% carbon-13",
+        "answer": " Z) THE PRESENCE IN NATURE OF ABOUT 1.1% CARBON-13"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many carbon and hydrogen atoms are in a cyclopentane\nmolecule?",
+        "answer": " CARBON = 5; HYDROGEN = 10"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the systematic IUPAC name for the following acid:\nHClO",
+        "answer": " HYPOCHLOROUS ACID"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specific part of any member of the Anthophyta produces\npollen?",
+        "answer": " STAMEN (ACCEPT: ANTHER)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Which one of the following 4 plant groups is phenotypically and\nphylogenetically LEAST related to the others: ferns; liverworts; hornworts; mosses",
+        "answer": " FERNS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Subtract the following complex numbers, giving your answer in standard\nform: (11 \u2013 4i) \u2013 (\u20133 + 3i)",
+        "answer": " 14 \u2013 7i"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following inequality for x, giving your answer in fractional\n1 2 5\nform: x+ < x!2\n3 3 6\n16 1",
+        "answer": " x > (ACCEPT: x > 5 )\n3 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The time interval between the generation of P and S\nwaves from its arrival at a seismometer is BEST translated as:\nW) the magnitude of the earthquake\nX) the distance to the epicenter\nY) the wave height of a potential tsunami\nZ) the distance to the nearest fault zone",
+        "answer": " X) THE DISTANCE TO THE EPICENTER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) sea levels dropped during the Pleistocene glaciation making the Bering Strait a land bridge\nX) large animals such as the mastodon and dire wolves became extinct at the end of the Pleistocene\nY) the Holocene may be an interglacial stage\nZ) recent ice ages are thought to be controlled by uniformitarian cycles",
+        "answer": " Z) RECENT ICE AGES ARE THOUGHT TO BE CONTROLLED BY\nUNIFORMITARIAN CYCLES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What substance made of several fibrous materials was\nwidely used in the 20th century for its heat resistant properties but is now banned because it can\ncause lung cancer when inhaled?",
+        "answer": " ASBESTOS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the medical term for the type of lung cancer\nspecifically associated with asbestosis?",
+        "answer": " MESOTHELIOMA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What planet is never more than 28\u00ba from the Sun in the evening\nsky?",
+        "answer": " MERCURY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " At 8:00 AM in early August of 2006 in New York, the Moon\ncould be seen low in the western sky. What phase was it most likely in:\nW) waxing crescent\nX) just past new\nY) a few days past full\nZ) first quarter",
+        "answer": " Y) A FEW DAYS PAST FULL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many nodes are there in the first overtone in a standing wave of\na vibrating guitar string?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If g = 9.8 meters per second squared, to the first decimal place and in\nnewtons, how many newtons of force are required to keep a 500 kilogram slab of granite moving\nacross a horizontal surface at constant speed if there is a kinetic frictional coefficient of 0.10\nbetween the surface and the slab?",
+        "answer": " 490\n(Solution: 0.1 \u00d7 500kg \u00d7 9.8m/s2 = 490N)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Organic compounds that contain double bonds are said to be:\nW) saturated\nX) unsaturated\nY) unable to undergo cis-trans isomerization\nZ) unable to undergo addition reactions",
+        "answer": " X) UNSATURATED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 4 elements in order of increasing atomic\nradii: lithium; oxygen; potassium; sodium",
+        "answer": " OXYGEN; LITHIUM; SODIUM; POTASSIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Which one of the following 4 animal groups is LEAST closely\nrelated to the others: brachiopods; gastropods; cephalopods; bivalves",
+        "answer": " BRACHIOPODS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " From the OUTSIDE to the INSIDE, name the 3 embryonic germ\nlayers in mammals:",
+        "answer": " ECTODERM; MESODERM; ENDODERM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) actinides are characterized by occupying the f-block of the periodic table\nX) lanthanides are characterized by occupying the d-block of the periodic table\nY) alkali metals are the most reactive of all metallic elements\nZ) actinides are metals",
+        "answer": " X) LANTHANIDES ARE CHARACTERIZED BY OCCUPYING THE D-BLOCK\nOF THE PERIODIC TABLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In standard chemical nomenclature, what is the complete electron\nconfiguration for the sodium ion, Na+?",
+        "answer": " 1s22s22p6 (ACCEPT: 1s22s22p63s0)"
+    }
+]

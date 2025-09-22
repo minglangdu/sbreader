@@ -1,352 +1,352 @@
 [
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following most commonly functions to limit current to\none direction:\nW) capacitor\nX) transformer\nY) resistor\nZ) diode",
-        "subject": " PHYSICS ",
-        "answer": "Z) DIODE"
+        "answer": " Z) DIODE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Debbie pushes a 10-kilogram box of books with a horizontal force of\n500 newtons. What is the acceleration of the box, giving your answer in standard SI units, if friction\nis neglected?",
-        "subject": " PHYSICS ",
-        "answer": "50 METERS PER SECOND SQUARED (ACCEPT: 50 METERS PER SECOND PERSECOND)(Solution: A = F/M; A = 500/10; A = 50m/sec2)"
+        "answer": " 50 METERS PER SECOND SQUARED (ACCEPT: 50 METERS PER SECOND PER\nSECOND)\n(Solution: A = F/M; A = 500/10; A = 50m/sec2)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " If pure water is at its boiling point at standard pressure, how many\nadditional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state?",
-        "subject": " CHEMISTRY ",
-        "answer": "540"
+        "answer": " 540"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " What is the name for the straight-chain alkane containing 5\ncarbons?",
-        "subject": " CHEMISTRY ",
-        "answer": "PENTANEHigh School Round 6 Page 1"
+        "answer": " PENTANE"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " In what part of photosynthesis, named after its discoverers, is NADPH\nused to produce 3-carbon sugar phosphate molecules?",
-        "subject": " BIOLOGY ",
-        "answer": "CALVIN CYCLE (ACCEPT: CALVIN-BENSON CYCLE or CALVIN-BENSON-BASSHAM CYCLE)"
+        "answer": " CALVIN CYCLE (ACCEPT: CALVIN-BENSON CYCLE or CALVIN-BENSON-\nBASSHAM CYCLE)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " For every carbon dioxide molecule fixed in the Calvin-Benson cycle,\nhow many NADPH molecules are utilized?",
-        "subject": " BIOLOGY ",
-        "answer": "2"
+        "answer": " 2"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " What is the specific name for a common tangent that intersects the\nsegment joining the centers of 2 circles?",
-        "subject": " MATH ",
-        "answer": "INTERNAL COMMON TANGENT (ACCEPT: INTERNAL or INTERNALTANGENT)"
+        "answer": " INTERNAL COMMON TANGENT (ACCEPT: INTERNAL or INTERNAL\nTANGENT)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " A flagpole casts a 100-foot long shadow. If a 6-foot tall person standing\nat the base of the pole casts an 8-foot shadow, how many feet tall is the flagpole?",
-        "subject": " MATH ",
-        "answer": "75(Solution: (100 \u00d7 6)/8 = 75 ft)High School Round 6 Page 2"
+        "answer": " 75\n(Solution: (100 \u00d7 6)/8 = 75 ft)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following happens to the shells of snails and\nlimpets as seawater becomes increasingly acidic:\nW) they begin to dissolve\nX) they become thicker\nY) they develop much later in the organism\u2019s life\nZ) they become darker",
-        "subject": " EARTH SCIENCE ",
-        "answer": "W) THEY BEGIN TO DISSOLVE"
+        "answer": " W) THEY BEGIN TO DISSOLVE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Continental margins facing the edges of diverging tectonic\nplates are called:\nW) passive margins\nX) Pacific-type margins\nY) transform fault margins\nZ) active margins",
-        "subject": " EARTH SCIENCE ",
-        "answer": "W) PASSIVE MARGINS"
+        "answer": " W) PASSIVE MARGINS"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " Giving your answer to the first decimal place, an increase\nof 1\u00baC is equivalent to an increase of how many degrees Fahrenheit?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "1.8"
+        "answer": " 1.8"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " Convert 140\u00baF into degrees Celsius:",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "60(Solution: 5/9(140\u00ba \u2013 32\u00ba) = 60\u00ba C)High School Round 6 Page 3"
+        "answer": " 60\n(Solution: 5/9(140\u00ba \u2013 32\u00ba) = 60\u00ba C)"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following best explains from where most of the\ndust that covers the surface of the Moon came:\nW) weathering when the Moon was young and had an atmosphere\nX) interstellar dust deposited over billions of years\nY) from rock pulverized from many impacts\nZ) from its original makeup of a soft, silicate rock",
-        "subject": " ASTRONOMY ",
-        "answer": "Y) FROM ROCK PULVERIZED FROM MANY IMPACTS"
+        "answer": " Y) FROM ROCK PULVERIZED FROM MANY IMPACTS"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What physical property of stars is most directly responsible for\nhow long they will continue fusion?",
-        "subject": " ASTRONOMY ",
-        "answer": "MASS"
+        "answer": " MASS"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the device in a galvanic cell that\ncompletes the electric circuit by connecting the two sides of the cell with an inert electrolyte:\nW) electrolytic reservoir\nX) cathode\nY) conducting wire\nZ) salt bridge",
-        "subject": " PHYSICS ",
-        "answer": "Z) SALT BRIDGE"
+        "answer": " Z) SALT BRIDGE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " How many joules are in a single watt-hour?",
-        "subject": " PHYSICS ",
-        "answer": "3,600(Solution: (1 joule per second)(60 sec)(60 minutes) = 3600 J)High School Round 6 Page 4"
+        "answer": " 3,600\n(Solution: (1 joule per second)(60 sec)(60 minutes) = 3600 J)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " If the electronegativity difference in the bonding atoms is\nintermediate in strength, what general type of bond is typically formed?",
-        "subject": " CHEMISTRY ",
-        "answer": "POLAR COVALENT (DO NOT ACCEPT: COVALENT)"
+        "answer": " POLAR COVALENT (DO NOT ACCEPT: COVALENT)"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a molecule having a nonpolar\ncovalent bond:\nW) bromine gas\nX) hydrogen fluoride\nY) water\nZ) hydrogen bromide",
-        "subject": " CHEMISTRY ",
-        "answer": "W) BROMINE GAS"
+        "answer": " W) BROMINE GAS"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " In which of the following organ systems of the human body do\nchief cells primarily function:\nW) excretory\nX) digestive\nY) nervous\nZ) reproductive",
-        "subject": " BIOLOGY ",
-        "answer": "X) DIGESTIVE"
+        "answer": " X) DIGESTIVE"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What section of the small intestine is the first to receive gastric\ncontents?",
-        "subject": " BIOLOGY ",
-        "answer": "DUODENUMHigh School Round 6 Page 5"
+        "answer": " DUODENUM"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Solve the following equation for x over the integers: x2 = 3x",
-        "subject": " MATH ",
-        "answer": "0; 3"
+        "answer": " 0; 3"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Giving your answer as a fraction reduced to lowest terms, solve the\n2 1 10 1\nfollowing equation for x: x\u2212 = x+\n3 4 6 2\n3",
-        "subject": " MATH ",
-        "answer": "\u20134"
+        "answer": " \u2013\n4"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is best used to date the age of the\nEarth to about 4.5 billion years old:\nW) uranium-235\nX) uranium-238\nY) potassium-40\nZ) carbon-14",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) URANIUM-238"
+        "answer": " X) URANIUM-238"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a ubiquitous trace mineral\nfound in many igneous, metamorphic and clastic sedimentary rocks, and has been used to date\nEarth\u2019s oldest rocks at 4-plus billion years:\nW) titanite\nX) tremolite\nY) zircon\nZ) beryl",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Y) ZIRCONHigh School Round 6 Page 6"
+        "answer": " Y) ZIRCON"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true:\nW) only a few harmful algal bloom species actually produce toxins that are poisonous to people\nX) algal blooms occur in marine and freshwater environments\nY) algal blooms can occur in the open ocean far from any coastal inlets\nZ) pollution is always to blame for harmful algal blooms along coastal waters",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Z) POLLUTION IS ALWAYS TO BLAME FOR HARMFUL ALGAL BLOOMSALONG COASTAL WATERS"
+        "answer": " Z) POLLUTION IS ALWAYS TO BLAME FOR HARMFUL ALGAL BLOOMS\nALONG COASTAL WATERS"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " 500 metric gigatons is approximately equal to how\nmany pounds:\nW) 1.1 trillion\nX) 11 trillion\nY) 110 trillion\nZ) 1,100 trillion",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Z) 1,100 TRILLION(Solution: ~2205 \u00d7 500 \u00d7 1000 = 1,102,000,000)"
+        "answer": " Z) 1,100 TRILLION\n(Solution: ~2205 \u00d7 500 \u00d7 1000 = 1,102,000,000)"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " If a star is seen just above the eastern horizon at sunset, where\nwould it most likely be found just before the following sunrise:\nW) just above the eastern horizon\nX) half-way up in the eastern sky\nY) low in the western sky\nZ) directly overhead",
-        "subject": " ASTRONOMY ",
-        "answer": "Y) LOW IN THE WESTERN SKY"
+        "answer": " Y) LOW IN THE WESTERN SKY"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What is the MOST common organic molecule in the atmosphere\nof the planet Uranus?",
-        "subject": " ASTRONOMY ",
-        "answer": "METHANE (ACCEPT: CH )4High School Round 6 Page 7"
+        "answer": " METHANE (ACCEPT: CH )\n4"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Radon is primarily produced naturally on Earth most directly from the\ndecay of what element?",
-        "subject": " PHYSICS ",
-        "answer": "RADIUM"
+        "answer": " RADIUM"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " By words or numbers, name all of the following 4 choices that are\nTRUE for an object moving at a constant speed:\n1) it must have a constant velocity\n2) it must be constantly moving in the same direction\n3) it can be accelerating\n4) it must have a constant weight",
-        "subject": " PHYSICS ",
-        "answer": "3) IT CAN BE ACCELERATING"
+        "answer": " 3) IT CAN BE ACCELERATING"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following are elements in the Periodic Table\nwhose outer shell electrons are on two principal energy levels:\nW) alkali metals\nX) noble gases\nY) alkaline Earth metals\nZ) transition elements",
-        "subject": " CHEMISTRY ",
-        "answer": "Z) TRANSITION ELEMENTS"
+        "answer": " Z) TRANSITION ELEMENTS"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " According to standard chemical nomenclature and indicating the\nproper charge, what is the formula for potassium perchlorate?",
-        "subject": " CHEMISTRY ",
-        "answer": "KClO4High School Round 6 Page 8"
+        "answer": " KClO\n4"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What specific type of microscopy passes a beam of electrons through\nan ultra-thin specimen that is usually stained with an electron opaque substance, producing an image\nwhich can be captured by a charged coupled device?",
-        "subject": " BIOLOGY ",
-        "answer": "TRANSMISSION ELECTRON MICROSCOPY (ACCEPT: TEM)(DO NOT ACCEPT: SCANNING ELECTRON MICROSCOPY OR SEM)"
+        "answer": " TRANSMISSION ELECTRON MICROSCOPY (ACCEPT: TEM)\n(DO NOT ACCEPT: SCANNING ELECTRON MICROSCOPY OR SEM)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Order the following 4 objects found in the human body from the\nSMALLEST to the LARGEST: mitochondrion; ribosome; erythrocyte; average monocyte",
-        "subject": " BIOLOGY ",
-        "answer": "RIBOSOME; MITOCHONDRION; ERYTHROCYTE; AVERAGE MONOCYTE"
+        "answer": " RIBOSOME; MITOCHONDRION; ERYTHROCYTE; AVERAGE MONOCYTE"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Pyrex glass contains many of the same components as\nsoda lime glass but in addition contains at least 5%:\nW) boric acid\nX) pure silica\nY) clay\nZ) dyes",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "W) BORIC ACID"
+        "answer": " W) BORIC ACID"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST describes the function\nof boric acid in the manufacture of Pyrex or borosilicate glass:\nW) makes the glass more scratch-resistant\nX) makes the glass more brittle\nY) reduces the linear coefficient of expansion of the glass\nZ) reduces the effect of detrimental ultraviolet light exposure",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Y) REDUCES THE LINEAR COEFFICIENT OF EXPANSION OF THE GLASSHigh School Round 6 Page 9"
+        "answer": " Y) REDUCES THE LINEAR COEFFICIENT OF EXPANSION OF THE GLASS"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following are intrusive masses of igneous\nrock that extend downward to unknown depths and do not show signs of a definite floor:\nW) laccolith\nX) batholith\nY) sill\nZ) volcanic neck",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) BATHOLITH"
+        "answer": " X) BATHOLITH"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT a common mineral in\nigneous rock but rather an accessory that typically occurs in small amounts:\nW) quartz\nX) muscovite\nY) plagioclase\nZ) orthoclase",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) MUSCOVITE"
+        "answer": " X) MUSCOVITE"
     },
     {
-        "type": "Toss-up",
+        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Simplify the following rational expression:\n9y2 +5x\n5y\u22123x2",
-        "subject": " MATH ",
-        "answer": "CANNOT BE FURTHER SIMPLIFIED (ACCEPT: or THE SAME)9y2 +5x"
+        "answer": " CANNOT BE FURTHER SIMPLIFIED (ACCEPT: or THE SAME)\n9y2 +5x"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Factor the following expression completely: 12x2 + 24x \u2013 36",
-        "subject": " MATH ",
-        "answer": "12(x + 3)(x \u2013 1) (ACCEPT: 12(x \u2013 1)(x + 3))High School Round 6 Page 10"
+        "answer": " 12(x + 3)(x \u2013 1) (ACCEPT: 12(x \u2013 1)(x + 3))"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " To the first decimal place, how many astronomical units is the\naverage radius of the Earth\u2019s orbit around the Sun?",
-        "subject": " ASTRONOMY ",
-        "answer": "1.0"
+        "answer": " 1.0"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " How many degrees above the celestial equator is the north\ncelestial pole?",
-        "subject": " ASTRONOMY ",
-        "answer": "90"
+        "answer": " 90"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the electric charge and mass of the carrier particle for the\nelectromagnetic force?",
-        "subject": " PHYSICS ",
-        "answer": "BOTH ARE ZERO"
+        "answer": " BOTH ARE ZERO"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " If the intensity of a sound is 10,000 times as loud as another sound,\nby how many decibels do the two sounds differ?",
-        "subject": " PHYSICS ",
-        "answer": "40High School Round 6 Page 11"
+        "answer": " 40"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true:\nW) hydrogen gas found in nature exists as a monatomic molecule\nX) when 2 oxygen atoms combine to form O , energy is released\n2\nY) when chlorine gains 1 electron, it becomes larger\nZ) noble gases tend not to bond because of their stable valence configurations",
-        "subject": " CHEMISTRY ",
-        "answer": "W) HYDROGEN GAS FOUND IN NATURE EXISTS AS A MONATOMICMOLECULE"
+        "answer": " W) HYDROGEN GAS FOUND IN NATURE EXISTS AS A MONATOMIC\nMOLECULE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Knowing that the chemical name for gypsum is calcium sulfate\ndihydrate, gypsum is what percent water by weight? Assume the atomic masses of calcium = 40;\nsulfur = 32 and oxygen = 16.",
-        "subject": " CHEMISTRY ",
-        "answer": "21(Solution: CaSO \u20222H O)4 2"
+        "answer": " 21\n(Solution: CaSO \u20222H O)\n4 2"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the term for the transfer of genes by\nviruses from one prokaryote to another:\nW) transduction\nX) conjugation\nY) transformation\nZ) relaxation",
-        "subject": " BIOLOGY ",
-        "answer": "W) TRANSDUCTION"
+        "answer": " W) TRANSDUCTION"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 3 transport systems that directly require\nenergy to operate: active transport; facilitated diffusion; sodium potassium pump",
-        "subject": " BIOLOGY ",
-        "answer": "ACTIVE TRANSPORT; SODIUM POTASSIUM PUMP(ACCEPT: ALL BUT FACILITATED DIFFUSION)High School Round 6 Page 12"
+        "answer": " ACTIVE TRANSPORT; SODIUM POTASSIUM PUMP\n(ACCEPT: ALL BUT FACILITATED DIFFUSION)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " What is the general name for a hypothetical gas that obeys\nBoyles\u2019s law at all temperatures and pressures?",
-        "subject": " CHEMISTRY ",
-        "answer": "IDEAL GAS (ACCEPT: IDEAL)"
+        "answer": " IDEAL GAS (ACCEPT: IDEAL)"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of ideal gases:\nW) 2 or more gases form homogeneous mixtures in all proportions\nX) collisions between gas particles are both elastic and inelastic\nY) they diffuse rapidly\nZ) they assume the shapes of their containers",
-        "subject": " CHEMISTRY ",
-        "answer": "X) COLLISIONS BETWEEN GAS PARTICLES ARE BOTH ELASTIC ANDINELASTICHigh School Round 6 Page 13"
+        "answer": " X) COLLISIONS BETWEEN GAS PARTICLES ARE BOTH ELASTIC AND\nINELASTIC"
     }
 ]

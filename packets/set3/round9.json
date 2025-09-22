@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Resonance in a musical instrument is MOST directly exemplified\nby:\nW) sympathetic harmonic vibration\nX) destructive interference\nY) dissonance in the standing wave\nZ) diffraction",
+        "answer": " W) SYMPATHETIC HARMONIC VIBRATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The specific heat of a certain metal is 0.750 joules per gram kelvin.\nHow much heat, in joules to the nearest whole number, will it take to increase the temperature of\n0.50 kilograms of the metal from 25\u00baC to 50\u00baC?",
+        "answer": " 9,375\n(Solution: \u0394H = (0.75 J/g\u00b7K)(500g)(25K) = 9,375J)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Solvents, such as water, that can both donate and accept protons\nare typically described as:\nW) resonant\nX) metalloid\nY) amphoteric\nZ) polyprotic",
+        "answer": " Y) AMPHOTERIC"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " When going from left to right, elements in the same period of\nthe Periodic Table have progressively smaller atomic radii because of:\nW) increased effective nuclear charge\nX) decreased effective nuclear charge\nY) addition of electrons\nZ) addition of neutrons",
+        "answer": " W) INCREASED EFFECTIVE NUCLEAR CHARGE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is missing in bryophytes and is an\nevolutionary advancement of higher plants:\nW) vascular tissue\nX) epidermal tissue\nY) chloroplasts\nZ) plasmodesmata (read as: PLAS-mo-dez-MAH-tah)",
+        "answer": " W) VASCULAR TISSUE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " If the flower color red is dominant and white is recessive, what will be\nthe expected phenotypic ratio of red to white flowers in the first generation of a cross between parent\nplants both heterozygous for flower color?",
+        "answer": " 3 TO 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the domain and range for the function defined by the following\nset of three ordered pairs: {(\u20132, 6), (0, 9), (3, 7)}",
+        "answer": " DOMAIN = \u20132, 0, 3; RANGE = 6, 9, 7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in centimeters to the nearest whole number, what is\nthe perimeter of a closed quarter-circle whose radius is 12 centimeters?",
+        "answer": " 43\n(Solution: curve of circle = \u00bc \u03c0d = 6\u03c0 = 18.84; sides = 12 + 12 = 24; 24 + 18.84 = 42.8cm)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " What type of stream only bears water during and\nimmediately after a rainstorm:\nW) ephemeral\nX) intermittent\nY) perennial\nZ) dendritic",
+        "answer": " W) EPHEMERAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about ocean tides:\nW) the Moon\u2019s influence on Earth\u2019s tides is about 2-times greater than the Sun\u2019s influence\nX) a complete tidal day is about 24 hours 50 minutes long\nY) some coastlines have 2 high tides and 2 low tides each lunar day whereas some have only have 1\nhigh tide and 1 low tide each lunar day\nZ) spring high tides typically have greater ranges in the Northern Hemisphere during summer than\nduring winter",
+        "answer": " Z) SPRING HIGH TIDES TYPICALLY HAVE GREATER RANGES IN THE\nNORTHERN HEMISPHERE DURING SUMMER THAN DURING WINTER\n(Solution: during winter at perihelion, Earth is closer to the Sun)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What neurotransmitter is deficient in Parkinson\u2019s disease?",
+        "answer": " DOPAMINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST reason why\nParkinson\u2019s disease cannot be treated by simply administering dopamine into the blood stream:\nW) dopamine\u2019s blood half-life is too short\nX) dopamine will not cross the blood brain barrier\nY) dopamine is the precursor to the real effective transmitter in Parkinson\u2019s disease\nZ) it is not known why dopamine will not work if administered directly into the blood",
+        "answer": " X) DOPAMINE WILL NOT CROSS THE BLOOD BRAIN BARRIER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was the primary instrument used to\ngather 5 to 35 micrometer spectra data from the Deep Impact mission:\nW) Chandra X-ray observatory\nX) Arecibo radio telescope\nY) Hubble gamma-ray telescope\nZ) Spitzer infrared spectrograph",
+        "answer": " Z) SPITZER INFRARED SPECTROGRAPH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\napparent magnitudes of \u20133 and +4:\nW) 2.5\nX) 25\nY) 250\nZ) 625",
+        "answer": " Z) 625"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the acceleration, in meters per second squared, of a\n10-kilogram snow sled that is on a frictionless horizontal surface if a horizontal force of 500 newtons\nis applied to it?",
+        "answer": " 50\n(Solution: A = F/M; A = 500/10; A = 50 m/sec2)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What is the speed of light in meters per second for monochromatic\nlight of 780 nanometers in glass with a refractive index of 1.55:\nW) 1.5 \u00d7 108\nX) 1.9 \u00d7 108\nY) 4.65 \u00d7 107\nZ) 4.65 \u00d7 108",
+        "answer": " X) 1.9 \u00d7 108\n(Solution: 3.00 \u00d7 108/1.55 = 1.9 \u00d7 108)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a nonpolar molecule:\nW) HCN\nX) HBr\nY) CHCl\n3\nZ) CO\n2",
+        "answer": " Z) CO\n2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the general formula for a noncyclic\nalkene (read carefully as: al-KEEN) with n number of carbon atoms:\nW) C H\nn 2n\nX) C H\nn 2n+2\nY) C H\nn 2n\u20132\nZ) C H\nn 2n+1",
+        "answer": " W) C H\nn 2n"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In photosystem one, when NADP+ forms NADPH with the catalytic\nhelp of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived?",
+        "answer": " STROMA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The conversion of pyruvate to Acetyl Co-A occurs:\nW) in the cytosol\nX) in the ER\nY) in the mitochondrion\nZ) in the lysosome",
+        "answer": " Y) IN THE MITOCHONDRION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the degree of the following monomial: \u20136x2y4z3",
+        "answer": " 9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the number of sides in a regular polygon if each interior angle\nmeasures 176 degrees:",
+        "answer": " 90\n(Solution: (n \u2013 2)180\u00ba = 176n; n = 90)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate regarding\npaleontology:\nW) endothermic mammals thrived during the Cenozoic Era\nX) the fossil records of birds is poor because of their thin bones and lack of teeth\nY) the mastodon was a Proboscidian mammal of the Cenozoic Era\nZ) trilobites are an important index fossil of the Mesozoic Era",
+        "answer": " Z) TRILOBITES ARE AN IMPORTANT INDEX FOSSIL OF THE MESOZOIC ERA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Deposited by subglacial streams, ridges of sand and\ngravel that form beneath the ablation zone of a glacier are called:\nW) cirques\nX) eskers\nY) horns\nZ) kames",
+        "answer": " X) ESKERS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is MOST commonly used for\nremoving many organic compounds in water in municipal water treatment plants:\nW) activated charcoal\nX) precipitation reactions\nY) reverse osmosis\nZ) dredging",
+        "answer": " W) ACTIVATED CHARCOAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the epilimnion is the upper warm layer of water of a lake in summer\nX) in cameras, the larger the f-number, the greater the depth of field\nY) crab grass is better adapted to hot dry weather than Kentucky blue grass\nZ) Listeria is a waterborne parasite",
+        "answer": " Z) LISTERIA IS A WATERBORNE PARASITE\n(Solution: it is food-borne)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate:\nW) recent evidence suggests a subsurface salty ocean is present on the Moon Europa\nX) spiral galaxies are actively forming stars\nY) Earth\u2019s aphelion occurs on the summer solstice\nZ) Julian days are often used as the time reference on light curves of stars",
+        "answer": " Y) EARTH\u2019S APHELION OCCURS ON THE SUMMER SOLSTICE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " What would happen in the mid-northern latitudes if the tilt of\nthe Earth\u2019s axis decreased by 15 degrees:\nW) warmer summers and warmer winters\nX) cooler summers and cooler winters\nY) cooler summers and warmer winters\nZ) colder summers and colder winters",
+        "answer": " Y) COOLER SUMMERS AND WARMER WINTERS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is generally NOT true regarding diffraction\nof light:\nW) when white light is passed through a diffraction grating, shorter wavelengths are diffracted the\nmost\nX) diffraction is wavelength dependent\nY) if laser light is passed through a diffraction grating it will produce an interference pattern as a\nseries of dots on a screen\nZ) white light passing through a diffraction grating is spread into a rainbow of colors",
+        "answer": " W) WHEN WHITE LIGHT IS PASSED THROUGH A DIFFRACTION GRATING,\nSHORTER WAVELENGTHS ARE DIFFRACTED THE MOST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 300-newton box is placed on an inclined plane that makes a 45\u00ba\nangle with the horizontal. Find the component of the box\u2019s weight parallel to the plane\u2019s surface, in\nnewtons to the nearest whole number:",
+        "answer": " 212 (ACCEPT: 213)\n(Solution: F = (300N)sin 45\u00ba = 300N \u00d7 0.707 = 212.1N)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Dalton\u2019s gas law applies primarily to:\nW) non-ideal gases\nX) gas mixtures\nY) density of gases\nZ) molar mass of gas",
+        "answer": " X) GAS MIXTURES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The oxidation number of oxygen is \u20131 in:\nW) normal oxides\nX) peroxides\nY) superoxides\nZ) lithium oxide",
+        "answer": " X) PEROXIDES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the 3 domain system of classification with the 3\ndomains being, Archaea, Bacteria and Eukarya, which of the following would be LEAST likely to\nbelong to the domain Bacteria:\nW) chlamydia\nX) spirochetes (read as: spy-row-keets)\nY) gram positive bacteria\nZ) non-nucleated thermophiles",
+        "answer": " Z) NON-NUCLEATED THERMOPHILES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following does the RUBISCO enzyme play a\ncentral role:\nW) Photosystem One\nX) Electron Transport\nY) Photosystem Two\nZ) Calvin Cycle",
+        "answer": " Z) CALVIN CYCLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in simplest radical form, rationalize the denominator\n1\nof the following expression:\n(3\u2212 x)\n3+ x",
+        "answer": "\n9\u2212 x"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x over the set of complex numbers,\ngiving your answer in simplest form: x2 \u2013 10x + 34 = 0",
+        "answer": " 5 \u00b1 3i (ACCEPT: 5 + 3i AND 5 \u2013 3i)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " A hurricane originating in the Eastern tropical Atlantic is\ndriven westward by:\nW) the intertropical convergence zone\nX) the prevailing westerlies\nY) the easterly trade winds\nZ) the doldrums",
+        "answer": " Y) THE EASTERLY TRADE WINDS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a silicate:\nW) mica\nX) galena\nY) olivine\nZ) potassium feldspar",
+        "answer": " X) GALENA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What technique, used by the U.S. Navy in military\nexercises and suspected of harming many marine species, is the focus of a recent agreement to not\nrun these exercises within 40 kilometers of the new Hawaiian Islands Marine Reserve?",
+        "answer": " SONAR (ACCEPT: MIN-RANGE SONAR)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 5 celestial bodies that have\natmospheres composed primarily of nitrogen: Earth; Uranus; Venus; Pluto; Titan",
+        "answer": " EARTH; PLUTO; TITAN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " A stargazer looks at Orion and sees a reddish star called\nBetelgeuse. The redness is because the star is what type of star?",
+        "answer": " A RED GIANT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the MOST common name for the celestial objects that\nare called stars but since they are low mass objects of less than 0.08 solar masses they cannot\nundergo fusion?",
+        "answer": " BROWN DWARFS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The lens-maker\u2019s equation relates the focal length of a glass lens to\nthe radii of curvature of the lens\u2019s two surfaces and what other property of the lens?",
+        "answer": " INDEX OF REFRACTION (ACCEPT: REFRACTIVE INDEX)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Green light has a wavelength of 500 nanometers. What is its\nassociated frequency, in hertz?",
+        "answer": " 6 \u00d7 1014"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A molecule that contains 4 carbon-hydrogen single bonds and one\ncarbon-carbon double bond contains how many sigma and pi bonds, respectively?",
+        "answer": " SIGMA = 5; PI = 1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the systematic IUPAC name for the compound RbClO ?\n4",
+        "answer": " RUBIDIUM PERCHLORATE\n(DO NOT ACCEPT: RUBIDIUM ONE PERCHLORATE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Animal tissues are generally divided into four main types. If three of\nthem are, connective, nervous, and muscle, what is the fourth tissue?",
+        "answer": " EPITHELIAL (ACCEPT: EPITHELIUM)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 choices from the SMALLEST to the\nLARGEST, assuming average size for each: erythrocyte; mitochondrion; polio virus; macrophage",
+        "answer": " POLIO VIRUS; MITOCHONDRION; ERYTHROCYTE; MACROPHAGE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the pH of a solution having a hydroxide ion concentration\nof 1 \u00d7 10\u20135 M?",
+        "answer": " 9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " At standard temperature and pressure, if a sample of argon has a\nvolume of 67 liters, how many moles of argon are in the sample, to the nearest whole number?",
+        "answer": " 3\n(Solution: (67L)(1mol Ar/22.4L) = 3 mol Ar)"
+    }
+]

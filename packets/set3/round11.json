@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following strong acids, all at 0.1 molar\nconcentration, will have the LOWEST pH value:\nW) H SO\n2 4\nX) HNO\n3\nY) HCl\nZ) HClO\n4",
+        "answer": " W) H SO\n2 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Giving its proper charge, what is the oxidation number of the\nmanganese atom in the following compound: MnO \u2013 (read as: M, N, O, 4, minus)\n4",
+        "answer": " +7 (ACCEPT: 7)\n(Solution: Mn + 4(-2) = -1; Mn = +7)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A field emission microscope requires which of the following:\nW) a conductor with a very fine point\nX) high energy alpha particles\nY) a light source with a wavelength shorter that the smallest observable feature size\nZ) a low amplitude, time-varying magnetic field",
+        "answer": " W) A CONDUCTOR WITH A VERY FINE POINT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest thousand, how many joules of work are done in\npulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain\nthat makes a 45\u00ba angle with the surface?",
+        "answer": " 14,000\n(Solution: w = F \u00d7 d \u00d7 cos angle = 2000N \u00d7 10 m \u00d7 0.7071 = 14,142)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The genetic material of different viruses can be:\nW) only double-stranded DNA\nX) only single-stranded DNA or double-stranded DNA\nY) only double-stranded DNA or double-stranded RNA\nZ) either single-stranded DNA and RNA or double-stranded DNA and RNA",
+        "answer": " Z) EITHER SINGLE-STRANDED DNA AND RNA OR DOUBLE-STRANDED\nDNA AND RNA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT characteristic of retroviruses:\nW) they have single-stranded RNA as their genetic material\nX) they make mRNA from their original RNA\nY) they incorporate their genome into the DNA of the host cell using reverse transcriptase\nZ) the host cell polymerase transcribes viral genes",
+        "answer": " X) THEY MAKE mRNA FROM THEIR ORIGINAL RNA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A circle has a radius of 8 centimeters. Find the central angle, in degrees,\nof a sector of a circle if its arc length is 2\u03c0 centimeters:",
+        "answer": " 45\n(Solution: arc/circumference = n/360; n = 45\u00ba)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is closest to the radius of a sphere, in meters,\ngiven that its volume is 400 cubic meters:\nW) 2.15\nX) 4.57\nY) 6.28\nZ) 9.76",
+        "answer": " X) 4.57\n(Solution: V = 4/3\u03c0r3; 400 = 4/3(3.14)(r)3; r = 3 95.5 = 4.57)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following typically requires warm, clear,\nshallow water characterized by low nutrient concentration and a hard coastal substrate to develop:\nW) barrier island\nX) estuary\nY) lagoon\nZ) coral reef",
+        "answer": " Z) CORAL REEF"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is TRUE regarding climate:\nW) monsoon climates typically lack seasonal precipitation\nX) a prolonged rain-shadow effect would most likely produce a tropical climate\nY) chaparral vegetation predominates in Mediterranean climates\nZ) grassland steppes predominate in humid, mid-latitude conditions",
+        "answer": " Y) CHAPARRAL VEGETATION PREDOMINATES IN MEDITERRANEAN\nCLIMATES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Rooted plants that grow below the surface of the water\nare called submerged plants. Which of the following is BEST classified as a freshwater submerged\nplant:\nW) common reed\nX) sedges\nY) water lilies\nZ) water milfoil",
+        "answer": " Z) WATER MILFOIL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the decimal number 84 in binary?",
+        "answer": " 1010100 (must read as: one-zero-one-zero-one-zero-zero)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Recent analysis of Cassini spacecraft data has provided\nconvincing evidence that Saturn\u2019s Moon Titan has:\nW) large seas of liquid water\nX) methane lakes on its surface\nY) a moon of its own\nZ) a large active volcano",
+        "answer": " X) METHANE LAKES ON ITS SURFACE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the next stage in the evolution of a\nsingle star after the red giant stage:\nW) white dwarf\nX) red dwarf\nY) planetary nebula\nZ) nova",
+        "answer": " Y) PLANETARY NEBULA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In which positions on the benzene ring are the methyl groups\nfound in the compound o-xylene or ortho-xylene (read as: ORTHO-ZIE-lean):",
+        "answer": " 1 AND 2 (ACCEPT: 2 AND 1)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a tertiary alcohol:\nW) 2-propanol\nX) ethanol\nY) 2-methyl-2-propanol\nZ) 1,2-ethanediol",
+        "answer": " Y) 2-METHYL-2-PROPANOL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The scattering of alpha particles by a metal foil was first studied by:\nW) Compton\nX) Rutherford\nY) Bragg\nZ) Rayleigh",
+        "answer": " X) RUTHERFORD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A pole vaulter with a mass of 150 kilograms is traveling at 25 meters\nper second just prior to landing on an air mattress which collapses and allows the vaulter to come to\nrest over a period of 2.0 seconds. What was the force of the impact between the vaulter and the air\nmattress, in newtons?",
+        "answer": " 1875\n(Solution: F = mv/t = (150kg)(25m/s)/2s = 1875N)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " TSH causes the thyroid to produce more T3. When T3 rises, it\nflows through the blood to the brain to decrease the release of TSH. Which of the following is the\nMOST accurate and common term for this physiological phenomenon:\nW) metabolic reaction\nX) hormonal balance\nY) negative feedback\nZ) endocrine action",
+        "answer": " Y) NEGATIVE FEEDBACK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In mammalian kidneys, reabsorption of water occurs mostly in\nwhich of the following:\nW) glomerulus\nX) descending limb of the loop of Henle (read as: HEN-lee)\nY) proximal convoluted tubule\nZ) Bowman\u2019s capsule",
+        "answer": " X) DESCENDING LIMB OF THE LOOP OF HENLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If a population distribution is illustrated as a symmetrical bell shape\ncurve, then the median and the mean are:\nW) not the same\nX) uncertain\nY) variable\nZ) the same",
+        "answer": " Z) THE SAME"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in standard form, what is the fourth term in the\nbinomial expansion of the following: (4x + y)4",
+        "answer": " 16xy3 (ACCEPT: 16y3x)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a physical weathering process\ncaused by a chemical change where there is a weakening and scaling off of successive layers to\nproduce a rounded rock:\nW) frost action\nX) exfoliation\nY) abrasion\nZ) plant and animal action",
+        "answer": " X) EXFOLIATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is one of the main reasons why\ngeologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid\nFault in Kentucky, Mississippi and Tennessee:\nW) the underlying geology is loose sand and mud deposited by the Mississippi River\nX) it overlies a deep transform fault margin much like the San Andreas fault\nY) it lies over a fast-moving modern plate boundary\nZ) it lies over a deep, subterranean hot spot",
+        "answer": " W) THE UNDERLYING GEOLOGY IS LOOSE SAND AND MUD DEPOSITED\nBY THE MISSISSIPPI RIVER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) nanometer-thick films that roll themselves into tubes and other useful shapes have been recently\ndiscovered\nX) counting annual growth lines in dinosaur bones can be used to estimate their age at death\nY) amphibian population declines and extinctions are global and rapid\nZ) epiphytic plants such as many orchids are considered parasitic plants",
+        "answer": " Z) EPIPHYTIC PLANTS SUCH AS MANY ORCHIDS ARE CONSIDERED\nPARASITIC PLANTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is MOST likely to be\nmeasured as 200 yottameters:\nW) radius of the observable universe\nX) Pluto\u2019s orbital diameter\nY) distance to Andromeda\nZ) distance to Ganymede",
+        "answer": " W) RADIUS OF THE OBSERVABLE UNIVERSE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Microlensing is BEST explained by which of the following\ntheories or laws:\nW) Quantum theory\nX) General Relativity\nY) Kirchhoff\u2019s laws\nZ) Maxwell\u2019s law",
+        "answer": " X) GENERAL RELATIVITY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a type of telescope technology that\nuses mirrors whose shapes can be deformed:\nW) Schmidt optics\nX) redundant interfermetric optics\nY) CCD optics\nZ) adaptive optics",
+        "answer": " Z) ADAPTIVE OPTICS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Predict the bond angle or shape for the central atom in a molecule\nof beryllium dichloride:",
+        "answer": " 180\u00ba (ACCEPT: LINEAR)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Avogadro\u2019s gas law concerns which of the following two\nvariables:\nW) temperature and pressure\nX) pressure and volume\nY) temperature and volume\nZ) moles and volume",
+        "answer": " Z) MOLES AND VOLUME"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following could most practically be used as a detector\nfor the automatic door opening system you find at your local grocery store:\nW) infrared camera system\nX) ultrasonic motion detector\nY) radar system\nZ) optical camera system",
+        "answer": " Y) RADAR SYSTEM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The radar system associated with the automatic doors at a local\ngrocery store uses 10.5 gigahertz radiation. If the door is to open for a person walking towards it at\n1 meter per second, which Doppler shift must the radar system be able to detect:\nW) a red shift of 2 hertz\nX) a blue shift of 35 hertz\nY) a red shift of 160 hertz\nZ) a blue shift of 1.8 hertz",
+        "answer": " X) A BLUE SHIFT OF 35 HERTZ"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During embryogenesis, which of the following is MOST accurate\nconcerning the blastopore:\nW) it does not exist in protostomes\nX) it originates before the blastula stage\nY) it forms the anus in deuterostomes (read as: DOO-ter-oh-stomes)\nZ) it is the hollow center of the gastrula",
+        "answer": " Y) IT FORMS THE ANUS IN DEUTEROSTOMES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a primary function of histones H2A,\nH2B, H3 and H4:\nW) preventing damage to DNA from ionizing radiation\nX) densely packaging DNA into nucleosomes\nY) holding DNA in the double helical configuration\nZ) directing the packaging of DNA into looped domains of about 300 nanometers",
+        "answer": " X) DENSELY PACKAGING DNA INTO NUCLEOSOMES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has a graph that is a parabola that opens\ndownward:\nW) f(x) = 3x + 1\nX) f(x) = x2 \u2013 2\nY) f(x) = \u2013x2\nZ) f(x) = x3",
+        "answer": " Y) f(x) = \u2013x2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the 101st term in the arithmetic sequence whose first three terms are\n5, 11, and 17:",
+        "answer": " 605\n(Solution: a = a + (n \u2013 1)d; = 5 + (101 \u2013 1)(6) = 605)\nn 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following rocks typically has the\nSMALLEST grains:\nW) shale\nX) conglomerate\nY) breccia\nZ) sandstone",
+        "answer": " W) SHALE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " If ammonoid fossils are found in a sediment layer, the\narea was MOST likely covered by:\nW) an ocean\nX) a large forest\nY) a pre-Cambrian swamp\nZ) a fresh-water basin",
+        "answer": " W) AN OCEAN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " What type of fluorescence is produced in \"Glow\nSticks\" that are widely found on the market today and which glow for hours after the stick is\n\"broken\" to allow for the mixture of different substances:\nW) thermoluminescence\nX) triboluminescence\nY) photoluminescence\nZ) chemiluminescence",
+        "answer": " Z) CHEMILUMINESCENCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Most commercial asbestos was a fibrous variety of\nserpentine called:\nW) chrysotile\nX) kaolinite\nY) magnetite\nZ) apatite",
+        "answer": " W) CHRYSOTILE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 celestial objects that are typically\nconsidered minor planets: Ceres; Titan; Mercury; Juno",
+        "answer": " CERES AND JUNO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " How many times as great will light-gathering power of a\nreflector telescope be if the radius of its primary mirror is doubled?",
+        "answer": " 4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the systematic IUPAC name for the compound\nFe(NO ) ?\n2 3",
+        "answer": " IRON (III) NITRITE (read as: iron three nitrite) (MUST BE EXACT)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " To the second decimal place, what is the concentration of nitrate\nions, in moles per liter, in a 0.26 molar Al(NO ) solution?\n3 3",
+        "answer": " 0.78\n(Solution: 3 \u00d7 0.26 = 0.78)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Billy drops his teddy bear out of the car window 2 meters from the\nground while his father is driving down Main Street at 20 meters per second. In seconds to the first\ndecimal place, how long does it take for the bear to hit the ground, assuming air resistance is\nneglected?",
+        "answer": " 0.6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Using your rounded answer to the above question and remembering\nthat the father is driving down Main Street at 20 meters per second, how far will the bear travel\nhorizontally before striking the ground, rounded to the nearest whole meter and again assuming air\nresistance is neglected?",
+        "answer": " 12"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " The corpus luteum in humans primarily secretes what hormone?",
+        "answer": " PROGESTERONE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 physiological inputs that affect the\nhomeostatic actions of the hypothalamus in humans:\nlimbic system; olfactory system; retina; reticular formation",
+        "answer": " ALL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the underwater pressure in atmospheres in a fresh water lake\nat a depth of 20 meters?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the resonant frequency, in hertz to the nearest whole number,\nof a three-component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm\nresister?",
+        "answer": " 80"
+    }
+]

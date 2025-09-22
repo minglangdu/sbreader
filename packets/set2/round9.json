@@ -1,183 +1,331 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the unit of the product of resistance and\ncapacitance?\nW) Farad\nX) Ohm\nY) Mho\nZ) Second",
-        "subject": "",
-        "answer": "Z) SECOND"
+        "answer": " Z) SECOND"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " For photons traveling through a vacuum, a photon in the\nultraviolet spectrum has which of the following characteristics, compared to a photon in the\ninfrared spectrum?\nW) Longer wavelength\nX) Same speed\nY) Lower frequency\nZ) Half the energy",
+        "answer": " X) SAME SPEED"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " What is the term for the system of power generation in which solar\nenergy is converted to heat that drives a steam turbine?\nANSWER: CONCENTRATED SOLAR POWER (ACCEPT: CSP; DO NOT ACCEPT: SOLAR\nPOWER)",
-        "subject": "",
-        "answer": "X) SAME SPEEDTOSS UP2. ENERGY Short Answer What is the term for the system of power generation in which solarenergy is converted to heat that drives a steam turbine?ANSWER: CONCENTRATED SOLAR POWER (ACCEPT: CSP; DO NOT ACCEPT: SOLARPOWER)"
+        "content": " What is the term for the system of power generation in which solar\nenergy is converted to heat that drives a steam turbine?",
+        "answer": " CONCENTRATED SOLAR POWER (ACCEPT: CSP; DO NOT ACCEPT: SOLAR\nPOWER)"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following species does NOT have at least two\nequally favorable resonance structures?\nW) C H\n6 6\nX) NO -\n2\nY) CO\n2\nZ) SO\n2\nANSWER: Y) CO\n2",
-        "subject": "",
-        "answer": "4, 3, 1, 2Round Robin ~ Round 9 Page 1TOSS UP3. CHEMISTRY Multiple Choice Which of the following species does NOT have at least twoequally favorable resonance structures?W) C H6 6X) NO -2Y) CO2Z) SO2ANSWER: Y) CO2"
-    },
-    {
-        "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Providing your answer in simplest form, what is sec [secant of\n11 pi over 6]?\n(11\u03c0/6)\nANSWER:\n2\u221a3",
-        "subject": "",
-        "answer": "W) NOT SPONTANEOUS AT ANY TEMPERATURETOSS UP4. MATH Short Answer Providing your answer in simplest form, what is sec [secant of11 pi over 6]?(11\u03c0/6)ANSWER:2\u221a3"
+        "content": " By number, rank the following four electricity generating resources\nin terms of capital cost per megawatt-hour from least to greatest: 1) hydropower, 2) nuclear, 3)\nconventional coal, 4) natural gas.",
+        "answer": " 4, 3, 1, 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following species does NOT have at least two\nequally favorable resonance structures?\nW) C H\n6 6\nX) NO -\n2\nY) CO\n2\nZ) SO\n2",
+        "answer": " Y) CO\n2"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " For a given reaction, \u0394H [delta H] is positive and \u0394S [delta S]\nis negative. In which of the following temperature limits is the reaction spontaneous?\nW) Not spontaneous at any temperature\nX) Spontaneous at only high temperatures\nY) Spontaneous at only low temperatures\nZ) Spontaneous at all temperatures",
+        "answer": " W) NOT SPONTANEOUS AT ANY TEMPERATURE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Each exterior angle of a regular polygon has a measure of What is\nthe sum, in degrees, of the measures of the interior angles of the polygon?\n10\u00b0.\nANSWER:\n6120\u00b0\nRound Robin ~ Round 9 Page 2\nTOSS UP\n5. EARTH AND SPACE Multiple Choice In which of the following reservoirs in the hydrologic\ncycle do water molecules have the shortest water residence time?\nW) Atmosphere\nX) Aquifer [AK-wuh-fer]\nY) Ocean\nZ) River",
-        "subject": "",
-        "answer": "W) ATMOSPHERE"
+        "content": " Providing your answer in simplest form, what is sec [secant of\n11 pi over 6]?\n(11\u03c0/6)",
+        "answer": "\n2\u221a3"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Which fatty structure in the forehead of a toothed whale appears to\nfocus and direct outgoing sound waves?\nANSWER: MELON (ACCEPT: SPERMACETI ORGAN)",
-        "subject": "",
-        "answer": "S0 (ACCEPT: SB0)TOSS UP6. BIOLOGY Short Answer Which fatty structure in the forehead of a toothed whale appears tofocus and direct outgoing sound waves?ANSWER: MELON (ACCEPT: SPERMACETI ORGAN)"
+        "content": " Each exterior angle of a regular polygon has a measure of What is\nthe sum, in degrees, of the measures of the interior angles of the polygon?\n10\u00b0.",
+        "answer": "\n6120\u00b0"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " When a clay pigeon breaks into pieces after being shot, which of\nthe following can be said about the shape of the trajectories of these pieces of clay?\nW) They are always elliptical\nX) They are always parabolic\nY) They are always hyperbolic\nZ) They may be any of elliptical, parabolic, or hyperbolic depending on the speed of the\ncomponents\nANSWER: X) THEY ARE ALWAYS PARABOLIC",
-        "subject": "",
-        "answer": "Y) BROCA\u2019S AREARound Robin ~ Round 9 Page 3TOSS UP7. PHYSICS Multiple Choice When a clay pigeon breaks into pieces after being shot, which ofthe following can be said about the shape of the trajectories of these pieces of clay?W) They are always ellipticalX) They are always parabolicY) They are always hyperbolicZ) They may be any of elliptical, parabolic, or hyperbolic depending on the speed of thecomponentsANSWER: X) THEY ARE ALWAYS PARABOLIC"
+        "content": " In which of the following reservoirs in the hydrologic\ncycle do water molecules have the shortest water residence time?\nW) Atmosphere\nX) Aquifer [AK-wuh-fer]\nY) Ocean\nZ) River",
+        "answer": " W) ATMOSPHERE"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following substances would you expect to have\nthe highest molar entropy at standard conditions?\nW) Argon gas\nX) Butane gas\nY) Sulfur dioxide gas\nZ) Gaseous water\nANSWER: X) BUTANE GAS",
-        "subject": "",
-        "answer": "12,000TOSS UP8. CHEMISTRY Multiple Choice Which of the following substances would you expect to havethe highest molar entropy at standard conditions?W) Argon gasX) Butane gasY) Sulfur dioxide gasZ) Gaseous waterANSWER: X) BUTANE GAS"
-    },
-    {
-        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " Express the following in simplest form, with variables raised only to\npositive powers: [open parenthesis 4x to the fifth y to the power of negative 3\nclose parenthesis t5o t\u2212h3e \u2212p2ower of negative 2]\n(4\ud835\udc65\ud835\udc65 \ud835\udc66\ud835\udc66 )\nANSWER:\n6\n\ud835\udc66\ud835\udc66\n10",
-        "subject": "",
-        "answer": "SQUARE PLANARRound Robin ~ Round 9 Page 4TOSS UP9. MATH Short Answer Express the following in simplest form, with variables raised only topositive powers: [open parenthesis 4x to the fifth y to the power of negative 3close parenthesis t5o t\u2212h3e \u2212p2ower of negative 2](4\ud835\udc65\ud835\udc65 \ud835\udc66\ud835\udc66 )ANSWER:6\ud835\udc66\ud835\udc6610"
+        "content": " What is the Hubble classification for disk galaxies with\nvery little gas and poorly defined spiral arms?",
+        "answer": " S0 (ACCEPT: SB0)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " A regular decagon with a perimeter of 40 units has an area of 40k\nsquare units. Find its apothem.\nANSWER:\nk2\nTOSS UP\n10. EARTH AND SPACE Multiple Choice Which of the following contains most of the angular\nmomentum about the Sun in the solar system?\nW) Jupiter\nX) The Kuiper belt\nY) The Sun\nZ) Neptune",
-        "subject": "",
-        "answer": "W) JUPITER"
+        "content": " Which fatty structure in the forehead of a toothed whale appears to\nfocus and direct outgoing sound waves?",
+        "answer": " MELON (ACCEPT: SPERMACETI ORGAN)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Elevated levels of AST and ALT, which are transaminases,\noften indicate there is a problem with which of the following organs?\nW) Liver\nX) Pancreas\nY) Kidneys\nZ) Heart\nANSWER: W) LIVER",
-        "subject": "",
-        "answer": "SAFFIR-SIMPSON HURRICANE SCALE (ACCEPT: SAFFIR-SIMPSON)Round Robin ~ Round 9 Page 5TOSS UP11. BIOLOGY Multiple Choice Elevated levels of AST and ALT, which are transaminases,often indicate there is a problem with which of the following organs?W) LiverX) PancreasY) KidneysZ) HeartANSWER: W) LIVER"
+        "content": " Following a stroke that affects the left cerebral hemisphere in an\nelderly female patient, the patient has halting speech, poor articulation and loss of the ability to\nwrite. The patient can still read and understand speech. A PET scan would reveal damage to\nwhich of the following parts of the brain?\nW) Wernicke\u2019s area\nX) Amygdala [uh-MIG-duh-luh]\nY) Broca\u2019s area\nZ) Thalamus [THAL-uh-muhs]",
+        "answer": " Y) BROCA\u2019S AREA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " When a clay pigeon breaks into pieces after being shot, which of\nthe following can be said about the shape of the trajectories of these pieces of clay?\nW) They are always elliptical\nX) They are always parabolic\nY) They are always hyperbolic\nZ) They may be any of elliptical, parabolic, or hyperbolic depending on the speed of the\ncomponents",
+        "answer": " X) THEY ARE ALWAYS PARABOLIC"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " A mass of hot copper with a heat capacity of 2.0 joules per\nKelvin is dropped into the same volume of water and loses 80 joules of thermal energy. The\nfinal temperature of the copper is 295 Kelvin. What was its initial temperature in Kelvin?\nANSWER: 335",
-        "subject": "",
-        "answer": "1, 3, 4TOSS UP12. CHEMISTRY Short Answer A mass of hot copper with a heat capacity of 2.0 joules perKelvin is dropped into the same volume of water and loses 80 joules of thermal energy. Thefinal temperature of the copper is 295 Kelvin. What was its initial temperature in Kelvin?ANSWER: 335"
+        "content": " A 1000 kilogram car moving with a speed of 6 meters per second\ncollides perfectly inelastically with 2000 kilogram truck that is at rest. What is the change in\nkinetic energy in joules during this collision?",
+        "answer": " 12,000"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " A 10 kilogram box is moving with a speed of 5 meters per\nsecond along a level surface. If the coefficient of kinetic friction between the box and the surface\nis 0.1 and the coefficient of static friction between the box and the surface is 0.2, which of the\nfollowing is the frictional force in newtons that acts on the box, given that the acceleration due to\ngravity is 9.8 meters per second squared?\nW) 1.0\nX) 2.0\nY) 9.8\nZ) 19.6\nANSWER: Y) 9.8",
-        "subject": "",
-        "answer": "W) POLONIUMRound Robin ~ Round 9 Page 6TOSS UP13. PHYSICS Multiple Choice A 10 kilogram box is moving with a speed of 5 meters persecond along a level surface. If the coefficient of kinetic friction between the box and the surfaceis 0.1 and the coefficient of static friction between the box and the surface is 0.2, which of thefollowing is the frictional force in newtons that acts on the box, given that the acceleration due togravity is 9.8 meters per second squared?W) 1.0X) 2.0Y) 9.8Z) 19.6ANSWER: Y) 9.8"
+        "content": " Which of the following substances would you expect to have\nthe highest molar entropy at standard conditions?\nW) Argon gas\nX) Butane gas\nY) Sulfur dioxide gas\nZ) Gaseous water",
+        "answer": " X) BUTANE GAS"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " An air compressor is about 20% efficient in converting electricity\nto compressed air. Where does the majority of the remaining 80% of the electricity go?\nW) It doesn't go anywhere, it stays in the motor\nX) It turns into thermal energy\nY) It turns into sound\nZ) It turns into vibration\nANSWER: X) IT TURNS INTO THERMAL ENERGY",
-        "subject": "",
-        "answer": "2400TOSS UP14. ENERGY Multiple Choice An air compressor is about 20% efficient in converting electricityto compressed air. Where does the majority of the remaining 80% of the electricity go?W) It doesn't go anywhere, it stays in the motorX) It turns into thermal energyY) It turns into soundZ) It turns into vibrationANSWER: X) IT TURNS INTO THERMAL ENERGY"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Free radical polymerization can be initiated in several\ndifferent ways. Peroxides and azo compounds frequently act as which of the following types of\ninitiator?\nW) Thermal\nX) Photochemical\nY) Ionizing\nZ) Redox\nANSWER: W) THERMAL",
-        "subject": "",
-        "answer": "X) IT WOULD DECREASERound Robin ~ Round 9 Page 7TOSS UP15. CHEMISTRY Multiple Choice Free radical polymerization can be initiated in severaldifferent ways. Peroxides and azo compounds frequently act as which of the following types ofinitiator?W) ThermalX) PhotochemicalY) IonizingZ) RedoxANSWER: W) THERMAL"
-    },
-    {
-        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " Providing your answer in simplest form, what is the cotangent of x, if\nx x , and x has reference angle pi/6?\ncos( ) < 0, sin( ) > 0\nANSWER:",
-        "subject": "",
-        "answer": "4.85TOSS UP16. MATH Short Answer Providing your answer in simplest form, what is the cotangent of x, ifx x , and x has reference angle pi/6?cos( ) < 0, sin( ) > 0ANSWER:"
+        "content": " According to the VSEPR model, what is the molecular geometry\nof xenon [ZEE-non] tetrafluoride?",
+        "answer": " SQUARE PLANAR"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following represents the solution in degrees of the\nequation 4sin2x in the open interval from to ?\nW) = 1 0\u00b0 180\u00b0\nX) o\nY) 30 o o\nZ) 30 o , 60\n30\no\n, 150\no\n\u00b0\nAN6S0W, E12R0: Y)\no\n30 , 150\u00b0\nRound Robin ~ Round 9 Page 8\nTOSS UP\n17. EARTH AND SPACE Multiple Choice Photographs taken by ground cameras and NASA's\npolar satellite show evidence of magnetic field lines connecting Earth's upper atmosphere\ndirectly to the Sun. Scientists believe that solar wind particles flow along these lines, providing\nenergy for which of the following phenomena to occur?\nW) Halo effect\nX) Rainbow\nY) Auroral light\nZ) Solar flare",
-        "subject": "",
-        "answer": "Y) AURORAL LIGHT"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What phylum within the animal kingdom is characterized by\nhaving no symmetry and no true tissues?\nANSWER: PORIFERA",
-        "subject": "",
-        "answer": "DIAMONDTOSS UP18. BIOLOGY Short Answer What phylum within the animal kingdom is characterized byhaving no symmetry and no true tissues?ANSWER: PORIFERA"
+        "content": " Express the following in simplest form, with variables raised only to\npositive powers: [open parenthesis 4x to the fifth y to the power of negative 3\nclose parenthesis t5o t\u2212h3e \u2212p2ower of negative 2]\n(4\ud835\udc65\ud835\udc65 \ud835\udc66\ud835\udc66 )",
+        "answer": "\n6\n\ud835\udc66\ud835\udc66\n10"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A mass is suspended from the ceiling by two ropes. Rope 1\nmakes a larger angle with the horizontal than Rope 2 does. Which of the following statements is\ntrue about the tension in the ropes?\nW) The tensions in the ropes are equal\nX) The tension in Rope 1 is greater than the tension in Rope 2\nY) The tension in Rope 2 is greater than the tension in Rope 1\nZ) The tension in Rope 2 is zero\nANSWER: X) THE TENSION IN ROPE 1 IS GREATER THAN THE TENSION IN ROPE 2",
-        "subject": "",
-        "answer": "CORPUS ALLATUM (ACCEPT: CORPORA ALLATA)Round Robin ~ Round 9 Page 9TOSS UP19. PHYSICS Multiple Choice A mass is suspended from the ceiling by two ropes. Rope 1makes a larger angle with the horizontal than Rope 2 does. Which of the following statements istrue about the tension in the ropes?W) The tensions in the ropes are equalX) The tension in Rope 1 is greater than the tension in Rope 2Y) The tension in Rope 2 is greater than the tension in Rope 1Z) The tension in Rope 2 is zeroANSWER: X) THE TENSION IN ROPE 1 IS GREATER THAN THE TENSION IN ROPE 2"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following produces wind energy?\nW) The Earth\u2019s rotation\nX) Uneven heating of the Earth\u2019s surface\nY) Movement of the tectonic plates\nZ) The Moon\u2019s gravitational pull\nANSWER: X) UNEVEN HEATING OF THE EARTH\u2019S SURFACE",
-        "subject": "",
-        "answer": "0TOSS UP20. ENERGY Multiple Choice Which of the following produces wind energy?W) The Earth\u2019s rotationX) Uneven heating of the Earth\u2019s surfaceY) Movement of the tectonic platesZ) The Moon\u2019s gravitational pullANSWER: X) UNEVEN HEATING OF THE EARTH\u2019S SURFACE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What is the term for the unique, chitinous [KY-tin-ous], tooth-like,\nfeeding structure found in many mollusks [MOL-uhsks]?\nANSWER: RADULA",
-        "subject": "",
-        "answer": "Y) RHODE ISLANDRound Robin ~ Round 9 Page 10TOSS UP21. BIOLOGY Short Answer What is the term for the unique, chitinous [KY-tin-ous], tooth-like,feeding structure found in many mollusks [MOL-uhsks]?ANSWER: RADULA"
+        "content": " A regular decagon with a perimeter of 40 units has an area of 40k\nsquare units. Find its apothem.",
+        "answer": "\nk2"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following compounds is insoluble in water?\nW) Potassium acetate\nX) Aluminum sulfide\nY) Lithium carbonate\nZ) Magnesium bromide\nANSWER: X) ALUMINUM SULFIDE",
-        "subject": "",
-        "answer": "1, 3 (ACCEPT: THYROID GLAND, KIDNEY)TOSS UP22. CHEMISTRY Multiple Choice Which of the following compounds is insoluble in water?W) Potassium acetateX) Aluminum sulfideY) Lithium carbonateZ) Magnesium bromideANSWER: X) ALUMINUM SULFIDE"
+        "content": " Which of the following contains most of the angular\nmomentum about the Sun in the solar system?\nW) Jupiter\nX) The Kuiper belt\nY) The Sun\nZ) Neptune",
+        "answer": " W) JUPITER"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the name of the classification system used to\nrate a hurricane's intensity?",
+        "answer": " SAFFIR-SIMPSON HURRICANE SCALE (ACCEPT: SAFFIR-SIMPSON)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following represents an equivalent value for\n[log base 10 of the square root of 1000]?\nlog10\u221a1000\nW) [10 to the power of three halves]\n3\nX) 2 [10 to the power of two thirds]\n102\nY) 3\nZ) 10\n3/2\nAN2S/W3ER: Y)",
-        "subject": "",
-        "answer": "4, 1, 2, 3 (ACCEPT: HYDROGEN FLUORIDE, HYDROGEN CHLORIDE,AMMONIA, WATER)Round Robin ~ Round 9 Page 11TOSS UP23. MATH Multiple Choice Which of the following represents an equivalent value for[log base 10 of the square root of 1000]?log10\u221a1000W) [10 to the power of three halves]3X) 2 [10 to the power of two thirds]102Y) 3Z) 103/2AN2S/W3ER: Y)"
+        "content": " Elevated levels of AST and ALT, which are transaminases,\noften indicate there is a problem with which of the following organs?\nW) Liver\nX) Pancreas\nY) Kidneys\nZ) Heart",
+        "answer": " W) LIVER"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Identify all of the following four digestive enzymes that are\nproduced by the human pancreas: 1) carboxypeptidase [kahr-bok-see-PEP-ti-days], 2)\nlactase, 3) chymotrypsin [ky-moh-TRIP-sin], 4) amylase [AM-uh-lays].",
+        "answer": " 1, 3, 4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A mass of hot copper with a heat capacity of 2.0 joules per\nKelvin is dropped into the same volume of water and loses 80 joules of thermal energy. The\nfinal temperature of the copper is 295 Kelvin. What was its initial temperature in Kelvin?",
+        "answer": " 335"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following represents a simplified form of: sin x\n2\n\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50 \ud835\udc65\ud835\udc65\n[sine of x plus the fraction with numerator cosine squared of x and denominator sine of\n+ \ud835\udc50\ud835\udc50\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc65\ud835\udc65\nx]?\nW) x [cosecant of x]\nX) x [secant of x]\nY) csc [cosine squared of x]\nZ) se c 2\ncos \ud835\udc65\ud835\udc65\nAN1SWER: W) x\ncsc\nTOSS UP\n24. EARTH AND SPACE Short Answer Patterns of paleomagnetism along seafloor spreading\ncenters support plate tectonic theory and are based on what process that occurs, on average,\nevery 200,000 to 250,000 years?",
-        "subject": "",
-        "answer": "POLAR REVERSAL (ACCEPT: MAGNETIC REVERSAL)"
+        "content": " Which of the following tends to crystallize in a simple cubic\nunit cell?\nW) Polonium\nX) Copper\nY) Aluminum\nZ) Iron",
+        "answer": " W) POLONIUM"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following animals uses a vomeronasal organ?\nW) Crocodile\nX) Garter snake\nY) Toad\nZ) House fly\nANSWER: X) GARTER SNAKE",
-        "subject": "",
-        "answer": "Z) 50%Round Robin ~ Round 9 Page 12TOSS UP25. BIOLOGY Multiple Choice Which of the following animals uses a vomeronasal organ?W) CrocodileX) Garter snakeY) ToadZ) House flyANSWER: X) GARTER SNAKE"
+        "content": " A 10 kilogram box is moving with a speed of 5 meters per\nsecond along a level surface. If the coefficient of kinetic friction between the box and the surface\nis 0.1 and the coefficient of static friction between the box and the surface is 0.2, which of the\nfollowing is the frictional force in newtons that acts on the box, given that the acceleration due to\ngravity is 9.8 meters per second squared?\nW) 1.0\nX) 2.0\nY) 9.8\nZ) 19.6",
+        "answer": " Y) 9.8"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Three 300-microfarads capacitors are connected in series to a 12\nvolt battery. What is the energy stored in one of these capacitors in microjoules after the circuit\nhas reached steady state?",
+        "answer": " 2400"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " An air compressor is about 20% efficient in converting electricity\nto compressed air. Where does the majority of the remaining 80% of the electricity go?\nW) It doesn't go anywhere, it stays in the motor\nX) It turns into thermal energy\nY) It turns into sound\nZ) It turns into vibration",
+        "answer": " X) IT TURNS INTO THERMAL ENERGY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " As more zero variable cost generators are added to an electric\npower market, how would you expect the average cost of power in the entire market to change?\nW) It would increase\nX) It would decrease\nY) There would be no change\nZ) It would fluctuate",
+        "answer": " X) IT WOULD DECREASE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Free radical polymerization can be initiated in several\ndifferent ways. Peroxides and azo compounds frequently act as which of the following types of\ninitiator?\nW) Thermal\nX) Photochemical\nY) Ionizing\nZ) Redox",
+        "answer": " W) THERMAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A buffer solution is 0.05 molar in lactic acid and 0.5 molar in\nsodium lactate. If the pKa of lactic acid is 3.85, what is the pH of this solution?",
+        "answer": " 4.85"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer in simplest form, what is the cotangent of x, if\nx x , and x has reference angle pi/6?\ncos( ) < 0, sin( ) > 0",
+        "answer": ""
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Photographs taken by ground cameras and NASA's\npolar satellite show evidence of magnetic field lines connecting Earth's upper atmosphere\ndirectly to the Sun. Scientists believe that solar wind particles flow along these lines, providing\nenergy for which of the following phenomena to occur?\nW) Halo effect\nX) Rainbow\nY) Auroral light\nZ) Solar flare",
+        "answer": " Y) AURORAL LIGHT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the polymorph of graphite that is formed in\nEarth\u2019s mantle?",
+        "answer": " DIAMOND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What phylum within the animal kingdom is characterized by\nhaving no symmetry and no true tissues?",
+        "answer": " PORIFERA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the name of the gland in insects that produces juvenile\nhormone?",
+        "answer": " CORPUS ALLATUM (ACCEPT: CORPORA ALLATA)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A mass is suspended from the ceiling by two ropes. Rope 1\nmakes a larger angle with the horizontal than Rope 2 does. Which of the following statements is\ntrue about the tension in the ropes?\nW) The tensions in the ropes are equal\nX) The tension in Rope 1 is greater than the tension in Rope 2\nY) The tension in Rope 2 is greater than the tension in Rope 1\nZ) The tension in Rope 2 is zero",
+        "answer": " X) THE TENSION IN ROPE 1 IS GREATER THAN THE TENSION IN ROPE 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 5 microcoulomb charge is uniformly distributed in a 1-meter\ndiameter sphere. Given that the coulomb constant is 9 x 109 newton meters squared per\ncoulomb squared, what is the electric field in newtons per coulomb at a radius of 0.25 from the\ncenter of the sphere?",
+        "answer": " 0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following produces wind energy?\nW) The Earth\u2019s rotation\nX) Uneven heating of the Earth\u2019s surface\nY) Movement of the tectonic plates\nZ) The Moon\u2019s gravitational pull",
+        "answer": " X) UNEVEN HEATING OF THE EARTH\u2019S SURFACE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Assuming similar wind velocity and turbine swept area, of the\nfollowing places, where would you anticipate the largest power output from a wind turbine?\nW) Denver\nX) Nebraska\nY) Rhode Island\nZ) West Texas",
+        "answer": " Y) RHODE ISLAND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the term for the unique, chitinous [KY-tin-ous], tooth-like,\nfeeding structure found in many mollusks [MOL-uhsks]?",
+        "answer": " RADULA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Identify all of the following four parts of the human body in which\nyou would find simple cuboidal epithelium [KYOO-boid-uhl ep-uh-THEE-lee-uhm]: 1) thyroid\ngland, 2) bronchioles [BRONG-kee-ohls], 3) kidney, 4) lining of arteries.",
+        "answer": " 1, 3 (ACCEPT: THYROID GLAND, KIDNEY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following compounds is insoluble in water?\nW) Potassium acetate\nX) Aluminum sulfide\nY) Lithium carbonate\nZ) Magnesium bromide",
+        "answer": " X) ALUMINUM SULFIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Place the following four molecules in order from lowest to\nhighest entropy of vaporization: 1) hydrogen chloride, 2) ammonia, 3) water, 4) hydrogen\nfluoride.",
+        "answer": " 4, 1, 2, 3 (ACCEPT: HYDROGEN FLUORIDE, HYDROGEN CHLORIDE,\nAMMONIA, WATER)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Patterns of paleomagnetism along seafloor spreading\ncenters support plate tectonic theory and are based on what process that occurs, on average,\nevery 200,000 to 250,000 years?",
+        "answer": " POLAR REVERSAL (ACCEPT: MAGNETIC REVERSAL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best approximates the\npercentage of solar-type binary stellar systems?\nW) 0.1%\nX) 1%\nY) 10%\nZ) 50%",
+        "answer": " Z) 50%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following animals uses a vomeronasal organ?\nW) Crocodile\nX) Garter snake\nY) Toad\nZ) House fly",
+        "answer": " X) GARTER SNAKE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following four amino acids that would have a net\npositive charge in Tris glycine buffer at pH 8.6: 1) glycine [GLY-seen], 2) alanine [AL-uh-nin],\n3) lysine [LY-seen], 4) arginine [AHR-juh-neen].",
-        "subject": "",
-        "answer": "3, 4 (ACCEPT: LYSINE, ARGININE)Round Robin ~ Round 9 Page 13"
+        "answer": " 3, 4 (ACCEPT: LYSINE, ARGININE)"
     }
 ]

@@ -1,183 +1,345 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " A 9 volt battery is connected to a 9 ohm resistor. The current\nflowing through this circuit is found to be 0.9 amperes. Neglecting the resistance of the wires,\nwhat is the internal resistance of the battery in ohms?",
-        "subject": "",
-        "answer": "1"
+        "answer": " 1"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Roof overhangs used to shade windows, walls, and doors from\ndirect solar radiation in order to cut down on cooling costs are an example of what kind of home\nenergy design?\nANSWER: PASSIVE SOLAR",
-        "subject": "",
-        "answer": "X) DISSIPATES AN EQUAL AMOUNT OF POWER IN A RESISTOR AS THEAVERAGE POWER DISSIPATED BY THE ALTERNATING CURRENTTOSS UP2. ENERGY Short Answer Roof overhangs used to shade windows, walls, and doors fromdirect solar radiation in order to cut down on cooling costs are an example of what kind of homeenergy design?ANSWER: PASSIVE SOLAR"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Dinitrogen tetroxide decomposes according to the reaction:\nN O 2NO . If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in\n2 4(g) 2(g)\nmolar per second is the dinitrogen tetroxide disappearing?\n\u2194\nANSWER: 2",
-        "subject": "",
-        "answer": "1.5Double Elimination ~ Round 1 Page 1TOSS UP3. CHEMISTRY Short Answer Dinitrogen tetroxide decomposes according to the reaction:N O 2NO . If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in2 4(g) 2(g)molar per second is the dinitrogen tetroxide disappearing?\u2194ANSWER: 2"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Evaluate [the limit as x approaches 0 of the fraction with\n\ud835\udc65\ud835\udc65\n\u22125+ 5\ud835\udc52\ud835\udc52\nnumerator negative 5 plus 5 times e to the x and denominator x].\n\ud835\udc65\ud835\udc65li\u2192m0 \ud835\udc65\ud835\udc65\nANSWER:",
-        "subject": "",
-        "answer": "Y) DIFFERENTIAL PULSETOSS UP4. MATH Short Answer Evaluate [the limit as x approaches 0 of the fraction with\ud835\udc65\ud835\udc65\u22125+ 5\ud835\udc52\ud835\udc52numerator negative 5 plus 5 times e to the x and denominator x].\ud835\udc65\ud835\udc65li\u2192m0 \ud835\udc65\ud835\udc65ANSWER:"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Which physical property of soil involves the concepts of\nmatric potential and field capacity?\nANSWER: SOIL MOISTURE (ACCEPT: MOISTURE)",
-        "subject": "",
-        "answer": "x x 3 - 22\u2013 6 + 13 = 0Double Elimination ~ Round 1 Page 2TOSS UP5. EARTH AND SPACE Short Answer Which physical property of soil involves the concepts ofmatric potential and field capacity?ANSWER: SOIL MOISTURE (ACCEPT: MOISTURE)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " During electron transport chains in both photosynthesis and\ncellular respiration, the electron transport chain directly transfers energy from electrons to which\nof the following?\nW) ATP\nX) ATP synthase\nY) The proton gradient\nZ) NADH or NADPH\nANSWER: Y) THE PROTON GRADIENT",
-        "subject": "",
-        "answer": "Z) THERE SHOULD BE A LOT MORE MACHOS OBSERVED THROUGHMICROLENSINGTOSS UP6. BIOLOGY Multiple Choice During electron transport chains in both photosynthesis andcellular respiration, the electron transport chain directly transfers energy from electrons to whichof the following?W) ATPX) ATP synthaseY) The proton gradientZ) NADH or NADPHANSWER: Y) THE PROTON GRADIENT"
+        "content": " The root mean square current of an alternating current is equal to\nthe direct current that does which of the following?\nW) Dissipates an equal amount of power in a resistor as the peak power dissipated by the\nalternating current\nX) Dissipates an equal amount of power in a resistor as the average power dissipated by the\nalternating current\nY) Produces the same average voltage across a resistor as the alternating current would\nZ) Provides the same average current in a resistor as the alternating current would",
+        "answer": " X) DISSIPATES AN EQUAL AMOUNT OF POWER IN A RESISTOR AS THE\nAVERAGE POWER DISSIPATED BY THE ALTERNATING CURRENT"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following scientists made the theoretical prediction\nthat electromagnetic waves travel through a vacuum at the speed of light?\nW) James Clark Maxwell\nX) Michael Faraday\nY) Heinrich Lenz\nZ) Heinrich Hertz\nANSWER: W) JAMES CLARK MAXWELL",
-        "subject": "",
-        "answer": "GULAR FLUTTERING (ACCEPT: GULAR FLUTTER)Double Elimination ~ Round 1 Page 3TOSS UP7. PHYSICS Multiple Choice Which of the following scientists made the theoretical predictionthat electromagnetic waves travel through a vacuum at the speed of light?W) James Clark MaxwellX) Michael FaradayY) Heinrich LenzZ) Heinrich HertzANSWER: W) JAMES CLARK MAXWELL"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Given that the half-life of uranium-235 is 700 million years, if\nyou had 160 grams of U-235, how many grams would remain after 2.1 billion years?\nANSWER: 20",
-        "subject": "",
-        "answer": "W) THE EARTH REVOLVES FASTER AROUND THE SUN AT THIS POINTTOSS UP8. CHEMISTRY Short Answer Given that the half-life of uranium-235 is 700 million years, ifyou had 160 grams of U-235, how many grams would remain after 2.1 billion years?ANSWER: 20"
+        "content": " Roof overhangs used to shade windows, walls, and doors from\ndirect solar radiation in order to cut down on cooling costs are an example of what kind of home\nenergy design?",
+        "answer": " PASSIVE SOLAR"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " What is the equation of the circle with a diameter that has endpoints\nand ?\n(A-N5,S 1W2)ER: x(5, y-12)\n2 2",
-        "subject": "",
-        "answer": "Y) 416Double Elimination ~ Round 1 Page 4TOSS UP9. MATH Short Answer What is the equation of the circle with a diameter that has endpointsand ?(A-N5,S 1W2)ER: x(5, y-12)2 2"
+        "content": " In megawatts, providing your answer to the nearest tenth, how\nmuch power is generated from a hydroelectric facility that has a head of 50 meters, a flow rate\nof 5,000 liters per second, and a coefficient of efficiency of 0.6?",
+        "answer": " 1.5"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " What is the term for a highly magnetized neutron star?\nANSWER: MAGNETAR",
-        "subject": "",
-        "answer": "ACCEPT:6.75 ( 6 \u00be)TOSS UP10. EARTH AND SPACE Short Answer What is the term for a highly magnetized neutron star?ANSWER: MAGNETAR"
+        "content": " Dinitrogen tetroxide decomposes according to the reaction:\nN O 2NO . If nitrogen dioxide appears at a rate of 4 molar per second, at what rate in\n2 4(g) 2(g)\nmolar per second is the dinitrogen tetroxide disappearing?\n\u2194",
+        "answer": " 2"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most sensitive type of\npolarography?\nW) Normal pulse\nX) Classical\nY) Differential pulse\nZ) Current-sampled",
+        "answer": " Y) DIFFERENTIAL PULSE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What is the specific name of the chemical compound found in\njellyfish and squid that is oxidized to cause bioluminescence?\nANSWER: COELENTERAZINE (DO NOT ACCEPT: LUCIFERIN)",
-        "subject": "",
-        "answer": "10 (ACCEPT: ANY ANSWER BETWEEN 0.1 AND 1000)Double Elimination ~ Round 1 Page 5TOSS UP11. BIOLOGY Short Answer What is the specific name of the chemical compound found injellyfish and squid that is oxidized to cause bioluminescence?ANSWER: COELENTERAZINE (DO NOT ACCEPT: LUCIFERIN)"
+        "content": " Evaluate [the limit as x approaches 0 of the fraction with\n\ud835\udc65\ud835\udc65\n\u22125+ 5\ud835\udc52\ud835\udc52\nnumerator negative 5 plus 5 times e to the x and denominator x].\n\ud835\udc65\ud835\udc65li\u2192m0 \ud835\udc65\ud835\udc65",
+        "answer": ""
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Kinetic-molecular theory makes several assumptions\nconcerning ideal gases. Which of the following is NOT one of those assumptions?\nW) The average kinetic energy of the molecules is independent of temperature\nX) There are no attractive or repulsive forces between molecules\nY) All collisions between molecules are elastic\nZ) The volume occupied by the gas molecules is negligible compared to the volume of the\ncontainer\nANSWER: W) THE AVERAGE KINETIC ENERGY OF THE MOLECULES IS INDEPENDENT\nOF TEMPERATURE",
-        "subject": "",
-        "answer": "X) SATURATEDTOSS UP12. CHEMISTRY Multiple Choice Kinetic-molecular theory makes several assumptionsconcerning ideal gases. Which of the following is NOT one of those assumptions?W) The average kinetic energy of the molecules is independent of temperatureX) There are no attractive or repulsive forces between moleculesY) All collisions between molecules are elasticZ) The volume occupied by the gas molecules is negligible compared to the volume of thecontainerANSWER: W) THE AVERAGE KINETIC ENERGY OF THE MOLECULES IS INDEPENDENTOF TEMPERATURE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " If you drop an ice cube into a mixture of alcohol and water and\nyou notice that the ice floats, which of the following can you conclude about the liquid?\nW) The liquid is mostly water\nX) The liquid is mostly alcohol\nY) Nothing, because information on the temperature of the liquid is not given\nZ) The liquid contains exactly equal amounts of water and alcohol\nANSWER: W) THE LIQUID IS MOSTLY WATER",
-        "subject": "",
-        "answer": "W) ELECTROSTATICDouble Elimination ~ Round 1 Page 6TOSS UP13. PHYSICS Multiple Choice If you drop an ice cube into a mixture of alcohol and water andyou notice that the ice floats, which of the following can you conclude about the liquid?W) The liquid is mostly waterX) The liquid is mostly alcoholY) Nothing, because information on the temperature of the liquid is not givenZ) The liquid contains exactly equal amounts of water and alcoholANSWER: W) THE LIQUID IS MOSTLY WATER"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " If a utility uses a true real time pricing rate structure, a residential\ncustomer could reduce consumption during the times of peak demand by upgrading all but\nwhich of the following?\nW) Lighting\nX) Heating\nY) Air conditioning\nZ) Water heating\nANSWER: W) LIGHTING",
-        "subject": "",
-        "answer": "W) RESOLUTION IN AN OPTICAL SYSTEMTOSS UP14. ENERGY Multiple Choice If a utility uses a true real time pricing rate structure, a residentialcustomer could reduce consumption during the times of peak demand by upgrading all butwhich of the following?W) LightingX) HeatingY) Air conditioningZ) Water heatingANSWER: W) LIGHTING"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What is the molecular geometry of the coordination compound\n[Co(NH ) Cl ]+?\n3 4 2\nANSWER: OCTAHEDRAL",
-        "subject": "",
-        "answer": "COAL GASIFICATION (ACCEPT: SYNGAS PRODUCTION)Double Elimination ~ Round 1 Page 7TOSS UP15. CHEMISTRY Short Answer What is the molecular geometry of the coordination compound[Co(NH ) Cl ]+?3 4 2ANSWER: OCTAHEDRAL"
+        "content": " Determine the quadratic equation with real coefficients and least\nintegral leading coefficient that has i as one root.",
+        "answer": " x x 3 - 2\n2\n\u2013 6 + 13 = 0"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Peano\u2019s Axioms underlie which of the following mathematical\nc oncepts?\nW) Non Euclidean geometry\nX) Group theory\nY) Natural numbers\nZ) Complex numbers\nANSWER: Y) NATURAL NUMBERS",
-        "subject": "",
-        "answer": "E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S 2 = 1 (ACCEPT: POLARNAPROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)TOSS UP16. MATH Multiple Choice Peano\u2019s Axioms underlie which of the following mathematicalc oncepts?W) Non Euclidean geometryX) Group theoryY) Natural numbersZ) Complex numbersANSWER: Y) NATURAL NUMBERS"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " What is the exact value of [cosine of 75 degrees] in simplest\nradical form?\ncos 75\u00b0\nANSWER:\n\u221a6\u2212\u221a2\n4\nDouble Elimination ~ Round 1 Page 8\nTOSS UP\n17. EARTH AND SPACE Multiple Choice How does the angle of repose change as an alluvial\n[uh-LOO-vee-uhl] fan increases in size over time?\nW) It increases because the sediment increases in cohesion over time\nX) It increases to a maximum of 15 degrees\nY) It remains the same\nZ) It is highly variable due to the nature of the sediments",
-        "subject": "",
-        "answer": "Y) IT REMAINS THE SAME"
+        "content": " Which physical property of soil involves the concepts of\nmatric potential and field capacity?",
+        "answer": " SOIL MOISTURE (ACCEPT: MOISTURE)"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following pairs correctly matches the cellular\nstructure or organelle with its function?\nW) Nucleolus and rRNA synthesis\nX) Smooth endoplasmic reticulum and carbohydrate synthesis\nY) Centriole and transport of vesicles\nZ) Golgi apparatus and protein synthesis\nANSWER: W) NUCLEOLUS AND rRNA SYNTHESIS",
-        "subject": "",
-        "answer": "W) IT IS MORE COMPLICATED TO TRACK STARS AS THEY MOVE ACROSSTHE SKYTOSS UP18. BIOLOGY Multiple Choice Which of the following pairs correctly matches the cellularstructure or organelle with its function?W) Nucleolus and rRNA synthesisX) Smooth endoplasmic reticulum and carbohydrate synthesisY) Centriole and transport of vesiclesZ) Golgi apparatus and protein synthesisANSWER: W) NUCLEOLUS AND rRNA SYNTHESIS"
+        "content": " Why are massive compact halo objects (MACHOs)\nthought to be unable to completely explain the dark matter problem?\nW) They would have evaporated by Hawking radiation in less than a Hubble time\nX) Cosmic microwave background radiation observations indicate that MACHOs could not have\nformed in a Hubble time\nY) Several MACHOs would be detectable in the solar system but are not observed\nZ) There should be a lot more MACHOs observed through microlensing",
+        "answer": " Z) THERE SHOULD BE A LOT MORE MACHOS OBSERVED THROUGH\nMICROLENSING"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " How many electrons are required to make up a net negative\ncharge of 1 coulomb?\nW) 1.6 x 10-19\nX) 6.2 x 1018\nY) 1.6 x 1019\nZ) 6.2 x 1019\nANSWER: X) 6.2 x 1018",
-        "subject": "",
-        "answer": "X) BEESDouble Elimination ~ Round 1 Page 9TOSS UP19. PHYSICS Multiple Choice How many electrons are required to make up a net negativecharge of 1 coulomb?W) 1.6 x 10-19X) 6.2 x 1018Y) 1.6 x 1019Z) 6.2 x 1019ANSWER: X) 6.2 x 1018"
+        "content": " During electron transport chains in both photosynthesis and\ncellular respiration, the electron transport chain directly transfers energy from electrons to which\nof the following?\nW) ATP\nX) ATP synthase\nY) The proton gradient\nZ) NADH or NADPH",
+        "answer": " Y) THE PROTON GRADIENT"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " What is the name for the cooling process that employs water's\nlarge enthalpy of vaporization?\nANSWER: EVAPORATIVE COOLING",
-        "subject": "",
-        "answer": "Z) mgL (1 - cos\u03b8)TOSS UP20. ENERGY Short Answer What is the name for the cooling process that employs water'slarge enthalpy of vaporization?ANSWER: EVAPORATIVE COOLING"
+        "content": " When under heat stress, pelicans perform a specific type of\npanting behavior. What is this heat induced behavior called?",
+        "answer": " GULAR FLUTTERING (ACCEPT: GULAR FLUTTER)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " In the ocean, which of the following is the depth at which the\nrate of respiration of a photosynthetic organism is equal to its rate of photosynthesis?\nW) Compensation depth\nX) Critical depth\nY) Oxygen minimum layer\nZ) Deep scattering layer\nANSWER: W) COMPENSATION DEPTH",
-        "subject": "",
-        "answer": "X) 100Double Elimination ~ Round 1 Page 10TOSS UP21. BIOLOGY Multiple Choice In the ocean, which of the following is the depth at which therate of respiration of a photosynthetic organism is equal to its rate of photosynthesis?W) Compensation depthX) Critical depthY) Oxygen minimum layerZ) Deep scattering layerANSWER: W) COMPENSATION DEPTH"
+        "content": " Which of the following scientists made the theoretical prediction\nthat electromagnetic waves travel through a vacuum at the speed of light?\nW) James Clark Maxwell\nX) Michael Faraday\nY) Heinrich Lenz\nZ) Heinrich Hertz",
+        "answer": " W) JAMES CLARK MAXWELL"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " In the gas phase, one mole of hydrogen gas reacts\nreversibly with one mole of iodine gas to form two moles of hydrogen iodide gas. If the system is\nat equilibrium at constant temperature, how will the equilibrium shift if the volume of the reaction\nvessel is doubled?\nW) It will shift toward the reactants\nX) It will shift toward the products\nY) It will not shift in either direction\nZ) It is not possible to determine shift direction\nANSWER: Y) IT WILL NOT SHIFT IN EITHER DIRECTION",
-        "subject": "",
-        "answer": "W) NORTHWEST CORNER OF THE GULF OF CALIFORNIATOSS UP22. CHEMISTRY Multiple Choice In the gas phase, one mole of hydrogen gas reactsreversibly with one mole of iodine gas to form two moles of hydrogen iodide gas. If the system isat equilibrium at constant temperature, how will the equilibrium shift if the volume of the reactionvessel is doubled?W) It will shift toward the reactantsX) It will shift toward the productsY) It will not shift in either directionZ) It is not possible to determine shift directionANSWER: Y) IT WILL NOT SHIFT IN EITHER DIRECTION"
+        "content": " During the season when the Northern Hemisphere experiences\nwinter, the Earth is located closest to the Sun. Which of the following effects does this have on\nthe Earth\u2019s revolution speed?\nW) The Earth revolves faster around the Sun at this point\nX) The Earth revolves slower around the Sun at this point\nY) The speed of revolution at this point is proportional to the cube of the Earth-Sun distance\nZ) The speed of Earth\u2019s revolution is always constant",
+        "answer": " W) THE EARTH REVOLVES FASTER AROUND THE SUN AT THIS POINT"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " Maximize the area in square feet of a rectangular pen bounded by the\nside of a barn and feet of fencing that forms the other three sides.\nANSWER: 100",
-        "subject": "",
-        "answer": "GLUTAMINEDouble Elimination ~ Round 1 Page 11TOSS UP23. MATH Short Answer Maximize the area in square feet of a rectangular pen bounded by theside of a barn and feet of fencing that forms the other three sides.ANSWER: 100"
+        "content": " Given that the half-life of uranium-235 is 700 million years, if\nyou had 160 grams of U-235, how many grams would remain after 2.1 billion years?",
+        "answer": " 20"
     },
     {
         "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " What is the defining characteristic for detection of\nType I supernovae [soo-per-NOH-vee]?\nANSWER: LACK OF HYDROGEN LINES",
-        "subject": "",
-        "answer": "a a = 5 a = -3 a-383TOSS UP24. EARTH AND SPACE Short Answer What is the defining characteristic for detection ofType I supernovae [soo-per-NOH-vee]?ANSWER: LACK OF HYDROGEN LINES"
-    },
-    {
-        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " As a volcanically formed island begins to experience\nsubsidence, you would see a temporal progression of reef types in which of the following\norders?\nW) Fringing reef, barrier reef, atoll\nX) Atoll, fringing reef, barrier reef\nY) Barrier reef, fringing reef, atoll\nZ) Fringing reef, atoll, barrier reef\nANSWER: W) FRINGING REEF, BARRIER REEF, ATOLL",
-        "subject": "",
-        "answer": "X) ACCRETED TERRANESDouble Elimination ~ Round 1 Page 12TOSS UP25. BIOLOGY Multiple Choice As a volcanically formed island begins to experiencesubsidence, you would see a temporal progression of reef types in which of the followingorders?W) Fringing reef, barrier reef, atollX) Atoll, fringing reef, barrier reefY) Barrier reef, fringing reef, atollZ) Fringing reef, atoll, barrier reefANSWER: W) FRINGING REEF, BARRIER REEF, ATOLL"
+        "content": " Sodium crystallizes in the form of a body-centered cubic unit\ncell. If one atom of sodium has a radius of 180 picometers, what is the length, in picometers, of\none side of the unit cell?\nW) 255\nX) 360\nY) 416\nZ) 509",
+        "answer": " Y) 416"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Evaluate: [the integral from negative 1 to 1 of open\nparenthesis x cubed plus 1 close 2pare3nthesis dx].\n\u222b\u22121(\ud835\udc65\ud835\udc65 +1)\ud835\udc51\ud835\udc51\ud835\udc65\ud835\udc65",
+        "answer": " ACCEPT:\n6.75 ( 6 \u00be)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the term for a highly magnetized neutron star?",
+        "answer": " MAGNETAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Defining the density of a black hole to be its mass\ndivided by the cube of its Schwarzschild radius, what is the density of a typical supermassive\nblack hole, in grams per cubic centimeter, to within two orders of magnitude?",
+        "answer": " 10 (ACCEPT: ANY ANSWER BETWEEN 0.1 AND 1000)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the specific name of the chemical compound found in\njellyfish and squid that is oxidized to cause bioluminescence?",
+        "answer": " COELENTERAZINE (DO NOT ACCEPT: LUCIFERIN)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Sperm whales have a specialized organ that is filled with oil that\nbecomes solid at a relatively high temperature. Which of the following kinds of fatty acid would\nyou predict to be found in the spermaceti organ?\nW) Trans\nX) Saturated\nY) Polyunsaturated\nZ) Unsaturated",
+        "answer": " X) SATURATED"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Kinetic-molecular theory makes several assumptions\nconcerning ideal gases. Which of the following is NOT one of those assumptions?\nW) The average kinetic energy of the molecules is independent of temperature\nX) There are no attractive or repulsive forces between molecules\nY) All collisions between molecules are elastic\nZ) The volume occupied by the gas molecules is negligible compared to the volume of the\ncontainer",
+        "answer": " W) THE AVERAGE KINETIC ENERGY OF THE MOLECULES IS INDEPENDENT\nOF TEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Water can frequently be employed in the self-assembly of\nnanoparticles by taking advantage of its surface properties. However, your teacher proposes\nthat a particular self-assembly needs to take place in oil. Which of the following assembly\nprocesses would take advantage of the properties of the oil to make assembly possible?\nW) Electrostatic\nX) Magnetic\nY) Hydrophobic\nZ) Capillary",
+        "answer": " W) ELECTROSTATIC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If you drop an ice cube into a mixture of alcohol and water and\nyou notice that the ice floats, which of the following can you conclude about the liquid?\nW) The liquid is mostly water\nX) The liquid is mostly alcohol\nY) Nothing, because information on the temperature of the liquid is not given\nZ) The liquid contains exactly equal amounts of water and alcohol",
+        "answer": " W) THE LIQUID IS MOSTLY WATER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The Rayleigh criterion defines a limit on which of the following?\nW) Resolution in an optical system\nX) Particle velocity in an inelastic collision\nY) Sustainable pressure for a given material\nZ) Shear stress for a given material",
+        "answer": " W) RESOLUTION IN AN OPTICAL SYSTEM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a utility uses a true real time pricing rate structure, a residential\ncustomer could reduce consumption during the times of peak demand by upgrading all but\nwhich of the following?\nW) Lighting\nX) Heating\nY) Air conditioning\nZ) Water heating",
+        "answer": " W) LIGHTING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What process is represented by the following: (Coal) + O + H O\n2 2\n\u2192 H + CO?\n2",
+        "answer": " COAL GASIFICATION (ACCEPT: SYNGAS PRODUCTION)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the molecular geometry of the coordination compound\n[Co(NH ) Cl ]+?\n3 4 2",
+        "answer": " OCTAHEDRAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Match the following reactions: E2, S 2, and E1 to the following\nN\nthree solvents in which they generally occur : 1) polar aprotic, 2) polar protic, 3) a variety of\nsolvents.",
+        "answer": " E2 = 3 (ACCEPT: VARIETY OF SOLVENTS); S 2 = 1 (ACCEPT: POLAR\nN\nAPROTIC); E1 = 2 (ACCEPT: POLAR PROTIC)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Peano\u2019s Axioms underlie which of the following mathematical\nc oncepts?\nW) Non Euclidean geometry\nX) Group theory\nY) Natural numbers\nZ) Complex numbers",
+        "answer": " Y) NATURAL NUMBERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the exact value of [cosine of 75 degrees] in simplest\nradical form?\ncos 75\u00b0",
+        "answer": "\n\u221a6\u2212\u221a2\n4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " How does the angle of repose change as an alluvial\n[uh-LOO-vee-uhl] fan increases in size over time?\nW) It increases because the sediment increases in cohesion over time\nX) It increases to a maximum of 15 degrees\nY) It remains the same\nZ) It is highly variable due to the nature of the sediments",
+        "answer": " Y) IT REMAINS THE SAME"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A disadvantage of an altazimuth [al-TAZ-uh-muhth]\nmount compared to an equatorial mount is which of the following?\nW) It is more complicated to track stars as they move across the sky\nX) The telescope cannot observe the north celestial pole\nY) It is more complicated to construct than an equatorial mount\nZ) It requires a larger dome",
+        "answer": " W) IT IS MORE COMPLICATED TO TRACK STARS AS THEY MOVE ACROSS\nTHE SKY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following pairs correctly matches the cellular\nstructure or organelle with its function?\nW) Nucleolus and rRNA synthesis\nX) Smooth endoplasmic reticulum and carbohydrate synthesis\nY) Centriole and transport of vesicles\nZ) Golgi apparatus and protein synthesis",
+        "answer": " W) NUCLEOLUS AND rRNA SYNTHESIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " African, Egyptian, Caucasian, and Carniolan are all races of\nwhich of the following colonizing insects?\nW) Termites\nX) Bees\nY) Ants\nZ) Grasshoppers",
+        "answer": " X) BEES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " How many electrons are required to make up a net negative\ncharge of 1 coulomb?\nW) 1.6 x 10-19\nX) 6.2 x 1018\nY) 1.6 x 1019\nZ) 6.2 x 1019",
+        "answer": " X) 6.2 x 1018"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A pendulum attached to the ceiling has a mass m, a length L,\nand is held at rest at an angle \u03b8 [theta] with respect to the vertical. If the pendulum [PEN-juh-\nluhm] is released, then which of the following is the equation for the kinetic energy of the\npendulum at the lowest point in its oscillation?\nW) mgL sin\u03b8\nX) mgL (1 - sin\u03b8) [m g L times the quantity 1 minus the sine of theta]\nY) mgL cos\u03b8\nZ) mgL (1 - cos\u03b8)",
+        "answer": " Z) mgL (1 - cos\u03b8)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the cooling process that employs water's\nlarge enthalpy of vaporization?",
+        "answer": " EVAPORATIVE COOLING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " An argument escalates from 20 decibels to 60 decibels. By what\nfactor is the peak-to-peak air pressure variation associated with the argument multiplied?\nW) 3\nX) 100\nY) 1,000\nZ) 10,000",
+        "answer": " X) 100"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In the ocean, which of the following is the depth at which the\nrate of respiration of a photosynthetic organism is equal to its rate of photosynthesis?\nW) Compensation depth\nX) Critical depth\nY) Oxygen minimum layer\nZ) Deep scattering layer",
+        "answer": " W) COMPENSATION DEPTH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following correctly identifies the body of water in\nwhich you would find Vaquita [va-KEY-tuh], the most endangered Cetacean?\nW) Northwest corner of the Gulf of California\nX) Throughout the Sea of Cortez\nY) Southeast corner of the Sea of Cortez\nZ) Shallow lagoons off the coast of northern California",
+        "answer": " W) NORTHWEST CORNER OF THE GULF OF CALIFORNIA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In the gas phase, one mole of hydrogen gas reacts\nreversibly with one mole of iodine gas to form two moles of hydrogen iodide gas. If the system is\nat equilibrium at constant temperature, how will the equilibrium shift if the volume of the reaction\nvessel is doubled?\nW) It will shift toward the reactants\nX) It will shift toward the products\nY) It will not shift in either direction\nZ) It is not possible to determine shift direction",
+        "answer": " Y) IT WILL NOT SHIFT IN EITHER DIRECTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Uridine monophosphate (UMP) [YOOR-i-deen mon-uh-FOS-\nfayt] is essential to the synthesis of pyrimidine nucleotides [py-RIM-i-deen NOO-klee-uh-tyds].\nWhat amino acid combines with a bicarbonate ion and two ATPs in the first step of de novo\nsynthesis of UMP?",
+        "answer": " GLUTAMINE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Maximize the area in square feet of a rectangular pen bounded by the\nside of a barn and feet of fencing that forms the other three sides.",
+        "answer": " 100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " For the arithmetic sequence with and , what is ?\nn 1 3 98",
+        "answer": " a a = 5 a = -3 a\n-383"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the defining characteristic for detection of\nType I supernovae [soo-per-NOH-vee]?",
+        "answer": " LACK OF HYDROGEN LINES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a location where\nserpentinite [suhr-pen-TUH-nyt] often forms?\nW) Flanks of a volcano\nX) Accreted terranes\nY) Sedimentary basins\nZ) Magma chambers",
+        "answer": " X) ACCRETED TERRANES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " As a volcanically formed island begins to experience\nsubsidence, you would see a temporal progression of reef types in which of the following\norders?\nW) Fringing reef, barrier reef, atoll\nX) Atoll, fringing reef, barrier reef\nY) Barrier reef, fringing reef, atoll\nZ) Fringing reef, atoll, barrier reef",
+        "answer": " W) FRINGING REEF, BARRIER REEF, ATOLL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Ciguatera [sig-wa-ter-ra] is an illness caused by eating fish that\ncontain toxins produced by a tropical marine dinoflagellate [din-uh-FLAJ-uh-layt]. Which of the\nfollowing fish would be the safest to eat if you wanted to avoid getting ciguatera?\nW) Barracuda\nX) Grouper\nY) Trevally [truh-valley]\nZ) Halibut",
-        "subject": "",
-        "answer": "Z) HALIBUTDouble Elimination ~ Round 1 Page 13"
+        "answer": " Z) HALIBUT"
     }
 ]

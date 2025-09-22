@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the form of highly condensed chromatin\nthat is not transcribable in its present form and typical of the type of chromatin visible in the light\nmicroscope when the cell is in interphase:\nW) Z DNA\nX) euchromatin\nY) heterochromatin\nZ) histochromatin",
+        "answer": " Y) HETEROCHROMATIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a primary consequence of histone\nacetylation:\nW) increased access of transcriptional factors to DNA\nX) decreased access of transcriptional factors to DNA\nY) increased rate of cells entering mitosis\nZ) G-1 block",
+        "answer": " W) INCREASED ACCESS OF TRANSCRIPTIONAL FACTORS TO DNA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What type of magnetism exists in substances in which electrons\nare unpaired and are very weakly attracted by magnetic fields?",
+        "answer": " PARAMAGNETISM (ACCEPT: PARAMAGNETIC)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following diatomic molecules will exhibit\nparamagnetism:\nW) B\n2\nX) N\n2\nY) C\n2\nZ) F\n2",
+        "answer": " W) B\n2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What percent of energy in our Universe is believed to consist of\ndark matter and normal matter:\nW) 4.4%\nX) 16%\nY) 27%\nZ) 73%",
+        "answer": " Y) 27%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 substances from the one with the LOWEST\ndielectric constant to the HIGHEST at 20\u00baC: mica; paraffin; vacuum; pure water",
+        "answer": " VACUUM; PARAFFIN; MICA; PURE WATER\n(Solution: vacuum = 1.00; paraffin = 2.2; mica = 7.0; water = 80.0)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following trigonometric equation for x, giving your answer in\ndegrees such that 0\u00ba \u2264 x < 360\u00ba: 2 sin x \u2013 1 = 0",
+        "answer": " 30\u00ba AND 150\u00ba"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following logarithmic equation in base 10 for x over the real\nnumbers:\nlog (2x \u2013 1) = log (x + 2) + log (x \u2013 2)",
+        "answer": " 3 (DO NOT ACCEPT 3 and \u20131)\n(Solution: 2x \u2013 1 = (x + 2)(x \u2013 2); (x \u2013 3)(x + 1) = 0; x = 3, x \u2260 -1 \u2013 the log(-1) does not exist in the\nreal number system)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the largest size of\nsediment particle that can be transported by a particular flow in a river:\nW) discharge\nX) competency\nY) capacity\nZ) bed load",
+        "answer": " X) COMPETENCY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " A ship accidentally loses a cargo of floating rubber balls\noff the East coast of Japan. If they follow the prevailing currents, in which of the following\nlocations will most of them likely FIRST wash on shore:\nW) the western coast of North America\nX) the eastern coast of Australia\nY) the western coast of Australia\nZ) the south-central coast of Alaska",
+        "answer": " W) THE WESTERN COAST OF NORTH AMERICA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a mint-flavoring used in\nchewing gum, toothpaste, and mouthwashes produced naturally in fruits and vegetables:\nW) wintergreen\nX) xylitol\nY) winterol\nZ) arabinose",
+        "answer": " X) XYLITOL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The separation of proteins using SDS polyacrylamide\ngel electrophoresis is primarily based on:\nW) charge only\nX) charge and shape\nY) molecular mass\nZ) shape only",
+        "answer": " Y) MOLECULAR MASS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate:\nW) magnetic fields can be strongly amplified when 2 neutron stars merge\nX) Saturn\u2019s moon Titan has been found to have large dunes\nY) hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites\nZ) interplanetary dust particles are typically nitrogen-rich and carbon-poor",
+        "answer": " Z) INTERPLANETARY DUST PARTICLES ARE TYPICALLY NITROGEN-RICH\nAND CARBON-POOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate:\nW) the imaginary north-south line that passes through the zenith on the celestial sphere is the\nmeridian\nX) Kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars\nY) Population TWO stars are composed mostly of hydrogen and helium\nZ) a negative sign indicates the celestial coordinate is in the southern hemisphere",
+        "answer": " X) KIRKWOOD GAPS ARE GAPS IN THE MAIN ASTEROID BELT CAUSED BY\nTHE GRAVITATIONAL EFFECTS OF MARS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a primary target of certain HIV drugs,\nsuch as AZT, specifically because HIV is a retrovirus:\nW) reverse transcriptase\nX) HIV receptors\nY) CD 4 cells\nZ) CD 8 cells",
+        "answer": " W) REVERSE TRANSCRIPTASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 5 products that are NOT produced by the\nadult human liver: clotting factors; glycogen; erythropoietin; bile; corticotropin (read as: core-\ntick-oh-TRO-pin)",
+        "answer": " ERYTHROPOIETIN AND CORTICOTROPIN\n(Solution: erythropoietin = kidney; corticotropin = pituitary)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a term used to describe the electronic\ngeometry around a central atom that has 5 regions of high electron density:\nW) tetrahedral\nX) trigonal pyramidal\nY) trigonal bipyramidal\nZ) octahedral",
+        "answer": " Y) TRIGONAL BIPYRAMIDAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT an aromatic amino acid:\nW) glutamine\nX) tryptophan\nY) phenylalanine\nZ) tyrosine",
+        "answer": " W) GLUTAMINE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in hertz, what is the lowest frequency possible for\na string that is 90-centimeters long and whose wave speed is 360 meters per second?",
+        "answer": " 200\n(Solution: f = v/ \u03bb; = 360/1.8m = 200)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Current accounting of the composition of the universe suggests that\ndark energy and dark matter together make up about what percent of the energy in the universe:\nW) 65%\nX) 75%\nY) 85%\nZ) 95%",
+        "answer": " Z) 95%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following radical expression, giving your answer in\n!144\nstandard bi form:\n49\n12",
+        "answer": " i\n7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Multiply the following complex numbers, giving your answer in\nstandard form: (2 + i 2 )(3 \u2013 i 2 )",
+        "answer": " 8 + 2 i (ACCEPT: 8 + i 2 )"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was the primary instrument used to\ngather 5 to 35 micrometer spectra data from the Deep Impact mission:\nW) Chandra X-ray observatory\nX) Arecibo radio telescope\nY) Hubble gamma-ray telescope\nZ) Spitzer infrared spectrograph",
+        "answer": " Z) SPITZER INFRARED SPECTROGRAPH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\napparent magnitudes of \u20133 and +4:\nW) 2.5\nX) 25\nY) 250\nZ) 625",
+        "answer": " Z) 625"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following glacial features are deposited in\nannual layers and can be used by geologists to determine seasonal variations during past ice ages:\nW) drumlins\nX) moraines\nY) varves\nZ) eskers",
+        "answer": " Y) VARVES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a geothermal process that has\nmostly led to concentrated stores of copper and zinc in the Earth\u2019s crust:\nW) soil leaching\nX) hydrothermal precipitation\nY) igneous cooling\nZ) evaporation of water",
+        "answer": " X) HYDROTHERMAL PRECIPITATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " If the temperature of an object is doubled, and all other things\nremain the same, how many times as fast will it radiate energy?",
+        "answer": " 16 (ACCEPT: 24)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " How many sidereal minutes are in 4 sidereal hours?",
+        "answer": " 240"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During the electron transport system, a store of potential energy is\ncreated that will be converted into high energy phosphates. The potential energy is best described as:\nW) ADP\nX) ATP\nY) the hydrogen ion gradient\nZ) the sodium differential",
+        "answer": " Y) THE HYDROGEN ION GRADIENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the first place in the breakdown of glucose, starting in\nglycolysis and through the Krebs cycle, where CO is released:\n2\nW) pyruvate yielding Acetyl Co-A\nX) 3-phosphoglycerate (read as: 3-foss-foe-GLISS-err-ate) yielding 2-phosphoglycerate\nY) isocitrate yielding alpha ketogluterate\nZ) oxaloacetate (read as: ox-AL-oh-ACETATE) yielding citrate",
+        "answer": " W) PYRUVATE YIELDING ACETYL Co-A"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molecules has the highest bond\nenthalpy, or energy it would take to break apart the bond:\nW) F\n2\nX) H\n2\nY) HCl\nZ) CO",
+        "answer": " Z) CO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Silver iodide, or AgI, is LEAST soluble in which of the\nfollowing aqueous solutions:\nW) NaOH\nX) distilled water\nY) HNO\n3\nZ) KI",
+        "answer": " Z) KI\n(Solution: common ion effect)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In using a frequency of light that causes the photoelectric effect,\nwhich of the following will occur when there is an increase in the intensity of the incident light beam\non a metal surface:\nW) the maximum kinetic energy of ejected electrons will increase exponentially\nX) the maximum kinetic energy of ejected electrons will increase linearly\nY) it will increase the work function\nZ) more electrons will be ejected from the metal",
+        "answer": " Z) MORE ELECTRONS WILL BE EJECTED FROM THE METAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true according to the Standard\nModel of Particle Physics:\nW) quarks carry color charge\nX) hadrons are color-neutral particles\nY) quarks can be isolated from their hadrons\nZ) the carrier particle for the electromagnetic interaction has zero charge",
+        "answer": " Y) QUARKS CAN BE ISOLATED FROM THEIR HADRONS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In degrees, what is the least positive angle that is coterminal with 650\u00b0?",
+        "answer": " 290\u00b0\n(Solution: 650\u00b0 \u2013 360\u00b0 = 290\u00b0)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given the function f(x) = x3 + 3x \u2013 k and f(3) = 31, solve for k:",
+        "answer": " 5\n(Solution: 31 = 33 + 3(3) \u2013 k; k = 5)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " It is estimated that the supercontinent Pangaea began to\nbreak up at the end of the Triassic Period about how many years ago:\nW) 2.5 billion years\nX) 225 million years\nY) 5 million years\nZ) 150,000 years",
+        "answer": " X) 225 MILLION YEARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " A group of small volcanoes, called the petit spot\nvolcanoes, was recently found. What makes this find so unusual is they are believed to be formed:\nW) from asthenosphere material squeezing through cracks caused by bending in Earth\u2019s crust\nX) from plumes rising rapidly from the boundary between Earth\u2019s core and mantle\nY) at a convergent plate boundary\nZ) at a mid-ocean ridge",
+        "answer": " W) FROM ASTHENOSPHERE MATERIAL SQUEEZING THROUGH CRACKS\nCAUSED BY BENDING IN EARTH\u2019S CRUST"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) long-term variation in Earth\u2019s insolation is partially caused by precession\nX) there has yet to be any scientifically well-documented case of a human whose immune system\nhas eradicated HIV from their body\nY) Candida albicans is a common fungal infective agent in humans\nZ) most scientific evidence supports the belief that C3 plants evolved from C4 plants",
+        "answer": " Z) MOST SCIENTIFIC EVIDENCE SUPPORTS THE BELIEF THAT C3 PLANTS\nEVOLVED FROM C4 PLANTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " By number or name, identify all of the following blood\nmeasures that would suggest a woman is deficient in iron: 1) low hematocrit; 2) larger than average\nsize of erythrocytes; 3) high levels of TSH; 4) increased transferrin level",
+        "answer": " 1 AND 4 (ACCEPT: 1 - LOW HEMATOCRIT; 4 - INCREASED TRANSFERRIN\nLEVEL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 objects that would NOT be found\non Earth: meteors; craters; asteroid impact remnants; bolides",
+        "answer": " METEORS; BOLIDES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " For someone standing at 22\u00b0 North latitude, how many degrees\nabove the horizon will the north celestial pole be?",
+        "answer": " 22"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " How many codons in the entire genetic code call for amino acids?",
+        "answer": " 61"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following organelles that are bounded by a double\nmembrane: nucleus; mitochondrion; chloroplast; lysosome",
+        "answer": " NUCLEUS; MITOCHONDRION; CHLOROPLAST\n(ACCEPT: ALL BUT LYSOSOME)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 ionic solids in terms of their lattice energies\nor enthalpies, going from the HIGHEST to the LOWEST: LiBr; KBr; NaBr",
+        "answer": " LiBr; NaBr; KBr"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 3 oxoacids or oxyacids in order of\nINCREASING acid strength: HBrO ; HBrO ; HBrO\n3 2",
+        "answer": " HBrO; HBrO ; HBrO\n2 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a rock is spun on a sling with a frequency of 100 revolutions per\nminute, what is the rock\u2019s period, in seconds?",
+        "answer": " 0.6\n(Solution: T = 1/f = 0.6 sec)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 3-kilogram model airplane has velocity components of 5 meters per\nsecond due east and 8 meters per second due north. What is the plane\u2019s kinetic energy, in joules to\nthe nearest whole number?",
+        "answer": " 134\n(Solution: v2 = v2 + v2 ; KE = \u00bd m(v2 + v2 ) = \u00bd (3kg)[(5m/s)2 + (8 m/s)2] = 133.5J)\nE N E N"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What part of the human brain releases the most corticotropin?",
+        "answer": " PITUITARY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the average yield of ATP for every NADH and for every\nFADH ,respectively, that pass through the electron transport system?\n2",
+        "answer": " NADH = 3; FADH = 2\n2"
+    }
+]

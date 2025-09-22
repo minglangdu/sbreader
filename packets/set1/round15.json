@@ -1,352 +1,352 @@
 [
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST describes how the most accurate\nvalue for the gravitational constant has been determined:\nW) through theoretical calculations from General Relativity\nX) through theoretical calculations using the masses and motions of certain celestial bodies\nY) through theoretical calculations from quantum electrodynamics\nZ) through experimentation",
-        "subject": " PHYSICS ",
-        "answer": "Z) THROUGH EXPERIMENTATION"
+        "answer": " Z) THROUGH EXPERIMENTATION"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST describes how Thomas Young\nproduced sufficiently coherent separate light sources in order to produce interference patterns:\nW) passing coherent light through 2 closely spaced holes in the same opaque screen\nX) passing incoherent light 1st through an opaque screen with a single hole, and then through a 2nd\nopaque screen with 2 holes\nY) passing polarized light through 2 holes in a single opaque screen\nZ) passing laser light through 2 holes in a single opaque screen",
-        "subject": " PHYSICS ",
-        "answer": "X) PASSING INCOHERENT LIGHT 1st THROUGH AN OPAQUE SCREEN WITHA SINGLE HOLE, AND THEN THROUGH A 2nd OPAQUE SCREEN WITH 2 HOLES"
+        "answer": " X) PASSING INCOHERENT LIGHT 1st THROUGH AN OPAQUE SCREEN WITH\nA SINGLE HOLE, AND THEN THROUGH A 2nd OPAQUE SCREEN WITH 2 HOLES"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true:\nW) a reaction that requires free energy is spontaneous\nX) gases, as a group, have higher entropies than liquids\nY) standard molar entropies of pure substances are always positive values\nZ) spontaneous processes involve non-equilibrium conditions",
-        "subject": " CHEMISTRY ",
-        "answer": "W) A REACTION THAT REQUIRES FREE ENERGY IS SPONTANEOUS"
+        "answer": " W) A REACTION THAT REQUIRES FREE ENERGY IS SPONTANEOUS"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Consider the reaction, N + 3H \uf0e0 2NH . If the\n2(gas) 2(gas) 3(gas)\nconcentration of ammonia increases from 0.3 molar to 0.9 molar in a 10-minute period, find the\naverage rate of reaction over this time interval. Give your answer to the 2nd decimal place in moles\nper liter minute:",
-        "subject": " CHEMISTRY ",
-        "answer": "0.03(Solution: rate = \u2206[NH ]/2\u2206t = 0.6M/2(10min) = 0.03 mole/L-min)3High School Round 15 Page 1"
+        "answer": " 0.03\n(Solution: rate = \u2206[NH ]/2\u2206t = 0.6M/2(10min) = 0.03 mole/L-min)\n3"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What enzyme in E. coli functions as the primary proof-reading\nmolecule during replication?",
-        "subject": " BIOLOGY ",
-        "answer": "DNA POLYMERASE (ACCEPT: DNA POLYMERASE 3)"
+        "answer": " DNA POLYMERASE (ACCEPT: DNA POLYMERASE 3)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of DNA replication:\nW) it is initiated by a short DNA primer\nX) the growing strand is polymerized in a 5-prime to 3-prime direction\nY) DNA polymerase helps form the phosphodiesterase (read as: FOSS-foe-die-ESS-ter-ase) bonds\nZ) synthesis of the lagging strand is discontinuous",
-        "subject": " BIOLOGY ",
-        "answer": "W) IT IS INITIATED BY A SHORT DNA PRIMER"
+        "answer": " W) IT IS INITIATED BY A SHORT DNA PRIMER"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Multiple Choice",
         "content": " A data set has a mean of 10 and variance of 10. If every set element is\nmultiplied by 2, which of the following is TRUE of the new mean and variance:\nW) mean is 20, variance is 40\nX) mean is 20, variance is 10\nY) mean is 20, variance is 20\nZ) mean is 10, variance is 20",
-        "subject": " MATH ",
-        "answer": "W) MEAN IS 20, VARIANCE IS 40"
+        "answer": " W) MEAN IS 20, VARIANCE IS 40"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Convert the angle, 18\u00ba18\u201936\u201d (read as: 18 degrees, 18 minutes, 36\nseconds) to degrees, to the second decimal place:",
-        "subject": " MATH ",
-        "answer": "18.3118 36(Solution: 18+ + = 18.31)60 3600High School Round 15 Page 2"
+        "answer": " 18.31\n18 36\n(Solution: 18+ + = 18.31)\n60 3600"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " A meromictic lake has layers of water that typically:\nW) intermix once a year\nX) intermix each spring and autumn\nY) intrtmix only when the winds are favorable\nZ) do not intermix",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) DO NOT INTERMIX"
+        "answer": " Z) DO NOT INTERMIX"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Short Answer",
         "content": " Name all of the following 4 factors that are reasons why\nbiomes are not considered homogeneous biotic communities: local topography; soil characteristics;\ntemperature; water",
-        "subject": " EARTH SCIENCE ",
-        "answer": "ALL"
+        "answer": " ALL"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " In which of the following processes would isinglass\n(read as: eye-zen-glass) most likely be used:\nW) clarification of beers and wines\nX) baking of yeast-free breads\nY) glazing of ceramics\nZ) thickening of puddings",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "W) CLARIFICATION OF BEERS AND WINES"
+        "answer": " W) CLARIFICATION OF BEERS AND WINES"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " In which of the following instances would using a\nstudent t-test be most appropriate:\nW) comparing yes or no answers on a single question on a questionnaire\nX) determining statistical differences between 5 different age groups of males that received a drug\nthat increases red blood cell production\nY) finding the statistical differences between two groups in an experiment on a drug\u2019s effect in\nraising or lowering blood pressure\nZ) comparing the strengths of 5 different types of fishing lines",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Y) FINDING THE STATISTICAL DIFFERENCES BETWEEN TWO GROUPS INAN EXPERIMENT ON A DRUG\u2019S EFFECT IN RAISING OR LOWERING BLOOD PRESSUREHigh School Round 15 Page 3"
+        "answer": " Y) FINDING THE STATISTICAL DIFFERENCES BETWEEN TWO GROUPS IN\nAN EXPERIMENT ON A DRUG\u2019S EFFECT IN RAISING OR LOWERING BLOOD PRESSURE"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following positions is an inferior planet most\nlikely in if it is seen just after sunset:\nW) opposition\nX) superior conjunction\nY) greatest eastern elongation\nZ) greatest western elongation",
-        "subject": " ASTRONOMY ",
-        "answer": "Y) GREATEST EASTERN ELONGATION"
+        "answer": " Y) GREATEST EASTERN ELONGATION"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " According to the Pogson scale for brightness, by what multiple\ndoes the brightness of 2 stars differ that have apparent magnitudes of +3 and +8?",
-        "subject": " ASTRONOMY ",
-        "answer": "100"
+        "answer": " 100"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " To early astrophysical researchers, the Sun was originally found to\nemit about one-third of the expected amount of neutrinos. Which of the following BEST explains\nwhy:\nW) about 66% of the neutrinos were deflected by the Earth\u2019s magnetic field\nX) two-thirds of the neutrinos were too energetic to be detected\nY) neutrinos were changing flavor on their way to Earth\nZ) original estimations of the numbers emitted by the Sun were incorrect",
-        "subject": " PHYSICS ",
-        "answer": "Y) NEUTRINOS WERE CHANGING FLAVOR ON THEIR WAY TO EARTH"
+        "answer": " Y) NEUTRINOS WERE CHANGING FLAVOR ON THEIR WAY TO EARTH"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " If you were using a 50-millimeter camera lens and changed the lens\naperture from 8.0 to 5.6, about how much LESS light would the lens be allowing to pass through it:\nW) 60% less\nX) 50% less\nY) 35% less\nZ) 22% less",
-        "subject": " PHYSICS ",
-        "answer": "X) 50% LESS(Solution: 5.6/8.0 = 0.70; (0.70)2 = 0.49 ~ 50%)High School Round 15 Page 4"
+        "answer": " X) 50% LESS\n(Solution: 5.6/8.0 = 0.70; (0.70)2 = 0.49 ~ 50%)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT generally true of reaction\nequilibria:\nW) if the temperature of an exothermic reaction is raised, the equilibrium shifts to the left\nX) the equilibrium constants for forward and reverse reactions are the reciprocals of each other\nY) pure liquids appear in the equilibrium expression but pure solids do not\nZ) an equilibrium constant greater than 1 means that the reaction favors products at equilibrium",
-        "subject": " CHEMISTRY ",
-        "answer": "Y) PURE LIQUIDS APPEAR IN THE EQUILIBRIUM EXPRESSION BUT PURESOLIDS DO NOT(Solution: pure solids and liquids do not appear in the equilibrium expression)"
+        "answer": " Y) PURE LIQUIDS APPEAR IN THE EQUILIBRIUM EXPRESSION BUT PURE\nSOLIDS DO NOT\n(Solution: pure solids and liquids do not appear in the equilibrium expression)"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Calculate \u2206G\u00ba (read as: delta G naught), giving your answer in\nkilojoules, for a reaction in which \u2206H\u00ba = +180 kilojoules and \u2206S\u00ba = +100 joules per kelvin at\n300 kelvin and 1 atmosphere pressure:",
-        "subject": " CHEMISTRY ",
-        "answer": "+150 (ACCEPT: 150) (SO NOT ACCEPT: \u2013150)(Solution: \u2206G\u00ba = \u2206H\u00ba\u2013T\u2206S\u00ba = 180kJ \u2013 [300K(0.10 kJ/K)] = 150 kJ)"
+        "answer": " +150 (ACCEPT: 150) (SO NOT ACCEPT: \u2013150)\n(Solution: \u2206G\u00ba = \u2206H\u00ba\u2013T\u2206S\u00ba = 180kJ \u2013 [300K(0.10 kJ/K)] = 150 kJ)"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is MOST characteristic of human blast\ncells in on observation with light microscopy:\nW) large nuclear to cytoplasmic ratio\nX) small nucleolus and mostly heterochromatin in the nucleus\nY) lack of cytoplasmic granules and small overall size compared to mature cells\nZ) absence of nucleolus (read as: NEW-clee-oh-luss) and endoplasmic reticulum",
-        "subject": " BIOLOGY ",
-        "answer": "W) LARGE NUCLEAR TO CYTOPLASMIC RATIO"
+        "answer": " W) LARGE NUCLEAR TO CYTOPLASMIC RATIO"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What specific molecule binds immediately upstream of the structural\ngenes in the lac (read as: LACK) operon and functions to transcribe these genes?",
-        "subject": " BIOLOGY ",
-        "answer": "RNA POLYMERASEHigh School Round 15 Page 5"
+        "answer": " RNA POLYMERASE"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Multiple Choice",
         "content": " The graph of r = 3 secant (\u03b8) (read as: r = 3 secant theta) is a:\nW) parabola\nX) circle\nY) hyperbola\nZ) line",
-        "subject": " MATH ",
-        "answer": "Z) LINE"
+        "answer": " Z) LINE"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Give the resulting vector for the cross product of vector 1,0,0 with\nvector 0,0,1 :",
-        "subject": " MATH ",
-        "answer": "0,\u22121,0"
+        "answer": " 0,\u22121,0"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " When sampling for organic matter in seawater, any\norganic matter retained by a 0.2 micrometer pore filter is classified as:\nW) dissolved organic carbon\nX) particulate organic carbon\nY) detrital organic carbon\nZ) live or dead marine algae",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) PARTICULATE ORGANIC CARBON"
+        "answer": " X) PARTICULATE ORGANIC CARBON"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following soil additives would be most\nefficient at increasing the acidity of a slightly alkaline soil:\nW) ground chalk\nX) aluminum sulfate\nY) calcium sulfate\nZ) calcium carbonate",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) ALUMINUM SULFATEHigh School Round 15 Page 6"
+        "answer": " X) ALUMINUM SULFATE"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Clean or unpolluted rain water has a pH of about:\nW) 5.6\nX) 6.5\nY) 7.0\nZ) 7.6",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "W) 5.6"
+        "answer": " W) 5.6"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following plays the greatest role in the\neffect of acid rain on the environment:\nW) the ability of soils and bedrock to neutralize the acid\nX) the initial pH of the rain in the upper troposphere\nY) low-level ozone concentration\nZ) temperature of the troposphere",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "W) THE ABILITY OF SOILS AND BEDROCK TO NEUTRALIZE THE ACID"
+        "answer": " W) THE ABILITY OF SOILS AND BEDROCK TO NEUTRALIZE THE ACID"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is closest to the age of most\nchondrites:\nW) 150 million years\nX) 1.5 billion years\nY) 4.6 billion years\nZ) 13.7 billion years",
-        "subject": " ASTRONOMY ",
-        "answer": "Y) 4.6 BILLION YEARS(Solution: most are about the same age as our solar system)"
+        "answer": " Y) 4.6 BILLION YEARS\n(Solution: most are about the same age as our solar system)"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following best describes the hydrogen spectral\nline strength for an A-type star of about 3 solar masses:\nW) missing\nX) weak\nY) medium\nZ) strong",
-        "subject": " ASTRONOMY ",
-        "answer": "Z) STRONGHigh School Round 15 Page 7"
+        "answer": " Z) STRONG"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following BEST describes spin quantum numbers:\nW) orientation of intrinsic angular momenta of electrons\nX) centripetal accelerations of atoms\nY) angular momenta of only hadrons\nZ) centripetal acceleration of electrons",
-        "subject": " PHYSICS ",
-        "answer": "W) ORIENTATION OF INTRINSIC ANGULAR MOMENTA OF ELECTRONS"
+        "answer": " W) ORIENTATION OF INTRINSIC ANGULAR MOMENTA OF ELECTRONS"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the spin of the muon, in quantum units?",
-        "subject": " PHYSICS ",
-        "answer": "\u00bd(Solution: muons are fermions which have a spin of \u00bd)"
+        "answer": " \u00bd\n(Solution: muons are fermions which have a spin of \u00bd)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following substances has the greatest density:\nW) hexane\nX) methylene chloride\nY) diethyl ether\nZ) ethyl acetate",
-        "subject": " CHEMISTRY ",
-        "answer": "X) METHYLENE CHLORIDE(Solution: halogenated solvents possess a higher density than non-halogenated ones)"
+        "answer": " X) METHYLENE CHLORIDE\n(Solution: halogenated solvents possess a higher density than non-halogenated ones)"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following molecules is most likely to have a zero\ndipole moment based on its molecular shape:\nW) PF\n3\nX) H O\n2\nY) PCl\n3\nZ) BeF\n2",
-        "subject": " CHEMISTRY ",
-        "answer": "Z) BeF2High School Round 15 Page 8"
+        "answer": " Z) BeF\n2"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What is the most common name for the first membrane-associated\nmolecule discovered to function in a wide variety of cells in what is commonly referred to as a\nsecond messenger?",
-        "subject": " BIOLOGY ",
-        "answer": "CYCLIC AMP (ACCEPT: cAMP)"
+        "answer": " CYCLIC AMP (ACCEPT: cAMP)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " With which of the following are cyclin-dependent kinases most\ndirectly involved:\nW) repairing damaged DNA\nX) regulating cell cycle\nY) digesting plasmids\nZ) insulin\u2019s action on fat cells",
-        "subject": " BIOLOGY ",
-        "answer": "X) REGULATING CELL CYCLE"
+        "answer": " X) REGULATING CELL CYCLE"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " What is the angle formed, in degrees, between the hour and minute hand\nof an analog clock at 10:30 AM?",
-        "subject": " MATH ",
-        "answer": "135"
+        "answer": " 135"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Arrange the following 4 radicals in order of increasing value:\n6 12 ; 6 63; 3 2; 4 8",
-        "subject": " MATH ",
-        "answer": "3 2 ; 6 12 ; 4 8; 6 63High School Round 15 Page 9"
+        "answer": " 3 2 ; 6 12 ; 4 8; 6 63"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is TRUE regarding the Hadley\ncell:\nW) it creates an area of high pressure along the equator\nX) it is an open ocean circulation at 30\u00ba north and south latitudes\nY) it originates at the equator with strong solar heating\nZ) it is the only air circulation that is not affected by the Coriolis effect",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Y) IT ORIGINATES AT THE EQUATOR WITH STRONG SOLAR HEATING"
+        "answer": " Y) IT ORIGINATES AT THE EQUATOR WITH STRONG SOLAR HEATING"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Short Answer",
         "content": " Name all of the following 3 lavas from which\nstratovolcanoes are typically composed: andesite; rhyolite; basalt",
-        "subject": " EARTH SCIENCE ",
-        "answer": "ANDESITE; RHYOLITE"
+        "answer": " ANDESITE; RHYOLITE"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the primary detrimental\neffect to humans and animals who ingest high levels of melamine:\nW) impaired nerve transmission\nX) impaired kidney function\nY) liver failure\nZ) severe gastrointestinal distress",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) IMPAIRED KIDNEY FUNCTION"
+        "answer": " X) IMPAIRED KIDNEY FUNCTION"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is one of the main unique\ncapabilities of the GLAST observatory:\nW) it operates completely on photovoltaic cells\nX) it contains the largest superconducting magnet in space\nY) it can survey the entire celestial sphere several times each day\nZ) it orbits the Moon",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Y) IT CAN SURVEY THE ENTIRE CELESTIAL SPHERE SEVERAL TIMESEACH DAYHigh School Round 15 Page 10"
+        "answer": " Y) IT CAN SURVEY THE ENTIRE CELESTIAL SPHERE SEVERAL TIMES\nEACH DAY"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " In astronomical units to the first decimal place, what is the\nChandrasekhar Limit?",
-        "subject": " ASTRONOMY ",
-        "answer": "1.4"
+        "answer": " 1.4"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " If a new Moon occurs on May 5th at 8:20 AM eastern daylight\ntime, on what day will the full Moon occur that month?",
-        "subject": " ASTRONOMY ",
-        "answer": "19th"
+        "answer": " 19th"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Uranium-238 and plutonium-239, primarily decay by what mode?",
-        "subject": " PHYSICS ",
-        "answer": "ALPHA (ACCEPT: ALPHA EMISSION or ALPHA DECAY)"
+        "answer": " ALPHA (ACCEPT: ALPHA EMISSION or ALPHA DECAY)"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the name of the instrument invented by Charles Wilson and\nused in the early 1900\u2019s in many experiments to show the tracks of charged particles passing through\na chamber?",
-        "subject": " PHYSICS ",
-        "answer": "CLOUD CHAMBER (ACCEPT: WILSON CLOUD CHAMBER)High School Round 15 Page 11"
+        "answer": " CLOUD CHAMBER (ACCEPT: WILSON CLOUD CHAMBER)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " What chemical term is given to the formations that occur in water\nwhen a hydrophilic head and a hydrophobic tail organize into spheres that orient the tails within the\nsphere?",
-        "subject": " CHEMISTRY ",
-        "answer": "MICELLE"
+        "answer": " MICELLE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Using proper chemical nomenclature, finish balancing the\nfollowing combustion reaction for the gaseous products of carbon dioxide and water:\n2C H + 13O \uf0e0 what?\n4 10(gas) 2(gas)",
-        "subject": " CHEMISTRY ",
-        "answer": "8CO + 10H O (products in any order)2 2"
+        "answer": " 8CO + 10H O (products in any order)\n2 2"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " From what basic plant cell type are the majority of cells in a corm\n(read as: KORM) composed?",
-        "subject": " BIOLOGY ",
-        "answer": "PARENCHYMA"
+        "answer": " PARENCHYMA"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " If a germ cell of a genus of grass has 48 chromosomes at metaphase-\ntwo, how many chromosomes will a germ cell of this grass have in anaphase-two?",
-        "subject": " BIOLOGY ",
-        "answer": "96High School Round 15 Page 12"
+        "answer": " 96"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 3 molecules that are considered\nsaturated hydrocarbons: ethylene; ethane; cyclohexane",
-        "subject": " CHEMISTRY ",
-        "answer": "ETHANE; CYCLOHEXANE"
+        "answer": " ETHANE; CYCLOHEXANE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " How many milliliters of a 0.250 molar H SO solution will react\n2 4\nwith 10 milliliters of a 0.250 molar NaOH solution",
-        "subject": " CHEMISTRY ",
-        "answer": "5(Solution: N = (2eq/mol)(0.250 mol/L) = 0.5 eq/L; N = 0.250 eq/L;H2SO4 NaOH(N )(V = (N )(V ); (0.5 meq/ml)(x) = (0.25 meq/ml)(10 ml) = 5 ml)H2SO4 H2SO4) naOH NaOHHigh School Round 15 Page 13"
+        "answer": " 5\n(Solution: N = (2eq/mol)(0.250 mol/L) = 0.5 eq/L; N = 0.250 eq/L;\nH2SO4 NaOH\n(N )(V = (N )(V ); (0.5 meq/ml)(x) = (0.25 meq/ml)(10 ml) = 5 ml)\nH2SO4 H2SO4) naOH NaOH"
     }
 ]

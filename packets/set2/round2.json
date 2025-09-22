@@ -1,183 +1,338 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following elements is paramagnetic?\nW) Manganese\nX) Neon\nY) Silver\nZ) Zinc",
-        "subject": "",
-        "answer": "W) MANGANESE"
+        "answer": " W) MANGANESE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following pairs of baleen whales lacks a dorsal fin?\nW) Northern right whale and bowhead whale\nX) Narwhal and blue whale\nY) Fin whale and sei [SAY] whale\nZ) Bryde\u2019s whale and minke whale\nANSWER: W) NORTHERN RIGHT WHALE AND BOWHEAD WHALE",
-        "subject": "",
-        "answer": "W) H O2TOSS UP2. BIOLOGY Multiple Choice Which of the following pairs of baleen whales lacks a dorsal fin?W) Northern right whale and bowhead whaleX) Narwhal and blue whaleY) Fin whale and sei [SAY] whaleZ) Bryde\u2019s whale and minke whaleANSWER: W) NORTHERN RIGHT WHALE AND BOWHEAD WHALE"
+        "content": " Which of the following group 6A hydrides has the highest\nboiling point?\nW) H O\n2\nX) H S\n2\nY) H Se\n2\nZ) H Te\n2",
+        "answer": " W) H O\n2"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following substances contains the most Btus per\npound?\nW) Peat\nX) Gasoline\nY) Hydrogen\nZ) Charcoal\nANSWER: Y) HYDROGEN",
-        "subject": "",
-        "answer": "3 PRIME (ACCEPT: THREE OR 3RD)Round Robin ~ Round 2 Page 1TOSS UP3. ENERGY Multiple Choice Which of the following substances contains the most Btus perpound?W) PeatX) GasolineY) HydrogenZ) CharcoalANSWER: Y) HYDROGEN"
+        "content": " Which of the following pairs of baleen whales lacks a dorsal fin?\nW) Northern right whale and bowhead whale\nX) Narwhal and blue whale\nY) Fin whale and sei [SAY] whale\nZ) Bryde\u2019s whale and minke whale",
+        "answer": " W) NORTHERN RIGHT WHALE AND BOWHEAD WHALE"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following types of sand dunes form\nunder winds that blow in one direction?\nW) Barchan [bahr-KAHN]\nX) Linear\nY) Star\nZ) Parabolic\nANSWER: W) BARCHAN",
-        "subject": "",
-        "answer": "X) 300 VERSUS 65TOSS UP4. EARTH AND SPACE Multiple Choice Which of the following types of sand dunes formunder winds that blow in one direction?W) Barchan [bahr-KAHN]X) LinearY) StarZ) ParabolicANSWER: W) BARCHAN"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A plane wave of red light goes from the air into a glass block.\nWhich of the following describes how the wave changes?\nW) The frequency decreases\nX) The speed increases\nY) The wavelength decreases\nZ) The amplitude increases\nANSWER: Y) THE WAVELENGTH DECREASES",
-        "subject": "",
-        "answer": "Z) THE CORIOLIS FORCERound Robin ~ Round 2 Page 2TOSS UP5. PHYSICS Multiple Choice A plane wave of red light goes from the air into a glass block.Which of the following describes how the wave changes?W) The frequency decreasesX) The speed increasesY) The wavelength decreasesZ) The amplitude increasesANSWER: Y) THE WAVELENGTH DECREASES"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " If one exterior angle of a regular convex polygon measures , how\nmany sides does the polygon have?\n40\u00b0\nANSWER:",
-        "subject": "",
-        "answer": "30TOSS UP6. MATH Short Answer If one exterior angle of a regular convex polygon measures , howmany sides does the polygon have?40\u00b0ANSWER:"
+        "content": " In Sanger and cycle DNA sequencing, the absence of a hydroxyl\non which position of the ribose ring in a dideoxyribonucleoside [dy-dee-ok-si-ry-boh-NOO-\nklee-uh-syd] triphosphate, or ddNTP, is responsible for nucleotide chain termination?",
+        "answer": " 3 PRIME (ACCEPT: THREE OR 3RD)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances contains the most Btus per\npound?\nW) Peat\nX) Gasoline\nY) Hydrogen\nZ) Charcoal",
+        "answer": " Y) HYDROGEN"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately how much power in watts is consumed by,\nrespectively, five 120 volt incandescent light bulbs consuming 0.5 amperes each compared to\nfive compact fluorescent lamp bulbs producing the equivalent lumens?\nW) 120 versus 25\nX) 300 versus 65\nY) 330 versus 220\nZ) 600 versus 300",
+        "answer": " X) 300 VERSUS 65"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of sand dunes form\nunder winds that blow in one direction?\nW) Barchan [bahr-KAHN]\nX) Linear\nY) Star\nZ) Parabolic",
+        "answer": " W) BARCHAN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most direct proof that the\nEarth is NOT stationary?\nW) The existence of ocean tides\nX) Kepler's third law\nY) The increased accuracy of the Copernican model over the Ptolemaic model\nZ) The Coriolis force",
+        "answer": " Z) THE CORIOLIS FORCE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A plane wave of red light goes from the air into a glass block.\nWhich of the following describes how the wave changes?\nW) The frequency decreases\nX) The speed increases\nY) The wavelength decreases\nZ) The amplitude increases",
+        "answer": " Y) THE WAVELENGTH DECREASES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " A circle is inscribed within a square. The diagonal of the square has a\nlength of 6 centimeters. Providing your answer in simplest form, what is the circumference of the\ncircle in centimeters?\nANSWER:\n3\ud835\udf0b\ud835\udf0b\u221a2\nRound Robin ~ Round 2 Page 3\nTOSS UP\n7. CHEMISTRY Multiple Choice Blue light has a frequency of about 7.0 x 1014 hertz. Which of\nthe following is the wavelength of this light in centimeters?\nW) 4.3 x 10-5\nX) 8.4 x 10-8\nY) 3.1 x 10-12\nZ) 2.0 x 10-24",
-        "subject": "",
-        "answer": "W) 4.3 x 10-5"
+        "content": " Imagine a uniform meter stick supported on a knife edge at the 40\ncentimeter mark. The right end of the meter stick with the 100 centimeter mark swings down. To\nbalance the meter stick, at what centimeter mark should you hang an object with mass equal to\nthat of the meter stick?",
+        "answer": " 30"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT an even-toed ungulate [UHNG-\ngyuh-lit]?\nW) Hippopotamus\nX) Rhinoceros\nY) Kudu\nZ) Klipspringer\nANSWER: X) RHINOCEROS",
-        "subject": "",
-        "answer": "TEMPERATURE CHANGE AND ENTHALPY OF VAPORIZATION (ACCEPT: HEATOF VAPORIZATION)TOSS UP8. BIOLOGY Multiple Choice Which of the following is NOT an even-toed ungulate [UHNG-gyuh-lit]?W) HippopotamusX) RhinocerosY) KuduZ) KlipspringerANSWER: X) RHINOCEROS"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " If a water heater uses 20 cubic feet of natural gas in 30 minutes and\nnatural gas contains 1,000 Btus [B-T-USE] per cubic foot, what is the hourly input rating of the\nwater heater in Btu per hour?\nANSWER: 40,000",
-        "subject": "",
-        "answer": "3 (ACCEPT: WHITE OAK)Round Robin ~ Round 2 Page 4TOSS UP9. ENERGY Short Answer If a water heater uses 20 cubic feet of natural gas in 30 minutes andnatural gas contains 1,000 Btus [B-T-USE] per cubic foot, what is the hourly input rating of thewater heater in Btu per hour?ANSWER: 40,000"
+        "content": " If one exterior angle of a regular convex polygon measures , how\nmany sides does the polygon have?\n40\u00b0",
+        "answer": ""
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " The end of which of the following time periods\nmarked the greatest mass extinction event in Earth\u2019s history?\nW) Precambrian\nX) Cambrian\nY) Permian\nZ) Cretaceous [kri-TAY-shuhs]\nANSWER: Y) PERMIAN",
-        "subject": "",
-        "answer": "THERMAL RESISTANCE (ACCEPT: R-VALUE, RESISTANCE; DO NOT ACCEPT:HEAT RESISTANCE)TOSS UP10. EARTH AND SPACE Multiple Choice The end of which of the following time periodsmarked the greatest mass extinction event in Earth\u2019s history?W) PrecambrianX) CambrianY) PermianZ) Cretaceous [kri-TAY-shuhs]ANSWER: Y) PERMIAN"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Two identical positively charged spheres are separated by a\ndistance much bigger than their radii so that electric and gravitational forces are balanced. If the\nmass of each object is multiplied by 4, by what factor should the charge on each be multiplied\nso that the two forces still balance?\nW) 2\nX) 4\nY) 8\nZ) 16\nANSWER: X) 4",
-        "subject": "",
-        "answer": "Y) THEY ARE ASSOCIATED WITH A MID-PACIFIC CONVERGENT PLATEBOUNDARYRound Robin ~ Round 2 Page 5TOSS UP11. PHYSICS Multiple Choice Two identical positively charged spheres are separated by adistance much bigger than their radii so that electric and gravitational forces are balanced. If themass of each object is multiplied by 4, by what factor should the charge on each be multipliedso that the two forces still balance?W) 2X) 4Y) 8Z) 16ANSWER: X) 4"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " The values of a, b, c, and d are and , although not\nnecessarily in that order. What is the maximum value of c a \u2013 d [c times a to the power of b\nminus d]? 0 b , 1, 2, 3\n\u2219\nW)\nX)\nY) 6\nZ) 8\n9\nAN1S2WER: Y)",
-        "subject": "",
-        "answer": "375TOSS UP12. MATH Multiple Choice The values of a, b, c, and d are and , although notnecessarily in that order. What is the maximum value of c a \u2013 d [c times a to the power of bminus d]? 0 b , 1, 2, 3\u2219W)X)Y) 6Z) 89AN1S2WER: Y)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " Find the coordinates of all points of intersection between the graphs\nof y x x and [y equals the absolute value of the quantity 3x plus 3].\n2\nANS =W -E R+: NONE \ud835\udc66\ud835\udc66 = |3\ud835\udc65\ud835\udc65+3|\nRound Robin ~ Round 2 Page 6\nTOSS UP\n13. CHEMISTRY Multiple Choice Which of the following statements is NOT true?\nW) Liquids with weak intermolecular forces tend to have high surface tension\nX) Liquids with strong intermolecular forces tend to have high surface tension\nY) Liquids with weak intermolecular forces tend to have high vapor pressures\nZ) Cohesion forces refer to intermolecular attractions between like molecules",
-        "subject": "",
-        "answer": "W) LIQUIDS WITH WEAK INTERMOLECULAR FORCES TEND TO HAVE HIGHSURFACE TENSION"
+        "content": " A circle is inscribed within a square. The diagonal of the square has a\nlength of 6 centimeters. Providing your answer in simplest form, what is the circumference of the\ncircle in centimeters?",
+        "answer": "\n3\ud835\udf0b\ud835\udf0b\u221a2"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " The Ampullae [am-PUHL-ee] of Lorenzini are used to sense\nwhich of the following stimuli?\nW) Mechanical vibrations\nX) Chemicals\nY) Electrical currents\nZ) Light\nANSWER: Y) ELECTRICAL CURRENTS",
-        "subject": "",
-        "answer": "Y) SULFUR DIOXIDETOSS UP14. BIOLOGY Multiple Choice The Ampullae [am-PUHL-ee] of Lorenzini are used to sensewhich of the following stimuli?W) Mechanical vibrationsX) ChemicalsY) Electrical currentsZ) LightANSWER: Y) ELECTRICAL CURRENTS"
+        "content": " Blue light has a frequency of about 7.0 x 1014 hertz. Which of\nthe following is the wavelength of this light in centimeters?\nW) 4.3 x 10-5\nX) 8.4 x 10-8\nY) 3.1 x 10-12\nZ) 2.0 x 10-24",
+        "answer": " W) 4.3 x 10-5"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following types of lava is the sole lava\nerupted on the island of Hawaii?\nW) Komatiite [koh-MAHD-ee-YT]\nX) Basalt\nY) Andesite [AN-duh-syt]\nZ) Rhyolite [RAY-uh-lyt]\nANSWER: X) BASALT",
-        "subject": "",
-        "answer": "1, 3 (ACCEPT: TAPEWORMS, BLOOD FLUKES)Round Robin ~ Round 2 Page 7TOSS UP15. EARTH AND SPACE Multiple Choice Which of the following types of lava is the sole lavaerupted on the island of Hawaii?W) Komatiite [koh-MAHD-ee-YT]X) BasaltY) Andesite [AN-duh-syt]Z) Rhyolite [RAY-uh-lyt]ANSWER: X) BASALT"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is the effect on the resistance of a wire if\nit is replaced with an equally thick wire of a material of higher resistivity and longer length?\nW) The effect cannot be predicted without knowing the actual value of the resistivities of the\nmaterials\nX) Resistance increases\nY) Resistance decreases\nZ) Resistance is unchanged\nANSWER: X) RESISTANCE INCREASES",
-        "subject": "",
-        "answer": "X) VENUSTOSS UP16. PHYSICS Multiple Choice Which of the following is the effect on the resistance of a wire ifit is replaced with an equally thick wire of a material of higher resistivity and longer length?W) The effect cannot be predicted without knowing the actual value of the resistivities of thematerialsX) Resistance increasesY) Resistance decreasesZ) Resistance is unchangedANSWER: X) RESISTANCE INCREASES"
-    },
-    {
-        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " What are the coordinates of the vertex of the parabola with equation\ny x x [y equals 8 plus open parenthesis x plus 5 close parenthesis times the\nquantity x minus 3]?\n= 8 + ( + 5)( - 3)\nANSWER:",
-        "subject": "",
-        "answer": "INITIAL CURRENT = 0, FINAL CURRENT = 0.12Round Robin ~ Round 2 Page 8TOSS UP17. MATH Short Answer What are the coordinates of the vertex of the parabola with equationy x x [y equals 8 plus open parenthesis x plus 5 close parenthesis times thequantity x minus 3]?= 8 + ( + 5)( - 3)ANSWER:"
+        "content": " Your teacher wants you to use the Clausius-Clapeyron\nequation to determine the vapor pressure at a particular temperature. Assuming you know the\nvalue for the gas constant, what other two values must you be given?",
+        "answer": " TEMPERATURE CHANGE AND ENTHALPY OF VAPORIZATION (ACCEPT: HEAT\nOF VAPORIZATION)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " Assuming each of the following is in an aqueous solution\nwith a 1 molar concentration, which of the following solutions would have the highest\nconductivity at room temperature?\nW) Potassium hydroxide\nX) Aluminum nitrate\nY) Magnesium chloride\nZ) Iron (II) sulfate\nANSWER: X) ALUMINUM NITRATE",
-        "subject": "",
-        "answer": "( , ) [ACCEPT: (1, -35 )]3\u22121071 3TOSS UP18. CHEMISTRY Multiple Choice Assuming each of the following is in an aqueous solutionwith a 1 molar concentration, which of the following solutions would have the highestconductivity at room temperature?W) Potassium hydroxideX) Aluminum nitrateY) Magnesium chlorideZ) Iron (II) sulfateANSWER: X) ALUMINUM NITRATE"
+        "content": " Which of the following is NOT an even-toed ungulate [UHNG-\ngyuh-lit]?\nW) Hippopotamus\nX) Rhinoceros\nY) Kudu\nZ) Klipspringer",
+        "answer": " X) RHINOCEROS"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Hatchetfish control their luminescence using which of the\nfollowing specialized organs?\nW) Photophores\nX) Chromophores\nY) Siphonophores [SY-fuh-nuh-fohrs]\nZ) Sipunculids [sy-PUHNG-kyuh-lids]\nANSWER: W) PHOTOPHORES",
-        "subject": "",
-        "answer": "X) THE NEGATIVE BASE-10 LOGARITHM OF THE EQUILIBRIUM MOLARHYDRONIUM ION CONCENTRATIONRound Robin ~ Round 2 Page 9TOSS UP19. BIOLOGY Multiple Choice Hatchetfish control their luminescence using which of thefollowing specialized organs?W) PhotophoresX) ChromophoresY) Siphonophores [SY-fuh-nuh-fohrs]Z) Sipunculids [sy-PUHNG-kyuh-lids]ANSWER: W) PHOTOPHORES"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following states has the highest potential for wind\nenergy generation?\nW) Illinois\nX) Arkansas\nY) Michigan\nZ) North Dakota\nANSWER: Z) NORTH DAKOTA",
-        "subject": "",
-        "answer": "Y) GLOSSINATOSS UP20. ENERGY Multiple Choice Which of the following states has the highest potential for windenergy generation?W) IllinoisX) ArkansasY) MichiganZ) North DakotaANSWER: Z) NORTH DAKOTA"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following gases is the most prevalent in\nvolcanic eruptions?\nW) Water vapor\nX) Methane\nY) Carbon dioxide\nZ) Carbon monoxide\nANSWER: W) WATER VAPOR",
-        "subject": "",
-        "answer": "0.6Round Robin ~ Round 2 Page 10TOSS UP21. EARTH AND SPACE Multiple Choice Which of the following gases is the most prevalent involcanic eruptions?W) Water vaporX) MethaneY) Carbon dioxideZ) Carbon monoxideANSWER: W) WATER VAPOR"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A top that is spinning on a table begins to precess. Which of the\nfollowing would decrease the rate of precession of the top?\nW) An increase in the torque that the top experiences due to gravity\nX) A decrease in its moment of inertia\nY) A decrease in its angular velocity\nZ) An increase in its angular velocity\nANSWER: Z) AN INCREASE IN ITS ANGULAR VELOCITY",
-        "subject": "",
-        "answer": "ATLANTICTOSS UP22. PHYSICS Multiple Choice A top that is spinning on a table begins to precess. Which of thefollowing would decrease the rate of precession of the top?W) An increase in the torque that the top experiences due to gravityX) A decrease in its moment of inertiaY) A decrease in its angular velocityZ) An increase in its angular velocityANSWER: Z) AN INCREASE IN ITS ANGULAR VELOCITY"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " State an equation for the graph that results when the graph of\ny x) [y equals cosine of x] is stretched vertically by a factor of and is shifted units\nto the right.\n= cos( 5 \u03c0/2\nANSWER: y x ACCEPT: (x))",
-        "subject": "",
-        "answer": "6 x 10-4Round Robin ~ Round 2 Page 11TOSS UP23. MATH Short Answer State an equation for the graph that results when the graph ofy x) [y equals cosine of x] is stretched vertically by a factor of and is shifted unitsto the right.= cos( 5 \u03c0/2ANSWER: y x ACCEPT: (x))"
+        "content": " Name all of the following four trees that have an alternate\nbranching pattern rather than an opposite pattern: 1) box elder, 2) Paulownia, 3) white oak, 4)\nash.",
+        "answer": " 3 (ACCEPT: WHITE OAK)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " Providing your answer in simplest form, what is the distance from the\norigin to the line y x ?\n= + 1\nANSWER:\n\u221a2\n2\nTOSS UP\n24. CHEMISTRY Short Answer If the molar mass of chlorine is 35 grams per mole, of oxygen\nis 16 grams per mole, and of hydrogen is 1 gram per mole, what is the molar mass in grams per\nmole of hypochlorous acid?",
-        "subject": "",
-        "answer": "52"
+        "content": " If a water heater uses 20 cubic feet of natural gas in 30 minutes and\nnatural gas contains 1,000 Btus [B-T-USE] per cubic foot, what is the hourly input rating of the\nwater heater in Btu per hour?",
+        "answer": " 40,000"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What physical property is used to rate building insulation?",
+        "answer": " THERMAL RESISTANCE (ACCEPT: R-VALUE, RESISTANCE; DO NOT ACCEPT:\nHEAT RESISTANCE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Pyrolobus fumarii [py-ROH-loh-boos foo-MA-ree], an extreme\nthermophile, would be found in which of the following marine habitats?\nW) Photic zone\nX) Neritic zone\nY) Benthic zone\nZ) Littoral zone\nANSWER: Y) BENTHIC ZONE",
-        "subject": "",
-        "answer": "Y) BF3Round Robin ~ Round 2 Page 12TOSS UP25. BIOLOGY Multiple Choice Pyrolobus fumarii [py-ROH-loh-boos foo-MA-ree], an extremethermophile, would be found in which of the following marine habitats?W) Photic zoneX) Neritic zoneY) Benthic zoneZ) Littoral zoneANSWER: Y) BENTHIC ZONE"
+        "content": " The end of which of the following time periods\nmarked the greatest mass extinction event in Earth\u2019s history?\nW) Precambrian\nX) Cambrian\nY) Permian\nZ) Cretaceous [kri-TAY-shuhs]",
+        "answer": " Y) PERMIAN"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does NOT accurately describe\nthe Hawaiian islands?\nW) They were formed by undersea volcanoes\nX) They are mostly made up of basalts\nY) They are associated with a mid-Pacific convergent plate boundary\nZ) They are the projecting tops of the tallest mountain range in the world",
+        "answer": " Y) THEY ARE ASSOCIATED WITH A MID-PACIFIC CONVERGENT PLATE\nBOUNDARY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Two identical positively charged spheres are separated by a\ndistance much bigger than their radii so that electric and gravitational forces are balanced. If the\nmass of each object is multiplied by 4, by what factor should the charge on each be multiplied\nso that the two forces still balance?\nW) 2\nX) 4\nY) 8\nZ) 16",
+        "answer": " X) 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A car is travelling at a constant 30 meters per second for 10\nseconds. The car then undergoes constant deceleration for 5 seconds, coming to a stop. How\nfar in meters did the car travel during the entire 15 second time interval?",
+        "answer": " 375"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT true?\nW) Liquids with weak intermolecular forces tend to have high surface tension\nX) Liquids with strong intermolecular forces tend to have high surface tension\nY) Liquids with weak intermolecular forces tend to have high vapor pressures\nZ) Cohesion forces refer to intermolecular attractions between like molecules",
+        "answer": " W) LIQUIDS WITH WEAK INTERMOLECULAR FORCES TEND TO HAVE HIGH\nSURFACE TENSION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following gases will exhibit the greatest\ndeviation from ideal gas behavior?\nW) Carbon dioxide\nX) Methane\nY) Sulfur dioxide\nZ) Molecular oxygen",
+        "answer": " Y) SULFUR DIOXIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The Ampullae [am-PUHL-ee] of Lorenzini are used to sense\nwhich of the following stimuli?\nW) Mechanical vibrations\nX) Chemicals\nY) Electrical currents\nZ) Light",
+        "answer": " Y) ELECTRICAL CURRENTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following four organisms that are members of the\nphylum Platyhelminthes [FY-luhm plat-ee-hel-MIN-theez]: 1) tapeworms, 2) nematodes, 3)\nblood flukes, 4) sea slugs.",
+        "answer": " 1, 3 (ACCEPT: TAPEWORMS, BLOOD FLUKES)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of lava is the sole lava\nerupted on the island of Hawaii?\nW) Komatiite [koh-MAHD-ee-YT]\nX) Basalt\nY) Andesite [AN-duh-syt]\nZ) Rhyolite [RAY-uh-lyt]",
+        "answer": " X) BASALT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following planets has the longest day?\nW) Mercury\nX) Venus\nY) Mars\nZ) Jupiter",
+        "answer": " X) VENUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the effect on the resistance of a wire if\nit is replaced with an equally thick wire of a material of higher resistivity and longer length?\nW) The effect cannot be predicted without knowing the actual value of the resistivities of the\nmaterials\nX) Resistance increases\nY) Resistance decreases\nZ) Resistance is unchanged",
+        "answer": " X) RESISTANCE INCREASES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 2 henry inductance coil is connected in series to a 100 ohm\nresistor to create an LR circuit. If this circuit is connected to a 12 volt power supply, what are,\nrespectively, the initial current in the circuit and the final current in the circuit after it has been\nconnected for a long time, both measured in amperes?",
+        "answer": " INITIAL CURRENT = 0, FINAL CURRENT = 0.12"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What are the coordinates of the vertex of the parabola with equation\ny x x [y equals 8 plus open parenthesis x plus 5 close parenthesis times the\nquantity x minus 3]?\n= 8 + ( + 5)( - 3)",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Determine the coordinates of each inflection point for the graph of\n1 3 2\n\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = 3\ud835\udc65\ud835\udc65 \u2212\ud835\udc65\ud835\udc65 \u221235\ud835\udc65\ud835\udc65\n2",
+        "answer": " ( , ) [ACCEPT: (1, -35 )]\n3\n\u2212107\n1 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Assuming each of the following is in an aqueous solution\nwith a 1 molar concentration, which of the following solutions would have the highest\nconductivity at room temperature?\nW) Potassium hydroxide\nX) Aluminum nitrate\nY) Magnesium chloride\nZ) Iron (II) sulfate",
+        "answer": " X) ALUMINUM NITRATE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The pH of aqueous hydrogen cyanide most accurately\nrepresents which of the following?\nW) The negative base-10 logarithm of the initial molar hydronium ion concentration\nX) The negative base-10 logarithm of the equilibrium molar hydronium ion concentration\nY) The negative base-10 logarithm of the initial molar hydrogen cyanide concentration\nZ) The negative base-10 logarithm of the equilibrium molar hydrogen cyanide concentration",
+        "answer": " X) THE NEGATIVE BASE-10 LOGARITHM OF THE EQUILIBRIUM MOLAR\nHYDRONIUM ION CONCENTRATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Hatchetfish control their luminescence using which of the\nfollowing specialized organs?\nW) Photophores\nX) Chromophores\nY) Siphonophores [SY-fuh-nuh-fohrs]\nZ) Sipunculids [sy-PUHNG-kyuh-lids]",
+        "answer": " W) PHOTOPHORES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the genus for the primary insect vector\nfor African sleeping sickness?\nW) Cimex\nX) Musca\nY) Glossina\nZ) Culex",
+        "answer": " Y) GLOSSINA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following states has the highest potential for wind\nenergy generation?\nW) Illinois\nX) Arkansas\nY) Michigan\nZ) North Dakota",
+        "answer": " Z) NORTH DAKOTA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " To heat a cup of water in a microwave takes about 0.01 kilowatt-\nhours. Providing your answer to the nearest tenth, about how many minutes should you need to\nheat it if it is exposed to 1,000 watts of microwave energy?",
+        "answer": " 0.6"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following gases is the most prevalent in\nvolcanic eruptions?\nW) Water vapor\nX) Methane\nY) Carbon dioxide\nZ) Carbon monoxide",
+        "answer": " W) WATER VAPOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which major ocean has the highest salinity?",
+        "answer": " ATLANTIC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A top that is spinning on a table begins to precess. Which of the\nfollowing would decrease the rate of precession of the top?\nW) An increase in the torque that the top experiences due to gravity\nX) A decrease in its moment of inertia\nY) A decrease in its angular velocity\nZ) An increase in its angular velocity",
+        "answer": " Z) AN INCREASE IN ITS ANGULAR VELOCITY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Two parallel plates of equal area are separated by a distance of\n20 millimeters. If the plates are connected to a 12 volt battery, providing your answer in scientific\nnotation with one significant figure, what is the magnitude of the electrostatic force in newtons\nthat a microcoulomb charge between the plates would feel?",
+        "answer": " 6 x 10-4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " State an equation for the graph that results when the graph of\ny x) [y equals cosine of x] is stretched vertically by a factor of and is shifted units\nto the right.\n= cos( 5 \u03c0/2",
+        "answer": " y x ACCEPT: (x))"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer in simplest form, what is the distance from the\norigin to the line y x ?\n= + 1",
+        "answer": "\n\u221a2\n2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " If the molar mass of chlorine is 35 grams per mole, of oxygen\nis 16 grams per mole, and of hydrogen is 1 gram per mole, what is the molar mass in grams per\nmole of hypochlorous acid?",
+        "answer": " 52"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following can behave as a Lewis acid, but NOT\nas a Br\u00f8nsted-Lowry acid?\nW) NH\n3\nX) H CO\n2 3\nY) BF\n3\nZ) HSO -\n3",
+        "answer": " Y) BF\n3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Pyrolobus fumarii [py-ROH-loh-boos foo-MA-ree], an extreme\nthermophile, would be found in which of the following marine habitats?\nW) Photic zone\nX) Neritic zone\nY) Benthic zone\nZ) Littoral zone",
+        "answer": " Y) BENTHIC ZONE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " There are three cupboards labeled \u201cRodentia\u201d, \u201cLagomorpha,\u201d\nand \u201cChiroptera\u201d [kee-ROHP-tuh-ruh]. You have 4 taxidermy specimens: a pika, a fruit bat, a\nguinea pig, and a skunk to be correctly stored in the cupboards. One of these specimens does\nnot fit into the 3 available cupboards and thus you will need to label a fourth cupboard. What\nshould be the label on the fourth cupboard, and which animal would you place in that cupboard?",
-        "subject": "",
-        "answer": "CARNIVORA; SKUNKRound Robin ~ Round 2 Page 13"
+        "answer": " CARNIVORA; SKUNK"
     }
 ]

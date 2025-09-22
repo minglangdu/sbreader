@@ -1,183 +1,345 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " If 23.90 grams of water have a heat capacity of 100 joules per\nKelvin, how many joules of thermal energy are required to raise the temperature of this water\nfrom 290 Kelvin to 295 Kelvin?",
-        "subject": "",
-        "answer": "500"
+        "answer": " 500"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances is soluble in carbon\ntetrachloride?\nW) Formaldehyde [for-MAL-duh-hyd]\nX) Bromine\nY) Ammonia\nZ) Sodium chloride",
+        "answer": " X) BROMINE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " What is the name of the white blood cells that develop into\nmacrophages and dendritic cells?\nANSWER: MONOCYTES (ACCEPT: MONOCELLULAR LEUCOCYTES)",
-        "subject": "",
-        "answer": "X) BROMINETOSS UP2. BIOLOGY Short Answer What is the name of the white blood cells that develop intomacrophages and dendritic cells?ANSWER: MONOCYTES (ACCEPT: MONOCELLULAR LEUCOCYTES)"
+        "content": " What is the name of the white blood cells that develop into\nmacrophages and dendritic cells?",
+        "answer": " MONOCYTES (ACCEPT: MONOCELLULAR LEUCOCYTES)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " How many Btus are required to raise 3 pounds of water from 60\u00b0\nFahrenheit to 130\u00b0 Fahrenheit?\nW) 63\nX) 70\nY) 210\nZ) 390\nANSWER: Y) 210",
-        "subject": "",
-        "answer": "W) VITAMIN B12 AND BERIBERIRound Robin ~ Round 11 Page 1TOSS UP3. ENERGY Multiple Choice How many Btus are required to raise 3 pounds of water from 60\u00b0Fahrenheit to 130\u00b0 Fahrenheit?W) 63X) 70Y) 210Z) 390ANSWER: Y) 210"
+        "content": " Which of the following human vitamin or mineral requirement is\nNOT matched correctly with its symptoms of deficiency?\nW) Vitamin B12 and beriberi [BER-ee-BER-ee]\nX) Vitamin C and scurvy\nY) Vitamin A and blindness, impaired immunity, and skin disorders\nZ) Vitamin K and defective blood clotting",
+        "answer": " W) VITAMIN B12 AND BERIBERI"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " All except which of the following are factors that could\nlead to the mechanical weathering of rocks?\nW) Wind abrasion\nX) Chelation [kee-LAY-shuhn]\nY) Freezing and melting of water\nZ) Penetration by plant roots\nANSWER: X) CHELATION",
-        "subject": "",
-        "answer": "Y) $710TOSS UP4. EARTH AND SPACE Multiple Choice All except which of the following are factors that couldlead to the mechanical weathering of rocks?W) Wind abrasionX) Chelation [kee-LAY-shuhn]Y) Freezing and melting of waterZ) Penetration by plant rootsANSWER: X) CHELATION"
+        "content": " How many Btus are required to raise 3 pounds of water from 60\u00b0\nFahrenheit to 130\u00b0 Fahrenheit?\nW) 63\nX) 70\nY) 210\nZ) 390",
+        "answer": " Y) 210"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " When a ray of light traveling through the air reflects off the\nsurface of a puddle of pure water, it undergoes which of the following changes in phase?\nW) 360o\nX) 180o\nY) 90o\nZ) 0\u00b0\nANSWER: X) 180\u00b0",
-        "subject": "",
-        "answer": "W) LESS THAN THAT OF THE SUNRound Robin ~ Round 11 Page 2TOSS UP5. PHYSICS Multiple Choice When a ray of light traveling through the air reflects off thesurface of a puddle of pure water, it undergoes which of the following changes in phase?W) 360oX) 180oY) 90oZ) 0\u00b0ANSWER: X) 180\u00b0"
+        "content": " If my current annual heating bill is $900 and my old furnace has\nan efficiency rating of 75%, which of the following best approximates my new bill if I install a\n95% efficient furnace?\nW) $675\nX) $690\nY) $710\nZ) $840",
+        "answer": " Y) $710"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Solve the following equation for x: [the quantity x\n2\nminus 9 to the power of two thirds equals 16]. 3\n(\ud835\udc65\ud835\udc65\u22129) = 16\nW)\nX)\n73\nY) and\n\u00b1 73\nZ) 73 -55\n64\n\u2212 9\nANSWER: Y) AND",
-        "subject": "",
-        "answer": "13TOSS UP6. MATH Multiple Choice Solve the following equation for x: [the quantity x2minus 9 to the power of two thirds equals 16]. 3(\ud835\udc65\ud835\udc65\u22129) = 16W)X)73Y) and\u00b1 73Z) 73 -5564\u2212 9ANSWER: Y) AND"
+        "content": " All except which of the following are factors that could\nlead to the mechanical weathering of rocks?\nW) Wind abrasion\nX) Chelation [kee-LAY-shuhn]\nY) Freezing and melting of water\nZ) Penetration by plant roots",
+        "answer": " X) CHELATION"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The metallicity of globular clusters is generally which\nof the following?\nW) Less than that of the Sun\nX) Comparable to that of the Sun\nY) Greater than that of the Sun\nZ) Too variable between globular clusters to make any definitive conclusions",
+        "answer": " W) LESS THAN THAT OF THE SUN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " When a ray of light traveling through the air reflects off the\nsurface of a puddle of pure water, it undergoes which of the following changes in phase?\nW) 360o\nX) 180o\nY) 90o\nZ) 0\u00b0",
+        "answer": " X) 180\u00b0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " Cocaine has a tertiary amine group with a pK of 5.6. What is\nb\nthe pK of cocaine's conjugate acid in an aqueous solution at 25\u00b0 Celsius?\na\nANSWER: 8.4",
-        "subject": "",
-        "answer": "3\u221a3, \u22123(6, 7\u03c0/6)Round Robin ~ Round 11 Page 3TOSS UP7. CHEMISTRY Short Answer Cocaine has a tertiary amine group with a pK of 5.6. What isbthe pK of cocaine's conjugate acid in an aqueous solution at 25\u00b0 Celsius?aANSWER: 8.4"
+        "content": " A force displaces an object. The force vector is 3i plus 2j plus k\nnewtons and the displacement vector is 2i plus 6j minus 5k meters. Find the work done in\njoules.",
+        "answer": " 13"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Solve the following equation for x: [the quantity x\n2\nminus 9 to the power of two thirds equals 16]. 3\n(\ud835\udc65\ud835\udc65\u22129) = 16\nW)\nX)\n73\nY) and\n\u00b1 73\nZ) 73 -55\n64\n\u2212 9",
+        "answer": " Y) AND"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What are the names of the following four acids: 1) HNO , 2)\n2\nH S, 3) , 4)H Cr O ?\n2 4 2 2 7\nANSWEHRIO: 1) NITROUS ACID, 2) HYDROSULFURIC ACID (ACCEPT: HYDROGEN SULFIDE),\n3) PERIODIC ACID, 4) DICHROMIC ACID\nTOSS UP\n8. BIOLOGY Short Answer In a frog blastula, the animal pole is composed of which one of the\nthree embryonic germ layers?",
-        "subject": "",
-        "answer": "ECTODERM"
+        "content": " Giving your answer with rpositive and theta in radians, what are the\nequivalent polar coordinates to the rectangular coordinates (- )?",
+        "answer": " 3\u221a3, \u22123\n(6, 7\u03c0/6)"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Approximately how many square miles of photovoltaic panels\nwould be required to provide power for the entire U.S. during daylight hours?\nW) 2,500\nX) 10,000\nY) 40,000\nZ) 100,000\nANSWER: X) 10,000",
-        "subject": "",
-        "answer": "1, 2 (ACCEPT: SULFUR OXIDATION, NITRIFICATION)Round Robin ~ Round 11 Page 4TOSS UP9. ENERGY Multiple Choice Approximately how many square miles of photovoltaic panelswould be required to provide power for the entire U.S. during daylight hours?W) 2,500X) 10,000Y) 40,000Z) 100,000ANSWER: X) 10,000"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following statements about the\ngreenhouse effect is NOT true?\nW) Anthropogenic activities have contributed to an increase in greenhouse gases, especially\ncarbon dioxide, compared to pre-industrial levels\nX) Greenhouse gases efficiently trap ultraviolet radiation to warm the Earth\u2019s lower atmosphere\nY) The global warming potential for each greenhouse gas is different\nZ) The greenhouse effect is a natural process without which the Earth\u2019s temperature would be\nat least 25\u00b0 Celsius colder\nANSWER: X) GREENHOUSE GASES EFFICIENTLY TRAP ULTRAVIOLET RADIATION TO\nWARM THE EARTH\u2019S ATMOSPHERE",
-        "subject": "",
-        "answer": "W) 3.16TOSS UP10. EARTH AND SPACE Multiple Choice Which of the following statements about thegreenhouse effect is NOT true?W) Anthropogenic activities have contributed to an increase in greenhouse gases, especiallycarbon dioxide, compared to pre-industrial levelsX) Greenhouse gases efficiently trap ultraviolet radiation to warm the Earth\u2019s lower atmosphereY) The global warming potential for each greenhouse gas is differentZ) The greenhouse effect is a natural process without which the Earth\u2019s temperature would beat least 25\u00b0 Celsius colderANSWER: X) GREENHOUSE GASES EFFICIENTLY TRAP ULTRAVIOLET RADIATION TOWARM THE EARTH\u2019S ATMOSPHERE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is true about the magnetic field inside an\nideal infinite solenoid?\nW) It increases linearly as the radius of the solenoid increases\nX) It is zero\nY) It is uniform\nZ) It decreases continuously along its axis\nANSWER: Y) IT IS UNIFORM",
-        "subject": "",
-        "answer": "BRound Robin ~ Round 11 Page 5TOSS UP11. PHYSICS Multiple Choice Which of the following is true about the magnetic field inside anideal infinite solenoid?W) It increases linearly as the radius of the solenoid increasesX) It is zeroY) It is uniformZ) It decreases continuously along its axisANSWER: Y) IT IS UNIFORM"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " Express i in simplest form.\n443\nANSWER: -",
-        "subject": "",
-        "answer": "1600TOSS UP12. MATH Short Answer Express i in simplest form.443ANSWER: -"
+        "content": " Cocaine has a tertiary amine group with a pK of 5.6. What is\nb\nthe pK of cocaine's conjugate acid in an aqueous solution at 25\u00b0 Celsius?\na",
+        "answer": " 8.4"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Uranium-235 can be used in nuclear power plants. If this\nisotope is at sub-critical mass and is bombarded by a neutron, which of the following is most\nlikely to occur?\nW) The result depends on the amount of uranium and temperature\nX) An explosion\nY) A controllable source of energy will be formed\nZ) No reaction\nANSWER: Y) A CONTROLLABLE SOURCE OF ENERGY WILL BE FORMED",
-        "subject": "",
-        "answer": "+ = 1, + 3 = 21(-3/2, 5/2), (3, -2)Round Robin ~ Round 11 Page 6TOSS UP13. CHEMISTRY Multiple Choice Uranium-235 can be used in nuclear power plants. If thisisotope is at sub-critical mass and is bombarded by a neutron, which of the following is mostlikely to occur?W) The result depends on the amount of uranium and temperatureX) An explosionY) A controllable source of energy will be formedZ) No reactionANSWER: Y) A CONTROLLABLE SOURCE OF ENERGY WILL BE FORMED"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " What is the term for the cell that produces hydrochloric acid in the\nhuman stomach?\nANSWER: PARIETAL (ACCEPT: OXYNTIC)",
-        "subject": "",
-        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1 (ACCEPT: THE LAST THREE IN ANY ORDER; [Ar]4s2 3d10 4p1)TOSS UP14. BIOLOGY Short Answer What is the term for the cell that produces hydrochloric acid in thehuman stomach?ANSWER: PARIETAL (ACCEPT: OXYNTIC)"
+        "content": " In a frog blastula, the animal pole is composed of which one of the\nthree embryonic germ layers?",
+        "answer": " ECTODERM"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " On what day of the year does local sidereal time\ncoincide with local mean time?\nW) Autumnal equinox\nX) January 1\nY) Vernal equinox\nZ) Summer solstice\nANSWER: W) AUTUMNAL EQUINOX",
-        "subject": "",
-        "answer": "W) FEMALE BLACK LEGGED TICKS ARE ONLY SLIGHTLY BETTER ATTRANSMITTING LYME DISEASE THAN THEIR MALE COUNTERPARTSRound Robin ~ Round 11 Page 7TOSS UP15. EARTH AND SPACE Multiple Choice On what day of the year does local sidereal timecoincide with local mean time?W) Autumnal equinoxX) January 1Y) Vernal equinoxZ) Summer solsticeANSWER: W) AUTUMNAL EQUINOX"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following actions would increase the magnetic\nforce between two parallel current-carrying wires?\nW) Decreasing the length of both wires\nX) Decreasing the current flowing through either of the two wires\nY) Decreasing the distance between them\nZ) Increasing the distance between them\nANSWER: Y) DECREASING THE DISTANCE BETWEEN THEM",
-        "subject": "",
-        "answer": "X) SLOPE GRADIENT, SLOPE CONSOLIDATION, AND WATERTOSS UP16. PHYSICS Multiple Choice Which of the following actions would increase the magneticforce between two parallel current-carrying wires?W) Decreasing the length of both wiresX) Decreasing the current flowing through either of the two wiresY) Decreasing the distance between themZ) Increasing the distance between themANSWER: Y) DECREASING THE DISTANCE BETWEEN THEM"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Expressing your answer in interval notation, what is the largest\npossible real domain of the function: [f of x equals the fraction with\n2\n\u221a\ud835\udc65\ud835\udc65 \u221216\nnumerator, the square root of the quantity x squared minus 16, and denominator the\n\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = |\ud835\udc65\ud835\udc65+9|\nabsolute value of the quantity x plus 9]?\nANSWER:\n[NOTE: NEED N (O\u2212T\u221e U,S\u2212E 9U)NI\u222aON(S\u2212, 9B,U\u2212T 4M]U\u222aST[ C4L,E\u221eA)R L Y INDICATE THAT -9 IS NOT INCLUDED, WHILE \u00b1 4 ARE]",
-        "subject": "",
-        "answer": "48Round Robin ~ Round 11 Page 8TOSS UP17. MATH Short Answer Expressing your answer in interval notation, what is the largestpossible real domain of the function: [f of x equals the fraction with2\u221a\ud835\udc65\ud835\udc65 \u221216numerator, the square root of the quantity x squared minus 16, and denominator the\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = |\ud835\udc65\ud835\udc65+9|absolute value of the quantity x plus 9]?ANSWER:[NOTE: NEED N (O\u2212T\u221e U,S\u2212E 9U)NI\u222aON(S\u2212, 9B,U\u2212T 4M]U\u222aST[ C4L,E\u221eA)R L Y INDICATE THAT -9 IS NOT INCLUDED, WHILE \u00b1 4 ARE]"
+        "content": " Identify all of the following four reactions performed by marine\norganisms that would require oxygen: 1) sulfur oxidation, 2) nitrification, 3) photosynthesis, 4)\nnitrogen fixation.",
+        "answer": " 1, 2 (ACCEPT: SULFUR OXIDATION, NITRIFICATION)"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " In square centimeters and in terms of pi, find the area of a circle with\nan inscribed triangle with side lengths of 10 centimeters, 24 centimeters, and 26 centimeters.\nANSWER:\n169 \u03c0\nTOSS UP\n18. CHEMISTRY Multiple Choice How do bases interact with the \u03c0* [pi star] orbital of ketones\nand aldehydes [AL-duh-hyds]?\nW) Deprotonation at the alpha position\nX) 1, 2 addition\nY) 1, 2 substitution\nZ) Deprotonation at the beta position",
-        "subject": "",
-        "answer": "W) DEPROTONATION AT THE ALPHA POSITION"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " If a bacterium that is sensitive to the antibiotic ampicillin\nbecomes resistant to that antibiotic, it would be an example of which of the following?\nW) Microevolution\nX) Macroevolution\nY) Speciation\nZ) Extinction\nANSWER: W) MICROEVOLUTION",
-        "subject": "",
-        "answer": "4, 3, 1, 2 (ACCEPT: MAGNESIUM, SODIUM, FLUORIDE, CHLORIDE)Round Robin ~ Round 11 Page 9TOSS UP19. BIOLOGY Multiple Choice If a bacterium that is sensitive to the antibiotic ampicillinbecomes resistant to that antibiotic, it would be an example of which of the following?W) MicroevolutionX) MacroevolutionY) SpeciationZ) ExtinctionANSWER: W) MICROEVOLUTION"
+        "content": " Approximately how many square miles of photovoltaic panels\nwould be required to provide power for the entire U.S. during daylight hours?\nW) 2,500\nX) 10,000\nY) 40,000\nZ) 100,000",
+        "answer": " X) 10,000"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following elements is a main component of fuels\nbecause its oxidation releases a large amount of thermal energy?\nW) Sulfur\nX) Nitrogen\nY) Carbon\nZ) Hydrogen\nANSWER: Y) CARBON",
-        "subject": "",
-        "answer": "Y) TARDIGRADETOSS UP20. ENERGY Multiple Choice Which of the following elements is a main component of fuelsbecause its oxidation releases a large amount of thermal energy?W) SulfurX) NitrogenY) CarbonZ) HydrogenANSWER: Y) CARBON"
+        "content": " At 120 volts, which of the following is the approximate amperage\nthrough a circuit that consists of resistors of 5 ohms, 10 ohms, and 20 ohms in series, followed\nby the same resistors in parallel?\nW) 3.16\nX) 3.42\nY) 4.66\nZ) 35",
+        "answer": " W) 3.16"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Calomel is an important reference electrode. In a calomel\nelectrode, what salt solution is used to maintain constant ionic strength?\nANSWER: POTASSIUM CHLORIDE (ACCEPT: KCl, SODIUM CHLORIDE, NaCl)",
-        "subject": "",
-        "answer": "1 AND 3Round Robin ~ Round 11 Page 10TOSS UP21. CHEMISTRY Short Answer Calomel is an important reference electrode. In a calomelelectrode, what salt solution is used to maintain constant ionic strength?ANSWER: POTASSIUM CHLORIDE (ACCEPT: KCl, SODIUM CHLORIDE, NaCl)"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " An airplane traveling faster than the speed of sound passes\nover a stationary observer on the ground. When does the observer hear the sonic boom?\nW) Only before the plane breaks the sound barrier\nX) When the plane is directly overhead\nY) After the plane has passed by\nZ) As the plane is approaching the area\nANSWER: Y) AFTER THE PLANE HAS PASSED BY",
-        "subject": "",
-        "answer": "9TOSS UP22. PHYSICS Multiple Choice An airplane traveling faster than the speed of sound passesover a stationary observer on the ground. When does the observer hear the sonic boom?W) Only before the plane breaks the sound barrierX) When the plane is directly overheadY) After the plane has passed byZ) As the plane is approaching the areaANSWER: Y) AFTER THE PLANE HAS PASSED BY"
+        "content": " Which of the following statements about the\ngreenhouse effect is NOT true?\nW) Anthropogenic activities have contributed to an increase in greenhouse gases, especially\ncarbon dioxide, compared to pre-industrial levels\nX) Greenhouse gases efficiently trap ultraviolet radiation to warm the Earth\u2019s lower atmosphere\nY) The global warming potential for each greenhouse gas is different\nZ) The greenhouse effect is a natural process without which the Earth\u2019s temperature would be\nat least 25\u00b0 Celsius colder",
+        "answer": " X) GREENHOUSE GASES EFFICIENTLY TRAP ULTRAVIOLET RADIATION TO\nWARM THE EARTH\u2019S ATMOSPHERE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " Solve the following equation over the complex numbers:\nx .\n2\n( + 3) + 16 =0\nANSWER:",
-        "subject": "",
-        "answer": "W) IT DISK ROTATED FASTERRound Robin ~ Round 11 Page 11TOSS UP23. MATH Short Answer Solve the following equation over the complex numbers:x .2( + 3) + 16 =0ANSWER:"
+        "content": " What is the coolest spectral class of stars around\nwhich H II regions are generally seen?",
+        "answer": " B"
     },
     {
-        "type": "Bonus",
-        "answertype": "Short Answer",
-        "content": " Determine the value of the following: [the summation\nas n goes from 1 to 17 of the quantity 3n minus 5 ]. 17\n\u2211\ud835\udc5b\ud835\udc5b=1(3\ud835\udc5b\ud835\udc5b\u22125)\nANSWER:\n374\nTOSS UP\n24. EARTH AND SPACE Multiple Choice Which of the following dominates in the innermost\nkiloparsec of a galaxy?\nW) Hot gas\nX) Stars\nY) The galaxy's supermassive black hole\nZ) Dark matter",
-        "subject": "",
-        "answer": "X) STARS"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following animals possesses a kidney that hosts\nunusually long and elaborate loops of Henle?\nW) Kangaroo rat\nX) Siren salamander\nY) Black-billed magpie\nZ) Great white shark\nANSWER: W) KANGAROO RAT",
-        "subject": "",
-        "answer": "Z) OCEAN WATER CHANGES TEMPERATURE SLOWLY, DUE TO THE HIGHSPECIFIC HEAT AND TRANSPARENCY OF WATERRound Robin ~ Round 11 Page 12TOSS UP25. BIOLOGY Multiple Choice Which of the following animals possesses a kidney that hostsunusually long and elaborate loops of Henle?W) Kangaroo ratX) Siren salamanderY) Black-billed magpieZ) Great white sharkANSWER: W) KANGAROO RAT"
+        "content": " Which of the following is true about the magnetic field inside an\nideal infinite solenoid?\nW) It increases linearly as the radius of the solenoid increases\nX) It is zero\nY) It is uniform\nZ) It decreases continuously along its axis",
+        "answer": " Y) IT IS UNIFORM"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " An ambulance is approaching the scene of an accident with a\nspeed of 30 meters per second. Its siren has a frequency of 1500 hertz. Providing your answer\nwith two significant figures, find the frequency in hertz of the siren heard by a stationary person\nwaiting for the ambulance, given that the speed of sound is 340 meters per second.",
+        "answer": " 1600"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Express i in simplest form.\n443",
+        "answer": " -"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the system of equations: x y and x y .\n2 2",
+        "answer": " + = 1, + 3 = 21\n(-3/2, 5/2), (3, -2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Uranium-235 can be used in nuclear power plants. If this\nisotope is at sub-critical mass and is bombarded by a neutron, which of the following is most\nlikely to occur?\nW) The result depends on the amount of uranium and temperature\nX) An explosion\nY) A controllable source of energy will be formed\nZ) No reaction",
+        "answer": " Y) A CONTROLLABLE SOURCE OF ENERGY WILL BE FORMED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the electron configuration of an atom of gallium in the\nground state?",
+        "answer": " 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1 (ACCEPT: THE LAST THREE IN ANY ORDER; [Ar]\n4s2 3d10 4p1)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the term for the cell that produces hydrochloric acid in the\nhuman stomach?",
+        "answer": " PARIETAL (ACCEPT: OXYNTIC)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT true regarding ticks\nand transmitted diseases?\nW) Female black legged ticks are only slightly better at transmitting Lyme disease than their\nmale counterparts\nX) The disease-causing agent in Lyme disease is the bacterium Borrelia burgdorferi [buh-REL-\nee-uh boorg-dor-FE-ree]\nY) The dog tick serves as a vector for Ricketssia ricketssia, the causative agent of Rocky\nMountain Spotted Fever\nZ) The Lone Star Tick serves as a vector for disease-causing Rickettsia",
+        "answer": " W) FEMALE BLACK LEGGED TICKS ARE ONLY SLIGHTLY BETTER AT\nTRANSMITTING LYME DISEASE THAN THEIR MALE COUNTERPARTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " On what day of the year does local sidereal time\ncoincide with local mean time?\nW) Autumnal equinox\nX) January 1\nY) Vernal equinox\nZ) Summer solstice",
+        "answer": " W) AUTUMNAL EQUINOX"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are the three main factors that\ncontrol the type and rate of mass wasting that might occur at the Earth's surface?\nW) Adhesion, slope stability, and overburden thickness\nX) Slope gradient, slope consolidation, and water\nY) Slope gradient, cohesion, and lithology\nZ) Water, adhesion, and construction",
+        "answer": " X) SLOPE GRADIENT, SLOPE CONSOLIDATION, AND WATER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following actions would increase the magnetic\nforce between two parallel current-carrying wires?\nW) Decreasing the length of both wires\nX) Decreasing the current flowing through either of the two wires\nY) Decreasing the distance between them\nZ) Increasing the distance between them",
+        "answer": " Y) DECREASING THE DISTANCE BETWEEN THEM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A water hose has inner radius 4 centimeters and its nozzle radius\nis 1 centimeter. The speed of water inside the hose is 3 meters per second. Find the speed of\nwater coming out of the nozzle in meters per second.",
+        "answer": " 48"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Expressing your answer in interval notation, what is the largest\npossible real domain of the function: [f of x equals the fraction with\n2\n\u221a\ud835\udc65\ud835\udc65 \u221216\nnumerator, the square root of the quantity x squared minus 16, and denominator the\n\ud835\udc53\ud835\udc53(\ud835\udc65\ud835\udc65) = |\ud835\udc65\ud835\udc65+9|\nabsolute value of the quantity x plus 9]?",
+        "answer": "\n[NOTE: NEED N (O\u2212T\u221e U,S\u2212E 9U)NI\u222aON(S\u2212, 9B,U\u2212T 4M]U\u222aST[ C4L,E\u221eA)R L Y INDICATE THAT -9 IS NOT INCLUDED, WHILE \u00b1 4 ARE]"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In square centimeters and in terms of pi, find the area of a circle with\nan inscribed triangle with side lengths of 10 centimeters, 24 centimeters, and 26 centimeters.",
+        "answer": "\n169 \u03c0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " How do bases interact with the \u03c0* [pi star] orbital of ketones\nand aldehydes [AL-duh-hyds]?\nW) Deprotonation at the alpha position\nX) 1, 2 addition\nY) 1, 2 substitution\nZ) Deprotonation at the beta position",
+        "answer": " W) DEPROTONATION AT THE ALPHA POSITION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Rank the following four ions in order of increasing size for the\ndominant ionic form: 1) fluoride, 2) chloride, 3) sodium, 4) magnesium.",
+        "answer": " 4, 3, 1, 2 (ACCEPT: MAGNESIUM, SODIUM, FLUORIDE, CHLORIDE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a bacterium that is sensitive to the antibiotic ampicillin\nbecomes resistant to that antibiotic, it would be an example of which of the following?\nW) Microevolution\nX) Macroevolution\nY) Speciation\nZ) Extinction",
+        "answer": " W) MICROEVOLUTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " While looking through a microscope at a few drops of water\nsqueezed out of a fist full of moss, you notice an eight-legged animal that has claws. Which of\nthe following is the most likely identity of this organism?\nW) Daphnia\nX) Rotifer\nY) Tardigrade\nZ) Collembola",
+        "answer": " Y) TARDIGRADE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following elements is a main component of fuels\nbecause its oxidation releases a large amount of thermal energy?\nW) Sulfur\nX) Nitrogen\nY) Carbon\nZ) Hydrogen",
+        "answer": " Y) CARBON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " By number, identify all of the following four statements that\naccurately describe the processes involved in aerobically producing ATP: 1) Although\nprokaryotic [proh-KAR-ee-oh-tik] cells lack mitochondria [my-tuh-KON-dree-uh] and cristae\n[KRIS-tuh], they use a proton pump to produce ATP; 2) Energy is liberated when the chemical\nbond between ATP and its phosphate subgroup is formed; 3) Oxygen is used in the last step of\naerobic respiration to produce water; 4) Chemiosmosis produces more ATP molecules than\noxidative phosphorylation [FOS-fer-uh-lay-shuhn].",
+        "answer": " 1 AND 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Calomel is an important reference electrode. In a calomel\nelectrode, what salt solution is used to maintain constant ionic strength?",
+        "answer": " POTASSIUM CHLORIDE (ACCEPT: KCl, SODIUM CHLORIDE, NaCl)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many structural isomers are there for a compound with\nthe formula C H ?\n7 16",
+        "answer": " 9"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An airplane traveling faster than the speed of sound passes\nover a stationary observer on the ground. When does the observer hear the sonic boom?\nW) Only before the plane breaks the sound barrier\nX) When the plane is directly overhead\nY) After the plane has passed by\nZ) As the plane is approaching the area",
+        "answer": " Y) AFTER THE PLANE HAS PASSED BY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " During the formation of planets in the solar system, a spinning\ngas disk started to contract due to gravitational forces. Which of the following was an ensuing\neffect regarding this gas disk?\nW) It rotated faster\nX) It disintegrated due to gravitational forces\nY) It bulged out to form spheres\nZ) It stopped rotating",
+        "answer": " W) IT DISK ROTATED FASTER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation over the complex numbers:\nx .\n2\n( + 3) + 16 =0",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Determine the value of the following: [the summation\nas n goes from 1 to 17 of the quantity 3n minus 5 ]. 17\n\u2211\ud835\udc5b\ud835\udc5b=1(3\ud835\udc5b\ud835\udc5b\u22125)",
+        "answer": "\n374"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following dominates in the innermost\nkiloparsec of a galaxy?\nW) Hot gas\nX) Stars\nY) The galaxy's supermassive black hole\nZ) Dark matter",
+        "answer": " X) STARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Why does Eureka, California generally have a\nsmaller yearly temperature range than Omaha, Nebraska even though they are both at 41\ndegrees north latitude?\nW) Land is a poor absorber and a poor conductor of heat energy\nX) Land changes temperature rapidly, due to its high specific heat and lack of transparency\nY) Ocean water is a good absorber and a good conductor of heat energy\nZ) Ocean water changes temperature slowly, due to the high specific heat and transparency of\nwater",
+        "answer": " Z) OCEAN WATER CHANGES TEMPERATURE SLOWLY, DUE TO THE HIGH\nSPECIFIC HEAT AND TRANSPARENCY OF WATER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following animals possesses a kidney that hosts\nunusually long and elaborate loops of Henle?\nW) Kangaroo rat\nX) Siren salamander\nY) Black-billed magpie\nZ) Great white shark",
+        "answer": " W) KANGAROO RAT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " If you have an alien population and the green skin phenotype is\nalways inherited with the menacing horns phenotype, the genes that code for these phenotypes\nwould be classified as which of the following?\nW) Recombinant\nX) Hardy-Weinberg\nY) Mendelian [men-DEE-lee-uhn]\nZ) Linked",
-        "subject": "",
-        "answer": "Z) LINKEDRound Robin ~ Round 11 Page 13"
+        "answer": " Z) LINKED"
     }
 ]

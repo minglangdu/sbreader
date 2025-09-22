@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Robert Hooke coined the term \u2018cell\u2019 mostly because of:\nW) his observations of red blood cells\nX) his observations of cork cells\nY) his analysis of hundreds of different protozoans\nZ) his readings of the works of other early microscopists",
+        "answer": " X) HIS OBSERVATIONS OF CORK CELLS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organisms that would be considered to\nhave radial symmetry: flatworms; cestodes; Echinoderms; sea urchins",
+        "answer": " ECHINODERMS; SEA URCHINS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following properties BEST explains why small\nliquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets:\nW) tensile strength\nX) capillary action\nY) surface tension\nZ) viscosity",
+        "answer": " Y) SURFACE TENSION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 3 liquids in order of DECREASING surface\ntension at 20\u00baC: water; ethanol; mercury",
+        "answer": " MERCURY; WATER; ETHANOL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " For a given time interval, when is the average velocity of an object\nequal to the instantaneous velocity for every time in the interval:\nW) never\nX) always\nY) only when the velocity is changing at a constant rate\nZ) only when the velocity is constant",
+        "answer": " Z) ONLY WHEN THE VELOCITY IS CONSTANT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a tug-of-war, each person on a team pulls with an average force\nof 500 newtons. What is the tension in the center of the rope if there are 10-man teams on each side:\nW) 0 newtons\nX) 2,500 newtons\nY) 5,000 newtons\nZ) 10,000 newtons",
+        "answer": " Y) 5,000 NEWTONS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following numbers is evenly divisible by 4:\nW) 1,722\nX) 2,636\nY) 4,114\nZ) 6,126",
+        "answer": " X) 2,636\n(Solution: 36, the last 2 digits, is a multiple of 4)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest centimeter, if side A of a right triangle measures 2\ncentimeters and side B measures 10 centimeters, what is the length of the hypotenuse?",
+        "answer": " 10\n(Solution: 22 + 102 = c2; c = 10.20 = 10)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes Earth\u2019s current\nclimate type:\nW) glacial\nX) interglacial\nY) pre-ice age\nZ) post-ice age",
+        "answer": " X) INTERGLACIAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about volcanoes:\nW) stratovolcanoes are typically found at convergent plate boundaries\nX) 80% of all magma erupted by volcanoes on Earth is basaltic\nY) Mount Kilimanjaro is a stratovolcano\nZ) the Ring of Fire is dominated by volcanoes that erupt basaltic magma",
+        "answer": " Z) THE RING OF FIRE IS DOMINATED BY VOLCANOES THAT ERUPT\nBASALTIC MAGMA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following numbers has 6 significant\nfigures:\nW) 55.0000\nX) 555,000\nY) 0.00500\nZ) 0.55000",
+        "answer": " W) 55.0000"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the Roman numeral equivalent of the year 1776?",
+        "answer": " MDCCLXXVI"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) Vega is part of the summer triangle\nX) the Seven Sisters is a star cluster\nY) Cassiopeia is a constellation generally shaped like a W\nZ) cosmic rays are electromagnetic radiation of very high energies",
+        "answer": " Z) COSMIC RAYS ARE ELECTROMAGNETIC RADIATION OF VERY HIGH\nENERGIES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " The north magnetic pole of the Sun reverses every so many years.\nHow many years does it take for one complete cycle for the Sun to return to its original state or what\nmight be looked at as two reversals?",
+        "answer": " 22"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The cloaca (read as: klo-AY-ka) is a reproductive structure of:\nW) female bird\nX) male shark\nY) female cestode\nZ) male lobster",
+        "answer": " W) FEMALE BIRD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does NOT belong to the Arthropoda:\nW) Arachnida\nX) Diplopoda\nY) Chilopoda\nZ) Nematoda",
+        "answer": " Z) NEMATODA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The conversion of olein, a liquid oil, into stearin, a solid fat, by the\naddition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of\nreaction?",
+        "answer": " HYDROGENATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many parts per million of arsenic are in a 2-gram water\nsample if it contains 8.0 micrograms of arsenic?",
+        "answer": " 4\n(Solution: 8 \u00d7 10-6g/2g = 4 \u00d7 10-6g = 4 ppm)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What are typically given as the two parameters of a velocity vector?",
+        "answer": " MAGNITUDE AND DIRECTION (ACCEPT: SPEED FOR MAGNITUDE)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following conditions must be true for Hooke\u2019s law to\napply:\nW) the spring must be within its proportional elastic limit\nX) the spring must me made of cold formed steel coils\nY) the deflection of the spring must be less than one tenth the spring\u2019s free length\nZ) the carbon content of the metal must be over 0.023 percent",
+        "answer": " W) THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Boolean algebra involves ideas or subjects that have how many possible\nstates?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the least common denominator of the following 3 fractions:\n2 7 7\n, and\n5 6 12",
+        "answer": " 60"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The zone of aeration is BEST described as pores in rock\nor soil that contain:\nW) only water\nX) only oil\nY) air and water\nZ) oil and water",
+        "answer": " Y) AIR AND WATER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a compressional elastic seismic\nwave that causes rock particles to move back and forth parallel to wave direction:\nW) Rayleigh-wave\nX) P-wave\nY) S-wave\nZ) L-wave",
+        "answer": " X) P-WAVE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is MOST closely related to the\nmosquito:\nW) fly\nX) wasp\nY) human body louse\nZ) dragonfly",
+        "answer": " W) FLY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following vitamins is NOT properly\nmatched with its function in humans:\nW) vitamin E and antioxidant action\nX) vitamin C and collagen production\nY) vitamin D and calcium absorption\nZ) vitamin A and absorption of iron",
+        "answer": " Z) VITAMIN A AND ABSORPTION OF IRON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would have a Widmanst\u00e4tten Pattern:\nW) meteorite\nX) comet\nY) planet\nZ) constellation",
+        "answer": " W) METEORITE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST description of the H-R\nDiagram:\nW) it plots apparent brightness versus age\nX) it plots luminosity versus surface temperature with highest temperatures on the right\nY) it plots luminosity versus surface temperature with highest temperatures on the left\nZ) it plots apparent magnitude versus average stellar temperature",
+        "answer": " Y) IT PLOTS LUMINOSITY VERSUS SURFACE TEMPERATURE WITH\nHIGHEST TEMPERATURES ON THE LEFT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a function of the pollen tube in\nflowering plants:\nW) attaches pollen to the developing anther\nX) allows pollen to absorb nutrients as they develop in the anther\nY) enables the ovule to breach through the micropyle\nZ) carries the sperm nuclei to the ovule",
+        "answer": " Z) CARRIES THE SPERM NUCLEI TO THE OVULE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Most of the molecular oxygen in Earth\u2019s atmosphere came from\nwhat biological process?",
+        "answer": " PHOTOSYNTHESIS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What simple alcohol is commercially produced by reacting\ncarbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst?",
+        "answer": " METHANOL (ACCEPT: CH OH or METHYL ALCOHOL or WOOD ALCOHOL)\n3\n(Solution: CO + 2H \u00e0\uf0e0 CH OH)\n2 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In standard chemical nomenclature, what is the ground-state\nelectron configuration for fluorine?",
+        "answer": " 1s22s22p5 (ACCEPT: [He]2s22p5)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Which one of the following 5 colors of light has the LEAST angle of\nrefraction in normal glass: blue; green; orange; yellow; red",
+        "answer": " RED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " For a standing wave on a guitar string, the first overtone represents\nwhat harmonic?",
+        "answer": " SECOND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following, giving your answer in simplest radical form:\n9 x6 (read as: the ninth root of x to the sixth power)",
+        "answer": " 3 x2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Multiply the following, giving your answer in standard form and without\n2 2\nnegative exponents or radicals: (a3 +b3)2\n4 2 2 4",
+        "answer": " a3 +2a3b3 +b3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Glacial till is:\nW) sorted and stratified\nX) sorted and unstratified\nY) unsorted and stratified\nZ) unsorted and unstratified",
+        "answer": " Z) UNSORTED AND UNSTRATIFIED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " In which period of the Geological Time Scale did\ntrilobites first appear:\nW) Permian\nX) Cambrian\nY) Devonian\nZ) Silurian",
+        "answer": " X) CAMBRIAN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) phosphorous is used in the manufacture of detergents\nX) nitric acid is used in the manufacture of fertilizers\nY) lead ore is most commonly mined in bauxite\nZ) flotation separation is used in the preparation of ores",
+        "answer": " Y) LEAD ORE IS MOST COMMONLY MINED IN BAUXITE\n(Solution: lead ore is galena)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is one of the MAIN ways of\npreventing Brucellosis in humans:\nW) avoid person-to-person contact\nX) consume only pasteurized dairy products\nY) avoid flea bites\nZ) boil all drinking water",
+        "answer": " X) CONSUME ONLY PASTEURIZED DAIRY PRODUCTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following constellations are circumpolar for\npeople in North America and are found on opposite sides and close to Polaris:\nW) Cassiopeia and Ursa Major\nX) Orion and Leo\nY) Aquarius and Capricorn\nZ) Leo and Sagittarius",
+        "answer": " W) CASSIOPEIA AND URSA MAJOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the astronomical distance at which a star would have a\nparallax of 1 arcsecond?",
+        "answer": " PARSEC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the scientific name for the openings in the grasshopper body\nthrough which air enters?",
+        "answer": " SPIRACLES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 cellular structures that are NOT typically\nfound in diploid higher plant cells: centrioles; flagella; lysosomes; plasmodesmata",
+        "answer": " CENTRIOLES; FLAGELLA; LYSOSOMES\n(Solution: flagella are found in certain plants sperm cells; centrioles in some algae)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following classifications of crystalline solids is\nNOT true:\nW) quartz is a covalent network solid\nX) calcium carbonate is an ionic solid\nY) sucrose is a molecular solid\nZ) iron sulfide is a glassy solid",
+        "answer": " Z) IRON SULFIDE IS A GLASSY SOLID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the empirical formula for the following: C H N O\n18 33 6 3",
+        "answer": " C H N O\n6 11 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " At normal operating speed for a motor vehicle, how many times as\nmuch kinetic energy does a car have if its velocity is doubled?",
+        "answer": " 4 TIMES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Relative to the floor, what is the gravitational potential energy, in\njoules, of a 25-newton bag of beans on a shelf 5 meters above the floor?",
+        "answer": " 125\n(Solution: PE = 25 N \u00d7 5 m = 125 J)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Organisms that have radial symmetry and belong to the Radiata\ntypically have how many germ layers?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 5 animal groups that are NOT\nechinoderms: sea urchins; sand dollars; tunicates; rotifers; brittle stars",
+        "answer": " TUNICATES; ROTIFERS"
+    }
+]

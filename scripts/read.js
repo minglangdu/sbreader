@@ -1,5 +1,5 @@
 /*-- Global Variables --*/
-const usedSets = 1;
+const usedSets = 3;
 const sets = [-1, 17, 15, 17];
 var questions = [];
 
@@ -39,7 +39,7 @@ async function addCard() {
         deckName: "Science Bowl",
         modelName: "Basic (type in the answer)",
         fields: {Front: front, Back: back},
-        tags: ["automated"]
+        tags: ["automated", cur["subject"].trim()]
     };
     console.log(note);
     try {

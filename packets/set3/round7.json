@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In Barbara McClintock\u2019s famous experiments revealing the\nexistence of transposable genes, she primarily used which of the following as her experimental\norganism:\nW) drosophila\nX) E. coli\nY) lambda phage\nZ) corn plants",
+        "answer": " Z) CORN PLANTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT properly matched with its function\nor operation:\nW) conjugation and transfer of genetic material between bacteria\nX) F plasmids and reversible incorporation into bacterial genome\nY) transposons and plasmids interchanging genes\nZ) R plasmids and antibiotic resistance",
+        "answer": " Y) TRANSPOSONS AND PLASMIDS INTERCHANGING GENES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would be the MOST soluble in water at\nroom temperature:\nW) Aluminum sulfate\nX) Barium sulfate\nY) Lead sulfate\nZ) Calcium sulfate",
+        "answer": " W) ALUMINUM SULFATE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the empirical formula for acetic acid?",
+        "answer": " CH O\n2\n(Solution: C H O in 1:2:1 ratio)\n2 4 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Astrophysicists, when referring to interstellar gases, typically use\nthe Roman numeral I to indicate that an atom is:\nW) singly ionized\nX) doubly ionized\nY) contains one proton\nZ) neutral",
+        "answer": " Z) NEUTRAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A draft horse has a hoof print of 50 square inches per hoof. If the\nhorse weighs 1,400 pounds, what is the pressure it exerts, in pounds per square inch, on the ground\nwhen all its hooves equally distribute its weight on the ground?",
+        "answer": " 7\n(Solution: P = F/A; 1400lbs/200in2 = 7 lb/in2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If a 6-foot tall person who is standing next to a vertical pole casts a\nshadow of 8 feet and the pole casts a shadow of 40 feet, how many feet tall is the pole?",
+        "answer": " 30\n(Solution: x/40 = 6/8; x = 30ft)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x: =\n(x+10) 18",
+        "answer": " -19"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a type of meteorite:\nW) chondrites\nX) achondrites\nY) stoney-irons\nZ) andesites",
+        "answer": " Z) ANDESITES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The \u201cdead zone\u2019 that has been occurring off the central\nOregon coast since 2002 and recently expanding is thought to be caused by which of the following:\nW) toxic sulfur gas from undersea vents\nX) abnormal upwelling processes due to highly variable winds\nY) an increased presence of invasive predatory species\nZ) toxic release of waste products from oil refineries",
+        "answer": " X) ABNORMAL UPWELLING PROCESSES DUE TO HIGHLY VARIABLE\nWINDS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " As a close relative to the bacteria that cause botulism\nand gas gangrene, which of the following bacteria are a growing concern in hospitals, killing patients\nwho have been treated with antibiotics:\nW) Bacillus anthracis (read as: an-THRAY-sis)\nX) Clostridium difficile\nY) Treponema pallidium (read as: Trep-oh-KNEE-mah pal-LID-ee-um)\nZ) Vibrio cholera",
+        "answer": " X) CLOSTRIDIUM DIFFICILE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The length of the longest side of a U.S. dollar bill is\nabout how many nanometers in length:\nW) 70 million\nX) 1.10 \u00d7 106\nY) 1.55 \u00d7 108\nZ) 600 million",
+        "answer": " Y) 1.55 \u00d7 108"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following sets of constellations would be found\nnearest the ecliptic to an observer in mid-northern latitudes:\nW) Leo, Virgo, and Scorpius\nX) Pisces, Aries, and Draco\nY) Cancer, Gemini, and Cassiopeia\nZ) Taurus, Ursa Minor, and Pisces",
+        "answer": " W) LEO, VIRGO, AND SCORPIUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following will MOST likely occur if the Earth\ncrosses the orbit of a comet:\nW) a meteor shower could be seen from Earth\nX) an asteroid will likely strike the Earth\nY) red sprites and bolides will be seen both day and night\nZ) the Earth would temporarily lose its Van Allen belts",
+        "answer": " W) A METEOR SHOWER COULD BE SEEN FROM EARTH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During photosynthesis, from what substance does the oxygen that\nis liberated originate:\nW) glucose\nX) air\nY) water\nZ) carbon dioxide",
+        "answer": " Y) WATER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " The oxidized form of nicotinamide adenine dinucleotide has what\nspecific charge?",
+        "answer": " +1 (ACCEPT: 1 PLUS or ONE POSITIVE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of halogens:\nW) iodine is the least reactive of the stable halogens\nX) elemental halogens exist as diatomic molecules containing single covalent bonds\nY) their outermost electron configuration is represented by ns2np6\nZ) halides of typical metals are ionic",
+        "answer": " Y) THEIR OUTERMOST ELECTRON CONFIGURATION IS REPRESENTED BY\nNS2NP6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " If the total number of moles of gas in a mixture of oxygen and\nnitrogen gases is 12 moles, and the mole fraction of oxygen is 0.6, how many moles of oxygen gas\nare present, to the first decimal place?",
+        "answer": " 7.2\n(Solution: X = n /n; 0.6 = n /12 mol = 7.2 mol)\nO O t O"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In the ray approximation in optics, which of the following is NOT\ntrue for a converging lens:\nW) a ray parallel to the optical axis passes through the focus\nX) a ray passing through the center of the lens is bent parallel to the optical axis\nY) an object at infinity is imaged at the focus\nZ) a ray passing through the focus is bent parallel to the optical axis",
+        "answer": " X) A RAY PASSING THROUGH THE CENTER OF THE LENS IS BENT\nPARALLEL TO THE OPTICAL AXIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) electrical utilities deliver electricity over long distances at high voltages to reduce power loss\nX) in typical modern vacuum tubes, the cathode supplies the electrons\nY) Faraday\u2019s law of induction is a general guide for induction of EMF with a magnetic field\nZ) a typical voltmeter can be used to reliably test how much life is left in a double-A battery",
+        "answer": " Z) A TYPICAL VOLTMETER CAN BE USED TO RELIABLY TEST HOW MUCH\nLIFE IS LEFT IN A DOUBLE-A BATTERY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Remove all negative exponents and simplify the following expression\n(2x2y!1z3)0\nfor all non-zero values of x, y, and z:\n(2x!3y!4z!5)\nx3y4z5 1",
+        "answer": " (ACCEPT: x3y4z5)\n2 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the slope-intercept equation of the line that passes through the\npoint (4, -1) and is parallel to the line with equation 2x \u2013 3y = 9?\n2 11",
+        "answer": " y = x \u2013\n3 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a brief yet destructive\nwindstorm marked by cool moist air descending from a thunderstorm that is sometimes mistaken for\na tornado because of the damage it produces:\nW) Chinook\nX) zephyr\nY) dust devil\nZ) microburst",
+        "answer": " Z) MICROBURST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about Earth\u2019s water:\nW) more fresh water exists underground than in streams and lakes\nX) the total amount of water in the global system varies greatly from year to year\nY) ground water can take thousands or millions of years to recharge naturally\nZ) a rock is permeable if water can pass through it",
+        "answer": " X) THE TOTAL AMOUNT OF WATER IN THE GLOBAL SYSTEM VARIES\nGREATLY FROM YEAR TO YEAR\n(Solution: the amount of water on Earth is constant)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " In a recent breakthrough announcement by the CDC,\nwhich of the following diseases has been shown to have both a genetic and physiological\ncomponent:\nW) malaria\nX) chronic fatigue syndrome\nY) Tay Sach\u2019s disease\nZ) sleeping sickness",
+        "answer": " X) CHRONIC FATIGUE SYNDROME"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 diseases that are NOT caused\nby bacteria: cholera; bubonic plague; syphilis; mumps",
+        "answer": " MUMPS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the location of the\nheliosphere:\nW) the region that extends a few thousand kilometers outside of the Sun\u2019s corona\nX) the region that extends from the Sun\u2019s corona to the end of the solar system\nY) the region that extends from the Sun\u2019s core to the end of the solar system\nZ) the region of the expanding solar wind between the sun and the heliopause",
+        "answer": " Z) THE REGION OF THE EXPANDING SOLAR WIND BETWEEN THE SUN\nAND THE HELIOPAUSE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the position of the\nfirst quarter Moon to an observer in northern mid-latitudes on a clear summer night just after sunset:\nW) rising in the east\nX) setting in the west\nY) high in the south\nZ) unable to be seen",
+        "answer": " Y) HIGH IN THE SOUTH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Bacterial transduction is primarily caused by the transference of\nwhat specific biological substance?",
+        "answer": " DNA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organisms that are human ectoparasites:\nPlasmodium ovale; Ascaris; Trichinella spiralis (read as: Trick-ih-nel-la spear-rah-liss); Ixodes\n(read as: icks-OH-dees)",
+        "answer": " IXODES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " When iron becomes the ion Fe2+, it\nW) loses two, 3d electrons\nX) loses two, 4s electrons\nY) gains two, 3d electrons\nZ) gains two, 4s electrons",
+        "answer": " X) LOSES TWO, 4S ELECTRONS\n(Solution: electrons are lost from orbital with highest n quantum number)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements regarding the kinetic\nmolecular theory of ideal gases is TRUE:\nW) the average kinetic energy of gaseous molecules is directly proportional to the absolute\ntemperature of the sample\nX) the volume occupied by the atoms and/or molecules in a gas is large\nY) collisions between gas particles are both elastic and inelastic\nZ) between collisions, molecules exert both attractive and repulsive forces on each other",
+        "answer": " W) THE AVERAGE KINETIC ENERGY OF GASEOUS MOLECULES IS\nDIRECTLY PROPORTIONAL TO THE ABSOLUTE TEMPERATURE OF THE SAMPLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Huygen\u2019s principle can be used to most directly derive which of\nthe following:\nW) the speed of light\nX) the law of diffraction\nY) the laws of reflection and refraction\nZ) Fermat\u2019s Principle",
+        "answer": " Y) THE LAWS OF REFLECTION AND REFRACTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " When utilizing dissimilar metals in a device that operates over a\nlarge temperature range, which of the following factors is most important to consider in determining\ninternal stresses:\nW) ductility\nX) hardenability\nY) conductivity\nZ) coefficients of thermal expansion",
+        "answer": " Z) COEFFICIENTS OF THERMAL EXPANSION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Remove all negative exponents and simplify the following expression\n2\n\u2212\nfor all non-zero values of x: (\u221232x5) 5\n1",
+        "answer": "\n4x2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a prime polynomial over the integers:\nW) 5x2 \u2013 8x + 2\nX) 4x2 \u2013 4x \u2013 8\nY) 3x2 \u2013 4x \u2013 4\nZ) 3x2 \u2013 10x2 + 3x",
+        "answer": " W) 5x2 \u2013 8x + 2\n(Solution: it cannot be factored)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What type of volcano is made mostly of andesite and\ntypically erupts violently and dangerously with pyroclastic flows, an example of which is Mount\nFuji in Japan?",
+        "answer": " STRATOVOLCANO (ACCEPT: COMPOSITE VOLCANO)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Hematite belongs to which of the following mineral\ngroups:\nW) oxide\nX) carbonate\nY) halide\nZ) silicate",
+        "answer": " W) OXIDE\n(Solution: Fe O )\n2 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " How many carbon and hydrogen atoms are in an octane\nmolecule?",
+        "answer": " CARBON = 8; HYDROGEN = 18"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is LEAST accurate:\nW) systemic autoimmunity often targets a person\u2019s own nucleic acids\nX) the protonated hydrogen molecule is the most abundant molecular ion in the universe\nY) carbenes are highly reactive intermediates in certain organic reactions\nZ) recent studies show that the female brain releases up to 3-times more dopamine as compared to\nmales which may account for higher addiction rates in females",
+        "answer": " Z) RECENT STUDIES SHOW THAT THE FEMALE BRAIN RELEASES UP TO 3-\nTIMES MORE DOPAMINE AS COMPARED TO MALES WHICH MAY ACCOUNT FOR\nHIGHER ADDICTION RATES IN FEMALES\n(Solution: males have higher rates of addiction)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " At how many parsecs is a star\u2019s absolute magnitude the same as\nits apparent magnitude?",
+        "answer": " 10"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " A photon of only a certain wavelength is able to be absorbed\nonly by an electron at a specific energy level of an atom. This is the basis of what commonly used\nastronomical technique?",
+        "answer": " SPECTROSCOPY (ACCEPT: ABSORPTION SPECTROSCOPY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In plants, water molecules are generally protected from water loss to\nthe outside environment by what lipid-based structure covering the epidermis?",
+        "answer": " CUTICLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 plant structures that are typically\nmodified leaves: corms; tendrils; cacti spines; bracts",
+        "answer": " TENDRILS; CACTI SPINES; BRACTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The principle quantum number \u2018n\u2019 of an electron largely\ndetermines its:\nW) energy\nX) spin\nY) shape\nZ) orientation",
+        "answer": " W) ENERGY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following compounds that exhibit ONLY London\nforces: CH ; N ; BaCl ; NH\n4 2 2 3",
+        "answer": " CH ; N\n4 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many times as intense is 60 decibels than 30 decibels?",
+        "answer": " 1,000"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the minimal force, in newtons to the first decimal place, that a\nmother must exert to vertically lift her 4 kilogram baby out of her play pen?",
+        "answer": " 39.2\n(Solution: w = mg = (4kg)(9.8m/s2) = 39.2N)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What biological substance is the SECOND MOST abundant organic\ncompound on Earth after cellulose, and is especially abundant in sclereids, xylem fibers and\ntracheids?",
+        "answer": " LIGNIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that are complex carbohydrates:\nchitin (read as: KIE-tin); amylase; cellulose; glycogen",
+        "answer": " CHITIN; CELLULOSE; GLYCOGEN"
+    }
+]

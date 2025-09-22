@@ -1,183 +1,331 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following protons will have the largest coupling\nconstant in the 1H-NMR spectrum?\nW) Cis-alkene\nX) Trans-alkene\nY) Ortho-benzene\nZ) Para-benzene",
-        "subject": "",
-        "answer": "X) TRANS-ALKENE"
+        "answer": " X) TRANS-ALKENE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " With regard to leaf abscission, which of the following two plant\nhormones are antagonistic?\nW) Ethylene and auxin [ETH-uh-leen and AWK-sin]\nX) Gibberellin and brassinosteroids [jib-uh-REL-in]\nY) Auxin and gibberellin\nZ) Abscisic acid and ethylene\nANSWER: W) ETHYLENE AND AUXIN",
-        "subject": "",
-        "answer": "Y) POLYSTYRENETOSS UP2. BIOLOGY Multiple Choice With regard to leaf abscission, which of the following two planthormones are antagonistic?W) Ethylene and auxin [ETH-uh-leen and AWK-sin]X) Gibberellin and brassinosteroids [jib-uh-REL-in]Y) Auxin and gibberellinZ) Abscisic acid and ethyleneANSWER: W) ETHYLENE AND AUXIN"
+        "content": " Which of the following polymers is soluble in organic solvents\nand rigid?\nW) Low density polyethylene [pol-ee-ETH-uh-leen]\nX) Atactic polypropylene [pol-ee-PROH-puh-leen]\nY) Polystyrene [pol-ee-STY-reen]\nZ) Polyvinyl chloride [pol-ee-VYNL]",
+        "answer": " Y) POLYSTYRENE"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " After refining a barrel of oil, which of the following fuel fractions\nconstitutes the largest share?\nW) Gasoline\nX) Diesel\nY) Butane\nZ) Jet fuel\nANSWER: W) GASOLINE",
-        "subject": "",
-        "answer": "2Double Elimination ~ Round 3 Page 1TOSS UP3. ENERGY Multiple Choice After refining a barrel of oil, which of the following fuel fractionsconstitutes the largest share?W) GasolineX) DieselY) ButaneZ) Jet fuelANSWER: W) GASOLINE"
+        "content": " With regard to leaf abscission, which of the following two plant\nhormones are antagonistic?\nW) Ethylene and auxin [ETH-uh-leen and AWK-sin]\nX) Gibberellin and brassinosteroids [jib-uh-REL-in]\nY) Auxin and gibberellin\nZ) Abscisic acid and ethylene",
+        "answer": " W) ETHYLENE AND AUXIN"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is a type of lake in which the\nbottom stratum of the water column never mixes with the strata above?\nW) Amictic\nX) Monomictic\nY) Oligomictic\nZ) Meromictic\nANSWER: Z) MEROMICTIC",
-        "subject": "",
-        "answer": "CARNOT'S PRINCIPLE (ACCEPT: CARNOT'S LIMITATIONS, CARNOT\u2019STHEOREM, CARNOT'S RULE, OR 2ND LAW OF THERMODYNAMICS)TOSS UP4. EARTH AND SPACE Multiple Choice Which of the following is a type of lake in which thebottom stratum of the water column never mixes with the strata above?W) AmicticX) MonomicticY) OligomicticZ) MeromicticANSWER: Z) MEROMICTIC"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " According to Heisenberg\u2019s uncertainty principle, it is impossible to\nsimultaneously measure which of the following in a particle with arbitrary precision?\nW) Position and mass\nX) Position and linear momentum\nY) Linear momentum and energy\nZ) Position and electric charge\nANSWER: X) POSITION AND LINEAR MOMENTUM",
-        "subject": "",
-        "answer": "EPILIMNION, METALIMNION, AND HYPOLIMNIONDouble Elimination ~ Round 3 Page 2TOSS UP5. PHYSICS Multiple Choice According to Heisenberg\u2019s uncertainty principle, it is impossible tosimultaneously measure which of the following in a particle with arbitrary precision?W) Position and massX) Position and linear momentumY) Linear momentum and energyZ) Position and electric chargeANSWER: X) POSITION AND LINEAR MOMENTUM"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A long-play record rotates at revolutions per minute. Which of\n1\nthe following represents this in radians per minute?\n33 3\nW)\n2\nX) 663\ud835\udf0b\ud835\udf0b\n1\nY) 33 3 \ud835\udf0b\ud835\udf0b\n2\nZ) 16 3\nAN6S\ud835\udf0b\ud835\udf0bWER: W)\n2",
-        "subject": "",
-        "answer": "1.4TOSS UP6. MATH Multiple Choice A long-play record rotates at revolutions per minute. Which of1the following represents this in radians per minute?33 3W)2X) 663\ud835\udf0b\ud835\udf0b1Y) 33 3 \ud835\udf0b\ud835\udf0b2Z) 16 3AN6S\ud835\udf0b\ud835\udf0bWER: W)2"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Find the values of a and b so that the given function f x) is continuous\neverywhere: f x) is a three part function: For x less than or equal to , f x x , for x between\nand , f x ax b; and for x greater than or equal to , f x x . (\n( 1 ( ) = + 3\n1\nANSW\n4\nER\n(\n:\na) = +b 4 ( ) = 2 - 10\n= -2, = 6\nDouble Elimination ~ Round 3 Page 3\nTOSS UP\n7. CHEMISTRY Multiple Choice Which of the following is NOT true with respect to balanced\nredox reactions?\nW) All species in the balanced equation must have the same physical state\nX) The oxidized atoms increase their oxidation number\nY) The reduced atoms decrease their oxidation number\nZ) The total number of electrons transferred do not appear in the final, balanced reaction",
-        "subject": "",
-        "answer": "W) ALL SPECIES IN THE BALANCED EQUATION MUST HAVE THE SAMEPHYSICAL STATE"
+        "content": " The dental formula for the coyote is 3142/3143 [3 \u2013 1 \u2013 4 \u2013 2 over\n3 \u2013 1 \u2013 4 \u2013 3]. How many molars does it have on one side of its upper jaw?",
+        "answer": " 2"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " While digging in the Jurassic-Cretaceous transitional beds in\nwestern Colorado, you uncover the fossilized bones of an animal that had a small head,\nspatulate teeth, a long neck and rather short feet. These bones most likely belonged to which of\nthe following dinosaurs?\nW) Theropod\nX) Ceratopsian [ser-uh-TOP-see-uhn]\nY) Ornithopod\nZ) Sauropod\nANSWER: Z) SAUROPOD",
-        "subject": "",
-        "answer": "4P, 4D, 4F, 2P (DO NOT ACCEPT: 4S AND 2S)TOSS UP8. BIOLOGY Multiple Choice While digging in the Jurassic-Cretaceous transitional beds inwestern Colorado, you uncover the fossilized bones of an animal that had a small head,spatulate teeth, a long neck and rather short feet. These bones most likely belonged to which ofthe following dinosaurs?W) TheropodX) Ceratopsian [ser-uh-TOP-see-uhn]Y) OrnithopodZ) SauropodANSWER: Z) SAUROPOD"
+        "content": " After refining a barrel of oil, which of the following fuel fractions\nconstitutes the largest share?\nW) Gasoline\nX) Diesel\nY) Butane\nZ) Jet fuel",
+        "answer": " W) GASOLINE"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " How much power in watts is consumed by a device with a\nresistance of 15 ohms at a current of 3 amperes?\nANSWER: 135",
-        "subject": "",
-        "answer": "CYCLINSDouble Elimination ~ Round 3 Page 4TOSS UP9. ENERGY Short Answer How much power in watts is consumed by a device with aresistance of 15 ohms at a current of 3 amperes?ANSWER: 135"
+        "content": " Efficiency of concentrated solar power systems at certain\nconcentrations of light are a function of thermal radiation properties and what other factor?",
+        "answer": " CARNOT'S PRINCIPLE (ACCEPT: CARNOT'S LIMITATIONS, CARNOT\u2019S\nTHEOREM, CARNOT'S RULE, OR 2ND LAW OF THERMODYNAMICS)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is the name of the law that\nquantitatively describes one-dimensional water flow in saturated soils?\nW) Ohm\u2019s\nX) Fick\u2019s\nY) Fourier\u2019s\nZ) Darcy\u2019s\nANSWER: Z) DARCY\u2019S",
-        "subject": "",
-        "answer": "Y) SULFUR HEXAFLUORIDETOSS UP10. EARTH AND SPACE Multiple Choice Which of the following is the name of the law thatquantitatively describes one-dimensional water flow in saturated soils?W) Ohm\u2019sX) Fick\u2019sY) Fourier\u2019sZ) Darcy\u2019sANSWER: Z) DARCY\u2019S"
+        "content": " Which of the following is a type of lake in which the\nbottom stratum of the water column never mixes with the strata above?\nW) Amictic\nX) Monomictic\nY) Oligomictic\nZ) Meromictic",
+        "answer": " Z) MEROMICTIC"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " When a light ray enters into a medium with a higher index of\nrefraction, which of the following is true?\nW) Its speed increases but its wavelength decreases\nX) Its speed decreases but its wavelength increases\nY) Both speed and wavelength increase\nZ) Both speed and wavelength decrease\nANSWER: Z) BOTH SPEED AND WAVELENGTH DECREASE",
-        "subject": "",
-        "answer": "Z) THEY ARE SEEN IN ALL GALAXIES, WHEREAS OTHER KINDS OFSUPERNOVAE ARE ONLY SEEN IN STAR FORMING REGIONS OF SPIRAL GALAXIESDouble Elimination ~ Round 3 Page 5TOSS UP11. PHYSICS Multiple Choice When a light ray enters into a medium with a higher index ofrefraction, which of the following is true?W) Its speed increases but its wavelength decreasesX) Its speed decreases but its wavelength increasesY) Both speed and wavelength increaseZ) Both speed and wavelength decreaseANSWER: Z) BOTH SPEED AND WAVELENGTH DECREASE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
         "answertype": "Short Answer",
-        "content": " Suppose that [theta equals the inverse sine of three\nfifths]. Find the exact value of [tangent of\u2212 1the 3 ta].\n\ud835\udf03\ud835\udf03 = sin ( 5 )\nANSWER: \u00be tan \ud835\udf03\ud835\udf03",
-        "subject": "",
-        "answer": "2.5 x 10-14TOSS UP12. MATH Short Answer Suppose that [theta equals the inverse sine of threefifths]. Find the exact value of [tangent of\u2212 1the 3 ta].\ud835\udf03\ud835\udf03 = sin ( 5 )ANSWER: \u00be tan \ud835\udf03\ud835\udf03"
+        "content": " What are the three major strata of a thermally stratified\nlake?",
+        "answer": " EPILIMNION, METALIMNION, AND HYPOLIMNION"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT characteristic of amines?\nW) A fully protonated amine is called an ammonium ion\nX) Amines can function as Br\u00f8nsted bases\nY) The VSEPR geometry of the nitrogen atom is trigonal planar\nZ) Amines can be a hydrogen bond acceptor\nANSWER: Y) THE VSEPR GEOMETRY OF THE NITROGEN ATOM IS TRIGONAL PLANAR",
-        "subject": "",
-        "answer": "+ = 6-2Double Elimination ~ Round 3 Page 6TOSS UP13. CHEMISTRY Multiple Choice Which of the following is NOT characteristic of amines?W) A fully protonated amine is called an ammonium ionX) Amines can function as Br\u00f8nsted basesY) The VSEPR geometry of the nitrogen atom is trigonal planarZ) Amines can be a hydrogen bond acceptorANSWER: Y) THE VSEPR GEOMETRY OF THE NITROGEN ATOM IS TRIGONAL PLANAR"
+        "content": " According to Heisenberg\u2019s uncertainty principle, it is impossible to\nsimultaneously measure which of the following in a particle with arbitrary precision?\nW) Position and mass\nX) Position and linear momentum\nY) Linear momentum and energy\nZ) Position and electric charge",
+        "answer": " X) POSITION AND LINEAR MOMENTUM"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following animals does NOT belong in the\nsuperorder Afrotheria?\nW) Hyrax\nX) Dugong\nY) Hoopoe [HOO-poo]\nZ) Elephant\nANSWER: Y) HOOPOE",
-        "subject": "",
-        "answer": "W) CHROMIUMTOSS UP14. BIOLOGY Multiple Choice Which of the following animals does NOT belong in thesuperorder Afrotheria?W) HyraxX) DugongY) Hoopoe [HOO-poo]Z) ElephantANSWER: Y) HOOPOE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " Arrange the following four surfaces in order of highest\nto lowest albedo: 1) fresh snow, 2) old snow, 3) water at a small zenith angle, 4) short grass.\nANSWER: 1, 2, 3, 4 (ACCEPT: FRESH SNOW, OLD SNOW, WATER AT A SMALL ZENITH\nANGLE, SHORT GRASS)",
-        "subject": "",
-        "answer": "Y) THEY POSSESS LEUCINE ZIPPER DOMAINSDouble Elimination ~ Round 3 Page 7TOSS UP15. EARTH AND SPACE Short Answer Arrange the following four surfaces in order of highestto lowest albedo: 1) fresh snow, 2) old snow, 3) water at a small zenith angle, 4) short grass.ANSWER: 1, 2, 3, 4 (ACCEPT: FRESH SNOW, OLD SNOW, WATER AT A SMALL ZENITHANGLE, SHORT GRASS)"
+        "content": " A simple harmonic oscillator has an amplitude of 2 centimeters.\nFind the value of the displacement x, in centimeters to the nearest tenth, where the kinetic\npotential energy of the oscillator is equal to its potential energy.",
+        "answer": " 1.4"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is true about the rest mass of a photon?\nW) It is always zero\nX) It depends on its wavelength\nY) It depends on the speed of the inertial observer\nZ) It depends on the medium in which it moves\nANSWER: W) IT IS ALWAYS ZERO",
-        "subject": "",
-        "answer": "ABERRATION OF LIGHTTOSS UP16. PHYSICS Multiple Choice Which of the following is true about the rest mass of a photon?W) It is always zeroX) It depends on its wavelengthY) It depends on the speed of the inertial observerZ) It depends on the medium in which it movesANSWER: W) IT IS ALWAYS ZERO"
+        "content": " Which of the following is NOT true with respect to balanced\nredox reactions?\nW) All species in the balanced equation must have the same physical state\nX) The oxidized atoms increase their oxidation number\nY) The reduced atoms decrease their oxidation number\nZ) The total number of electrons transferred do not appear in the final, balanced reaction",
+        "answer": " W) ALL SPECIES IN THE BALANCED EQUATION MUST HAVE THE SAME\nPHYSICAL STATE"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " Find the exact value of the expression: 5\ud835\udf0b\ud835\udf0b [the fraction with\nsin (4)\nnumerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi ov5e\u03c0r 4].\ncos ( 4 )\nANSWER:",
-        "subject": "",
-        "answer": "W) 5 x 10-11Double Elimination ~ Round 3 Page 8TOSS UP17. MATH Short Answer Find the exact value of the expression: 5\ud835\udf0b\ud835\udf0b [the fraction withsin (4)numerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi ov5e\u03c0r 4].cos ( 4 )ANSWER:"
+        "content": " According to electronic transition rules, to what sublevels can an\nelectron move from the 3s sublevel in a single step transition?",
+        "answer": " 4P, 4D, 4F, 2P (DO NOT ACCEPT: 4S AND 2S)"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
-        "content": " In a first order reaction in which a graph is made showing\nconcentration versus time, the shape of the graph is best described as which of the following?\nW) Linear\nX) Exponential\nY) Logarithmic\nZ) Hyperbolic\nANSWER: X) EXPONENTIAL",
-        "subject": "",
-        "answer": "AND5 16 2TOSS UP18. CHEMISTRY Multiple Choice In a first order reaction in which a graph is made showingconcentration versus time, the shape of the graph is best described as which of the following?W) LinearX) ExponentialY) LogarithmicZ) HyperbolicANSWER: X) EXPONENTIAL"
+        "content": " While digging in the Jurassic-Cretaceous transitional beds in\nwestern Colorado, you uncover the fossilized bones of an animal that had a small head,\nspatulate teeth, a long neck and rather short feet. These bones most likely belonged to which of\nthe following dinosaurs?\nW) Theropod\nX) Ceratopsian [ser-uh-TOP-see-uhn]\nY) Ornithopod\nZ) Sauropod",
+        "answer": " Z) SAUROPOD"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Symbiotic dinoflagellates [din-uh-FLAJ-uh-layts] found in\nhermatypic corals are known as which of the following?\nW) Radiolarians [ray-dee-oh-lair-ee-uhns]\nX) Copepods\nY) Zooxanthellae [zoh-uh-zan-THEL-ee]\nZ) Coccoliths [KOK-uh-liths]\nANSWER: Y) ZOOXANTHELLAE",
-        "subject": "",
-        "answer": "DIELS-ALDERDouble Elimination ~ Round 3 Page 9TOSS UP19. BIOLOGY Multiple Choice Symbiotic dinoflagellates [din-uh-FLAJ-uh-layts] found inhermatypic corals are known as which of the following?W) Radiolarians [ray-dee-oh-lair-ee-uhns]X) CopepodsY) Zooxanthellae [zoh-uh-zan-THEL-ee]Z) Coccoliths [KOK-uh-liths]ANSWER: Y) ZOOXANTHELLAE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following countries holds the largest proven natural\ngas reserves in the entire world?\nW) Russia\nX) Iran\nY) Saudi Arabia\nZ) USA\nANSWER: W) RUSSIA",
-        "subject": "",
-        "answer": "Y) IS LESS DEPENDENT ON YOLK RESERVESTOSS UP20. ENERGY Multiple Choice Which of the following countries holds the largest proven naturalgas reserves in the entire world?W) RussiaX) IranY) Saudi ArabiaZ) USAANSWER: W) RUSSIA"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " In which of the following environments would you\nmost likely find an alluvial [uh-LOO-vee-uhl] fan?\nW) Mouth of the Mississippi in the Gulf of Mexico\nX) Outwash plain of a newly receding glacier in Alaska\nY) Base of a submarine canyon off of the continental shelf of the Western Atlantic\nZ) Along the lowermost edge of a slump in a densely vegetated region\nANSWER: X) OUTWASH PLAIN OF A NEWLY RECEDING GLACIER IN ALASKA",
-        "subject": "",
-        "answer": "W) MOLTEN CRYOLITEDouble Elimination ~ Round 3 Page 10TOSS UP21. EARTH AND SPACE Multiple Choice In which of the following environments would youmost likely find an alluvial [uh-LOO-vee-uhl] fan?W) Mouth of the Mississippi in the Gulf of MexicoX) Outwash plain of a newly receding glacier in AlaskaY) Base of a submarine canyon off of the continental shelf of the Western AtlanticZ) Along the lowermost edge of a slump in a densely vegetated regionANSWER: X) OUTWASH PLAIN OF A NEWLY RECEDING GLACIER IN ALASKA"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is equal to one tesla?\nW) 100 newtons per ampere meter\nX) 10 newtons per ampere meter\nY) 10 millinewtons per ampere centimeter\nZ) 10 kilograms per ampere second squared\nANSWER: Y) 10 MILLINEWTONS PER AMPERE CENTIMETER",
-        "subject": "",
-        "answer": "X) OCCULTATIONS OF A BACKGROUND STARTOSS UP22. PHYSICS Multiple Choice Which of the following is equal to one tesla?W) 100 newtons per ampere meterX) 10 newtons per ampere meterY) 10 millinewtons per ampere centimeterZ) 10 kilograms per ampere second squaredANSWER: Y) 10 MILLINEWTONS PER AMPERE CENTIMETER"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following values represents the slope of the tangent\nline at x to the curve y e -x [y equals e to the negative x]?\nW) e = 0 =\nX)\nY) -\nZ) -1\n0\nAN1SWER: X)",
-        "subject": "",
-        "answer": "X) 4Double Elimination ~ Round 3 Page 11TOSS UP23. MATH Multiple Choice Which of the following values represents the slope of the tangentline at x to the curve y e -x [y equals e to the negative x]?W) e = 0 =X)Y) -Z) -10AN1SWER: X)"
-    },
-    {
-        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Calculate the first order half-life in seconds to one significant\nfigure if the rate constant is 1.7 x 10-3 inverse seconds.\nANSWER: 400",
-        "subject": "",
-        "answer": "\u03c0288TOSS UP24. CHEMISTRY Short Answer Calculate the first order half-life in seconds to one significantfigure if the rate constant is 1.7 x 10-3 inverse seconds.ANSWER: 400"
+        "content": " In 2001, the Nobel Prize was awarded to three scientists for their\ndiscoveries of two groups of key protein regulators of the cell cycle. The first group consists of\nthe CDKs, which remain at fairly constant concentration throughout the cell cycle. What is the\nname of the second group, which interacts with CDKs to control their activity and varies in\nconcentration over the cell cycle?",
+        "answer": " CYCLINS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " How much power in watts is consumed by a device with a\nresistance of 15 ohms at a current of 3 amperes?",
+        "answer": " 135"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Multiple Choice",
-        "content": " In which of the following locations does human blood have the\nhighest oxygen concentration?\nW) Pulmonary artery\nX) Pulmonary vein\nY) Right atrium\nZ) Capillaries in fingers\nANSWER: X) PULMONARY VEIN",
-        "subject": "",
-        "answer": "2Double Elimination ~ Round 3 Page 12TOSS UP25. BIOLOGY Multiple Choice In which of the following locations does human blood have thehighest oxygen concentration?W) Pulmonary arteryX) Pulmonary veinY) Right atriumZ) Capillaries in fingersANSWER: X) PULMONARY VEIN"
+        "content": " Which of the following greenhouse gases stays the longest in the\natmosphere?\nW) Nitrous oxide\nX) Carbon dioxide\nY) Sulfur hexafluoride\nZ) Methane",
+        "answer": " Y) SULFUR HEXAFLUORIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the name of the law that\nquantitatively describes one-dimensional water flow in saturated soils?\nW) Ohm\u2019s\nX) Fick\u2019s\nY) Fourier\u2019s\nZ) Darcy\u2019s",
+        "answer": " Z) DARCY\u2019S"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Why are Type 1a supernovae [soo-per-NOH-vee]\nthought to have different progenitors from other kinds of supernovae?\nW) They have very different light curves from other supernovae\nX) They are 100 times more luminous than all other kinds of supernovae\nY) The lack of hydrogen lines in their spectra means that the progenitor must have lost its\nenvelope\nZ) They are seen in all galaxies, whereas other kinds of supernovae are only seen in star-\nforming regions of spiral galaxies",
+        "answer": " Z) THEY ARE SEEN IN ALL GALAXIES, WHEREAS OTHER KINDS OF\nSUPERNOVAE ARE ONLY SEEN IN STAR FORMING REGIONS OF SPIRAL GALAXIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " When a light ray enters into a medium with a higher index of\nrefraction, which of the following is true?\nW) Its speed increases but its wavelength decreases\nX) Its speed decreases but its wavelength increases\nY) Both speed and wavelength increase\nZ) Both speed and wavelength decrease",
+        "answer": " Z) BOTH SPEED AND WAVELENGTH DECREASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer in scientific notation with two significant\nfigures, what is the wavelength, in meters, of a 50 mega-electron volt photon, given 6.6 x 10-34\njoule seconds as Planck's constant and 1.6 x 10-19 coulombs as the elementary charge?",
+        "answer": " 2.5 x 10-14"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Suppose that [theta equals the inverse sine of three\nfifths]. Find the exact value of [tangent of\u2212 1the 3 ta].\n\ud835\udf03\ud835\udf03 = sin ( 5 )",
+        "answer": " \u00be tan \ud835\udf03\ud835\udf03"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find at the point with coordinates if y is implicitly defined by\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51\nthe equationx y xy .\n(1, 2)\n3 2\n\ud835\udc51\ud835\udc51\ud835\udc51\ud835\udc51",
+        "answer": " + = 6\n-2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT characteristic of amines?\nW) A fully protonated amine is called an ammonium ion\nX) Amines can function as Br\u00f8nsted bases\nY) The VSEPR geometry of the nitrogen atom is trigonal planar\nZ) Amines can be a hydrogen bond acceptor",
+        "answer": " Y) THE VSEPR GEOMETRY OF THE NITROGEN ATOM IS TRIGONAL PLANAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following elements seemingly violates Hund\u2019s\nrule by shifting an electron from a full s orbital to another sublevel to give a more stable\nconfiguration?\nW) Chromium\nX) Tungsten\nY) Boron\nZ) Cerium",
+        "answer": " W) CHROMIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following animals does NOT belong in the\nsuperorder Afrotheria?\nW) Hyrax\nX) Dugong\nY) Hoopoe [HOO-poo]\nZ) Elephant",
+        "answer": " Y) HOOPOE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a regulatory characteristic of\ntranscriptionally-active regions of a chromosome?\nW) They are not very condensed\nX) They are hypersensitive to DNAse I [D-N-ase one]\nY) They possess leucine [LOO-seen] zipper domains\nZ) They are undermethylated",
+        "answer": " Y) THEY POSSESS LEUCINE ZIPPER DOMAINS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following four surfaces in order of highest\nto lowest albedo: 1) fresh snow, 2) old snow, 3) water at a small zenith angle, 4) short grass.",
+        "answer": " 1, 2, 3, 4 (ACCEPT: FRESH SNOW, OLD SNOW, WATER AT A SMALL ZENITH\nANGLE, SHORT GRASS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the apparent annual\ndisplacement of stars due to the finite speed of light?",
+        "answer": " ABERRATION OF LIGHT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is true about the rest mass of a photon?\nW) It is always zero\nX) It depends on its wavelength\nY) It depends on the speed of the inertial observer\nZ) It depends on the medium in which it moves",
+        "answer": " W) IT IS ALWAYS ZERO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An electron is moving at a speed of 1.5 x 107 meters per\nsecond. Which of the following is its de Broglie wavelength in meters, given that the mass of the\nelectron is 9.1 x 10-31 kilograms and that the Planck constant h is 6.63 x 10-34 joule seconds?\nW) 5 x 10-11\nX) 5 x 10-12\nY) 2 x 1011\nZ) 2 x 1012",
+        "answer": " W) 5 x 10-11"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the exact value of the expression: 5\ud835\udf0b\ud835\udf0b [the fraction with\nsin (4)\nnumerator, sine of, 5 pi over 4, and denominator, cosine of, 5 pi ov5e\u03c0r 4].\ncos ( 4 )",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Two objects move along a number line. At seconds, their positions\nare given as s t t and s t t. Providing your answers as fractions in simplest form,\n1 2\ngive all times in secon2ds when the2 two objects have the same speetd.\n= 2 \u2013 = 2 \u2013 3",
+        "answer": " AND\n5 1\n6 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In a first order reaction in which a graph is made showing\nconcentration versus time, the shape of the graph is best described as which of the following?\nW) Linear\nX) Exponential\nY) Logarithmic\nZ) Hyperbolic",
+        "answer": " X) EXPONENTIAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What Nobel Prize-winning named reaction allows for the\nsingle-step formation of cyclohexene from butadiene and ethene?",
+        "answer": " DIELS-ALDER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Symbiotic dinoflagellates [din-uh-FLAJ-uh-layts] found in\nhermatypic corals are known as which of the following?\nW) Radiolarians [ray-dee-oh-lair-ee-uhns]\nX) Copepods\nY) Zooxanthellae [zoh-uh-zan-THEL-ee]\nZ) Coccoliths [KOK-uh-liths]",
+        "answer": " Y) ZOOXANTHELLAE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Compared to a lecithotrophic [le-si-thuh-TROH-fik] benthic\ninvertebrate larva, a planktotrophic benthic invertebrate larva does which of the following?\nW) Spends more time in the egg stage\nX) Tends to be a larger size when it hatches\nY) Is less dependent on yolk reserves\nZ) Spends less time in the water column before settling",
+        "answer": " Y) IS LESS DEPENDENT ON YOLK RESERVES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following countries holds the largest proven natural\ngas reserves in the entire world?\nW) Russia\nX) Iran\nY) Saudi Arabia\nZ) USA",
+        "answer": " W) RUSSIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following is aluminum oxide dissolved when using\nthe Hall-Heroult process to produce aluminum?\nW) Molten cryolite\nX) Hydrogen peroxide\nY) Sodium chloride\nZ) Water",
+        "answer": " W) MOLTEN CRYOLITE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following environments would you\nmost likely find an alluvial [uh-LOO-vee-uhl] fan?\nW) Mouth of the Mississippi in the Gulf of Mexico\nX) Outwash plain of a newly receding glacier in Alaska\nY) Base of a submarine canyon off of the continental shelf of the Western Atlantic\nZ) Along the lowermost edge of a slump in a densely vegetated region",
+        "answer": " X) OUTWASH PLAIN OF A NEWLY RECEDING GLACIER IN ALASKA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " How were the rings of Uranus first discovered?\nW) Voyager 2 flyby\nX) Occultations of a background star\nY) Hubble Space Telescope observations\nZ) Radar",
+        "answer": " X) OCCULTATIONS OF A BACKGROUND STAR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is equal to one tesla?\nW) 100 newtons per ampere meter\nX) 10 newtons per ampere meter\nY) 10 millinewtons per ampere centimeter\nZ) 10 kilograms per ampere second squared",
+        "answer": " Y) 10 MILLINEWTONS PER AMPERE CENTIMETER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A puck is nudged due south on a flat, level and frictionless table\nat a latitude of 30\u00ba north. If the puck's initial speed is 3 millimeters per second, how many\nmillimeters west has it gone after traveling 0.6 meters south?\nW) 0.1\nX) 4\nY) 40\nZ) 110",
+        "answer": " X) 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A spherical balloon initially contains no air and is inflated in such a\nway that its radius increases at a rate of 2 centimeters per second. Providing your answer in\nterms of pi, how fast is the volume increasing in cubic centimeters per second 3 seconds after\ninflation starts?",
+        "answer": " \u03c0\n288"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Calculate the first order half-life in seconds to one significant\nfigure if the rate constant is 1.7 x 10-3 inverse seconds.",
+        "answer": " 400"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " While eating fish, you feel that the fish needs a little vinegar.\nUnfortunately, you add way too much. To lower the acidity of the fish again, you decide to add\npackets containing 3 moles each of sodium acetate. You estimate that you have added 1 mole\nof vinegar to your fish based on the fact that it has a pH around 2. Given that the pKa of acetic\nacid is 4.74, to the nearest whole packet, how many packets of sodium acetate must you add to\nthe fish in order to bring the pH up to around 5.5?",
+        "answer": " 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following locations does human blood have the\nhighest oxygen concentration?\nW) Pulmonary artery\nX) Pulmonary vein\nY) Right atrium\nZ) Capillaries in fingers",
+        "answer": " X) PULMONARY VEIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " In sickle cell anemia, which of the following is the specific\nmutation in the beta-globin gene that causes the disease?\nW) Alanine-6 mutated to arginine [AHR-juh-neen]\nX) Glutamate-6 mutated to valine\nY) Leucine-6 [LOO-seen] mutated to lysine\nZ) Arginine-6 mutated to glycine",
-        "subject": "",
-        "answer": "X) GLUTAMATE-6 MUTATED TO VALINEDouble Elimination ~ Round 3 Page 13"
+        "answer": " X) GLUTAMATE-6 MUTATED TO VALINE"
     }
 ]

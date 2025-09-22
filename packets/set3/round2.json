@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In addition to iron, what 2 substances must be present for iron to\nrust?",
+        "answer": " OXYGEN; WATER (ACCEPT: O , H O)\n2 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Classify the following 3 elements as a halogen, metalloid, or\ntransition metal, respectively: silicon; iron; iodine",
+        "answer": " HALOGEN = IODINE; METALLOID = SILICON; TRANSITION METAL = IRON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If a car is going around a corner, which of the following statements\ncorrectly describes the relationship among the speeds of the wheels on the car:\nW) the wheels all rotate at the same speed\nX) the wheels on the inside of the corner rotate faster because they have less distance to travel\nY) the wheels on the inside of the corner rotate faster because they have more distance to travel\nZ) the wheels on the outside of the corner rotate faster because they have more distance to travel",
+        "answer": " Z) THE WHEELS ON THE OUTSIDE OF THE CORNER ROTATE FASTER\nBECAUSE THEY HAVE MORE DISTANCE TO TRAVEL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many kilometers will a mosquito travel in 9.5 hours if it moves in\na straight path with an average speed of 8 kilometers per hour?",
+        "answer": " 76\n(Solution: 8km/h \u00d7 9.5 h = 76 km)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the most appropriate term for the genetic character of an\norganism having a pair of identical alleles for a certain trait:\nW) dominant\nX) recessive\nY) homozygous\nZ) heterozygous",
+        "answer": " Y) HOMOZYGOUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a blood vessel located in the human\nhead or neck:\nW) jugular vein\nX) jugular artery\nY) internal carotid artery\nZ) temporal vein",
+        "answer": " X) JUGULAR ARTERY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following inequality for x: |(x + 5)| > \u20137 (read as: the absolute\nvalue of, open parenthesis, x + 5, close parenthesis, is greater than \u20137)",
+        "answer": " ALL REAL NUMBERS (ACCEPT: + INFINITY TO \u2013INFINITY)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The Adams family bought a home entertainment system for $10,000.00.\nThey paid $4,000.00 down and must pay off the balance in 12 equal payments. If the simple interest\non the balance is 10% of the amount borrowed, how much is each monthly installment?",
+        "answer": " $550.00\n(Solution: 10,000 \u2013 4000 = 6000 bal; 6000 \u00d7 0.1 = 600; 6,600 \u00f7 12 months = $550.00)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the lowermost 12 to 18 kilometers of\nEarth\u2019s atmosphere?",
+        "answer": " TROPOSPHERE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a process that makes up the\nEarth\u2019s hydrologic cycle:\nW) precipitation\nX) condensation\nY) transpiration\nZ) sedimentation",
+        "answer": " Z) SEDIMENTATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " An isotonic solution of sodium chloride, also known as\nnormal saline, is what percent by mass:\nW) 0.045%\nX) 0.9%\nY) 2.5%\nZ) 10%",
+        "answer": " X) 0.9%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the size of a\ntypical animal virus:\nW) 600 micrometers\nX) 100 nanometers\nY) 1 nanometer\nZ) 1 angstrom",
+        "answer": " X) 100 NANOMETERS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Our Sun is a:\nW) A-type star\nX) B-type star\nY) G-type star\nZ) K-type star",
+        "answer": " Y) G-TYPE STAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What element was first discovered through spectroscopic analysis\nof the Sun?",
+        "answer": " HELIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What element is central to synthetic chemistry because of the\nunique ability of its atoms to bind to one another with single, double and triple bonds and form\nchains, branches and rings of varying sizes?",
+        "answer": " CARBON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many atoms of each element are in the following molecule:\nAl (SO )\n2 4 3",
+        "answer": " Al = 2; S = 3; O = 12"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the SI unit for the product of newtons and\nmeters:\nW) henry\nX) watt\nY) erg\nZ) joule",
+        "answer": " Z) JOULE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a gearing arrangement where a 10-tooth pinion drives a 40-tooth\ngear, what is the gear ratio:\nW) 1 to 4\nX) 4 to 1\nY) 1 to 10\nZ) 40 to 1",
+        "answer": " X) 4 TO 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The type of muscle that is in the walls of human arteries is:\nW) smooth\nX) striated\nY) skeletal\nZ) fast twitch",
+        "answer": " W) SMOOTH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organisms that are bivalves:\nclam; oyster; mussel; snail",
+        "answer": " CLAM; OYSTER; MUSSEL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following, giving your answer in proper scientific notation:\n(2.0 \u00d7 10-6)4",
+        "answer": " 1.6 \u00d7 10-23"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the sum of the first 5 terms of the geometric sequence in which\nthe first term is 2 and the common ratio is 2?",
+        "answer": " 62\n(Solution: 2 + 4 + 8 + 16 + 32 = 62)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the largest global reserve of\ncarbon on Earth:\nW) oceans\nX) soils\nY) vegetation\nZ) atmospheric CO\n2",
+        "answer": " W) OCEANS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What moon of Saturn was shown by the Cassini space-craft\nto be spewing a watery, gassy plume from its geothermally heated south pole?",
+        "answer": " ENCELADUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a trace element in coal that\nis a pollutant and neurotoxin released into the atmosphere when coal is burned, for which some\nstates are currently developing technologies to reduce these emissions by 70 to 90%:\nW) sulfur\nX) mercury\nY) carbon\nZ) chromium",
+        "answer": " X) MERCURY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the term for the process of the addition of small\namounts of certain elements that makes semiconductors become useful electronic materials?",
+        "answer": " DOPING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nthat is oriented on the diagram from:\nW) upper left to lower left\nX) upper left to lower right\nY) upper right to lower left\nZ) upper right to lower right",
+        "answer": " X) UPPER LEFT TO LOWER RIGHT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST explanation for why the\nNorthern Hemisphere\u2019s summer occurs when the Sun is not the closest to Earth in Earth\u2019s orbit\naround the Sun:\nW) the Sun\u2019s rays are made of mostly neutrinos that have such small mass that distance does not\nmatter\nX) the Sun emits different amounts of energy at different times of the year\nY) the Sun\u2019s rays strike the Northern Hemisphere more directly in summer\nZ) because of precession",
+        "answer": " Y) THE SUN\u2019S RAYS STRIKE THE NORTHERN HEMISPHERE MORE\nDIRECTLY IN SUMMER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the MOST common method for separating a mixture of\nliquids based on the differences in component volatilities?",
+        "answer": " DISTILLATION (ACCEPT: FRACTIONAL or SIMPLE DISTILLATION)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What type of interaction occurs between molecules of H O that\n2\ncauses it to have a higher boiling point than H S?\n2",
+        "answer": " HYDROGEN BONDING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer as north, south, east, or west relative to a point on\nthe Equator, in what direction is the Earth\u2019s angular velocity as it rotates daily about its axis?",
+        "answer": " NORTH\n(Solution: fingers of right hand go towards east (direction of Earth\u2019s rotation) and thumb goes north)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Ignoring air resistance, wind velocity, and the rotation of the Earth,\nif a projectile is fired directly upwards, the horizontal component of the projectile\u2019s velocity:\nW) is zero\nX) remains a non zero constant\nY) continuously increases\nZ) continuously decreases",
+        "answer": " W) IS ZERO"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a homologous structure to a whale\nflipper:\nW) insect wing\nX) human arm\nY) a fish operculum\nZ) shark fin",
+        "answer": " X) HUMAN ARM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " A sarcomere is a basic unit in what specific tissue of mammals?",
+        "answer": " MUSCLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Evaluate the following radical expression: 5 3\u2212 75",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the positive geometric mean between the numbers 1 and 10,000:",
+        "answer": " 100\n(Solution: nth = a(r)n-1; 10,000 = 1r3-1 = 100; 100 \u00d7 100 = 10,000)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following locations is oceanic crust\nconverging with oceanic crust:\nW) the Aleutian Islands\nX) the Himalayan Mountains\nY) the Mid-Atlantic Ridge\nZ) the East Pacific Rise",
+        "answer": " W) THE ALEUTIAN ISLANDS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " About what percent of all glaciers in the world are\nretreating today:\nW) 25%\nX) 50%\nY) 75%\nZ) 100%",
+        "answer": " Z) 100%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The process in which fat globules in milk are broken\nup into smaller, more evenly dispersed particles is BEST described as:\nW) lactation\nX) pasteurization\nY) fermentation\nZ) homogenization",
+        "answer": " Z) HOMOGENIZATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate regarding\nnon-fuel petroleum products:\nW) petroleum jelly is often used to make household toiletries\nX) asphalt is often used in making roof shingles\nY) petrochemicals are used to make latex\nZ) printing inks and paint solvents are often petroleum-based",
+        "answer": " Y) PETROCHEMICALS ARE USED TO MAKE LATEX"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What scientific term is given to the apparent path of the Sun\naround the celestial sphere?",
+        "answer": " THE ECLIPTIC"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " The local group is a collection of what type of astronomical\nbodies?",
+        "answer": " GALAXIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What general term BEST describes the use of electrical current to\ncause a normally non-spontaneous reaction to occur?",
+        "answer": " ELECTROLYSIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In a chemical reaction, what is the term that describes the time\nrequired for a reactant to reach half its original concentration?",
+        "answer": " HALF-LIFE (ACCEPT: t\u00bd )"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Neglecting air resistance, at what angle above the horizontal would\nyou aim your garden hose nozzle to obtain the greatest horizontal distance if the nozzle is at ground\nlevel:\nW) 0\u00ba\nX) 30\u00ba\nY) 45\u00ba\nZ) 60\u00ba",
+        "answer": " Y) 45\u00ba"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Tim hears water dripping from a faucet while trying to take a nap. If\nhe counts 20 drops in one minute, what is the period of the drops, in seconds?",
+        "answer": " 3\n(Solution: t = 60s/20drops = 3 sec)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The lambdoid suture is found in which of the following parts of\nthe human body:\nW) scapula\nX) pelvis\nY) skull\nZ) knee",
+        "answer": " Y) SKULL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 5 organs in the human body that are NOT\ntypically considered part of the respiratory system: nose; bronchi; pharynx; esophagus; cervix",
+        "answer": " ESOPHAGUS; CERVIX"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the SI unit given to a volt per ampere?",
+        "answer": " OHM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the current, in amperes, for a 3600-watt electric conveyor\noperating on a 240-volt power source?",
+        "answer": " 15\n(Solution: current = watts/volts; 3600/240 = 15 amperes)"
+    }
+]

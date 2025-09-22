@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the Bronsted-Lowry system, a base is defined as\nwhich of the following:\nW) electron pair acceptor\nX) proton acceptor\nY) proton donor\nZ) hydroxide donor",
+        "answer": " X) PROTON ACCEPTOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the molecular formula for the conjugate base of the\nfollowing Br\u00f8nsted-Lowry acid: H CO\n2 3",
+        "answer": " HCO \u2013\n3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In response to the development of incandescent lights, gas lights\nwere vastly improved by soaking the mantles in what substance to help convert heat and UV energy\ninto visible light:\nW) thorium oxide\nX) titanium dioxide\nY) uranium oxide\nZ) tungsten",
+        "answer": " W) THORIUM OXIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A hunter uses a 30-gram arrow that is fired by a bowstring at a velocity\nof 56 meters per second. What is the impulse on the arrow, to the second decimal place in kilogram\nmeters per second?",
+        "answer": " 1.68\n(Solution: F\u0394t = m\u0394V = mV \u2013 mV = m(V \u2013 0) = (0.030kg)(56m/s) = 1.68kg.m/s)\n2 1 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specific area of the human diencephalon is responsible for\nproducing factors that regulate the release of hormones of the pituitary?",
+        "answer": " HYPOTHALAMUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an insertion of the human biceps femoris\nmuscle:\nW) ventral portion of the head of the femur\nX) lateral sides of the head of the tibia\nY) ileac crest\nZ) pubic symphisis",
+        "answer": " X) LATERAL SIDES OF THE HEAD OF THE TIBIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given that tangent \u03b8 = ! , find the possible values of sine \u03b8:\n4\n3 3",
+        "answer": " AND !\n5 5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Divide and simplify the following 2 polynomials, combining like terms:\n(x3 !8)\n(x!2)",
+        "answer": " x2 + 2x + 4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was the evidence that Alfred\nWegener did not have that would have convinced the scientific community that his theory of\ncontinental drift was correct:\nW) paleomagnetic studies\nX) apparent fit of the continents\nY) locations of ancient glacial deposits\nZ) comparative fossil studies",
+        "answer": " W) PALEOMAGNETIC STUDIES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of seismic waves:\nW) the modified Mercalli scale measures earthquakes based on direct observations of damage\nX) the actual underground point of origin of an earthquake is called the hypocenter\nY) the typical velocity of a P-wave near the Earth\u2019s surface is about 5 kilometers per second\nZ) S-waves cause the most damage during an earthquake",
+        "answer": " Z) S-WAVES CAUSE THE MOST DAMAGE DURING AN EARTHQUAKE\n(Solution: surface waves cause the most damage)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST description of an\necological niche:\nW) a situation in which a species is well adapted to a specific set of environmental conditions\nX) the biomass load of a given environment\nY) a pollutant that becomes concentrated in organisms as it moves up through the food chain\nZ) all the environmental conditions, plants, and animals of an isolated area",
+        "answer": " W) A SITUATION IN WHICH A SPECIES IS WELL ADAPTED TO A SPECIFIC\nSET OF ENVIRONMENTAL CONDITIONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Lichens are a symbiotic relationship of what 2 general\ntypes of organisms?",
+        "answer": " GREEN ALGAE AND FUNGI (ACCEPT: ALGAE OR CYANOBACTERIA FOR\nGREEN ALGAE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the MAIN advantage of space-based\ntelescopes over typical ground-based telescopes:\nW) they are not affected by radiation\nX) their mirrors can be any size because of zero gravity\nY) they are cheaper to maintain\nZ) they experience no atmospheric distortion",
+        "answer": " Z) THEY EXPERIENCE NO ATMOSPHERIC DISTORTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST evidence that globular\nclusters are composed of mostly old stars:\nW) most of their stars have a low metal content\nX) most of their stars are population one stars\nY) most of the stars have a very high mass\nZ) most of their stars are white dwarfs",
+        "answer": " W) MOST OF THEIR STARS HAVE A LOW METAL CONTENT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The reaction Ca(OH) + 2HCl \u00e0\uf0e0 2H O + CaCl , is an example\n2 2 2\nof what class of chemical reaction:\nW) synthesis\nX) single replacement\nY) double replacement\nZ) decomposition",
+        "answer": " Y) DOUBLE REPLACEMENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A gas sample occupies a volume of 10.0 liters at a pressure of 800\ntorr. If the pressure on the sample becomes 1.5 atmospheres and temperature remains constant, what\nvolume does the gas now occupy, to the first decimal place in liters?",
+        "answer": " 7.0\n(Solution: P V = P V ; (800 torr)(10.0L) = (1140 torr)(V ); V = 7.0L)\n1 1 2 2 2 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST expression of the speed of\nsound waves in various media:\nW) the product of the elastic property times the inertial property\nX) the value of the inertial property divided by the elastic property\nY) the value of the elastic property divided by the inertial property\nZ) the square root of the elastic property divided by the inertial property",
+        "answer": " Z) THE SQUARE ROOT OF THE ELASTIC PROPERTY DIVIDED BY THE\nINERTIAL PROPERTY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a mandolin string is tuned to 880 hertz and is 28-centimeters long,\nwhat is the wavelength, in meters rounded to the second decimal place, of the sound wave produced\nby this string, assuming that the instrument is at 20\u00baC and that the speed of sound is 343\nmeters/second?",
+        "answer": " 0.39\n(Solution: wavelength = v/f = 343/880 = 0.389)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) comb jellies or ctenophores (read as: ten-OH-fours) have radial symmetry\nX) lobsters have bilateral symmetry\nY) protostomes have no true coeloms (read as: SEE-loams)\nZ) flatworms are acoelomates (read as: ah-SEA-low-mates)",
+        "answer": " Y) PROTOSTOMES HAVE NO TRUE COELOMS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that are compound fruits:\ntomato; raspberry; grape; pineapple",
+        "answer": " RASPBERRY AND PINEAPPLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a regular polyhedron:\nW) regular tetrahedron\nX) cube\nY) regular icosahedron\nZ) regular hexadecagon",
+        "answer": " Z) REGULAR HEXADECAGON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following quadratic inequality for x: x2 + 5x + 4 \u2265 0",
+        "answer": " x \u2265 \u20131 OR x \u2264 \u20134 (must give both answers)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a terminal moraine that resulted\nat the climax of the Wisconsin ice sheet:\nW) Long Island, New York\nX) the northern Bahamas Islands\nY) Death Valley, California\nZ) Hudson Bay, Canada",
+        "answer": " W) LONG ISLAND, NEW YORK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Looking down on the Earth in the Northern Hemisphere,\nwhich of the following BEST describes the circulation of air above an anticyclone:\nW) air spiraling inward in a counter-clockwise direction\nX) air spiraling outward in a counter-clockwise direction\nY) air spiraling inward in a clockwise direction\nZ) air spiraling outward in a clockwise direction",
+        "answer": " Z) AIR SPIRALING OUTWARD IN A CLOCKWISE DIRECTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " To remove this parasite that erupts from the skin,\nvictims will wrap the end of the emerging worm around a stick and turn the stick over a period of\ndays to slowly remove the worm:\nW) Ascaris\nX) guinea worm\nY) hookworm\nZ) strongyloid",
+        "answer": " X) GUINEA WORM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following that are primarily bacterial\ndiseases: diphtheria; herpes zoster; strep throat; rubella; yellow fever",
+        "answer": " DIPHTHERIA; STREP THROAT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " The Schmidt telescope would BEST be considered:\nW) an advanced adaptive optics telescope with x-ray detection capabilities\nX) a wide field telescope\nY) a radio telescope\nZ) an orbital x-ray telescope",
+        "answer": " X) A WIDE FIELD TELESCOPE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the planet Venus has a high albedo\nX) a gnomon is a very simple astronomical instrument\nY) the Moon is found at over 10 degrees north of the ecliptic in a lunar standstill year\nZ) carbon is probably the fourth most common element in the universe",
+        "answer": " Y) THE MOON IS FOUND AT OVER 10 DEGREES NORTH OF THE ECLIPTIC\nIN A LUNAR STANDSTILL YEAR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true regarding general trends\nfor the representative elements in the Periodic Table:\nW) simple positive ions are always smaller than the neutral atoms from which they are formed\nX) elements with low ionization energies lose electrons easily\nY) the size of anions increases from left to right\nZ) electronegativities increase from left to right",
+        "answer": " Y) THE SIZE OF ANIONS INCREASES FROM LEFT TO RIGHT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many carbons and hydrogens are in the following\ncompound: (read slowly) 2,4-dimethyl hexane",
+        "answer": " CARBON = 8; HYDROGEN = 18"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The index of refraction for a medium is:\nW) the ratio of the angles of refraction of red light and blue light in the medium\nX) the angle of refraction for monochromatic light in the medium\nY) the ratio of the speed of light in the medium to the speed of light in a vacuum\nZ) the ratio of the speed of light in a vacuum to the speed of light in the medium",
+        "answer": " Z) THE RATIO OF THE SPEED OF LIGHT IN A VACUUM TO THE SPEED OF\nLIGHT IN THE MEDIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If light of a single wavelength of 600 nanometers moves from air into\na medium with a refractive index of 1.25, what is the wavelength, in nanometers, of the light as it\ntravels in the denser medium?",
+        "answer": " 480\n(Solution \u03bb = \u03bb/n 600 nm/1.25 = 480)\nn"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST meets the premises of the Hardy-\nWeinberg equilibrium:\nW) random mating, small populations, and no genetic load\nX) random mating, large populations, and no genetic load\nY) non-random mating, small populations, and no net mutations\nZ) non-random mating, large populations, and no net mutations",
+        "answer": " X) RANDOM MATING, LARGE POPULATIONS, AND NO GENETIC LOAD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 3 classes of biological molecules whose\nimmediate breakdown product can generate energy by feeding into metabolism at the level of\npyruvate or acetyl Co-A: lipids; proteins; carbohydrates",
+        "answer": " LIPIDS; PROTEINS; CARBOHYDRATES (ACCEPT: ALL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following logarithmic equation for x: log x = 4 (read as: log\n4\nbase 4 of x equals 4)",
+        "answer": " 256\n(Solution: 44 = 256)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the 9th term of the geometric sequence whose first 3 terms are 3, 6,\nand 12:",
+        "answer": " 768\n(Solution: a = a(r)x-1; a = 3(2)8; a = 768)\nx 9"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The catastrophic dust bowl of the 1930\u2019s was caused by\nwhich of the following processes:\nW) isostatic adjustment\nX) basal slip\nY) desertification\nZ) mass wasting",
+        "answer": " Y) DESERTIFICATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an example of a U-shaped\nvalley that is partially submerged:\nW) fjord\nX) arete\nY) paternoster lake\nZ) hanging valley",
+        "answer": " W) FJORD"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the medical name for the disease caused by\nClostridium bacteria that is prevalent in soils and commonly named lockjaw?",
+        "answer": " TETANUS (ACCEPT: TETANY)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the common name for vitamin B3 that is a\ncentral component of coenzymes NAD and NADP+?",
+        "answer": " NIACIN (ACCEPT: NICOTINIC ACID)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Which one of the following 4 planets has the smallest orbital\neccentricity: Mercury; Jupiter; Venus; Saturn",
+        "answer": " VENUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 3 objects from LEAST to MOST in their\nmaximum apparent brightness: Sirius; Mars; Jupiter",
+        "answer": " SIRIUS; JUPITER; MARS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the pH of a 1 \u00d7 10\u20134 molar HCl solution?",
+        "answer": " 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 bonds from those with the LOWEST\nelectronegativity difference to the GREATEST difference: F-H; O-H; S-H; Cl-H",
+        "answer": " S-H; Cl-H; O-H; F-H"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many 20-ohm resistors connected in parallel will produce 5\nohms of equivalent resistance?",
+        "answer": " 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Assuming g = 10 meters per second squared, how many total newtons\nof thrust are needed to accelerate a 5,000-kilogram rocket vertically at 6 meters per second squared?",
+        "answer": " 80,000\n(Solution: F = ma = (5000 \u00d7 6) = 30,000N + w = mg = 5000 \u00d7 10 = 50,000N; 30,000N + 50,000N\n= 80,000N)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " The pincers of scorpions are a modification of what arachnid\nappendage?",
+        "answer": " PEDIPALPS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 organisms that are cephalopods (read as:\nSEFF-al-low-pods): squid; mussel; chambered nautilus; slug",
+        "answer": " SQUID; CHAMBERED NAUTILUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many watts are equivalent to 1 joule of energy expended per\nminute of time?",
+        "answer": " 1/60 (ACCEPT: 0.016 or 0.017 or 0.0166 or 0.0167)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Michael, who has a mass of 100 kilograms, tries to ski jump with a\nvelocity of 15 meters per second. What is Michael\u2019s momentum, in proper SI units, as he leaves the\nski jump?",
+        "answer": " 1500 KILOGRAM METERS PER SECOND\n(Solution: momentum = mv = (100kg)(15 m/s) = 1500 kg.m/s)"
+    }
+]

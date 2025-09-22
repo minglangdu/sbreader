@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molecules has an electron pair geometry\nthat matches its molecular geometry:\nW) H O\n2\nX) NH\n3\nY) SO\n2\nZ) PCl\n5",
+        "answer": " Z) PCl\n5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a constitutional isomer of the\norganic compound whose molecular formula is C H :\n4 8\nW) 1-butene\nX) 2-butene\nY) 2-methyl-1-butene\nZ) 2-methyl-1-propene",
+        "answer": " Y) 2-METHYL-1-BUTENE\n(Solution: 2-methyl-1-butene has a molecular formula of C H )\n5 10"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Within the Standard Model of Particle Physics what particle is\nresponsible for carrying the strong nuclear force?",
+        "answer": " GLUON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the principle or law that fundamentally limits the accuracy of\nspecifying at the same time the momentum and position of a particle?",
+        "answer": " HEISENBERG UNCERTAINTY PRINCIPLE (ACCEPT: UNCERTAINTY\nPRINCIPLE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following occurs during synapsis of meiosis:\nW) non-sister chromatids of homologous chromosomes cross over\nX) sister chromatids of homologous chromosomes cross over\nY) non-sister chromatids of non-homologous chromosomes cross over\nZ) sister chromatids of non-homologous chromosomes cross over",
+        "answer": " W) NON-SISTER CHROMATIDS OF HOMOLOGOUS CHROMOSOMES CROSS\nOVER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " If 2n is the number of chromosomes and 2s is the DNA content of a\ndiploid human cell in G1 of the cell cycle, what are the n and s values, respectively, of a human\nspermatogonia at the end of telophase one of meiosis?",
+        "answer": " 1N AND 2S"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In simplest radical form, give the cosecant of a 135\u00ba angle:",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the value of k that will result in a unique, real solution for the\nfollowing equation: kx2 + 10x + 25 = 0",
+        "answer": " 1\n(Solution: b2 - 4ac = 0; 100 \u2013 4(k)(25) = 0; k = 1)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Groundwater flows according to what law that, in its\nsimplest form, is given by the equation Q = kIA:\nW) Darcy\u2019s Law\nX) Law of Superposition\nY) Law of Original Horizontality\nZ) Ekman\u2019s Law",
+        "answer": " W) DARCY\u2019S LAW"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a type of inland fog that occurs\nmore often in spring when warm, moist air is cooled below its dew point as it moves over a cooler\nsurface:\nW) advection fog\nX) radiation fog\nY) reflection fog\nZ) steam fog",
+        "answer": " W) ADVECTION FOG"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " A primary consequence of acid rain in the northeast\nU.S. has been:\nW) salt-water intrusion in coastal wells\nX) the leaching out of toxic heavy metals in lakes and streams\nY) increase in radioactive decay of parent bedrock\nZ) increased algal growth to cause eutrophication in lakes",
+        "answer": " X) THE LEACHING OUT OF TOXIC HEAVY METALS IN LAKES AND\nSTREAMS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " About two-thirds of the cause of acid precipitation is the\nproduction of sulfuric acid in the atmosphere. The production of what acid accounts for about the\nother one-third of acid rain?",
+        "answer": " NITRIC ACID (ACCEPT: NITROUS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " If an astronomer photographed a massive cloud of ionized\nhydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically\nappear to us:\nW) white\nX) green\nY) pink\nZ) blue",
+        "answer": " Y) PINK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was discovered in the 1600\u2019s about\nVenus that was strong evidence that the planets orbited the Sun:\nW) Venus\u2019s cloud cover reverses its direction in the sky at certain times of the year\nX) Venus has phases varying from crescent to full\nY) Venus has an axial motion opposite to that of the Earth\nZ) Venus is the brightest planet in the sky only part of the year",
+        "answer": " X) VENUS HAS PHASES VARYING FROM CRESCENT TO FULL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " For a given chemical reaction at constant temperature and\npressure, if the value for Gibbs free-energy change is a negative, the reaction is always:\nW) endothermic\nX) exothermic\nY) spontaneous\nZ) nonspontaneous",
+        "answer": " Y) SPONTANEOUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In a phase diagram, the solid-liquid line has a negative slope for\nwhich of the following pure substances:\nW) carbon dioxide\nX) water\nY) ammonia\nZ) argon",
+        "answer": " X) WATER\n(Solution: solid water is less dense than liquid water)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following was the big surprise in the classic gold foil\nexperiments of Rutherford, Geiger and Marsden:\nW) alpha particles sometimes disappeared\nX) electrons would not penetrate the nucleus\nY) the atom was mostly space as supported by the finding that most alpha particles continued on a\nstraight path and hit the rear of the detection screen\nZ) some alpha particles left evidence of having returned almost straight back to hit the front part of\nthe detection screen",
+        "answer": " Z) SOME ALPHA PARTICLES LEFT EVIDENCE OF HAVING RETURNED\nALMOST STRAIGHT BACK TO HIT THE FRONT PART OF THE DETECTION SCREEN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Most of the early classical experiments with alpha particles were done\nby Rutherford and co-workers using a simple scintillation detector, which was a screen most\ncommonly coated with what substance?",
+        "answer": " ZINC SULFIDE (ACCEPT: ZnS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of chloroplasts:\nW) they are relatively large organelles and can exceed 3 microns long\nX) thay have smaller ribosomes than are found in the plant cytosol\nY) they contain thylakoid (read as: THY-la-koid) stacks\nZ) their numbers are controlled primarily by the cell\u2019s nuclear genes that control division",
+        "answer": " Z) THEIR NUMBERS ARE CONTROLLED PRIMARILY BY THE CELL\u2019S\nNUCLEAR GENES THAT CONTROL DIVISION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " By number or name, identify all of the following 4 areas of plants\nwhere you would be MOST likely to see meristematic tissue:\n1) longitudinal section of a terminal bud\n2) cross-section of the pith of a sunflower stem\n3) transverse section of a lateral root tip\n4) cross-section of central parenchymal cells of a corn stem",
+        "answer": " 1 AND 3 (ACCEPT: 1 - LONGITUDINAL SECTION OF A TERMINAL BUD AND\n3 - TRANSVERSE SECTION OF A LATERAL ROOT TIP)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer as one, two, three, or four, in what quadrant will\ntheta terminate if sine \u03b8 and secant \u03b8 are both negative?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Differentiate and simplify the following with respect to x: y = ln x\n(read as: y = natural log of absolute value of x)\n1",
+        "answer": "\nx"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the global wind system that\nmost influences weather in the West Indies and Central America:\nW) northeast trade winds\nX) prevailing westerlies\nY) southeast trade winds\nZ) polar westerlies",
+        "answer": " W) NORTHEAST TRADE WINDS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the soil horizon that contains a\nmixture of organic matter and highly altered mineral matter and is dark in color:\nW) O-horizon\nX) A-horizon\nY) C-horizon\nZ) R-horizon",
+        "answer": " X) A-HORIZON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is LEAST accurate:\nW) the molecular formula for dimethyl sulfoxide is C H SO\n2 6\nX) black smokers are a type of hydrothermal vent found on the ocean floor\nY) Io is the most volcanically active body in our Solar System\nZ) on a weather map, an adjacent series of closed half-circles along a line represents a cold front",
+        "answer": " Z) ON A WEATHER MAP, AN ADJACENT SERIES OF CLOSED HALF-CIRCLES\nALONG A LINE REPRESENTS A COLD FRONT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT generally true\nregarding the hydrologic cycle world-wide:\nW) glaciers are shrinking\nX) river discharge is decreasing\nY) precipitation at high altitudes is increasing\nZ) the thickness of sea ice over the Arctic Ocean is decreasing",
+        "answer": " X) RIVER DISCHARGE IS DECREASING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nfollowing stars has the highest absolute visual magnitude and is also the hottest:\nW) one located in the upper left of the diagram\nX) one located in the upper right of the diagram\nY) one located in the lower left of the diagram\nZ) one located in the lower right of the diagram",
+        "answer": " W) ONE LOCATED IN THE UPPER LEFT OF THE DIAGRAM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the MOST common scientific term for the specific\nspectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a\nmagnetic field?",
+        "answer": " ZEEMAN EFFECT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In order to find the heat of reaction, or delta H naught, for a\nreaction using standard enthalpies of formation, the working formula is:\nW) delta H products minus delta H reactants\nX) delta H reactants minus delta H products\nY) delta H reactants plus delta H products\nZ) delta H products plus delta H reactants",
+        "answer": " W) DELTA H PRODUCTS MINUS DELTA H REACTANTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": "\nnearest neighbors, of an atom in the simple cubic unit cell structure?",
+        "answer": " 6"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus\nX) the tritium nucleus contains 3 nucleons\nY) it is typically easier to fission U-238 than U-235 with slow neutrons\nZ) fission fragments of a nucleus are more often about 60% and 40% of the original mass of the\natom than 50% and 50%",
+        "answer": " Y) IT IS TYPICALLY EASIER TO FISSION U-238 THAN U-235 WITH SLOW\nNEUTRONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In the Standard Model of particle physics, all forces arise because of\nthe exchange of what fundamental class of particles?",
+        "answer": " BOSONS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If the human SRY gene is inactivated in the first week of\ngestation, which of the following will occur:\nW) the embryo will die\nX) the embryo will remain female\nY) the embryo will continue as a male\nZ) the embryo will remain in a quiescent state",
+        "answer": " X) THE EMBRYO WILL REMAIN FEMALE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following functions primarily by cutting RNA\nstrands at specific sites:\nW) micro RNA\nX) episome\nY) ribozyme\nZ) ligase",
+        "answer": " Y) RIBOZYME"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following trigonometric expression completely: cos \u03b8 tan \u03b8\n(read as: cosine theta tangent theta)",
+        "answer": " sin \u03b8"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In how many ways can 4 green, 2 yellow, and 2 red tee-shirts be given to\n8 soccer players standing in a row if each player receives only one tee-shirt?",
+        "answer": " 420\n(Solution: P = n!/(n ! n ! n !...); P = 8!/(4! 2! 2!) = 420)\n1 2 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a glacial feature that is NOT\ncaused by the deposition of sediments:\nW) kame\nX) kettle\nY) drumlin\nZ) bergshrund",
+        "answer": " Z) BERGSHRUND"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Analysis of which of the following isotopes is most\ncommonly used because it gives the BEST indication of historical temperatures at different latitudes\nworldwide:\nW) oxygen\nX) carbon\nY) nitrogen\nZ) potassium",
+        "answer": " W) OXYGEN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the SI unit for absorbed dose of ionizing\nradiation?",
+        "answer": " GRAY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Nisin is an antibiotic currently being studied because it\nhas not yet induced widespread biological resistance. Which of the following is its mode of action:\nW) directly inhibits the electron transport system in bacteria\nX) inhibits in vivo endotoxin formation\nY) binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane\nZ) binds to 30-S ribosomal subunit",
+        "answer": " Y) BINDS TO A BACTERIAL CELL WALL PRECURSOR TO FORM DAMAGING\nPORES IN THE PLASMA MEMBRANE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the most common astronomical term for the geometrical\nconfiguration where Venus is between the Earth and the Sun?",
+        "answer": " INFERIOR CONJUNCTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " How many degrees of arc are in 4 hours and 20 minutes of right\nascension?",
+        "answer": " 65 DEGREES\n(Solution: 15 degrees per hour)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the focal length, in centimeters and giving the proper sign, of\na convex mirror that has a radius of curvature of 12 centimeters?",
+        "answer": " \u20136\n(Solution: radius of curvature = 2 \u00d7 focal length)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Rutherford and coworkers in the early 20th century found that when\nalpha particles strike nitrogen-14 nuclei, they most commonly produce what element?",
+        "answer": " OXYGEN (ACCEPT: OXYGEN-17 or O-17)\n(Solution: He-4 + N-14 \u00e0\uf0e0 O-17 + proton)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Predict the bond angles, in degrees, for atoms in a molecule of\nboron trichloride:",
+        "answer": " 120\u00ba (ACCEPT: THREE 120\u00ba)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Consider a flexible balloon filled with 3.0 moles of helium at a\ntemperature of 27\u00baC and at a pressure of 101.3 kilopascals. What is the volume in the balloon, in\nliters to the nearest whole number?",
+        "answer": " 74\n(Solution: V = (nRT)/P = [(3.0 mol)0.0821L.atm/mol.K)(300K)]/1 atm = 73.89L)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In which of the following 4 phases of cell cycle would a chemical\nthat causes mispairing of bases during replication do the most damage: G-1; G-2; S; M",
+        "answer": " S"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " For a dihybrid cross between parent plants that are each\nheterozygous for both traits, if there is complete dominance and independent assortment, what is the\ntotal fraction of the offspring that will have a recessive phenotype for either trait and the dominant\nfor the other?",
+        "answer": " 6/16 (ACCEPT: 3/8)\n(Solution: 3/16 + 3/16)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the angular velocity, in radians per second, of a wagon wheel\nwith a diameter of 2 meters and a surface velocity of 3 meters per second?",
+        "answer": " 3\n(Solution: \u03a4 = v/r = 3/1 = 3 rad/sec)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The dread pirate Roberts orders his crew into a 100 kilogram rowboat\nto sail to an island to look for buried treasure. If the rowboat has a capacity of 1.10 cubic meters and\nis in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink?",
+        "answer": " 20\n(Solution: Fb = DgV = (1000 kg/m3)(9.8m/s2)(1.10m3) = 10,780N; 10,780N \u2013 (100kg)(9.8m/s2) =\n9,800N. Each person weighs (50kg)( 9.8m/s2) = 490N; 9800N/490N = 20 pirates)"
+    }
+]

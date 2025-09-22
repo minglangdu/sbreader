@@ -1,352 +1,352 @@
 [
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " The reaction Fe O + 4H \uf0e0 3Fe + 4H O, is an example of what\n3 4 2 2\nclass of chemical reaction:\nW) decomposition\nX) single replacement\nY) combustion\nZ) combination",
-        "subject": " CHEMISTRY ",
-        "answer": "X) SINGLE REPLACEMENT"
+        "answer": " X) SINGLE REPLACEMENT"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Find the mass percent composition, rounded to the nearest whole\nnumber, for each atom in KClO . Assume the atomic masses of potassium = 39, chlorine = 35, and\n3\noxygen = 16",
-        "subject": " CHEMISTRY ",
-        "answer": "K = 32%; Cl = 29%; O = 39%(Solution: K= 39g/122g \u00d7 100% = 32%; Cl= 35/122 \u00d7 100% = 29%; O= 48/122 \u00d7 100% = 39%)"
+        "answer": " K = 32%; Cl = 29%; O = 39%\n(Solution: K= 39g/122g \u00d7 100% = 32%; Cl= 35/122 \u00d7 100% = 29%; O= 48/122 \u00d7 100% = 39%)"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the highest level of structural\norganization in myoglobin:\nW) primary\nX) secondary\nY) tertiary\nZ) quaternary",
-        "subject": " BIOLOGY ",
-        "answer": "Y) TERTIARY"
+        "answer": " Y) TERTIARY"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 4 choices that are characteristic of\nE. coli: gram negative; an enteric organism; non-motile; bacillus",
-        "subject": " BIOLOGY ",
-        "answer": "GRAM NEGATIVE; AN ENTERIC ORGANISM; BACILLUS(ACCEPT: ALL BUT NON-MOTILE)High School Round 8 Page 1"
+        "answer": " GRAM NEGATIVE; AN ENTERIC ORGANISM; BACILLUS\n(ACCEPT: ALL BUT NON-MOTILE)"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following colors of light has the greatest angle of\nrefraction in normal glass:\nW) yellow\nX) green\nY) orange\nZ) blue",
-        "subject": " PHYSICS ",
-        "answer": "Z) BLUE"
+        "answer": " Z) BLUE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " If a beam of white light passes through a prism, which of the\nfollowing colors color will emerge on the other side at the lowest angle with respect to the incident\nbeam:\nW) orange\nX) indigo\nY) green\nZ) blue",
-        "subject": " PHYSICS ",
-        "answer": "W) ORANGE"
+        "answer": " W) ORANGE"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true:\nW) all central angles in a regular polygon are equal\nX) irregular polygons are not considered to have centers and have no central angles\nY) the circumcircle of a regular polygon is the circle that passes through at least one vertex\nZ) all regular polygons are convex",
-        "subject": " MATH ",
-        "answer": "Y) THE CIRCUMCIRCLE OF A REGULAR POLYGON IS THE CIRCLE THATPASSES THROUGH AT LEAST ONE VERTEX"
+        "answer": " Y) THE CIRCUMCIRCLE OF A REGULAR POLYGON IS THE CIRCLE THAT\nPASSES THROUGH AT LEAST ONE VERTEX"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Find the sum of all interior angles, in degrees, in a regular polygon having\n100 sides:",
-        "subject": " MATH ",
-        "answer": "17,640(Solution: (100 \u2013 2)(180) = 17,640\u00ba)High School Round 8 Page 2"
+        "answer": " 17,640\n(Solution: (100 \u2013 2)(180) = 17,640\u00ba)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Because of Earth\u2019s rotation and shape, ocean currents are\nintensified along which of the following borders of all oceans:\nW) northern\nX) southern\nY) eastern\nZ) western",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) WESTERN"
+        "answer": " Z) WESTERN"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT generally characteristic of a\npassive continental margin:\nW) relatively wide continental shelf\nX) oceanic trench\nY) terrigenous sediment\nZ) continental rise",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) OCEANIC TRENCH"
+        "answer": " X) OCEANIC TRENCH"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " The sea nettle is the Bering Sea\u2019s most common:\nW) jellyfish\nX) crab\nY) sea urchin\nZ) walleye pollock",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "W) JELLYFISH"
+        "answer": " W) JELLYFISH"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " 1 cubic foot per second equals approximately how many\ngallons per minutes:\nW) 256\nX) 449\nY) 646\nZ) 724",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) 449High School Round 8 Page 3"
+        "answer": " X) 449"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " Which of the terrestrial planets has the lowest albedo?",
-        "subject": " ASTRONOMY ",
-        "answer": "MERCURY"
+        "answer": " MERCURY"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " Most of the hydrogen that makes up the planet Jupiter is in what\nphase?",
-        "subject": " ASTRONOMY ",
-        "answer": "LIQUID"
+        "answer": " LIQUID"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the theoretical end of a titration:\nW) end point\nX) indicator point\nY) equivalence point\nZ) standardization point",
-        "subject": " CHEMISTRY ",
-        "answer": "Y) EQUIVALENCE POINT(Solution: end point is the observed end of a titration)"
+        "answer": " Y) EQUIVALENCE POINT\n(Solution: end point is the observed end of a titration)"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " In a strong acid-base titration, what is the pH of the solution when\nthe equivalence point is reached?",
-        "subject": " CHEMISTRY ",
-        "answer": "7High School Round 8 Page 4"
+        "answer": " 7"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What specific class of antibodies is most commonly responsible for\ndegranulation of basophils or mast cells?",
-        "subject": " BIOLOGY ",
-        "answer": "IgE (ACCEPT: IMMUNOLGLOBULIN E)"
+        "answer": " IgE (ACCEPT: IMMUNOLGLOBULIN E)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a group of about 20 proteins that aid in\nthe attraction and phagocytosis of microorganisms by macrophages:\nW) alpha interferons\nX) complement system\nY) TNF\nZ) hemopoietins",
-        "subject": " BIOLOGY ",
-        "answer": "X) COMPLEMENT SYSTEM"
+        "answer": " X) COMPLEMENT SYSTEM"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What property of a wave is generally said to increase during\nconstructive interference?",
-        "subject": " PHYSICS ",
-        "answer": "AMPLITUDE"
+        "answer": " AMPLITUDE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the most common name for the Law or principal dictating\nthat the amount of a substance that is released or deposited from an electrode is directly proportional\nto the amount of electric current passing through the circuit?",
-        "subject": " PHYSICS ",
-        "answer": "FARADAY\u2019S FIRST LAW OF ELECTROLYSIS(ACCEPT: FARADAY\u2019S FIRST LAW or FARADAY\u2019S LAW OF ELECTROLYSIS)High School Round 8 Page 5"
+        "answer": " FARADAY\u2019S FIRST LAW OF ELECTROLYSIS\n(ACCEPT: FARADAY\u2019S FIRST LAW or FARADAY\u2019S LAW OF ELECTROLYSIS)"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Find 2 mean proportionals between the numbers 3 and 24:",
-        "subject": " MATH ",
-        "answer": "6 AND 12(Solution: 3r3 = 24, r = 2)"
+        "answer": " 6 AND 12\n(Solution: 3r3 = 24, r = 2)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Find the numerical value of the geometric mean of the following 4\nvalues: 21; 23; 28; 28",
-        "subject": " MATH ",
-        "answer": "32 (DO NOT ACCEPT: 25)(Solution: 1 + 3 + 8 + 8 = 20/4 = 5; 25 = 32)"
+        "answer": " 32 (DO NOT ACCEPT: 25)\n(Solution: 1 + 3 + 8 + 8 = 20/4 = 5; 25 = 32)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Many of the driest locales on Earth are situated between\nwhich of the following latitudes:\nW) 0\u00ba to 15\u00ba\nX) 15\u00ba to 30\u00ba\nY) 30\u00ba to 45\u00ba\nZ) 45\u00ba to 60\u00ba",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) 15\u00ba to 30\u00ba"
+        "answer": " X) 15\u00ba to 30\u00ba"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of breccia rock:\nW) it is sedimentary\nX) its color is variable\nY) its texture consists of rounded pebbles, cobbles and boulders\nZ) fragments may be any type of igneous, metamorphic, or sedimentary rocks",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Y) ITS TEXTURE CONSISTS OF ROUNDED PEBBLES, COBBLES ANDBOULDERS(Solution: constituent clasts are angular)High School Round 8 Page 6"
+        "answer": " Y) ITS TEXTURE CONSISTS OF ROUNDED PEBBLES, COBBLES AND\nBOULDERS\n(Solution: constituent clasts are angular)"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " In the northern hemisphere, which of the following\ndegrees latitude would experience a length of day of 6 months:\nW) 0\nX) 30\nY) 60\nZ) 90",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Z) 90"
+        "answer": " Z) 90"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a substance that is generally\nconsidered friable:\nW) concrete\nX) topaz\nY) quartz\nZ) perlite",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Z) PERLITE(Solution: it is easily reduced to smaller pieces with little effort)"
+        "answer": " Z) PERLITE\n(Solution: it is easily reduced to smaller pieces with little effort)"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " From what specific celestial body do meteor showers originate?",
-        "subject": " ASTRONOMY ",
-        "answer": "COMET(S)"
+        "answer": " COMET(S)"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Multiple Choice",
         "content": " Of which of the following is the Hubble Law most directly a\nconsequence:\nW) Doppler shift\nX) Kirchoff\u2019s second law\nY) Kepler\u2019s second law\nZ) Drake\u2019s equation",
-        "subject": " ASTRONOMY ",
-        "answer": "W) DOPPLER SHIFTHigh School Round 8 Page 7"
+        "answer": " W) DOPPLER SHIFT"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " A sample of gas is heated from 300K to 500K. If the container\nis sealed and of fixed volume, which of the following will remain constant:\nW) the average kinetic energy of the gas molecules\nX) the average speed of the gas molecules\nY) the density of the gas\nZ) the pressure of the gas",
-        "subject": " CHEMISTRY ",
-        "answer": "Y) THE DENSITY OF THE GAS"
+        "answer": " Y) THE DENSITY OF THE GAS"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following does NOT have the electron\nconfiguration of argon:\nW) O2\u2013\nX) Cl\u2013\nY) S2\u2013\nZ) K+",
-        "subject": " CHEMISTRY ",
-        "answer": "W) O2\u2013(Solution: O2\u2013 has configuration of neon)"
+        "answer": " W) O2\u2013\n(Solution: O2\u2013 has configuration of neon)"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " In angiosperm seed development, what fuses with the second sperm\nnucleus to form the endosperm?",
-        "subject": " BIOLOGY ",
-        "answer": "2 POLAR NUCLEI (ACCEPT: 2 OR BOTH POLAR NUCLEI or POLAR NUCLEI)(DO NOT ACCEPT: POLAR NUCLEUS)"
+        "answer": " 2 POLAR NUCLEI (ACCEPT: 2 OR BOTH POLAR NUCLEI or POLAR NUCLEI)\n(DO NOT ACCEPT: POLAR NUCLEUS)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " In what specific part of a eukaryotic cell will pyruvate be converted\ninto acetyl Co-enzyme A?",
-        "subject": " BIOLOGY ",
-        "answer": "MITOCHONDRION (ACCEPT: MITOCHONDRIA)High School Round 8 Page 8"
+        "answer": " MITOCHONDRION (ACCEPT: MITOCHONDRIA)"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following are the most important calibration\nreferences that Celsius used to devise his temperature scale:\nW) melting point and boiling point of water\nX) ice-point and freeze-thaw point of water\nY) specific gravity of water\nZ) boiling point and steam point of water",
-        "subject": " PHYSICS ",
-        "answer": "W) MELTING POINT AND BOILING POINT OF WATER"
+        "answer": " W) MELTING POINT AND BOILING POINT OF WATER"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is the MOST reliable measure of the\nremaining percentage of stored energy in a lead acid battery:\nW) pH of the electrolyte\nX) voltage remaining in the battery as measured on a voltmeter\nY) amount of oxygen gas released\nZ) specific gravity of the electrolyte",
-        "subject": " PHYSICS ",
-        "answer": "Z) SPECIFIC GRAVITY OF THE ELECTROLYTE"
+        "answer": " Z) SPECIFIC GRAVITY OF THE ELECTROLYTE"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " There are 10 people on a bus who, when ranked from youngest to oldest,\nall differ from those on the bus closest in age to them by the same number of years. If the youngest\nis 6 and the oldest is 51, what is the common difference in their age?",
-        "subject": " MATH ",
-        "answer": "5(Solution: 6-11-16-21-26-31-36-41-46-51)"
+        "answer": " 5\n(Solution: 6-11-16-21-26-31-36-41-46-51)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Solve the following equation for all real values of x: (x + 3)2 = 16",
-        "subject": " MATH ",
-        "answer": "1 AND \u20137High School Round 8 Page 9"
+        "answer": " 1 AND \u20137"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " When geologists find pillow basalts in ancient rock\nsequences, which of the following BEST explains their presence:\nW) the area was once underwater\nX) volcanic bombs and lapilli landed on snow or ice and quickly cooled\nY) they hardened in mid-air, sometimes forming a tear-drop shape\nZ) nearby volcanoes erupted enormous quantities of ash",
-        "subject": " EARTH SCIENCE ",
-        "answer": "W) THE AREA WAS ONCE UNDERWATER"
+        "answer": " W) THE AREA WAS ONCE UNDERWATER"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Short Answer",
         "content": " What is the general name for the myriad of suspended\nparticles or aerosols in the Earth\u2019s atmosphere that allow rain droplets to undergo coalescence?",
-        "subject": " EARTH SCIENCE ",
-        "answer": "CONDENSATION NUCLEI"
+        "answer": " CONDENSATION NUCLEI"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is closest to the meaning of the\nsuffix \u2018tropic\u2019 (read as: troh-PIK):\nW) hot\nX) wet\nY) changing\nZ) under",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "Y) CHANGING"
+        "answer": " Y) CHANGING"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " In which of the following locations has water at its\nhighest temperature ever been recorded in nature:\nW) within gullies on Venus\nX) in very deep ocean hydrothermal vents along the mid-Atlantic ridge\nY) at the bottom of Yellowstone Lake in Yellowstone National Park\nZ) within volcanic vents high atop Hawaii\u2019s Kilauea volcano",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) IN VERY DEEP OCEAN HYDROTHERMAL VENTS ALONG THE MID-ATLANTIC RIDGEHigh School Round 8 Page 10"
+        "answer": " X) IN VERY DEEP OCEAN HYDROTHERMAL VENTS ALONG THE MID-\nATLANTIC RIDGE"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What is the most accurate term astronomers use for the time it\ntakes for a planet to orbit the Sun relative to the stars?",
-        "subject": " ASTRONOMY ",
-        "answer": "SIDEREAL PERIOD"
+        "answer": " SIDEREAL PERIOD"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What terrestrial planet has the longest sidereal period?",
-        "subject": " ASTRONOMY ",
-        "answer": "MARS"
+        "answer": " MARS"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " In the electrolysis of a copper chloride solution, what forms at the\ncathode and anode, respectively?",
-        "subject": " CHEMISTRY ",
-        "answer": "CATHODE = COPPER (ACCEPT: Cu); ANODE = CHLORINE (ACCEPT:CHLORINE GAS or Cl )2"
+        "answer": " CATHODE = COPPER (ACCEPT: Cu); ANODE = CHLORINE (ACCEPT:\nCHLORINE GAS or Cl )\n2"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " According to standard chemical nomenclature, what is the\nformula for ammonium sulfate?",
-        "subject": " CHEMISTRY ",
-        "answer": "(NH ) SO4 2 4High School Round 8 Page 11"
+        "answer": " (NH ) SO\n4 2 4"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " How many human ova are produced by a full round of meiosis from\na single primary oocyte?",
-        "subject": " BIOLOGY ",
-        "answer": "1(Solution: mammals produce 1 ovum and 3 polar bodies per primary oocyte)"
+        "answer": " 1\n(Solution: mammals produce 1 ovum and 3 polar bodies per primary oocyte)"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 4 animals for which L-ascorbate is an\nessential nutrient: humans; dogs; cats; horses",
-        "subject": " BIOLOGY ",
-        "answer": "HUMANS"
+        "answer": " HUMANS"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " In triboelectric charging, when one object loses electrons, the object\nthat accepts the charges acquires the same number of charges that the other object has lost. What\nlaw most directly governs this equal exchange?",
-        "subject": " PHYSICS ",
-        "answer": "CONSERVATION OF CHARGE"
+        "answer": " CONSERVATION OF CHARGE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Consider an organ pipe open at both ends. For a standing wave in the\npipe, what is the wavelength of the fundamental tone, in terms of the pipe\u2019s length?",
-        "subject": " PHYSICS ",
-        "answer": "2 (ACCEPT: 2 PIPE LENGTHS)High School Round 8 Page 12"
+        "answer": " 2 (ACCEPT: 2 PIPE LENGTHS)"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Giving your answer in standard form, give the equation of the circle with\ncenter at (0, 0) and diameter of 6:",
-        "subject": " MATH ",
-        "answer": "x2 + y2 = 9"
+        "answer": " x2 + y2 = 9"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " What is the degree measure of the angle formed by 2 secants intersecting\noutside a circle if the measures of the intercepted arcs are 80\u00ba and 34\u00ba?",
-        "subject": " MATH ",
-        "answer": "23(Solution: \u00bd(80\u00ba \u2013 34\u00ba) = 23\u00ba)High School Round 8 Page 13"
+        "answer": " 23\n(Solution: \u00bd(80\u00ba \u2013 34\u00ba) = 23\u00ba)"
     }
 ]

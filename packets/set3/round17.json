@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Which two of the following 5 amino acids are classified as basic\nbecause of the structure of their side chains:\narginine; glycine; glutamic acid; phenylalanine; lysine",
+        "answer": " ARGININE; LYSINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " At 250K, the pressure of oxygen in a 1-liter container is 0.40\natmospheres. If 0.10 moles of carbon dioxide are added to the container, what will be the new\npressure, in atmospheres rounded to the first decimal place?",
+        "answer": " 2.5 (ACCEPT: 2.4)\n(Soln: P = (nRT/V) = [(0.10mol)(0.0821L-atm/K-mol)(250K)]/1L = 2.05 atm; P = 0.40 + 2.05 =\nCO2 T\n2.45atm = 2.5 atm)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the MOST likely ultimate fate of the\nuniverse if mass in the universe is less than the critical density and there is no dark energy:\nW) it will eventually stop expanding and maintain a constant size\nX) it will stop expanding and collapse\nY) it will expand forever\nZ) it will expand at an accelerating rate and then nearly collapse, then expand again and continue to\noscillate this way forever",
+        "answer": " Y) IT WILL EXPAND FOREVER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST explains why scientists believe the\nearly universe up to a few hundred thousand years old was opaque:\nW) deuterium at those temperatures absorbed all electromagnetic radiation\nX) there was no electromagnetic radiation\nY) free electrons scattered photons and prevented them from traveling very far\nZ) the temperature had cooled so far that space without stars was a dark void",
+        "answer": " Y) FREE ELECTRONS SCATTERED PHOTONS AND PREVENTED THEM\nFROM TRAVELING VERY FAR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The movement of cells from G-1 in the cell cycle into S-phase is\nmostly under the control of:\nW) cyclins and cyclin-dependent kinases\nX) the availability of purines and pyrimidines\nY) ubiquitin (read as: you-BIK-qui-tin) and proteosomes (read as: PRO-tee-oh-somes)\nZ) G proteins and APC\u2019s",
+        "answer": " W) CYCLINS AND CYCLIN-DEPENDENT KINASES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If you fluorescent-labeled the outsides of the trans-membrane\nproteins of one mammalian cell with a yellow label and another cell with a red label and fused them,\nwhich of the following would MOST likely occur over about 1 hour at 37\u00baC:\nW) the labels would remain unevenly distributed on the outside of the cells\nX) the labels would quickly disappear\nY) one color would show up in the inside of the cell and the other would remain on the outside\nZ) the labels would mix evenly on the outside of the cell",
+        "answer": " Z) THE LABELS WOULD MIX EVENLY ON THE OUTSIDE OF THE CELL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " By definition, a quadrantal angle is an angle in standard position where\nits terminal side:\nW) lies on a coordinate axis\nX) is a central angle\nY) lies only in quadrants one and three\nZ) lies only in quadrants two and four",
+        "answer": " W) LIES ON A COORDINATE AXIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the following indefinite integral: \u222bxexdx (read as: the integral of x\ntimes e to the x power, dx)",
+        "answer": " xex \u2013 ex + C"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT used in determining\nrelative geologic time:\nW) principle of superposition\nX) principle of original horizontality\nY) principle of cross-cutting\nZ) radioisotope half-lives",
+        "answer": " Z) RADIOISOTOPE HALF-LIVES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 3 oceanic crust features from the\nYOUNGEST to the OLDEST: abyssal plain; continental shelf; mid-ocean ridge",
+        "answer": " MID-OCEAN RIDGE; ABYSSAL PLAIN; CONTINENTAL SHELF"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) electron tunneling is a phenomenon known since the early formulations of quantum mechanics\nX) interstellar dust is now believed to constitute less than 1% of the mass in the interstellar medium\nY) antibiotic resistance in bacteria can arise from bacteria incorporating exogenous DNA into their\ngenomes\nZ) plant auxin is typically produced in bud scales and has the restricted role of cellular elongation",
+        "answer": " Z) PLANT AUXIN IS TYPICALLY PRODUCED IN BUD SCALES AND HAS THE\nRESTRICTED ROLE OF CELLULAR ELONGATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " If the magic sum for a magic square is 15 and the top row\nof the magic square consists of the numbers 2, 9 and 4 and the top two numbers of the left column\nfrom the top down are 2 and 7, what are the 3 rows, from top to bottom?\n2 9 4",
+        "answer": " 7 5 3 (must be exact and read as 2, 9, 4 7, 5, 3 6, 1, 8)\n6 1 8"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following MOST directly predicts that the\nmaximum mass possible for a white dwarf is about 1.4-times that of the Sun:\nW) the Hubble constant\nX) the Chandrasekhar limit (read as: chan-dra-SAY-kar)\nY) General Relativity\nZ) the Fornax theorem",
+        "answer": " X) THE CHANDRASEKHAR LIMIT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nW) sunspot activity\nX) stellar luminosity\nY) cometary periods\nZ) planetary orbital periods",
+        "answer": " W) SUNSPOT ACTIVITY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following ionic compounds would have the\nhighest melting point:\nW) NaF\nX) NaCl\nY) CaF\n2\nZ) MgO",
+        "answer": " Z) MgO\n(Solution: NaF = 993\u00baC; NaCl = 801; CaF = 1423; MgO = 2800\u00baC)\n2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In a zinc-lead voltaic cell, what is the maximum voltage, to the\nthird decimal place, that can be obtained if the standard reduction potential for the zinc ion is\n\u20130.763 volts and for the lead ion is \u20130.126 volts?",
+        "answer": " 0.637 (must be positive)\n(Solution: +0.763 volts + (\u20130.126 volts) = +0.637 volts)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) electrons are directly affected by the strong nuclear force\nX) general relativity predicts the existence of black holes\nY) a deuterium atom has two nucleons\nZ) many cosmologists believe that neutrinos make up about as much mass as all the stars in the\nuniverse",
+        "answer": " W) ELECTRONS ARE DIRECTLY AFFECTED BY THE STRONG NUCLEAR\nFORCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Ashley, who weighs 450 newtons, is with her dad at the playground,\nand she is sitting on a swing that is 0.60 meters above the ground. Her dad pulls her back and lets\nher go when the swing is 1.1 meters above the ground. How fast, in meters per second to the first\ndecimal place, is Ashley moving when the swing passes through its lowest position?",
+        "answer": " 3.1 (ACCEPT: 3.2)\n2KE\n(Solution: PE = Fd = (450N)(0.6 \u2013 1.1m) = -225J. KE = -PE = \u00bdmv2 \u00e0\uf0e0 v = =\ng g\nm\n2(225J)\n= 3.13 m/s)\n450N /9.8m/s2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " To what specific part of the tryptophan or lac operon will the\nrepressor typically bind in order to exert its control on the operon?",
+        "answer": " OPERATOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the primary difference in regulation\nbetween the lactose and tryptophan operons:\nW) tryptophan activates its repressor and lactose leads to an inactive repressor\nX) when tryptophan is present, the repressor is inactive and the opposite is true for allolactose in the\nlac operon\nY) allolactose is considered a co-repressor whereas tryptophan is actually an inducer\nZ) when tryptophan is not present, the co-repressor is able to inactivate the promoter directly",
+        "answer": " W) TRYPTOPHAN ACTIVATES ITS REPRESSOR AND LACTOSE LEADS TO\nAN INACTIVE REPRESSOR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Differentiate and simplify the following with respect to x: y = e x\ne x",
+        "answer": "\n2 x"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " For a triangle whose side b = 6 and c = 8 and the angle formed by those\nsides is 45\u00ba, find the area of the triangle, to the nearest whole number:",
+        "answer": " 17\n(Solution: K = \u00bd bc sin A; = \u00bd (6)(8)(0.707) = 16.97 = 17)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " If you were hiking on a glacier in the summertime, which\nof the following is the BEST way to recognize if you were walking on the zone of accumulation:\nW) large amounts of rocks eroded from the nearby mountainsides have accumulated\nX) you were walking mostly on exposed, bare ice\nY) last year\u2019s snow is still covering the glacial ice\nZ) a bergschrund delineates the start of the accumulation zone",
+        "answer": " Y) LAST YEAR\u2019S SNOW IS STILL COVERING THE GLACIAL ICE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 choices from the LOWEST\nmetamorphic grade to the HIGHEST: schist; gneiss; slate; phyllite",
+        "answer": " SLATE; PHYLLITE; SCHIST; GNEISS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT typically true about\nlichens:\nW) lichens produce a rock-dissolving acid as they grow\nX) few animals other than caribou can eat lichens\nY) lichens take nutrients from the air\nZ) lichens are prone to desiccation and death if water is withheld for more than a few days",
+        "answer": " Z) LICHENS ARE PRONE TO DESICCATION AND DEATH IF WATER IS\nWITHHELD FOR MORE THAN A FEW DAYS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What general class of plant hormones and their synthetic\ncousins have been used as herbicides such as 2,4-D and agent orange?",
+        "answer": " AUXINS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\ncome together one of the protons remains as a proton and the other:\nW) is annihilated\nX) turns into a neutron\nY) turns into a negatron\nZ) also remains as a proton",
+        "answer": " X) TURNS INTO A NEUTRON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nfollowing occurs:\nW) a proton combines with deuterium to produce helium-3 and a gamma ray is emitted\nX) a neutron combines with deuterium to produce helium-3 and a neutrino is emitted\nY) a proton combines with deuterium to produce helium-3 and a neutrino ray is emitted\nZ) a neutron combines with deuterium to produce helium-2 and a positron is emitted",
+        "answer": " W) A PROTON COMBINES WITH DEUTERIUM TO PRODUCE HELIUM-3 AND\nA GAMMA RAY IS EMITTED"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Consider the following reaction, N + 3H \u2194 2NH ,\n2(gas) 2(gas) 3(gas)\nwhose heat of reaction, or delta H, is \u201391.8 kilojoules. If the temperature for the reaction is\nincreased, which of the following will occur:\nW) the concentration of N increases\n2\nX) the concentration of H decreases\n2\nY) the concentration of NH increases\n3\nZ) the concentration of N decreases\n2",
+        "answer": " W) THE CONCENTRATION OF N INCREASES\n2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many kilopascals of pressure are needed to compress 400\nmilliliters of a gas under the conditions of 150 kilopascals of pressure and 400K, to 600 milliliters at\na new temperature of 200K?",
+        "answer": " 50\nP V P V (150kPa)(400ml) (P )(600ml)\n(Solution: 1 1 = 2 2 ; = 2 ; = 50 kPa)\nT T\n1 2 400K 200K"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is MOST closely related to the movement\nof charge in non-ceramic superconductors:\nW) charge confinement\nX) Josephson effect\nY) Cooper pairs\nZ) Hall movement",
+        "answer": " Y) COOPER PAIRS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a standard characteristic of a laser:\nW) coherent beam\nX) optical gain\nY) distinctly identifiable pumping threshold\nZ) distinctly identifiable pumping turn-off",
+        "answer": " Z) DISTINCTLY IDENTIFIABLE PUMPING TURN-OFF"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST description of\nphotorespiration:\nW) the process whereby primitive bacteria use light to help oxidize inorganic molecules\nX) the competition of carbon dioxide and molecular oxygen for Rubisco\nY) the gaining of chemical energy in photosynthesis\nZ) the loss of reduced electrons from photosystem one",
+        "answer": " X) THE COMPETITION OF CARBON DIOXIDE AND MOLECULAR OXYGEN\nFOR RUBISCO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name 2 of the following 4 plant types that have the LEAST amount\nof photorespiration if all are exposed to a bright summer Sun: agave; corn; begonia; tulip",
+        "answer": " AGAVE; CORN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give the center point and the vertices of the horizontal axis and vertical\n(x+1)2 (y!2)2\naxis of the ellipse for the following equation: + =1\n16 9",
+        "answer": " CENTER = (\u20131, 2); HORIZONTAL = (\u20135, 2) AND (3, 2);\nVERTICAL = (\u20131, \u20131) AND (\u20131, 5)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Differentiate and simplify the following with respect to x: y =\nx\n(read as: natural log of x divided by x)\n1!lnx",
+        "answer": " (ALSO ACCEPT [-(lnx) +1]/x2\nx2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the most recent Pleistocene glacial\nepisode in North America?",
+        "answer": " WISCONSINIAN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " A moment magnitude 7 earthquake releases how many times\nmore energy than a moment magnitude 6 earthquake?",
+        "answer": " 31 (ACCEPT: 30 to 32)\n(Solution: magnitude 7 wave is 10-times larger than a mag 6 and releases 31-times as much energy)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the equivalent of a\ngoogolplex:\nW) 10100\nX) 101010\nY) 1010100\nZ) 101000",
+        "answer": " Y) 1010100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Most scientific evidence currently supports the belief\nthat HIV-1 evolved from:\nW) a rotovirus of monkeys\nX) a retrovirus of monkeys\nY) a simian immunodeficiency virus of chimps\nZ) a picorna immunodeficiency virus of monkeys",
+        "answer": " Y) A SIMIAN IMMUNODEFICIENCY VIRUS OF CHIMPS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Order the following 3 stars from the one that will undergo\nfusion for the SHORTEST time to the LONGEST: red dwarf; our Sun; large mass o-type star",
+        "answer": " LARGE MASS O-TYPE STAR; OUR SUN; RED DWARF"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " If a stellar body\u2019s surface is 5,000 kelvin, what is its peak\nemission of electromagnetic radiation, in nanometers?",
+        "answer": " 580\n(Solution: Wien\u2019s Law T = 2.9 \u00d7 10-3 m.k/\u03bb \u00e0\uf0e0 0.005\u00d7106 = 2.9 \u00d7 10-3 m / 580 \u00d7 10-9m = 580nm)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Predict the shape of a molecule of phosphorous pentafluoride,\nwhereby each phosphorous atom has 5 valence electrons to share with 5 fluorine atoms:",
+        "answer": " TRIGONAL BIPYRAMIDAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Give all 3 angles, in degrees, that are present in phosphorous\npentafluoride:",
+        "answer": " 90; 120; 180"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " As reported recently in the journal Science, researchers have\nsucceeded in producing a high efficiency organic LED. They began with a blue emitting system and\nthen added a single color light emitting phosphor to obtain white light. What was the single color\nphosphor they used?",
+        "answer": " YELLOW\n(Solution: red and green make yellow and red green and blue make white, therefore since they\nneeded red and green to add to blue to make white they chose a yellow phosphor)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A sphere of radius 1 meter contains uniformly distributed charge of\ncharge density rho. Assuming \u03c1/\u03b5 (rho over epsilon-naught) equals 30 volts per meter squared,\n0\nwhat is the magnitude of electric field at a radius of 0.5 meters?",
+        "answer": " 5 V/m"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Which 2 of the following 4 hormones play the largest roles in\nregulating sperm production in humans:\nluteinizing hormone; estradiol; progesterone; follicle stimulating hormone",
+        "answer": " LUTEINIZING HORMONE; FOLLICLE STIMULATING HORMONE\n(ACCEPT: LH; FSH)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Give the corresponding alternate DNA strand synthesized by reverse\ntranscriptase from the following mRNA: (read slowly, pausing between each triplet)\nAUA, CAG, ACU, UUC, AUU",
+        "answer": " TAT, GTC, TGA, AAG, TAA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for what Einstein first proposed to\noperate in empty space, but later rejected as his greatest blunder following Hubble\u2019s discovery of the\nexpansion of the universe?",
+        "answer": " COSMOLOGICAL CONSTANT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 particles that are leptons:\nmuon, photon, tau, electron",
+        "answer": " MUON; TAU; ELECTRON (ACCEPT: ALL BUT PHOTON)"
+    }
+]

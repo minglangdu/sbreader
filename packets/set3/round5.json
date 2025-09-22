@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Colloids formed by the dispersal of a gas in a liquid are called:\nW) emulsions\nX) foams\nY) aerosols\nZ) solid sols",
+        "answer": " X) FOAMS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " If a substance has a molecular weight of 88, which of the\nfollowing will it be:\nW) KCl\nX) C H O\n4 8 2\nY) RbF\nZ) C H\n6 14",
+        "answer": " X) C H O\n4 8 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What color of light is produced when equal intensities of cyan light\nand red light are combined?",
+        "answer": " WHITE\n(Solution: adding a primary color to the proper secondary color (called complementary colors) will\ngive white light; complementary color pairs are one primary color and one secondary color, e.g.\nblue and yellow, red and cyan, or green and magenta.)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the resistance, in ohms, for an electric stove that draws 24\namps on a 240-volt circuit?",
+        "answer": " 10\n(Solution: I = V/R; R = V/I; R = 240/24 = 10 ohms)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the specific type of cartilage that\nforms the disks between human vertebrae?",
+        "answer": " FIBROCARTILAGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 choices that are considered part of the\nconnective tissue: blood; adipocytes (read as: ADD-ih-poe-sites); muscles; nerves",
+        "answer": " BLOOD; ADIPOCYTES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What are the lengths, in centimeters, of the hypotenuse and the longer leg,\nrespectively, of a 30-60-90 degree right triangle if the shorter leg is 12 centimeters long?",
+        "answer": " HYPOTENUSE = 24; LONGER LEG = 12 3 (ACCEPT: LONGER LEG = 20 \u2013 21)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer in terms of pi, what is the area of a circle whose\ncircumference is 20?\n100",
+        "answer": "\n\u03c0\n(Solution: C = \u03c0d; A = \u03c0r2 = \u03c0(10/\u03c0)2 = 100/\u03c0)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true:\nW) Los Angeles is moving towards San Diego at a current rate of 2 to 3 meters per year\nX) the source of all igneous rocks is molten magma\nY) silicates are the most abundant group of minerals in Earth\u2019s crust and mantle\nZ) oceanic crust is generally thinner than continental crust",
+        "answer": " W) LOS ANGELES IS MOVING TOWARDS SAN DIEGO AT A CURRENT RATE\nOF 2 TO 3 METERS PER YEAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Order the following 4 Earth materials in order of\nINCREASING specific heat capacity: solid water; liquid water; granite; lead",
+        "answer": " LEAD; GRANITE; SOLID WATER; LIQUID WATER\n(Solution: lead = 0.03; granite = 0.2; solid water = 0.5; liquid water = 1.0 cal/g\u00baC)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following BEST describes the size of the\naverage amoeba:\nW) 1 angstrom\nX) 2 micrometers\nY) 600 micrometers\nZ) 1 centimeter",
+        "answer": " Y) 600 MICROMETERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest whole number, convert 283K into\ndegrees Fahrenheit:",
+        "answer": " 50\n(Solution: 283 \u2013 273 = 10\u00baC; 10 \u00d7 1.8 + 32 = 50\u00baF)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the MOST common term for a\ngalaxy that is emitting a large amount of radiation from a black hole at its center:\nW) bright galaxy\nX) luminous galaxy\nY) active galaxy\nZ) event galaxy",
+        "answer": " Y) ACTIVE GALAXY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nof about:\nW) 5,000 K\nX) 10,000 K\nY) 15,000 K\nZ) 20,000 K",
+        "answer": " X) 10,000 K"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " How many nodes are in an \u2018s\u2019 orbital?",
+        "answer": " NONE (ACCEPT: ZERO)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of glucose:\nW) when glucose joins with galactose, fructose is formed\nX) it is also called dextrose\nY) cellulose is a polymer of glucose molecules\nZ) its formula is C H O\n6 12 6",
+        "answer": " W) WHEN GLUCOSE JOINS WITH GALACTOSE, FRUCTOSE IS FORMED"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following colors of light would give the highest\nresolving power of a compound light microscope:\nW) infrared\nX) orange\nY) green\nZ) ultraviolet",
+        "answer": " Z) ULTRAVIOLET"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If Jim expends 200 watts of power to vertically lift a 200-newton rock\n3 meters high, how many seconds did it take him to lift the boulder?",
+        "answer": " 3\n(Solution: power = work/time = force \u00d7 distance/s 200W = 200N \u00d7 3/x; x = 3s)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Blood albumin is most directly involved with:\nW) osmoregulation\nX) hormone regulation\nY) bile production\nZ) acid base regulation",
+        "answer": " W) OSMOREGULATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true in humans:\nW) trisomy X originates from a nondisjunction\nX) all enzymes are proteins\nY) albumin is produced by the liver\nZ) the spleen produces red blood cells in the fetus",
+        "answer": " X) ALL ENZYMES ARE PROTEINS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following radical equation for x, when x is a real number:\n5 x+1 = 2",
+        "answer": " 31"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the greatest common factor for the numbers 63 and 273?",
+        "answer": " 21"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " An oligotrophic (read as: oh-lig-oh-TROW-fick) lake is\none that is BEST defined as:\nW) deep, cold, and nutrient-poor\nX) deep, cold, and nutrient-rich\nY) shallow, warm, and nutrient-poor\nZ) shallow, warm, and nutrient-rich",
+        "answer": " W) DEEP, COLD, AND NUTRIENT-POOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " According to the Atterberg and U.S. Department of\nAgriculture classification scales, what type of soil particles have diameters of less than 0.002\nmillimeters and are considered the smallest particles of soil?",
+        "answer": " CLAY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Which of the following 5 sources accounts for the largest\nshare of energy used in the U.S.: coal; petroleum products; nuclear energy; renewable energy;\nnatural gas",
+        "answer": " PETROLEUM PRODUCTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " In 2004, 19.7 million barrels of petroleum products were\nused each day in the U.S. Rounded to the nearest gallon, how much does this represent per person\nper day?",
+        "answer": " 3\n(Solution: (42 gal \u00d7 19.7)/300 million people = 3 gals)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is LEAST accurate:\nW) at the equator, stars appear to rise and set vertically\nX) all Mira stars are Red Giants\nY) right ascension is analogous to longitude\nZ) the Earth is closest to the Sun during December",
+        "answer": " Z) THE EARTH IS CLOSEST TO THE SUN DURING DECEMBER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the MOST commonly accepted\nreason as to why the planet Uranus rotates on its side:\nW) it oscillates in its rotation orientation over thousands of years\nX) it captured four of its moons early in its development which radically affected its primordial disk\nrotation\nY) it was once struck by a massive object\nZ) because of its orbital position and low density it was susceptible to a wide variety of axial\nrotational possibilities",
+        "answer": " Y) IT WAS ONCE STRUCK BY A MASSIVE OBJECT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements regarding geometric or\ncis-trans isomers is NOT true:\nW) they have the same molecular formula\nX) they have the same order of attachment of atoms\nY) they have the same orientation around a double bond\nZ) they have the same functional groups",
+        "answer": " Y) THEY HAVE THE SAME ORIENTATION AROUND A DOUBLE BOND"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the formal charge of nitrogen in the ammonia, or NH ,\n3\nmolecule?",
+        "answer": " 0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a composite material:\nW) bone\nX) plywood\nY) wood\nZ) mild steel",
+        "answer": " Z) MILD STEEL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a 5,000-pound elephant is on one end of a plank at a distance of 5\nfeet from the pivot point and a 200-pound man is on the other end at a distance of 15 feet from the\npivot, what will the available torque be, in foot-pounds, at the pivot while the plank is in motion?",
+        "answer": " 22,000\n(Solution: (5000 lbs \u00d7 5ft) \u2013 (200 lbs \u00d7 15 ft) = 25,000 \u2013 3000 = 22,000 ft lbs)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following human cell types is MOST directly\nresponsible for the secretion of antibodies:\nW) monocytes\nX) CD4+ cells\nY) T activator lymphocytes\nZ) B cells",
+        "answer": " Z) B CELLS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specific ion is most central to muscle contraction in striated\nhuman muscle?",
+        "answer": " CALCIUM (ACCEPT: CALCIUM 2+ or Ca2+)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give the value of c that completes the square of the following\n2\nexpression: x2 + x + c\n5\n1 4",
+        "answer": " (ACCEPT: 0.04 or )\n25 100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Reduce the following radical expression to its simplest radical form:\n2 3 225 (read as: the square root of the cube root of 225)",
+        "answer": " 3 15"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " The Coriolis effect causes northward flowing air currents\nin the Northern hemisphere to veer off course:\nW) in the direction of rotation\nX) in the direction opposite to rotation\nY) to the left\nZ) at a 90\u00ba angle",
+        "answer": " W) IN THE DIRECTION OF ROTATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are the most important and\nabundant rock-forming minerals:\nW) carbonates\nX) silicates\nY) iron sulfides\nZ) sulfates",
+        "answer": " X) SILICATES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most common and\naccurate term for when a person\u2019s immune system generates antibodies against its own body\u2019s cells:\nW) autoimmune dysfunction\nX) homeostatic inflammation\nY) heteroimmune reaction\nZ) anaphylactic reaction",
+        "answer": " W) AUTOIMMUNE DYSFUNCTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST description of\natherosclerosis:\nW) inflammation of the brain cortical tissues\nX) paralysis of extremities and loss of sensation\nY) walls of blood vessels become thicker and less elastic\nZ) loss of ability to hear certain sounds",
+        "answer": " Y) WALLS OF BLOOD VESSELS BECOME THICKER AND LESS ELASTIC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": "\nWhich of the following spectral types is it most likely to be:\nW) A\nX) F\nY) G\nZ) O",
+        "answer": " Z) O"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the astronomical term for a planet\u2019s orbital point that is\nclosest to the Sun?",
+        "answer": " PERIHELION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " C H is the molecular formula for what aromatic hydrocarbon?\n6 6",
+        "answer": " BENZENE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Consider a mixture of nitrogen and oxygen gases that has a total\npressure of 0.63 atmospheres. If the partial pressure of nitrogen is 0.32 atmospheres, what is the\npartial pressure of oxygen in the mixture, in atmospheres to the second decimal place?",
+        "answer": " 0.31"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In an application where ductility is required, which of the\nfollowing materials would be your BEST choice:\nW) grey cast iron\nX) copper\nY) granite\nZ) 1040 steel",
+        "answer": " X) COPPER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT correct:\nW) percent elongation compared to the known value for a material is sometimes used to detect\nimpurities in metal\nX) the modulus of elasticity for a material is derived from its stress-strain curve\nY) ductile materials usually fail with little or no plastic deformation\nZ) a steel sample that is loaded beyond its elastic limit will not return to its original shape when the\nload is removed",
+        "answer": " Y) DUCTILE MATERIALS USUALLY FAIL WITH LITTLE OR NO PLASTIC\nDEFORMATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the botanical term for the stem of a group of flowers?",
+        "answer": " PEDUNCLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In mammals, the action potential of a neuron is most dependent on\nthe transmembrane movement of what 2 ions?",
+        "answer": " SODIUM AND POTASSIUM (ACCEPT: Na+ and K+)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following have largely replaced vacuum tubes that\nwere used in electronics of the mid to later 20th century:\nW) capacitors\nX) transformers\nY) transistors\nZ) amplifiers",
+        "answer": " Y) TRANSISTORS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of uranium:\nW) it is very dense\nX) all isotopes are radioactive\nY) uranium is sometimes used in counterweights in yacht keels\nZ) there are only 3 isotopes of uranium",
+        "answer": " Z) THERE ARE ONLY 3 ISOTOPES OF URANIUM"
+    }
+]

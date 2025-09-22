@@ -1,183 +1,345 @@
 [
     {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " A ray of light is moving through a vacuum at an angle of 60\u00b0 from\nthe vertical, when it enters an oil with a horizontal surface where the ray is bent so that it makes\nan angle of 30\u00b0 with the vertical. Which of the following best represents the index of refraction of\nthe oil?\nW) 0.5\nX) 1.0\nY) 1.7\nZ) 2.0",
-        "subject": "",
-        "answer": "Y) 1.7"
+        "answer": " Y) 1.7"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " If a 1.5 megawatt turbine were to operate at its annual average\nall the time, about how many homes could it fully supply?\nW) 3\nX) 100\nY) 330\nZ) 550\nANSWER: Y) 330",
-        "subject": "",
-        "answer": "1500TOSS UP2. ENERGY Multiple Choice If a 1.5 megawatt turbine were to operate at its annual averageall the time, about how many homes could it fully supply?W) 3X) 100Y) 330Z) 550ANSWER: Y) 330"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is the IUPAC name for the acid with the\nfollowing formula: CH CO H?\n3 2\nW) Formic acid\nX) Butyric acid [byoo-TIR-ik]\nY) Propionic acid [proh-pee-ON-ik]\nZ) Ethanoic acid\nANSWER: Z) ETHANOIC ACID",
-        "subject": "",
-        "answer": "250,000Round Robin ~ Round 4 Page 1TOSS UP3. CHEMISTRY Multiple Choice Which of the following is the IUPAC name for the acid with thefollowing formula: CH CO H?3 2W) Formic acidX) Butyric acid [byoo-TIR-ik]Y) Propionic acid [proh-pee-ON-ik]Z) Ethanoic acidANSWER: Z) ETHANOIC ACID"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " How many prime numbers less than have a as the units digit?\nANSWER: 50 3",
-        "subject": "",
-        "answer": "W) 6.63 X 10-19TOSS UP4. MATH Short Answer How many prime numbers less than have a as the units digit?ANSWER: 50 3"
+        "content": " A communications satellite is orbiting the Earth at a speed of 3000\nmeters per second. What would be the orbital speed in meters per second of a similar satellite\nthat is 4 times as far from the center of the Earth as the first satellite?",
+        "answer": " 1500"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a 1.5 megawatt turbine were to operate at its annual average\nall the time, about how many homes could it fully supply?\nW) 3\nX) 100\nY) 330\nZ) 550",
+        "answer": " Y) 330"
     },
     {
         "type": "Bonus",
+        "subject": " ENERGY ",
         "answertype": "Short Answer",
-        "content": " If six geese in a gaggle produce 66 eggs in 6,666 days, what is the\naverage number of days it takes a single goose to lay an egg?\nANSWER:\n606\nRound Robin ~ Round 4 Page 2\nTOSS UP\n5. EARTH AND SPACE Multiple Choice Upon which of the following is the Southern\nOscillation Index based?\nW) The observed sea level pressure difference between Darwin and Tahiti\nX) The sea surface temperature between Darwin and Tahiti\nY) The ozone levels at Toronto and Montreal\nZ) The amount of conduction at the equator",
-        "subject": "",
-        "answer": "W) THE OBSERVED SEA LEVEL PRESSURE DIFFERENCE BETWEEN DARWINAND TAHITI"
+        "content": " If you are driving 60 miles per hour and your car gets 30 miles per\ngallon, how many Btus [B-T-USE] of energy are you using per hour if gas contains 125,000\nBtus per gallon?",
+        "answer": " 250,000"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following is NOT a direct adaptation for flight in\nbirds?\nW) Air sacs\nX) Large surface area on sternum\nY) Hollow bones\nZ) Fused hand bones\nANSWER: W) AIR SACS",
-        "subject": "",
-        "answer": "W) CYLINDRICAL, CONIC, AZIMUTHALTOSS UP6. BIOLOGY Multiple Choice Which of the following is NOT a direct adaptation for flight inbirds?W) Air sacsX) Large surface area on sternumY) Hollow bonesZ) Fused hand bonesANSWER: W) AIR SACS"
+        "content": " Which of the following is the IUPAC name for the acid with the\nfollowing formula: CH CO H?\n3 2\nW) Formic acid\nX) Butyric acid [byoo-TIR-ik]\nY) Propionic acid [proh-pee-ON-ik]\nZ) Ethanoic acid",
+        "answer": " Z) ETHANOIC ACID"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the energy in joules of a photon with\na frequency of 1.00 x 106 gigahertz?\nW) 6.63 x 10-19\nX) 6.63 x 10-28\nY) 6.63 x 10-34\nZ) 6.63 x 10-49",
+        "answer": " W) 6.63 X 10-19"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " A 5 kilogram mass is oscillating on a spring with a spring constant\nof 20 newtons per meter. What is the frequency of the oscillation of this mass in radians per\nsecond?\nANSWER: 2",
-        "subject": "",
-        "answer": "2Round Robin ~ Round 4 Page 3TOSS UP7. PHYSICS Short Answer A 5 kilogram mass is oscillating on a spring with a spring constantof 20 newtons per meter. What is the frequency of the oscillation of this mass in radians persecond?ANSWER: 2"
+        "content": " How many prime numbers less than have a as the units digit?",
+        "answer": " 50 3"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is an example of a disaccharide [dy-\nSAK-uh-ryd]?\nW) Glucose\nX) Sucrose\nY) Cellulose\nZ) Glycogen [GLY-kuh-juhn]\nANSWER: X) SUCROSE",
-        "subject": "",
-        "answer": "1.2TOSS UP8. CHEMISTRY Multiple Choice Which of the following is an example of a disaccharide [dy-SAK-uh-ryd]?W) GlucoseX) SucroseY) CelluloseZ) Glycogen [GLY-kuh-juhn]ANSWER: X) SUCROSE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " The length of each edge of a cube is decreased by . To the\nnearest ten percent, by what percent does the volume of the cube decrease?\n40%\nANSWER:",
-        "subject": "",
-        "answer": "50Round Robin ~ Round 4 Page 4TOSS UP9. MATH Short Answer The length of each edge of a cube is decreased by . To thenearest ten percent, by what percent does the volume of the cube decrease?40%ANSWER:"
+        "content": " If six geese in a gaggle produce 66 eggs in 6,666 days, what is the\naverage number of days it takes a single goose to lay an egg?",
+        "answer": "\n606"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Upon which of the following is the Southern\nOscillation Index based?\nW) The observed sea level pressure difference between Darwin and Tahiti\nX) The sea surface temperature between Darwin and Tahiti\nY) The ozone levels at Toronto and Montreal\nZ) The amount of conduction at the equator",
+        "answer": " W) THE OBSERVED SEA LEVEL PRESSURE DIFFERENCE BETWEEN DARWIN\nAND TAHITI"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are three general categories of\nmap projections?\nW) Cylindrical, conic, azimuthal [az-uh-MUTH-uhl]\nX) Conformal, spherical, transverse\nY) Equidistant, conic, stereographic\nZ) Cylindrical, oblique, grid",
+        "answer": " W) CYLINDRICAL, CONIC, AZIMUTHAL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a direct adaptation for flight in\nbirds?\nW) Air sacs\nX) Large surface area on sternum\nY) Hollow bones\nZ) Fused hand bones",
+        "answer": " W) AIR SACS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
-        "content": " Today, my daughter is 1/3 of my age. Five years ago, she was 1/4 of\nmy age then. How old is my daughter?\nANSWER:\n15\nTOSS UP\n10. EARTH AND SPACE Multiple Choice Which of the following is another term for the\neuphotic [yoo-FOH-tik] zone of the ocean?\nW) Dark side\nX) Sunlit zone\nY) Twilight zone\nZ) Abyssal plain",
-        "subject": "",
-        "answer": "X) SUNLIT ZONE"
+        "content": " Name all of the following four bones that are part of the human\nfoot: 1) stylohyoid [sty-loh-HY-oid], 2) calcaneus [kal-KAY-nee-uhs], 3) metacarpals, 4) femur.",
+        "answer": " 2"
     },
     {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following processes is a form of anaerobic\nrespiration that occurs in skeletal muscles after strenuous exercise?\nW) Alcohol fermentation\nX) Lactic acid fermentation\nY) Pentose-phosphate pathway\nZ) Glycogenesis [gly-kuh-JEN-uh-sis]\nANSWER: X) LACTIC ACID FERMENTATION",
-        "subject": "",
-        "answer": "Y) OLIVINERound Robin ~ Round 4 Page 5TOSS UP11. BIOLOGY Multiple Choice Which of the following processes is a form of anaerobicrespiration that occurs in skeletal muscles after strenuous exercise?W) Alcohol fermentationX) Lactic acid fermentationY) Pentose-phosphate pathwayZ) Glycogenesis [gly-kuh-JEN-uh-sis]ANSWER: X) LACTIC ACID FERMENTATION"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following is the characteristic feature of a\nmetallic crystal?\nW) The metallic bond is directional\nX) The positive ion is free to move\nY) The bonding forces are weak\nZ) The valence electrons are only loosely held and can move to neighboring atoms\nANSWER: Z) THE VALENCE ELECTRONS ARE ONLY LOOSELY HELD AND CAN MOVE TO\nNEIGHBORING ATOMS",
-        "subject": "",
-        "answer": "Y) WHALE AND OCULAR SALT GLANDTOSS UP12. CHEMISTRY Multiple Choice Which of the following is the characteristic feature of ametallic crystal?W) The metallic bond is directionalX) The positive ion is free to moveY) The bonding forces are weakZ) The valence electrons are only loosely held and can move to neighboring atomsANSWER: Z) THE VALENCE ELECTRONS ARE ONLY LOOSELY HELD AND CAN MOVE TONEIGHBORING ATOMS"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A proton enters a uniform magnetic field that is oriented\nperpendicular to the motion of the proton. Which of the following will NOT affect the radius of the\ncircular path in which the proton moves?\nW) The velocity of the proton\nX) The magnitude of the magnetic field\nY) The momentum of the proton\nZ) The position of the proton in the magnetic field\nANSWER: Z) THE POSITION OF THE PROTON IN THE MAGNETIC FIELD",
-        "subject": "",
-        "answer": "26Round Robin ~ Round 4 Page 6TOSS UP13. PHYSICS Multiple Choice A proton enters a uniform magnetic field that is orientedperpendicular to the motion of the proton. Which of the following will NOT affect the radius of thecircular path in which the proton moves?W) The velocity of the protonX) The magnitude of the magnetic fieldY) The momentum of the protonZ) The position of the proton in the magnetic fieldANSWER: Z) THE POSITION OF THE PROTON IN THE MAGNETIC FIELD"
-    },
-    {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " To the nearest 10%, what is the approximate efficiency of\ncommercially available high performance solar cells?\nANSWER: 20%",
-        "subject": "",
-        "answer": "1 x 10-6TOSS UP14. ENERGY Short Answer To the nearest 10%, what is the approximate efficiency ofcommercially available high performance solar cells?ANSWER: 20%"
+        "content": " A 5 kilogram mass is oscillating on a spring with a spring constant\nof 20 newtons per meter. What is the frequency of the oscillation of this mass in radians per\nsecond?",
+        "answer": " 2"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " In electroplating, the object to be electroplated is placed at\nwhich of the following?\nW) The anode\nX) The cathode\nY) Either the anode or cathode\nZ) The salt bridge\nANSWER: X) THE CATHODE",
-        "subject": "",
-        "answer": "36%Round Robin ~ Round 4 Page 7TOSS UP15. CHEMISTRY Multiple Choice In electroplating, the object to be electroplated is placed atwhich of the following?W) The anodeX) The cathodeY) Either the anode or cathodeZ) The salt bridgeANSWER: X) THE CATHODE"
-    },
-    {
-        "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
-        "content": " What integer between and is four times as far from as it is\nfrom ?\n50 90 50\nANSW90ER:",
-        "subject": "",
-        "answer": "X) AMMONIATOSS UP16. MATH Short Answer What integer between and is four times as far from as it isfrom ?50 90 50ANSW90ER:"
+        "content": " A 200 microfarad parallel plate capacitor is connected to a 6 volt\nbattery. Once the capacitor is fully charged, it is disconnected from the battery and a dielectric is\ninserted between the plates with a dielectric constant of 5. Expressed as a decimal, what is the\nnew voltage across the capacitor?",
+        "answer": " 1.2"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
-        "content": " Which of the following cities is on the North\nAmerican tectonic plate?\nW) Los Angeles\nX) San Diego\nY) San Francisco\nZ) Santa Cruz\nANSWER: Y) SAN FRANCISCO",
-        "subject": "",
-        "answer": "x x \u2013 \u2013 6 \u2013 22+ 2 + 3Round Robin ~ Round 4 Page 8TOSS UP17. EARTH AND SPACE Multiple Choice Which of the following cities is on the NorthAmerican tectonic plate?W) Los AngelesX) San DiegoY) San FranciscoZ) Santa CruzANSWER: Y) SAN FRANCISCO"
+        "content": " Which of the following is an example of a disaccharide [dy-\nSAK-uh-ryd]?\nW) Glucose\nX) Sucrose\nY) Cellulose\nZ) Glycogen [GLY-kuh-juhn]",
+        "answer": " X) SUCROSE"
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " A field assistant takes a tissue sample from a dead mouse and\nforgets to label the sample with the type of tissue collected. In the lab, she needs to correct her\noversight. The tissue is striated and has intercalated disks between cells. Which of the following\nsamples does the field assistant have?\nW) Liver\nX) Heart\nY) Skeletal muscle\nZ) Brain\nANSWER: X) HEART",
-        "subject": "",
-        "answer": "AMPHIBOLITETOSS UP18. BIOLOGY Multiple Choice A field assistant takes a tissue sample from a dead mouse andforgets to label the sample with the type of tissue collected. In the lab, she needs to correct heroversight. The tissue is striated and has intercalated disks between cells. Which of the followingsamples does the field assistant have?W) LiverX) HeartY) Skeletal muscleZ) BrainANSWER: X) HEART"
-    },
-    {
-        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " A long wire carrying a 3 ampere current is placed in a magnetic\nfield of 1 tesla so that a straight 2 meter segment of the wire makes an angle of 30\u00b0 with the\nfield direction. What is the magnitude of the force in newtons on the wire segment?\nANSWER: 3",
-        "subject": "",
-        "answer": "W) SIRENIANSRound Robin ~ Round 4 Page 9TOSS UP19. PHYSICS Short Answer A long wire carrying a 3 ampere current is placed in a magneticfield of 1 tesla so that a straight 2 meter segment of the wire makes an angle of 30\u00b0 with thefield direction. What is the magnitude of the force in newtons on the wire segment?ANSWER: 3"
+        "content": " How many milliliters of 0.1 molar sulfuric acid must be titrated\nwith 20 milliliters of 0.5 molar sodium hydroxide in order reach the equivalence point?",
+        "answer": " 50"
     },
     {
-        "type": "Bonus",
+        "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " If a heat pump can use 1 Btu of electricity to move 4 Btus of\ncooling, how many Btus of electricity are needed to provide 100 Btus of cooling?\nANSWER: 25",
-        "subject": "",
-        "answer": "3.3TOSS UP20. ENERGY Short Answer If a heat pump can use 1 Btu of electricity to move 4 Btus ofcooling, how many Btus of electricity are needed to provide 100 Btus of cooling?ANSWER: 25"
+        "content": " The length of each edge of a cube is decreased by . To the\nnearest ten percent, by what percent does the volume of the cube decrease?\n40%",
+        "answer": ""
     },
     {
         "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " Which of the following interactions is an example of\ncommensalism?\nW) Ants living in acacia [uh-KAY-shuh] thorns, feeding on protein bodies produced by the tree\nand attacking herbivores that attempt to eat acacia leaves\nX) Two species of barnacle occupying different tidal regions on rocky shores\nY) Ticks attaching to deer and feeding off their blood\nZ) Cattle egrets following water buffalo to feed on insects scared out of grass by the buffalo\nANSWER: Z) CATTLE EGRETS FOLLOWING WATER BUFFALO TO FEED ON INSECTS\nSCARED OUT OF GRASS BY THE BUFFALO",
-        "subject": "",
-        "answer": "NATURAL GASRound Robin ~ Round 4 Page 10TOSS UP21. BIOLOGY Multiple Choice Which of the following interactions is an example ofcommensalism?W) Ants living in acacia [uh-KAY-shuh] thorns, feeding on protein bodies produced by the treeand attacking herbivores that attempt to eat acacia leavesX) Two species of barnacle occupying different tidal regions on rocky shoresY) Ticks attaching to deer and feeding off their bloodZ) Cattle egrets following water buffalo to feed on insects scared out of grass by the buffaloANSWER: Z) CATTLE EGRETS FOLLOWING WATER BUFFALO TO FEED ON INSECTSSCARED OUT OF GRASS BY THE BUFFALO"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " All except which of the following are true for rubidium\nfluoride?\nW) It has a high boiling point\nX) It dissolves in aqueous ammonia [AY-kwee-uhs]\nY) It conducts electricity in the solid state\nZ) It is an electrolyte\nANSWER: Y) IT CONDUCTS ELECTRICITY IN THE SOLID STATE",
-        "subject": "",
-        "answer": "W) SWIM BLADDERTOSS UP22. CHEMISTRY Multiple Choice All except which of the following are true for rubidiumfluoride?W) It has a high boiling pointX) It dissolves in aqueous ammonia [AY-kwee-uhs]Y) It conducts electricity in the solid stateZ) It is an electrolyteANSWER: Y) IT CONDUCTS ELECTRICITY IN THE SOLID STATE"
-    },
-    {
-        "type": "Bonus",
-        "answertype": "Multiple Choice",
-        "content": " What is the radian equivalent of ?\n96\u2070\nW)\n2\ud835\udf0b\ud835\udf0b\nX) 15\n4\ud835\udf0b\ud835\udf0b\nY) 15\n8\ud835\udf0b\ud835\udf0b\nZ) 15\n23\ud835\udf0b\ud835\udf0b\n15\nANSWER: Y)\n8\ud835\udf0b\ud835\udf0b\n15",
-        "subject": "",
-        "answer": "1 AND 2 (ACCEPT: THE PRESSURE OF THE GAS, THE AVERAGE KINETICENERGY OF THE GAS)Round Robin ~ Round 4 Page 11TOSS UP23. MATH Multiple Choice What is the radian equivalent of ?96\u2070W)2\ud835\udf0b\ud835\udf0bX) 154\ud835\udf0b\ud835\udf0bY) 158\ud835\udf0b\ud835\udf0bZ) 1523\ud835\udf0b\ud835\udf0b15ANSWER: Y)8\ud835\udf0b\ud835\udf0b15"
-    },
-    {
-        "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
-        "content": " What chemical associated with volcanic eruptions can\nget into the stratosphere and cause a dampening of the Sun\u2019s rays?\nANSWER: SULFURIC ACID (ACCEPT: SULFUR, SULFUR DIOXIDE, HYDROGEN SULFIDE,\nSULFATE)",
-        "subject": "",
-        "answer": "x (ACCEPT: THE OPEN INTERVAL FROM -1/3 TO 4/3)-1/3 < < 4/3TOSS UP24. EARTH AND SPACE Short Answer What chemical associated with volcanic eruptions canget into the stratosphere and cause a dampening of the Sun\u2019s rays?ANSWER: SULFURIC ACID (ACCEPT: SULFUR, SULFUR DIOXIDE, HYDROGEN SULFIDE,SULFATE)"
+        "content": " Today, my daughter is 1/3 of my age. Five years ago, she was 1/4 of\nmy age then. How old is my daughter?",
+        "answer": "\n15"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is another term for the\neuphotic [yoo-FOH-tik] zone of the ocean?\nW) Dark side\nX) Sunlit zone\nY) Twilight zone\nZ) Abyssal plain",
+        "answer": " X) SUNLIT ZONE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals is a silicate mineral?\nW) Calcite\nX) Halite\nY) Olivine\nZ) Galena [guh-LEE-nuh]",
+        "answer": " Y) OLIVINE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following processes is a form of anaerobic\nrespiration that occurs in skeletal muscles after strenuous exercise?\nW) Alcohol fermentation\nX) Lactic acid fermentation\nY) Pentose-phosphate pathway\nZ) Glycogenesis [gly-kuh-JEN-uh-sis]",
+        "answer": " X) LACTIC ACID FERMENTATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following organisms is NOT matched to its\nanatomical structure for excreting salt?\nW) Fish and gill\nX) Shark and rectal gland\nY) Whale and ocular salt gland\nZ) Seabird and nostril salt gland",
+        "answer": " Y) WHALE AND OCULAR SALT GLAND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the characteristic feature of a\nmetallic crystal?\nW) The metallic bond is directional\nX) The positive ion is free to move\nY) The bonding forces are weak\nZ) The valence electrons are only loosely held and can move to neighboring atoms",
+        "answer": " Z) THE VALENCE ELECTRONS ARE ONLY LOOSELY HELD AND CAN MOVE TO\nNEIGHBORING ATOMS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
-        "content": " What protein is often found in the red muscles of fish that are\nstrong swimmers?\nANSWER: MYOGLOBIN",
-        "subject": "",
-        "answer": "Y) HAWAIIRound Robin ~ Round 4 Page 12TOSS UP25. BIOLOGY Short Answer What protein is often found in the red muscles of fish that arestrong swimmers?ANSWER: MYOGLOBIN"
+        "content": " Consider the complete combustion of propane in oxygen.\nProviding your answer to two significant figures, if 32 grams of oxygen are consumed in the\nreaction, how many grams of carbon dioxide are produced?",
+        "answer": " 26"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A proton enters a uniform magnetic field that is oriented\nperpendicular to the motion of the proton. Which of the following will NOT affect the radius of the\ncircular path in which the proton moves?\nW) The velocity of the proton\nX) The magnitude of the magnetic field\nY) The momentum of the proton\nZ) The position of the proton in the magnetic field",
+        "answer": " Z) THE POSITION OF THE PROTON IN THE MAGNETIC FIELD"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A long wire is carrying 10 amperes of current. Providing your\nanswer in scientific notation, what is the magnetic field in teslas due to the wire at a radial\ndistance of 2 meters from the center of the wire?",
+        "answer": " 1 x 10-6"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " To the nearest 10%, what is the approximate efficiency of\ncommercially available high performance solar cells?",
+        "answer": " 20%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a solar panel produces 200 watts of power, the energy is used to\ncharge a battery with 80% efficiency, and the battery discharges with 80% efficiency, what\npercentage of the power is lost in the storage process?",
+        "answer": " 36%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In electroplating, the object to be electroplated is placed at\nwhich of the following?\nW) The anode\nX) The cathode\nY) Either the anode or cathode\nZ) The salt bridge",
+        "answer": " X) THE CATHODE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following compounds exhibits hydrogen\nbonding and can act as a Lewis base?\nW) Ozone\nX) Ammonia\nY) Cesium fluoride\nZ) Hydrogen fluoride",
+        "answer": " X) AMMONIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Divide the polynomial x x by x .\n3",
+        "answer": " x x \u2013 \u2013 6 \u2013 2\n2\n+ 2 + 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following cities is on the North\nAmerican tectonic plate?\nW) Los Angeles\nX) San Diego\nY) San Francisco\nZ) Santa Cruz",
+        "answer": " Y) SAN FRANCISCO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the name of the metamorphic rock that is\ndominantly composed of hornblende?",
+        "answer": " AMPHIBOLITE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A field assistant takes a tissue sample from a dead mouse and\nforgets to label the sample with the type of tissue collected. In the lab, she needs to correct her\noversight. The tissue is striated and has intercalated disks between cells. Which of the following\nsamples does the field assistant have?\nW) Liver\nX) Heart\nY) Skeletal muscle\nZ) Brain",
+        "answer": " X) HEART"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following groups consists only of strictly vegetarian\nmarine mammals?\nW) Sirenians [sy-REE-nee-uhns]\nX) Pinnipeds [PIN-uh-peds]\nY) Cetaceans [si-TAY-shuhns]\nZ) Fissipeds [FIS-uh-peds]",
+        "answer": " W) SIRENIANS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A long wire carrying a 3 ampere current is placed in a magnetic\nfield of 1 tesla so that a straight 2 meter segment of the wire makes an angle of 30\u00b0 with the\nfield direction. What is the magnitude of the force in newtons on the wire segment?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A charge of +1 nanocoulombs is placed at the origin, and a\ncharge of +4 nanocoulombs is placed 10 centimeters away. Providing your answer in\ncentimeters to the nearest tenth, at what distance from the origin is the electric field zero?",
+        "answer": " 3.3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a heat pump can use 1 Btu of electricity to move 4 Btus of\ncooling, how many Btus of electricity are needed to provide 100 Btus of cooling?",
+        "answer": " 25"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If you have one pound each of natural gas, dry wood, and coal,\nwhich has the greatest amount of energy content?",
+        "answer": " NATURAL GAS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following interactions is an example of\ncommensalism?\nW) Ants living in acacia [uh-KAY-shuh] thorns, feeding on protein bodies produced by the tree\nand attacking herbivores that attempt to eat acacia leaves\nX) Two species of barnacle occupying different tidal regions on rocky shores\nY) Ticks attaching to deer and feeding off their blood\nZ) Cattle egrets following water buffalo to feed on insects scared out of grass by the buffalo",
+        "answer": " Z) CATTLE EGRETS FOLLOWING WATER BUFFALO TO FEED ON INSECTS\nSCARED OUT OF GRASS BY THE BUFFALO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following characteristics is least common to see in\nnon-migratory abyssopelagic [uh-bis-uh-pe-LAJ-ik] zone fish species ?\nW) Swim bladder\nX) Hermaphroditsm [hur-MAF-ruh-day-tiz-uhm]\nY) Small eyes\nZ) Large mouths",
+        "answer": " W) SWIM BLADDER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " All except which of the following are true for rubidium\nfluoride?\nW) It has a high boiling point\nX) It dissolves in aqueous ammonia [AY-kwee-uhs]\nY) It conducts electricity in the solid state\nZ) It is an electrolyte",
+        "answer": " Y) IT CONDUCTS ELECTRICITY IN THE SOLID STATE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A sample of an ideal gas is placed in a sealed container of\nfixed volume. The gas is heated from 25.0o Celsius to 45.0o Celsius. Identify all of the following\nfour factors that will increase: 1) the pressure of the gas, 2) the average kinetic energy of the\ngas, 3) the density of the gas, 4) the intermolecular forces.",
+        "answer": " 1 AND 2 (ACCEPT: THE PRESSURE OF THE GAS, THE AVERAGE KINETIC\nENERGY OF THE GAS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " What is the radian equivalent of ?\n96\u2070\nW)\n2\ud835\udf0b\ud835\udf0b\nX) 15\n4\ud835\udf0b\ud835\udf0b\nY) 15\n8\ud835\udf0b\ud835\udf0b\nZ) 15\n23\ud835\udf0b\ud835\udf0b\n15",
+        "answer": " Y)\n8\ud835\udf0b\ud835\udf0b\n15"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the inequality [negative 3 plus the\nabsolute value of the quantity 3 minus 6x is less than 2].\n\u22123+ |3\u22126\ud835\udc65\ud835\udc65| < 2",
+        "answer": " x (ACCEPT: THE OPEN INTERVAL FROM -1/3 TO 4/3)\n-1/3 < < 4/3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What chemical associated with volcanic eruptions can\nget into the stratosphere and cause a dampening of the Sun\u2019s rays?",
+        "answer": " SULFURIC ACID (ACCEPT: SULFUR, SULFUR DIOXIDE, HYDROGEN SULFIDE,\nSULFATE)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Based on the current northwest movement of the\nPacific plate, which of the following Hawaiian islands is the youngest?\nW) Kauai [kah-oo-AH-ee]\nX) Maui\nY) Hawaii\nZ) Oahu",
+        "answer": " Y) HAWAII"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What protein is often found in the red muscles of fish that are\nstrong swimmers?",
+        "answer": " MYOGLOBIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following types of lipid modification connects\nproteins to cytosolic membrane surfaces and is reversible?\nW) Palmitoylation [pal-mi-toi-LAY-shuhn]\nX) Prenylation [pre-NIL-ay-shuhn]\nY) Myristoylation [may-ruh-stoi-LAY-shuhn]\nZ) Acylation [as-uh-LAY-shuhn]",
-        "subject": "",
-        "answer": "W) PALMITOYLATIONRound Robin ~ Round 4 Page 13"
+        "answer": " W) PALMITOYLATION"
     }
 ]

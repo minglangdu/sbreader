@@ -1,345 +1,352 @@
 [
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What is the most common term used in genetics to describe the\nobservable physical characteristics of an organism caused by the expression of a gene or set of\ngenes?",
-        "subject": " BIOLOGY ",
-        "answer": "PHENOTYPE"
+        "answer": " PHENOTYPE"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What is the biological term most often used for the act of a cell\nengulfing a particle by extending its pseudopodia (read as: SU-doe-POH-dee-ah) around the\nparticle?",
-        "subject": " BIOLOGY ",
-        "answer": "PHAGOCYTOSIS"
+        "answer": " PHAGOCYTOSIS"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " An aqueous solution in which the concentration of OH\u2013 ions is\ngreater than that of H+ ions is:\nW) basic\nX) acidic\nY) neutral\nZ) in equilibrium",
-        "subject": " CHEMISTRY ",
-        "answer": "W) BASIC"
+        "answer": " W) BASIC"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Find the mass of 1 mole of cuprous oxide, or Cu O. Assume the\n2\natomic mass of copper is 64 and oxygen is 16.",
-        "subject": " CHEMISTRY ",
-        "answer": "144High School Round 1 Page 1"
+        "answer": " 144"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What property of a sound wave is most commonly associated with\nloudness?",
-        "subject": " PHYSICS ",
-        "answer": "AMPLITUDE"
+        "answer": " AMPLITUDE"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the MOST common term for the behavior of light where it\nappears to bend around small obstacles or the spreading out of waves as light passes through\npinholes or slits?",
-        "subject": " PHYSICS ",
-        "answer": "DIFFRACTION"
+        "answer": " DIFFRACTION"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " What term BEST describes 2 angles with 90\u00ba as the sum of their\nmeasurements?",
-        "subject": " MATH ",
-        "answer": "COMPLEMENTARY"
+        "answer": " COMPLEMENTARY"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Divide the following and give your answer in scientific notation:\n8\u00d7107\n1\n(4\u00d7104)2",
-        "subject": " MATH ",
-        "answer": "4 \u00d7 105High School Round 1 Page 2"
+        "answer": " 4 \u00d7 105"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " The overall charge at the top and bottom, respectively, of a\ntowering cumulonimbus cloud during a thunderstorm is:\nW) positive, positive\nX) positive, negative\nY) negative, positive\nZ) negative, negative",
-        "subject": " EARTH SCIENCE ",
-        "answer": "X) POSITIVE, NEGATIVE"
+        "answer": " X) POSITIVE, NEGATIVE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " A lightning bolt is seen and its accompanying thunder is\nheard 15 seconds later. This means the storm is most likely how many miles away:\nW) 3\nX) 6\nY) 9\nZ) 15",
-        "subject": " EARTH SCIENCE ",
-        "answer": "W) 3"
+        "answer": " W) 3"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " How many significant figures are in the number 0.00750?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "3"
+        "answer": " 3"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " Subtract the following 2 numbers and give your answer\nwith the proper significant figures: 25.101 \u2013 0.9608",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "24.140High School Round 1 Page 3"
+        "answer": " 24.140"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What is the proper name of the star that is most commonly noted\nto have coordinates closest to the north celestial pole?",
-        "subject": " ASTRONOMY ",
-        "answer": "NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS)"
+        "answer": " NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS)"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What is the most well-known asterism in Ursa Major?",
-        "subject": " ASTRONOMY ",
-        "answer": "BIG DIPPER"
+        "answer": " BIG DIPPER"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " Human epidermis is mostly composed of which of the following\nbasic animal tissues types:\nW) epithelial\nX) connective\nY) nervous\nZ) muscle",
-        "subject": " BIOLOGY ",
-        "answer": "W) EPITHELIAL"
+        "answer": " W) EPITHELIAL"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What are the 2 basic categories of lymphocyte cells?",
-        "subject": " BIOLOGY ",
-        "answer": "T AND B (ACCEPT: B AND T CELLS)High School Round 1 Page 4"
+        "answer": " T AND B (ACCEPT: B AND T CELLS)"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " What general type of bonding is found in molecules in which\nelectrons are shared by nuclei?",
-        "subject": " CHEMISTRY ",
-        "answer": "COVALENT"
+        "answer": " COVALENT"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 4 processes where latent heat is\nabsorbed: evaporation; condensation; water melts; water freezes",
-        "subject": " CHEMISTRY ",
-        "answer": "EVAPORATION; WATER MELTS"
+        "answer": " EVAPORATION; WATER MELTS"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " Although not known as such at the time, what was the first form of\nspectacular electric discharge seen by humans?",
-        "subject": " PHYSICS ",
-        "answer": "LIGHTNING"
+        "answer": " LIGHTNING"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " A constant force acting on a body experiencing no change in its\nenvironment will give the body:\nW) constant acceleration\nX) constant speed\nY) constant velocity\nZ) zero acceleration",
-        "subject": " PHYSICS ",
-        "answer": "W) CONSTANT ACCELERATIONHigh School Round 1 Page 5"
+        "answer": " W) CONSTANT ACCELERATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following expression, where a is not equal to zero if b = 0\nor if b = \u20131: (ab2 )(ab)",
+        "answer": "\nab2+b"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Giving your answer in inches and in simplest radical form, if the\nhypotenuse of a 45-45-90\u00ba triangle is 10 inches, find the length of the other sides:",
-        "subject": " MATH ",
-        "answer": "5 2 (ACCEPT: BOTH 5 2 )"
+        "answer": " 5 2 (ACCEPT: BOTH 5 2 )"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a sedimentary rock:\nW) slate\nX) marble\nY) basalt\nZ) sandstone",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) SANDSTONE"
+        "answer": " Z) SANDSTONE"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is LEAST accurate about\nminerals:\nW) calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face\nperpendicular to its long axis\nX) the Moh\u2019s scale measures the absolute hardness of minerals\nY) a mineral\u2019s chemical composition largely determines its crystal shape and cleavage pattern\nZ) a mineral\u2019s color is the same as its streak",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) A MINERAL\u2019S COLOR IS THE SAME AS ITS STREAKHigh School Round 1 Page 6"
+        "answer": " Z) A MINERAL\u2019S COLOR IS THE SAME AS ITS STREAK"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is closest to the meaning of the\nsuffix \u2018lith\u2019:\nW) outside\nX) stone\nY) side\nZ) surface",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "X) STONE"
+        "answer": " X) STONE"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " Rounded to the nearest whole number, how many feet\ndoes light travel in one-billionth of one second?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "1"
+        "answer": " 1"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What star has the greatest apparent magnitude?",
-        "subject": " ASTRONOMY ",
-        "answer": "SUN"
+        "answer": " SUN"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What planet is known to be most like Earth in size and density?",
-        "subject": " ASTRONOMY ",
-        "answer": "VENUSHigh School Round 1 Page 7"
+        "answer": " VENUS"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " How many embryonic seed leaves does a bean seedling have?",
-        "subject": " BIOLOGY ",
-        "answer": "2"
+        "answer": " 2"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 5 plants that are dicots:\nwheat; geranium; garlic; bamboo; rose",
-        "subject": " BIOLOGY ",
-        "answer": "GERANIUM; ROSE"
+        "answer": " GERANIUM; ROSE"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is a metallic element, composes about\n5% of the Earth\u2019s crust, oxidizes very easily, and when pure is a dark, silver-grey metal:\nW) cobalt\nX) nickel\nY) iron\nZ) titanium",
-        "subject": " CHEMISTRY ",
-        "answer": "Y) IRON"
+        "answer": " Y) IRON"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " In general, metals are relatively hard except for what group of\nmetals in the Periodic Table?",
-        "subject": " CHEMISTRY ",
-        "answer": "ONE (ACCEPT: GROUP 1A or ALKALI METALS)High School Round 1 Page 8"
+        "answer": " ONE (ACCEPT: GROUP 1A or ALKALI METALS)"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Upon which of the following does the mass of a body MOST\ndirectly depend:\nW) its magnetic properties\nX) how much volume it has\nY) the amount of matter it contains\nZ) its location",
-        "subject": " PHYSICS ",
-        "answer": "Y) THE AMOUNT OF MATTER IT CONTAINS"
+        "answer": " Y) THE AMOUNT OF MATTER IT CONTAINS"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Mary and Joe are on a merry-go-round. Mary is seated near the\ncenter of rotation and Joe is on the outer edge. Which of the following BEST describes their motion:\nW) Mary has a greater acceleration than Joe\nX) Joe has a greater acceleration than Mary\nY) neither Mary nor Joe are accelerating\nZ) both Mary and Joe have the same acceleration",
-        "subject": " PHYSICS ",
-        "answer": "X) JOE HAS A GREATER ACCELERATION THAN MARY"
+        "answer": " X) JOE HAS A GREATER ACCELERATION THAN MARY"
     },
     {
         "type": "Toss-up",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " Giving your answer in terms of \u03c0 and in inches, what is the arc-length of\na semi-circle whose diameter is 18 inches?",
-        "subject": " MATH ",
-        "answer": "9\u03c0(Solution: C = \u03c0d; \u00bd(18\u03c0) = 9\u03c0)"
+        "answer": " 9\u03c0\n(Solution: C = \u03c0d; \u00bd(18\u03c0) = 9\u03c0)"
     },
     {
         "type": "Bonus",
+        "subject": " MATH ",
         "answertype": "Short Answer",
         "content": " What is the area, in square feet, of a triangle whose perpendicular height\nis 20 feet with a base of 12 feet?",
-        "subject": " MATH ",
-        "answer": "120(Solution: A = \u00bd bh = \u00bd (12)(20) = 120 ft2)High School Round 1 Page 9"
+        "answer": " 120\n(Solution: A = \u00bd bh = \u00bd (12)(20) = 120 ft2)"
     },
     {
         "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following terms best describes the albedo of\na planet:\nW) electromagnetic energy\nX) density\nY) reflectivity\nZ) absorption",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Y) REFLECTIVITY"
+        "answer": " Y) REFLECTIVITY"
     },
     {
         "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
         "answertype": "Multiple Choice",
         "content": " Which of the following is NOT true of what occurs during\nan equinox:\nW) equal length of day and night except at the poles\nX) the Earth is not tilted with respect to the ecliptic\nY) the Sun is directly overhead at the equator\nZ) the Moon is directly overhead at the poles",
-        "subject": " EARTH SCIENCE ",
-        "answer": "Z) THE MOON IS DIRECTLY OVERHEAD AT THE POLES"
+        "answer": " Z) THE MOON IS DIRECTLY OVERHEAD AT THE POLES"
     },
     {
         "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " What gas is most directly responsible for the bends or\ndecompression sickness that divers may experience?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "NITROGEN (ACCEPT: N )2"
+        "answer": " NITROGEN (ACCEPT: N )\n2"
     },
     {
         "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
         "answertype": "Short Answer",
         "content": " In degrees Celsius to the nearest whole number, what is\nthe normal core body temperature of a human being?",
-        "subject": " GENERAL SCIENCE ",
-        "answer": "37High School Round 1 Page 10"
+        "answer": " 37"
     },
     {
         "type": "Toss-up",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " What is the declination of the north celestial pole?",
-        "subject": " ASTRONOMY ",
-        "answer": "90 (ACCEPT: +90)"
+        "answer": " 90 (ACCEPT: +90)"
     },
     {
         "type": "Bonus",
+        "subject": " ASTRONOMY ",
         "answertype": "Short Answer",
         "content": " The Sagittarius Arm is part of what galaxy?",
-        "subject": " ASTRONOMY ",
-        "answer": "THE MILKY WAY"
+        "answer": " THE MILKY WAY"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Multiple Choice",
         "content": " If a plant had a taproot, it would also most likely have:\nW) parallel leaf venation\nX) two cotyledons in its seedling stage\nY) diffusely arranged vascular bundles in its stem\nZ) no stomata on the upper surfaces of its leaves",
-        "subject": " BIOLOGY ",
-        "answer": "X) TWO COTYLEDONS IN ITS SEEDLING STAGE"
+        "answer": " X) TWO COTYLEDONS IN ITS SEEDLING STAGE"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Using the traditional system of classification, when organisms\nbelong to the same class, name all of the following 4 taxonomic categories to which they must also\nbelong: order; family; phylum; kingdom",
-        "subject": " BIOLOGY ",
-        "answer": "PHYLUM; KINGDOMHigh School Round 1 Page 11"
+        "answer": " PHYLUM; KINGDOM"
     },
     {
         "type": "Toss-up",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " According to standard chemical nomenclature and indicating the\nproper charge, what is the formula for hydrogen sulfide?",
-        "subject": " CHEMISTRY ",
-        "answer": "H S2"
+        "answer": " H S\n2"
     },
     {
         "type": "Bonus",
+        "subject": " CHEMISTRY ",
         "answertype": "Short Answer",
         "content": " Of the following group of 4 cations, which are the LARGEST\nand SMALLEST ions, respectively: K+; Na+; Rb+; Li+",
-        "subject": " CHEMISTRY ",
-        "answer": "LARGEST = Rb+; SMALLEST = Li+ (ACCEPT: RUBIDIUM AND LITHIUM)"
+        "answer": " LARGEST = Rb+; SMALLEST = Li+ (ACCEPT: RUBIDIUM AND LITHIUM)"
     },
     {
         "type": "Toss-up",
+        "subject": " PHYSICS ",
         "answertype": "Multiple Choice",
         "content": " Martin is swinging a yo-yo in a large room with a circular motion\nperpendicular to a level floor. If the yo-yo breaks away from its string at the top of the yo-yo\u2019s\ncircular path, in what direction will the yo-yo initially move:\nW) at an angle between horizontal and vertical\nX) straight up, toward the ceiling\nY) straight down, to the floor\nZ) horizontally, tangent to its original circular path",
-        "subject": " PHYSICS ",
-        "answer": "Z) HORIZONTALLY, TANGENT TO ITS ORIGINAL CIRCULAR PATH"
+        "answer": " Z) HORIZONTALLY, TANGENT TO ITS ORIGINAL CIRCULAR PATH"
     },
     {
         "type": "Bonus",
+        "subject": " PHYSICS ",
         "answertype": "Short Answer",
         "content": " What is the BEST term for the tendency of any mass at rest to remain\nat rest?",
-        "subject": " PHYSICS ",
-        "answer": "INERTIAHigh School Round 1 Page 12"
+        "answer": " INERTIA"
     },
     {
         "type": "Toss-up",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " What is the genus name of the most thoroughly studied bacterium?",
-        "subject": " BIOLOGY ",
-        "answer": "Escherichia"
+        "answer": " Escherichia"
     },
     {
         "type": "Bonus",
+        "subject": " BIOLOGY ",
         "answertype": "Short Answer",
         "content": " Name all of the following 3 processes that do NOT occur in E. coli:\nglycolysis; photosynthesis; glycogenolysis (read as: GLYKO-jen-oh-LY-sis)",
-        "subject": " BIOLOGY ",
-        "answer": "PHOTOSYNTHESISHigh School Round 1 Page 13"
+        "answer": " PHOTOSYNTHESIS"
     }
 ]

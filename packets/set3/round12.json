@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Often some of the strongest spectral lines in cold interstellar gas are\nproduced by:\nW) neutral lithium\nX) ionized iron\nY) carbon and iron\nZ) calcium and sodium",
+        "answer": " Z) CALCIUM AND SODIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The cosmic background radiation discovered by Penzias and Wilson\nclosely matches the radiation from a black body with what temperature Kelvin, to the nearest whole\nnumber?",
+        "answer": " 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following salt solutions, all at 1.0 molar\nconcentration, will have a pH value less than 7:\nW) NH Cl\n4\nX) NaC H O\n2 3 2\nY) KCl\nZ) LiBr",
+        "answer": " W) NH Cl\n4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 compounds that exhibit\nhydrogen bonding: CH ; H S; NH ; CH OH\n4 2 3 3",
+        "answer": " NH ; CH OH\n3 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In early experiments in the mid-1900\u2019s, the source and fate of\noxygen involved in photosynthesis was mostly determined through experiments that used:\nW) animals in closed containers that would die unless a plant was introduced into the container\nX) a heavy isotope of oxygen as a tracer\nY) fluorescent labeling of various enzymes and organic products\nZ) simple accounting of the atomic mass of all the reactants and products",
+        "answer": " X) A HEAVY ISOTOPE OF OXYGEN AS A TRACER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " By number or name, identify all of the following 4 processes that\ncontribute directly to genetic variation in humans: 1) random fertilization of ova with sperm; 2)\ncrossing over; 3) independent assortment; 4) mitosis",
+        "answer": " 1, 2 AND 3 (ACCEPT: ALL BUT #4)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If you roll 2 fair dice simultaneously, what is the probability, given as a\nfraction, that you will roll the number 6 on AT LEAST one die?",
+        "answer": " 11/36"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the sum of all interior angles, in degrees, in a regular polygon having\n14 sides:",
+        "answer": " 2,160\n(Solution: (14 \u2013 2)(180) = 2,160\u00ba)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST example of a\nnon-point source pollution:\nW) leaching from a landfill\nX) a leaking septic tank\nY) fertilizer runoff from agricultural fields\nZ) chemical spills at a mining site",
+        "answer": " Y) FERTILIZER RUNOFF FROM AGRICULTURAL FIELDS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following 4 layers of the Earth\u2019s atmosphere in\norder of INCREASING air pressure: stratosphere; exosphere; thermosphere; troposphere",
+        "answer": " EXOSPHERE; THERMOSPHERE; STRATOSPHERE; TROPOSPHERE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Some vitamin tablets contain high concentrations of\nzinc and must be formulated to include high levels of which of the following minerals in order to\nprevent an induced anemia:\nW) copper\nX) calcium\nY) magnesium\nZ) boron",
+        "answer": " W) COPPER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the most common name for the technique that\nplaces a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally\ndetects changes in the spin of atoms in the molecule?",
+        "answer": " NUCLEAR MAGNETIC RESONANCE (ACCEPT: NMR or MAGNETIC\nRESONANCE SPECTROSCOPY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " Landform deposits called linear dunes that were recently found\non the moon Titan are MOST directly produced by:\nW) tectonic activity\nX) wind\nY) erosion by the retreat and advance of large seas of liquid methane\nZ) streaks in the surface following low-angle meteorite impacts",
+        "answer": " X) WIND"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " What is the magnifying power of the telescope with a focal length\nof 5 meters and an eyepiece of 20 millimeters?",
+        "answer": " 250 (ACCEPT: 250X or 250 TIMES)\n(Solution: 5000mm/20mm = 250)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The process in which an atom reradiates a photon after interacting\nwith an incident photon of the same energy is called:\nW) Rayleigh scattering\nX) the Cherenkov effect\nY) Bragg\u2019s Law\nZ) Thomson scattering",
+        "answer": " Z) THOMSON SCATTERING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A protanomalous person has decreased sensitivity of the red cones\nin his or her eyes. Which of the following color pairs will this person have difficulty distinguishing\nbetween:\nW) red and green\nX) blue and purple\nY) yellow and turquoise\nZ) dark navy blue and black",
+        "answer": " X) BLUE AND PURPLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is typically TRUE of organic\ncompounds:\nW) acetylene contains delocalized pi bonds\nX) the simplest carboxylic acid is ethanoic acid\nY) ketones have no hydrogen atoms directly attached to the carbonyl group\nZ) alcohols contain nonpolar hydroxyl groups",
+        "answer": " Y) KETONES HAVE NO HYDROGEN ATOMS DIRECTLY ATTACHED TO THE\nCARBONYL GROUP"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Rounded to the nearest whole number, what is the percent of\nmagnesium in magnesium carbonate, given the atomic mass of magnesium is 24 grams per mole?",
+        "answer": " 29\n(Solution: MgCO = 24 + 12 + (3 \u00d7 16) = 84; 24/84 = 28.57%)\n3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In the famous experiment by Hershey and Chase that showed\nDNA was the genetic material, what did they use to transmit the DNA into E. coli:\nW) other E. coli\nX) electric shocks\nY) a blender\nZ) bacteriophage",
+        "answer": " Z) BACTERIOPHAGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In the Amanita mushroom, what is the name of the cell in which\nkaryogamy and meiosis occur and what is the product of meiosis, respectively?",
+        "answer": " CELL = BASIDIUM; PRODUCT = BASIDIOSPORE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are coterminal angles in standard position\n(read slowly):\nW) 550\u00ba and 185\u00ba\nX) 80\u00b0 and \u2013190\u00b0\nY) 1160\u00b0 and 800\u00b0\nZ) 181\u00b0 and \u2013118\u00b0",
+        "answer": " Y) 1160\u00b0 AND 800\u00b0\n(Solution: 80 +3(360\u00ba) = 1160\u00ba; 80 +2(360\u00ba) = 800\u00ba)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x, expressing your answer in simplest\nradical form over the real numbers: x4 \u2013 9x2 + 8 = 0",
+        "answer": " \u00b12 2 AND \u00b11 (ACCEPT ALL: +2 2, \u22122 2, +1, -1)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the BEST example of an ocean\ncurrent found in the intertidal littoral zone that flows seaward:\nW) rip current\nX) tidal bore\nY) the Antarctic Circumpolar Current\nZ) equatorial tidal current",
+        "answer": " W) RIP CURRENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true of isotherms:\nW) they are more widely spaced over the equatorial regions\nX) they are more closely spaced over North America in the summer than in the winter\nY) they tend to be linear in form in the Southern Hemisphere south of 40\u00ba latitude\nZ) they are lines that connect places with the same average temperature",
+        "answer": " X) THEY ARE MORE CLOSELY SPACED OVER NORTH AMERICA IN THE\nSUMMER THAN IN THE WINTER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following instruments is BEST used to\nimage small, transparent and fluorescent specimens and obtain optical sections without the need for\nmechanical sectioning:\nW) X-ray microanalyzer\nX) scanning electron microscope\nY) transmission electron microscope\nZ) confocal laser scanning microscope",
+        "answer": " Z) CONFOCAL LASER SCANNING MICROSCOPE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " A relatively new scourge to the citrus growers in Florida,\nwhat is the common name of the citrus disease caused by a species of bacteria called C. liberibacter\nand spread by an introduced non-native insect?",
+        "answer": " GREENING (ACCEPT: CITRUS GREENING)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " A sidereal drive is a motor on a telescope that turns it in a\ncertain direction to keep the telescope aimed at a certain celestial object. Giving your answer as\nnorth, south, east or west, in what direction does it turn?",
+        "answer": " WEST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Multiple Choice",
+        "content": " The Wilkinson Microwave Anisotropy Probe was specifically\ndesigned to:\nW) map all matter in the universe down to a resolution of 1 arc second\nX) map the cosmic background radiation to much greater accuracy and precision than previous\ninstruments\nY) map the size and locations of the Local Group\nZ) map the exact location of the active galactic center of the Milky Way",
+        "answer": " X) MAP THE COSMIC BACKGROUND RADIATION TO MUCH GREATER\nACCURACY AND PRECISION THAN PREVIOUS INSTRUMENTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a compound gearing arrangement where a 40-tooth gear drives\nan 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total\nreduction is a factor of:\nW) 2\nX) 2.5\nY) 4\nZ) 5",
+        "answer": " Y) 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Elastic deformation is BEST described as:\nW) the linear portion of a stress/strain curve\nX) the ultimate strength of a material\nY) 0.02% elongation\nZ) permanent deformation",
+        "answer": " W) THE LINEAR PORTION OF A STRESS/STRAIN CURVE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following elements has the largest second\nionization energy:\nW) fluorine\nX) nitrogen\nY) boron\nZ) lithium",
+        "answer": " Z) LITHIUM\n(Solution: core electrons must be removed)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following compounds in order of INCREASING\nionic characteristic: HCl; LiBr; CO; KF",
+        "answer": " CO; HCl; LiBr; KF"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are MOST often used to introduce foreign\ngenes into mammalian genomes:\nW) sliceosomes (read as: sly-see-oh-somz)\nX) zinc fingers\nY) plasmids\nZ) telomeres",
+        "answer": " Y) PLASMIDS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following regulate development in animals, plants\nand fungi, and were first discovered in Drosophila:\nW) homeobox (read as: HOME-ee-oh-box) genes\nX) p53\nY) shock genes\nZ) oncogenes",
+        "answer": " W) HOMEOBOX GENES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What function is the inverse of y = 3x + 4?\nx\u22124",
+        "answer": " y =\n3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Giving your answer as an ordered pair, find the solution of the system of\nthe following 2 equations: 2x + 3y = 8, and 3x \u2013 2y = \u20131",
+        "answer": " (1, 2) (ACCEPT: 1 AND 2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Multiple Choice",
+        "content": " Orthoclase feldspar primarily weathers by which of the\nfollowing processes to form clay minerals:\nW) abrasion\nX) hydrolysis\nY) exfoliation\nZ) dissolution",
+        "answer": " X) HYDROLYSIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What is the name for the sedimentary rock that carries high\nconcentrations of organic material in the form of kerogen, which can yield oil when heated and\ndistilled?",
+        "answer": " OIL SHALE (ACCEPT: SHALE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 reagents that would NOT\nbe labeled as a highly flammable substance:\nmethanol; diethyl ether; 30% hydrogen peroxide; benzene",
+        "answer": " 30% HYDROGEN PEROXIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " GENERAL SCIENCE ",
+        "answertype": "Short Answer",
+        "content": " What engineering term is MOST commonly used to\ndescribe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an\nabrupt transition in diameter?",
+        "answer": " STRESS CONCENTRATION (ACCEPT: STRESS CONCENTRATION AT THE\nCHANGE IN DIAMETER) (DO NOT ACCEPT: STRESS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " If the surface temperature of a given star increased from\n20,000K to 60,000K, how many times as much energy would the star release?",
+        "answer": " 81 (ACCEPT: 34)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ASTRONOMY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 celestial objects that, when viewed\nfrom the Earth, CANNOT be in opposition: Moon; Mercury; Mars; Neptune",
+        "answer": " MERCURY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What specific type of semiconductor is produced by adding\nphosphorus to silicon?",
+        "answer": " N-TYPE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many turns are in the secondary coil of a transformer that has a\nprimary coil with 20,000 turns and is designed to step down 12,000 volts AC to 120 volts AC?",
+        "answer": " 200\n(Solution: 12,000/120 = 20,000/x; x = 200)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The hybridization of one \u2018s\u2019 (read as: one <pause> s) orbital and\n3 \u2018p\u2019 (read as: three <pause> p) orbitals and one \u2018d\u2019 (read as: one <pause> d) orbital creates how\nmany sp3d hybrid orbitals?",
+        "answer": " 5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A solution contains 0.50 moles of methanol in 100 grams of\nwater. What is the mole fraction of methanol, to the second decimal place?",
+        "answer": " 0.08 (DO NOT ACCEPT 8.0%)\n(Solution: 100g/18 g mol-1 = 5.56 moles; 0.5 mol/(5.56 + 0.5) = 0.0825)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Black water fever is a complication of malarial infection. The term\nblack water comes from what oxidized product in the urine of infected individuals?",
+        "answer": " HEMOGLOBIN (ACCEPT: MET-HEMOGLOBIN)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following 4 human blood cells that are considered\nlymphocytes: helper T cells; CD8 cells; CD4 cells; plasma cells",
+        "answer": " HELPER T CELLS; CD8 CELLS; CD4 CELLS; PLASMA CELLS\n(ACCEPT: ALL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Calculate the atom percent composition, rounded to the nearest\nwhole number, for each atom in acetic acid:",
+        "answer": " C = 25%; H = 50%; O = 25%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Calculate the mass percent composition, rounded to the nearest\nwhole number, for each atom in acetic acid:",
+        "answer": " C = 40%; H = 7%; O = 53%\n(Solution: C= 24/60 \u00d7 100% = 40%; H= 4/60 \u00d7 100% = 6.7%; O= 32/60 \u00d7 100% = 53.3%)"
+    }
+]
