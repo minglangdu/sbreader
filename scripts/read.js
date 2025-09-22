@@ -9,20 +9,57 @@ var randomIndex = 0;
 
 /*--                  --*/
 
+
+// this function is entirely ai-generated lol
+function ankiConnectInvoke(action, version, params = {}) {
+    return new Promise((resolve, reject) => {
+        const xhr = new XMLHttpRequest();
+        xhr.addEventListener('error', () => reject('Failed to connect to AnkiConnect'));
+        xhr.addEventListener('load', () => {
+            try {
+                const response = JSON.parse(xhr.responseText);
+                if (response.error) {
+                    throw response.error;
+                }
+                resolve(response.result);
+            } catch (e) {
+                reject(e);
+            }
+        });
+        xhr.open('POST', 'http://localhost:8765');
+        xhr.send(JSON.stringify({ action, version, params }));
+    });
+}
+
+async function addCard() {
+    var cur = questions[randomIndex];
+    var front = cur["subject"] + " " + cur["type"] + " " + cur["content"];
+    var back = cur["answer"];
+    var note = {
+        deckName: "Science Bowl",
+        modelName: "Basic (type in the answer)",
+        fields: {Front: front, Back: back},
+        tags: ["automated"]
+    };
+    console.log(note);
+    try {
+        const result = await ankiConnectInvoke("addNote", 6, {note});
+    } catch (e) {
+        document.getElementById("AnkiBtn").disabled = true;
+    }
+}
+
 function getQuestions() {
     var selectedSet = document.getElementById("SetInput").value;
     var selectedRound = document.getElementById("RoundInput").value;
-    console.log(selectedSet, selectedRound);
     if (selectedSet > 0 && selectedSet <= usedSets
         && selectedRound <= sets[selectedSet] && selectedRound > 0
     ) {
         document.getElementById("newQuestionBtn").disabled = false;
-        console.log('./packets/set' + selectedSet + '/round' + selectedRound + '.json');
         fetch('./packets/set' + selectedSet + '/round' + selectedRound + '.json')
         .then(response => response.json())
         .then(data => {
             questions = data;
-            console.log(questions);
         })
         .catch(error => console.error('Error fetching JSON:', error));
     } else {
@@ -113,6 +150,7 @@ window.addEventListener("DOMContentLoaded", () => {
     const speedDisplay = document.getElementById("speedDisplay");
     const set = document.getElementById("SetInput");
     const round = document.getElementById("RoundInput");
+    const anki = document.getElementById("AnkiBtn");
 
     // Initialize speed display
     speedDisplay.textContent = speedSlider.value;
@@ -136,5 +174,8 @@ window.addEventListener("DOMContentLoaded", () => {
     });
     round.addEventListener("input", () => {
         getQuestions();
+    });
+    anki.addEventListener("click", () => {
+        addCard();
     });
 });
