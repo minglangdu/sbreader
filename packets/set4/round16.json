@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In a totally inelastic collision, what happens to the two colliding\nobjects?",
+        "answer": " THEY STICK TOGETHER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " For a uniformly rotating object, what do we call the rate of change\nin the angle through which the object turns in one second?",
+        "answer": " ANGULAR VELOCITY (ACCEPT: ANGULAR SPEED)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " An electric vehicle has two stages. If the first stage, the battery,\nhas an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate\nthe approximate overall efficiency of the vehicle.\nW) 56%\nX) 72%\nY) 89%\nZ) 113%",
+        "answer": " X) 72%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " How much work in joules is done by friction on a sled weighing 100\nnewtons during a 10 meter displacement? The coefficient of sliding friction is 0.1.",
+        "answer": " 100"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is congruent to (n + 1) modulus n?\nW) 0\nX) 1\nY) (n \u2013 1)\nZ) (n \u2013 2)",
+        "answer": " X) 1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A spherical balloon is being inflated at a constant rate of \u03c0 cubic\ninches per second. In inches per second, how fast is the radius increasing when the radius is 3\ninches?",
+        "answer": " 1/36\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Which type of crude oil is most desired, due to its low sulfur content\nand higher proportion of carbon chains that can be directed into the liquid fuel product?",
+        "answer": " LIGHT SWEET (ACCEPT: SWEET LIGHT)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the most common sulfur compound that occurs naturally in\nnatural gas.",
+        "answer": " HYDROGEN SULFIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " As the bottom plate moves downward in a subduction\nzone, pressure and heat cause the subducting crust to release volatiles and localized melting\noccurs. If the ocean trench associated with this subduction zone is located far from a continent,\nwhat volcanic feature will be formed in response to this process?",
+        "answer": " ISLAND ARC (ACCEPT: ARC)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What process is responsible for the remineralization of\norganic carbon, returning it to its inorganic state, within a timeframe shorter than geologic\ntimescales?",
+        "answer": " DECOMPOSITION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In evolutionary biology, one theory, phyletic gradualism, proposes\nthat speciation occurs slowly over time while another proposes that speciation occurs in rare,\nrapid events. Name the latter theory.",
+        "answer": " PUNCTUATED EQUILIBRIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name the two main processes which determine whether genetic\nvariations will become common or rare in a population.",
+        "answer": " NATURAL SELECTION AND GENETIC DRIFT (ACCEPT: NATURAL SELECTION\nAND SEWALL-WRIGHT EFFECT)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How many terms are there in the arithmetic sequence with first term\n10, second term 15, third term 20, and final term 250?",
+        "answer": " 49"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Evaluate the following expression: (read as: the summation\nfrom -1 to 4 of 3 k squared).\nW) 31\nX) 87\nY) 93\nZ) 243",
+        "answer": " Y) 93\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which radioisotope would NOT be appropriate to use\nto date the age of a 2 billion year old rock?\nW) Carbon-14\nX) Potassium-40\nY) Rubidium-87\nZ) Uranium-238",
+        "answer": " W) CARBON-14"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What two oxygen isotopes are most commonly\ncompared to examine past temperatures recorded in glacial ice?",
+        "answer": " OXYGEN-16 AND OXYGEN-18"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has the largest amplitude?\nW) 9sin(x) - 2\nX) 2cos(6x) + 5\nY) cos(2x)\nZ) 4sin(10x)",
+        "answer": " W) 9 sin(x) - 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What power of 10 is closest to 255?",
+        "answer": " 1016 (ACCEPT: 16)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " As an acetic acid solution is diluted, will the hydrogen ion\nconcentration and the percentage of ionization, respectively, increase, decrease or remain the\nsame?",
+        "answer": " THE HYDROGEN ION CONCENTRATION WILL DECREASE; THE PERCENTAGE\nOF IONIZATION WILL INCREASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " In a sulfuric acid solution, which of the following will be present\nin the highest concentration: H+, H SO , HSO 1-, SO 2-, or OH1-.\n2 4 4 4",
+        "answer": " H+"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If a solid cylinder and a hollow cylinder have the same outer\nradius and mass, which of the following is true regarding moment of inertia about the cylindrical\naxis?\nW) The hollow cylinder has a greater moment of inertia\nX) The solid cylinder has a greater moment of inertia\nY) The moment of inertia would be the same for both\nZ) The moment of inertia depends on the speed of the cylinders",
+        "answer": " W) THE HOLLOW CYLINDER HAS A GREATER MOMENT OF INERTIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Many physics quantities fall under two categories: scalars and\nvectors. Which of the following does NOT contain a scalar quantity?\nW) Force, energy, mass\nX) Velocity, pressure, time\nY) Weight, speed, work\nZ) Acceleration, momentum, displacement",
+        "answer": " Z) ACCELERATION, MOMENTUM, DISPLACEMENT\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What was the name of the first satellite launched into\nearth orbit by the United States?\nW) Trogdor\nX) Explorer I\nY) Gemini\nZ) Mercury",
+        "answer": " X) EXPLORER I"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Pegmatites are examples of what kind of rock that\ncan be formed by cooling processes within the earth?\nW) Intrusive\nX) Extrusive\nY) Metamorphic\nZ) Detrital",
+        "answer": " W) INTRUSIVE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Though T-cells originate in bone marrow, where in the human\nbody do they mature?\nW) Thalamus\nX) Heart\nY) Thymus\nZ) Gut",
+        "answer": " Y) THYMUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What type of cells begin as monocytes and are an important part\nof the immune system because of their ability to engulf foreign material and dead or dying\nindigenous cells?",
+        "answer": " MACROPHAGE(S)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " To the nearest whole degree Celsius, at what temperature is\nwater the densest?",
+        "answer": " 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Most of the peptide chains in a myoglobin molecule adopt\nwhat secondary structure?",
+        "answer": " HELIX"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Sometimes, organisms modify the environments in which they\noccur; for example, termites build mounds with varied chimneys that regulate gas exchange,\ntemperature, and other environmental parameters. This process is most commonly referred to\nas:",
+        "answer": " ECOSYSTEM ENGINEERING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The American bullfrog is a prolific hunter and can eat a wide\nvariety of foods, including native western pond turtles and mice. Currently, western pond turtles\nare listed as an endangered species. Which of the following best explains why turtle populations\nwould be more impacted than mice by the introduction of bullfrogs?\nW) Bullfrogs like to eat turtles more than they like to eat mice\nX) Turtles run slower than mice so they can\u2019t get away from the bullfrogs\nY) Mice hide better than turtles\nZ) Turtles have a much longer generation time than mice",
+        "answer": " Z) TURTLES HAVE A MUCH LONGER GENERATION TIME THAN MICE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What type of smog in the boundary layer of the\natmosphere contains sulfur dioxide?\nW) Oxidizing\nX) Photochemical\nY) Reducing\nZ) Boundary layer",
+        "answer": " Y) REDUCING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What types of clouds have smooth, lens-like shapes\nand can stack vertically on top of each other?",
+        "answer": " ALTOCUMULUS STANDING LENTICULARUS (ACCEPT: LENTICULAR CLOUDS)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Two sounds of the same intensity will be perceived by the\nhuman ear to have the same loudness if:\nW) The two sounds have the same pitch\nX) The two sounds have the same pitch and the same timbre\nY) The two sounds have the same timbre\nZ) The two sounds are below 100 Hertz",
+        "answer": " X) THE TWO SOUNDS HAVE THE SAME PITCH AND THE SAME TIMBRE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " While waterskiing behind her uncle\u2019s boat, Michelle is pulled at\na constant speed with a force of 164 newtons by a rope that is nearly horizontal. If Michelle has\na mass of 65 kilograms, what is the coefficient of sliding friction between Michelle and the\nwater?\nW) 0.05\nX) 0.18\nY) 0.26\nZ) 0.40",
+        "answer": " Y) 0.26\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Expressing your answer in simplest radical form; evaluate\n(read as: sine of the quantity 7 pi over 4).",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " In the use of a statistical test, which of the following constitutes a\nType I (read as: type one) error?\nW) rejecting a true null hypothesis\nX) accepting a false null hypothesis\nY) using a sample size that is too small for the test\nZ) comparing samples that differ too much in size",
+        "answer": " W) REJECTING A TRUE NULL HYPOTHESIS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following most closely approximates the number of\nprotein-coding genes in the human genome?\nW) 10,000\nX) 20,000\nY) 50,000\nZ) 100,000",
+        "answer": " X) 20,000"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Arrange the following to depict the conduction pathway in the\nvertebrate heart: 1) atrioventricular node, 2) right and left bundle branches, 3) sinoatrial node, 4)\nBundle of His, 5) Purkinje fibers.",
+        "answer": " 3) SINOATRIAL NODE; 1) ATRIOVENTRICULAR NODE; 4) BUNDLE OF HIS; 2)\nRIGHT AND LEFT BUNDLE BRANCHES; 5) PURKINJE FIBERS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The degree of unsaturation of a hydrocarbon containing two\nrings is equivalent to the degree of unsaturation of a hydrocarbon containing an:\nW) Alkane\nX) Alkene\nY) Alkyne\nZ) Alcohol",
+        "answer": " Y) ALKYNE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The dehydrogenation of a single C-C bond within a\nhydrocarbon leads to what change in the number of hydrogens in the molecule?",
+        "answer": " LOSS OF 2 HYDROGENS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In 1999, NASA lost a $125 million Mars orbiter because:\nW) The atmosphere on Mars was so corrosive that the orbiter was destroyed\nX) The engine did not fire\nY) The robotic arm jilted it out of orbit\nZ) Lockheed Martin engineers used English units of measurement and NASA used the metric\nsystem",
+        "answer": " Z) LOCKHEED MARTIN ENGINEERS USED ENGLISH UNITS OF\nMEASUREMENT AND NASA USED THE METRIC SYSTEM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram\nskateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls\nacross a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction\nof 6.0 newtons. What is Arturo\u2019s speed in meters per second as he emerges from the sand?\nW) 0\nX) 1.8\nY) 3.8\nZ) 5.8",
+        "answer": " Z) 5.8\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does not describe how atoms in a CH\n2\ngroup can vibrate?\nW) Rocking\nX) Symmetrical stretching\nY) See-sawing\nZ) Twisting",
+        "answer": " Y) SEE-SAWING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A chemist is trying to interpret the results of his Infra-Red\nSpectroscopy analysis of a compound. He sees a band of high absorbance, around 95%, at\nabout 1775 inverse centimeters. What functional group does his compound most likely contain?",
+        "answer": " CARBONYL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Evaluate log (read as: log of the quantity 10 to the x times 100\nover 10 thousand)\nW) 2 - x\nX) x - 2\nY) x + 3\nZ) 10x",
+        "answer": " X) x \u2013 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the polynomial with real coefficients, leading coefficient 1, and\nleast degree that has 2 + 3i as a zero.",
+        "answer": " x2 \u2013 4x +13\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Methane is emitted from a variety of anthropogenic and natural\nsources. The largest human-related source of methane emissions comes from enteric\nfermentation. At which of the following locations would you most likely find an example of enteric\nfermentation?\nW) Petroleum system\nX) Coal mine\nY) Landfill\nZ) Cattle ranch",
+        "answer": " Z) CATTLE RANCH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Earth\u2019s core is kept hot by the radioactive decay of several\nradioactive substances, including Uranium-235 and 238; name the other two heat-producing\nisotopes which are also significant contributors to the radioactive heat production of the Earth.",
+        "answer": " POTASSIUM-40 AND THORIUM-232 (DO NOT ACCEPT POTASSIUM AND\nTHORIUM)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Lake Vostok, an Antarctic subglacial lake, is thought to\nbe a potential analogue for two bodies of astrobiological interest. Name one.",
+        "answer": " EUROPA OR ENCELADUS (read as: ehn-sehl-AH-duhs)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The Jovian moon Europa is thought to have a liquid\nwater ocean underlying a water ice shell. What mechanism is responsible for warming the\nEuropan ocean?",
+        "answer": " TIDAL HEATING (ACCEPT: GRAVITATIONAL HEATING OR INTERNAL\nFRICTION CAUSED BY JUPITER\u2019S GRAVITY)"
+    }
+]

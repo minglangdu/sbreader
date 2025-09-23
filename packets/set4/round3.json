@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is never considered evidence of a\nchemical change?\nW) Phase change\nX) Color change\nY) Formation of a precipitate\nZ) Formation of a gas",
+        "answer": " W) PHASE CHANGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following represents a chemical property of\nsodium?\nW) It is less dense than water\nX) It has a melting point of 98.7 degrees Celsius\nY) It reacts with water to release hydrogen gas\nZ) When cut with a knife, it has a shiny surface with a metallic luster",
+        "answer": " Y) IT REACTS WITH WATER TO RELEASE HYDROGEN GAS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A rock is dropped from a building, and a second rock is dropped\none second later. Ignoring air resistance, what happens to the distance between the two rocks\nover time until one lands?\nW) The distance between them will depend on the masses of the rocks\nX) The distance between them will decrease\nY) The distance between them will stay the same\nZ) The distance between them will increase",
+        "answer": " Z) THE DISTANCE BETWEEN THEM WILL INCREASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " When the drag force acting on a skydiver and the force of gravity\nare equal, how can you characterize his or her velocity?",
+        "answer": " TERMINAL (ACCEPT: CONSTANT)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following could be considered a multicellular\neukaryotic (read as: yew-KEHR-ee-otic) heterotroph whose cells lack cell walls?\nW) Fern\nX) Bacterium\nY) Euglena\nZ) Whip scorpion",
+        "answer": " Z) WHIP SCORPION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Euglena are unicellular organisms classified into the Kingdom\nProtista. Which of the following characteristics is NOT true of euglena?\nW) They can make their own food by photosynthesis\nX) They can absorb food from their environment\nY) They move by the motion of their flagella\nZ) They prefer saltwater",
+        "answer": " Z) THEY PREFER SALTWATER\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Destruction due to an earthquake does NOT vary\nbecause of:\nW) Rock type\nX) Amount of human infrastructure\nY) Proximity to a volcano\nZ) Distance from the epicenter",
+        "answer": " Y) PROXIMITY TO A VOLCANO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Waves of energy that come from an earthquake:\nW) Travel through and along the surface of the earth\nX) Can be felt at every single point on the surface of the earth\nY) Travel only along the surface of the earth\nZ) Are unrelated to movements of magma beneath the surface",
+        "answer": " W) TRAVEL THROUGH AND ALONG THE SURFACE OF THE EARTH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Bananas, citrus fruits, and day lilies are all examples of plants\nthat have more than two sets of chromosomes. What is the term for this phenomenon?\nW) Polyploidy\nX) Genetic variability\nY) Mutation\nZ) Diploidy",
+        "answer": " W) POLYPLOIDY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " People with insulin-dependent diabetes are now treated with\npure human insulin produced by human genes inserted into bacteria. What is the name for an\norganism produced by taking genes from one organism and inserting them into the cells of a\ndifferent organism?\nW) Clone\nX) A transgenic organism\nY) Hybrid\nZ) A mutagenic organism",
+        "answer": " X) A TRANSGENIC ORGANISM\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What type of growth does y = 36 7x (read as: y equals 36 times 7 to\nthe power of x) represent?",
+        "answer": " EXPONENTIAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the length and width in meters of a rectangle with perimeter of\n200 meters and maximum possible area.",
+        "answer": " LENGTH AND WIDTH = 50"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following tectonic environments would\nlead to the formation of the most felsic, silica-rich magma?\nW) Subduction associated with the Andes Mountains\nX) East African Rift Valley\nY) Volcanic island arc of Japan\nZ) Hot spot underneath Yellowstone",
+        "answer": " Z) HOT SPOT UNDERNEATH YELLOWSTONE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following will NOT help crystallize\nmagma?\nW) Cooling the liquid\nX) Increasing pressure\nY) Removing water to raise the melting point\nZ) Increasing temperature",
+        "answer": " Z) INCREASING TEMPERATURE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which one of the following terms is used to indicate the natural\ntendency of an object to remain at rest or in motion at a constant speed along a straight line?\nW) Equilibrium\nX) Inertia (read as: i-NEHR-shah)\nY) Stability\nZ) Interaction",
+        "answer": " X) INERTIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What are the two kinds of motion displayed by the motion of a\nbowling ball?\nW) Oscillatory and rotational\nX) Periodic and translational\nY) Translational and rotational\nZ) Random and periodic",
+        "answer": " Y) TRANSLATIONAL AND ROTATIONAL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name the process in which a parent cell divides into two identical\ndaughter cells.",
+        "answer": " MITOSIS (ACCEPT: CYTOKINESIS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the name of the sex-linked genetic disorder that is\ncharacterized by excessive bleeding?",
+        "answer": " HEMOPHILIA\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the most electronegative element?",
+        "answer": " FLUORINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Based on trends in the periodic table, which of the following\nelements is the least electronegative?\nW) Nitrogen\nX) Carbon\nY) Beryllium\nZ) Oxygen",
+        "answer": " Y) BERYLLIUM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How does the center of mass of an object change when going\nfrom a 1 g to a 0 g environment?",
+        "answer": " IT DOES NOT CHANGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The acceleration of two different masses connected by a light\nstring suspended by a light frictionless pulley is:\nW) Less than 9.8 meters per second squared\nX) Greater than 9.8 meters per second squared\nY) Equal to 9.8 meters per second squared\nZ) 0",
+        "answer": " W) LESS THAN 9.8 METERS PER SECOND SQUARED\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a strong acid?\nW) Hydrochloric Acid\nX) Phosphoric Acid\nY) Sulfuric Acid\nZ) PerchloricAcid",
+        "answer": " X) PHOSPHORICACID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the Br\u00f8nsted-Lowry acid-base theory, which of\nthe following species cannot function as an acid?\nW) Water\nX) Hydrogen carbonate ion\nY) Phosphate\nZ) Hydroxide",
+        "answer": " Y) PHOSPHATE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " When the discriminant of a quadratic function ax2 + bx + c = 0 is\ngreater than 0, how many x intercepts does the graph have?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give all solutions for h in the following equation: h2 + 3h = - 2.",
+        "answer": " h = -2 AND h = -1\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the challenge with regard to wind energy and\ntransmission line capacity?\nW) Not enough transmission lines connect cities to the windiest parts of the country\nX) Transmission lines only have the capacity to transfer wind energy from small turbines\nY) Transmission lines must be buried\nZ) We have more transmission lines than our power plants can currently support",
+        "answer": " W) NOT ENOUGH TRANSMISSION LINES CONNECT CITIES TO THE WINDIEST\nPARTS OF THE COUNTRY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " A wind energy system first converts the kinetic energy of the wind\ninto what type of energy?",
+        "answer": " MECHANICAL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately what percentage of the Earth's\nsurface is covered by ocean?\nW) 50%\nX) 70%\nY) 90%\nZ) 99%",
+        "answer": " X) 70%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Where is the youngest ocean floor found?\nW) Mid-ocean ridges\nX) Subduction zones\nY) Top of Himalayas\nZ) The abyssal plains",
+        "answer": " W) MID-OCEAN RIDGES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If Jill takes three blouses, two pairs of pants, and two pairs of shoes\nfor a weekend trip, how many different complete outfit combinations can she put together?",
+        "answer": " 12"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give the numerical value for the number of different orders in which 7\npeople can line up at a cash register?",
+        "answer": " 5,040"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Roberto lives in Florida. Which of the following is NOT a way\nthat he could use less energy at home?\nW) Close the window curtains during the day in the summer\nX) Open the curtains on south-facing windows during the day in the winter\nY) Hang his wet clothes on clotheslines outside when it is sunny\nZ) Turn thermostats to a colder temperature during the summer",
+        "answer": " Z) TURN THERMOSTATS TO A COLDER TEMPERATURE DURING THE\nSUMMER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " A clothes dryer can be a high consumer of household electricity.\nWhich of the following options is NOT a way in which to reduce energy consumption when using\nyour clothes dryer?\nW) Purchase a dryer model that has an ENERGY STAR label\nX) Use the moisture sensor option, if you have one\nY) Clean the lint filter to improve the efficiency of the dryer\nZ) Scrub the lint filter if you use dryer sheets",
+        "answer": " W) PURCHASE A DRYER MODEL THAT HAS AN ENERGY STAR LABEL*\n[*NOTE: THERE ARE NO ENERGY STAR DRYERS- SEE WWW.ENERGYSTAR.GOV]\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following units are typically used when\nmeasuring a star\u2019s lifespan?\nW) Months\nX) Thousands of years\nY) Millions or billions of years\nZ) Light years",
+        "answer": " Y) MILLIONS OR BILLIONS OF YEARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Rank the following stars from that with the shortest\nlifespan to that with the longest lifespan: red dwarf, supergiant, main sequence.",
+        "answer": " SUPERGIANT, MAIN SEQUENCE, RED DWARF"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best defines biodiesel?\nW) Ethanol\nX) Raw vegetable oil\nY) Alternative diesel fuel produced from renewable resources\nZ) U.S. diesel fuel",
+        "answer": " Y) ALTERNATIVE DIESEL FUEL PRODUCED FROM RENEWABLE RESOURCES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Gas to liquids, or GTL, fuels are produced by converting natural\ngas into liquid fuels. Which of the following is NOT a benefit for production and use of GTL\nfuels?\nW) They are cleaner than conventional petroleum-based diesel fuel\nX) They are compatible with the current petroleum infrastructure\nY) They can be produced domestically\nZ) GTL plants are relatively inexpensive to build",
+        "answer": " Z) GTL PLANTS ARE RELATIVELY INEXPENSIVE TO BUILD\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a characteristic of an\nintrusive, igneous rock?\nW) Vesicles\nX) Large interlocking crystals\nY) Tightly compressed grains of sand\nZ) Glassy luster",
+        "answer": " X) LARGE INTERLOCKING CRYSTALS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following processes would most likely\nlead to the formation of a metamorphic rock?\nW) Precipitate forming at the bottom of the oceans\nX) Mountain building\nY) High speed ejection from a cone\nZ) Crystals cooling from magma",
+        "answer": " X) MOUNTAIN BUILDING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Down syndrome is caused by:\nW) A missing copy of chromosome 21\nX) Genetic mutations on various chromosomes\nY) An extra copy of chromosome 21\nZ) A contagious disease passed from mother to fetus",
+        "answer": " Y) AN EXTRA COPY OF CHROMOSOME 21"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements best describes the sex\nchromosome content of female and male cells in birds?\nW) Females are ZW, males are ZZ\nX) Females are WW, males are ZW\nY) Females are ZZ, males are ZW\nZ) Females are ZZ, males are WW",
+        "answer": " W) FEMALES ARE ZW, MALES ARE ZZ\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the fifth number in the geometric sequence that begins: 27, 9,\n3, 1?",
+        "answer": " 1/3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " AB and CD are parallel line segments intersected by the line segment\nEF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18\u02da and angle CFE is\n125\u02da, what is the measure of angle AEC?",
+        "answer": " 37\u00b0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What is the term for the rate at which an object\u2019s velocity\nchanges with time?\nW) Instantaneous velocity\nX) Motion\nY) Speed\nZ) Acceleration",
+        "answer": " Z) ACCELERATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In 1901, 63-year-old retired schoolteacher Annie Edson Taylor\nwent over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters.\nUsing 9.8 meters per second squared as the acceleration due to gravity; about how long in\nseconds did it take for her to reach the water surface? Assume that her initial velocity was zero,\nand neglect the effect of the air on the barrel during the fall.\nW) Between 3 and 4 seconds\nX) Between 5 and 6 seconds\nY) Between 10 and 11 seconds\nZ) Between 27 and 28 seconds",
+        "answer": " W) BETWEEN 3 AND 4 SECONDS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Bethany and Charlene are 7 years apart in age. In two years,\nCharlene will be twice Bethany\u2019s age. What is Bethany\u2019s current age?",
+        "answer": " 5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Evaluate y = 5x2 + 4x3 + 12 (read as: 5x squared plus 4 x cubed plus\n12) when x = -2.",
+        "answer": " 0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is characteristic of a compound?\nW) Elements must be combined in a very specific ratio\nX) Properties can vary throughout the sample\nY) It can be classified as a colloid\nZ) It can be classified as heterogeneous",
+        "answer": " W) ELEMENTS MUST BE COMBINED IN A VERY SPECIFIC RATIO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following results will identify an unknown\nsubstance as a mixture instead of a compound?\nW) It cannot be separated by distillation\nX) It is homogeneous\nY) It has a constant melting point\nZ) Centrifuging can separate the components",
+        "answer": " Z) CENTRIFUGING CAN SEPARATE THE COMPONENTS"
+    }
+]

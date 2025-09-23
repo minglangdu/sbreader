@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " When a 10 kilogram object is lifted 10 meters, in a gravitational field\nof 9.8 meters per second squared, what is the change in potential energy of the object in joules?",
+        "answer": " 980"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Taking g as 10 meters per second squared and assuming there is\nno friction, at about what height in meters must a 100 kilogram roller coaster start from rest in\norder to achieve a speed of 100 meters per second at the bottom?",
+        "answer": " 500\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the name of the compound HClO ?\n4\nW) Hydrogen perchlorite\nX) Chloric acid\nY) Perchloric acid\nZ) Hypochloric acid",
+        "answer": " Y) PERCHLORIC ACID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a state function?\nW) Volume\nX) Energy\nY) Pressure\nZ) Heat",
+        "answer": " Z) HEAT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Express (read as: the summation of x equals 1 to n of log of\nx) with a factorial.",
+        "answer": " log n!"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How many different letter arrangements can be formed using the six\nletters in the word \u201cenergy\u201d?",
+        "answer": " 360\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If Tajon applies 100 newtons of force on a 2-meter wrench at a\nright angle to the wrench and parallel to the plane of rotation, how much torque, in newton\nmeters, is he applying to the bolt?",
+        "answer": " 200"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What makes arches and domes more stable than flat roofed\nstructures?\nW) They transmit compressive forces along their length to the ground, uniformly bearing the\nload of gravity\nX) Each section is under great tension, using the stronger dimension of the components\nY) Torsional resistance to sideways swaying ensures that such structures are stable, even in\nhigh winds\nZ) The surface tension of the arched shape allows the building components to be hollowed out,\nsaving weight.",
+        "answer": " W) THEY TRANSMIT COMPRESSIVE FORCES ALONG THEIR LENGTH TO THE\nGROUND, UNIFORMLY BEARING THE LOAD OF GRAVITY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a common mineral that is\ncomposed entirely of silicon and oxygen?\nW) Pyrite\nX) Quartz\nY) Bauxite (read as: BOHK-syt)\nZ) Feldspar",
+        "answer": " X) QUARTZ"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals is a mafic silicate?\nW) Fluorite\nX) Diamond\nY) Muscovite\nZ) Pyroxene (read as: py-ROHK-seen)",
+        "answer": " Z) PYROXENE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following functions is one-to-one?\nW) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3)\nX) f(x) = x2 \u2013 6x + 11 (read as: f of x equals x squared minus 6 x plus 11)\nY) f(x) = 5x3 + 9 (read as: f of x equals 5 x cubed plus 9)\nZ) f(x) = (read as: f of x equals 1 over x squared)",
+        "answer": " Y) f(x) = 5x3 + 9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A triangle has sides of length 5, 7, and 8 meters. In simplest form and\nin meters squared, what is the area of the triangle?",
+        "answer": " 10"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Why is riding a bicycle on a well-maintained road more energy\nefficient than walking or running?\nW) Bipedal motion is highly inefficient\nX) The coefficient of sliding friction between tires and the ground is less than that between\nshoes and the ground\nY) Gravity does very little work on a bicyclist relative to a walker or runner\nZ) Bicycling requires more calories than walking",
+        "answer": " Y) GRAVITY DOES VERY LITTLE WORK ON A BICYCLIST RELATIVE TO A\nWALKER OR RUNNER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " When a ball of mass m is launched vertically to a height h and\nreturns to its original starting point of launch, what is the value of its change in gravitational\npotential energy?",
+        "answer": " 0\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has NOT been proposed as a way to test\nstring theory?\nW) Cosmic ray experiments\nX) High energy particle collisions\nY) Electron mapping\nZ) Precision tests of short-range gravitational forces",
+        "answer": " Y) ELECTRON MAPPING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A jet engine gets its thrust by taking in air, heating and\ncompressing it and then ejecting it at a high speed. If a particular engine takes in 20 kilograms\nof air per second at 100 meters per second, and ejects it at 500 meters per second, what is the\nthrust of the engine in newtons?\nW) 760\nX) 8000\nY) 9100\nZ) 10,500",
+        "answer": " X) 8000"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " On a football team, there is a defensive lineman who weighs 350\npounds and can run at 10 miles per hour. On the same team, the wide receiver weighs 175\npounds and can run 20 miles per hour. At top speed, which player has more kinetic energy?",
+        "answer": " WIDE RECEIVER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " A race car initially moving with a velocity of 50 meters per second\nproduces a skid mark on the road while braking. Using g as 10 meters per second squared, and\nproviding your answer to the nearest integer, how long is the skid mark in meters if the\ncoefficient of kinetic friction is 1.0?",
+        "answer": " 125\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Transpolar drift is responsible for the net transport of\nwater and ice in what direction in the Arctic Basin?",
+        "answer": " WEST TO EAST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Most sea ice exiting the Arctic Basin passes through\nwhat large strait between Greenland and Svalbard (read as: SVAHL-bahr)?",
+        "answer": " THE FRAM STRAIT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A car of mass 700 kilograms travels at 20 meters per second\nand collides with a stationary truck of mass 1400 kilograms. The two vehicles interlock as a\nresult of the collision and slide along an icy road. Which of the following is the approximate\nvelocity in meters per second of the combined system?\nW) 5.6\nX) 6.6\nY) 7.6\nZ) 8.6",
+        "answer": " X) 6.6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Given that the specific heat of iron is 0.12 calories per gram\ndegree Celsius, what will be the final temperature in degrees Celsius of 100 grams of 20 degree\nCelsius water when 100 grams of 40 degree Celsius iron nails are submerged in it? Provide\nyour answer to the nearest whole number.",
+        "answer": " 22\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the derivative of 12x3 - 6x2 + \u2013 25 (read as: 12 x cubed minus\n6 x squared plus 3 over x to the fifth minus 25)",
+        "answer": " 36x2 \u201312x -"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A particle\u2019s displacement in meters can be described by the function\nf(x) = 2x3 + 3x2 - 10x + 30. At x = 5 seconds, what is the acceleration in meters per second\nsquared? Provide your answer to the nearest integer.",
+        "answer": " 66"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Besides Earth, what is the only other planet in our\nsolar system known to have water ice on its surface?",
+        "answer": " MARS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are carbon compounds in\nnatural water that have diameters of less than 0.45 micrometers?\nW) Particulate organic matter\nX) Nondissolved solids\nY) Particulate colloids\nZ) Dissolved organic carbon",
+        "answer": " Z) DISSOLVED ORGANIC CARBON\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is tan + sin ?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the contrapositive of the statement p implies q?",
+        "answer": " NOT q IMPLIES NOT p (ACCEPT: IF NOT q, THEN NOT p)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the pH of 1.0 mole of sodium hydroxide dissolved in\n10 liters of water?",
+        "answer": " 13"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Two Lewis structures depict the ozone molecule equally well\nand there is no way to distinguish between the two structures. What is the term that describes\nthis phenomenon?",
+        "answer": " RESONANCE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best describes the way in which the\nsummation of action potentials from a motor neuron can bring a muscle fiber to the maximal\nlevel of contraction?\nW) Summation of contractions\nX) Suprastimulus\nY) Maximal twitch rate\nZ) Tetany (read as: TEHT-nee)",
+        "answer": " Z) TETANY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Order the following from smallest to largest: myofibril; muscle,\nactin; myosin; sarcomere (read as: SAHR-koh-mir ); muscle fiber.",
+        "answer": " ACTIN; MYOSIN; SARCOMERE; MYOFIBRIL; MUSCLE FIBER; MUSCLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The ability of geckos to climb smooth surfaces is due to\nwhich of the following?\nW) Hydrogen bonding\nX) Van der Waals forces\nY) Ion-dipole forces\nZ) Intramolecular forces",
+        "answer": " X) VAN DER WAALS FORCES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Nanotechnologists are creating butterfly scale patterns on\npaper money to foil counterfeiters using which of the following substances?\nW) Calcium oxide\nX) Zinc oxide\nY) Magnesium oxide\nZ) Aluminum oxide",
+        "answer": " Z) ALUMINUM OXIDE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Tay Sachs is a fatal genetic disease. Individuals with Tay Sachs\nare homozygous for the recessive disease allele. If a husband and wife are both heterozygous\nfor the gene, what is the percent chance that they will have a child with the disease?",
+        "answer": " 25%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A diploid cell has 32 chromatids in the G2 phase of the cell\ncycle. If you examine the cell in Prophase II you would find 2 cells each containing which of the\nfollowing?\nW) 16 molecules of DNA\nX) 16 chromosomes made of DNA\nY) 32 molecules of DNA\nZ) 32 chromosomes made of DNA",
+        "answer": " W) 16 MOLECULES OF DNA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following bonds should have the longest\nlength?\nW) C-C (read as: C single bond C)\nX) C=C (read as: C double bond C)\nY) C-H (read as: C single bond H)\nZ) C\u2261C (read as: C triple bond C)",
+        "answer": " W) C-C"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following contains polar covalent bonds?\nW) F\n2\nX) HF\nY) NaH\nZ) O\n2",
+        "answer": " X) HF\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Darwin's theory of evolution stated all of the following except:\nW) Those organisms best fit for their environment survive and reproduce most successfully\nX) Acquired characteristics can be inherited\nY) Species change over time through the process of natural selection\nZ) More organisms are produced than can survive, so living things compete for resources",
+        "answer": " X) ACQUIRED CHARACTERISTICS CAN BE INHERITED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following in which the embryonic blastopore\nbecomes the anus, and the mouth originates after the anus: 1) leopard frog, 2) cockroach, 3)\nbull shark, 4) earthworm, and/or 5) human.",
+        "answer": " 1) LEOPARD FROG, 3) BULL SHARK AND 5) HUMAN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " What is one way in which power can be calculated?\nW) Subtracting the relative vectors F and v\nX) The time derivative of work performed\nY) The strength of the force times g\nZ) The second derivative of acceleration",
+        "answer": " X) THE TIME DERIVATIVE OF WORK PERFORMED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a wild shot, Guido flings a pool ball of mass m off a 0.68\nmeter high pool table with downward spin, and the ball hits the floor with a vertical speed of 6.0\nmeters per second. How fast was the ball moving vertically in meters per second when it left the\npool table?\nW) 6.7\nX) 5.7\nY) 4.7\nZ) 3.7",
+        "answer": " Y) 4.7\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If the moon is in a crescent phase and appears in the\neastern sky at sunrise, what phase will be next?",
+        "answer": " NEW MOON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following are the chemical reactants\nassociated with the formation of Karst topography?\nW) HCl and PbS\nX) H SO and SiO\n2 4 2\nY) H O and MgSiO\n2 3\nZ) H CO and CaCO\n2 3 3",
+        "answer": " Z) H CO and CaCO\n2 3 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If someone has 1 red shirt, 2 blue shirts, 4 red pants, and 3 green\npants from which to choose, what is the probability that a randomly selected shirt and pant\ncombination has at least one red item? Provide your answer as a fraction in simplest form.",
+        "answer": " 5/7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the mean of a certain sample is 8 and the standard deviation is\n0.25, what value has a z-score of 12?",
+        "answer": " 11\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " An apple flower is hermaphroditic, it has both a pistil and a\nstamen, which means it is a type of:\nW) Monoecious plant\nX) Dioecious plant (read as: dy-EE-shehs)\nY) Diatomaceous plant (read as: dy-ah-toh-MAY-shehs)\nZ) Monostomate plant",
+        "answer": " W) MONOECIOUS PLANT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Many monoecious plant species avoid self pollination, reducing\ntheir likelihood of expressing deleterious recessive alleles in future generations. One strategy\nused by monoecious plants is to produce pollen long after the carpel of the same flower\nbecomes able to receive it. Give the name for this strategy.",
+        "answer": " PROTOGYNOUS FLOWERING (ACCEPT: PROTOGYNY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " During which of the following two days is the\nmaximum solar altitude less than 90\u00b0 at the equator?\nW) Winter solstice and vernal equinox\nX) Vernal and autumnal equinoxes\nY) Winter and summer solstices\nZ) Summer solstice and autumnal equinox",
+        "answer": " Y) WINTER AND SUMMER SOLSTICES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Put the formation of the following in chronological\norder from oldest to youngest: Rocky Mountains, Great Lakes, Colorado River, Appalachian\nMountains.",
+        "answer": " APPALACHIAN MOUNTAINS, ROCKY MOUNTAINS, COLORADO RIVER, GREAT\nLAKES"
+    }
+]

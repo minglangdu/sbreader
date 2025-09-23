@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the determinant of a 2 by 2 matrix, denoted A, is equal to -2, what is\nthe determinant of 2 times A?",
+        "answer": " - 8"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following matrices does not have the same determinant\nas the 2 by 2 matrix with row 1: 0, -1; and row 2: 1, 0?\nW) the 2 by 2 matrix row 1: 0, -1; row 2: -1, 0\nX) the 2 by 2 matrix row 1: 1, 0; row 2: 0, 1\nY) the 2 by 2 matrix row 1: 1, -1; row 2: 0, 1\nZ) the 2 by 2 matrix row 1: 0, 1; row 2: -1, 0",
+        "answer": " W) THE 2 BY 2 MATRIX ROW 1: 0, -1; ROW 2: -1, 0\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If two sine waves are played with frequencies of 400 and 410\nHertz, at what frequency in Hertz will you perceive that their volumes are \u201cpulsing\u201d?",
+        "answer": " 10"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If the fundamental frequency of a pipe open at both ends is 70\nHertz, what will its next two harmonics be in Hertz?\nW) 105 and 140\nX) 140 and 210\nY) 210 and 350\nZ) 210 and 420",
+        "answer": " X) 140 AND 210"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " If you measure the solar altitude at noon and find it to\nbe 90\u00b0, at which of the following locations could you be?\nW) Congo, in sub-Saharan Africa\nX) France, in Western Europe",
+        "answer": " W) CONGO, IN SUB-SAHARAN AFRICA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If where you live, the sun rises at 75\u00b0 northeast on the\nhorizon, in May, and the solar altitude is less than 90\u00b0 at the equinox, in which hemisphere do\nyou live?",
+        "answer": " NORTHERN HEMISPHERE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Many mammal species produce colostrum during the late stages of\npregnancy or shortly after giving birth. This \"first milk\" transfers antibodies from the mother to\nthe infant. What is the isotype of these antibodies that can be transferred from the infant gut to\nthe infant bloodstream?",
+        "answer": " IgA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In humans, in addition to transferring antibodies, colostrum also\nstimulates the development of the neonatal gut through the transference of:\nW) Pheromones (read as: FEHR-oh-m\u014dens)\nX) Non-heritable mutations\nY) Beta-galactose\nZ) Growth factors",
+        "answer": " Z) GROWTH FACTORS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a polar, aprotic solvent?\nW) Water\nX) Methanol\nY) Dimethyl sulfoxide\nZ) Chloroform",
+        "answer": " Y) DIMETHYL SULFOXIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What kind of isomers are mannose and glucose?\nW) Enantiomers (read as: i-nahn-TEE-\u014de-mehrs)\nX) Conformational isomers\nY) Mesoisomers\nZ) Diastereoisomers (read as: dy-ah-STEHR-ee-\u014cE-mehrs)",
+        "answer": " Z) DIASTEREOISOMERS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In determining the escape velocity of an object on Earth, which of\nthe following values is generally least important?\nW) The mass of the object\nX) The volume of the object\nY) The radius of Earth\nZ) The mass of Earth",
+        "answer": " X) THE VOLUME OF THE OBJECT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A spherical Gaussian surface encloses two point charges, q1 and\nq2, while a third point charge, q3, is placed outside the Gaussian surface. The electrical field on\nthe Gaussian surface is due to which of the charges?",
+        "answer": " q q AND q (ACCEPT: 1, 2, 3, OR ALL)\n1, 2, 3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Transition metal elements have atoms or ions with which of\nthe following orbitals partially filled?\nW) d\nX) f\nY) p\nZ) s",
+        "answer": " W) d"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which choice represents the electron configuration for the\nmagnesium 2+ ion?\nW) 1s2 2s2 2p6 3s2\nX) 1s2 2s2 2p6 3s2 3p2\nY) 1s2 2s2 2p6 3s1\nZ) 1s2 2s2 2p6",
+        "answer": " Z) 1s2 2s2 2p6\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How far apart, in degrees, are the asymptotes of the graph of\n2tan(3x/2) (read as: 2 times the tangent of 3x over 2)?",
+        "answer": " 120\u00b0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If the sine of an angle is 0.3, which of the following is a possible\ncosine of that angle?\nW) .09\nX) .7\nY) .7\nZ) .91",
+        "answer": " Z) .91"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " A strong oxidizing agent would show which of the following\ncharacteristics?\nW) A large, positive reduction potential\nX) A large, positive oxidation potential\nY) A small, positive reduction potential\nZ) A small, positive oxidation potential",
+        "answer": " W) A LARGE, POSITIVE REDUCTION POTENTIAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the strongest reducing agent yielding the\nmost ATP per molecule during oxidative phosphorylation?\nW) FADH\n2\nX) FAD+\nY) NADH\nZ) NAD+",
+        "answer": " Y) NADH\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A putative observation of methane on Mars was\nreported in 2009. Which of the following is NOT considered a possible source of this methane?\nW) Methanogenesis\nX) Clathrate (read as: CLAH-thrayt) dissociation\nY) Volcanic outgassing\nZ) Serpentinization",
+        "answer": " Y) VOLCANIC OUTGASSING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If the moon is in a new moon phase on April 1,\napproximately when will the next spring tide occur?",
+        "answer": " ANY DATE FROM APRIL 13 to APRIL 16"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Assuming that the light bulbs, wires, and batteries are all the\nsame in two different circuits, how would the brightness of two light bulbs in series compare to\nthe brightness of just one light bulb?",
+        "answer": " DIMMER (ACCEPT: LESS BRIGHT, LESS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What will the power loss be in watts in a 100,000 volt transmission\nline carrying 10 amperes of current if the resistance of the line is 20 ohms?",
+        "answer": " 2000\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " One component of a solar energy system is the charge\ncontroller. Its function is to:\nW) Provide electrical protection to the system\nX) Regulate the amount of power that goes into energy storage for later use\nY) Dissipate excess energy\nZ) Store the energy for later use",
+        "answer": " X) REGULATE THE AMOUNT OF POWER THAT GOES INTO THE ENERGY\nSTORAGE FOR LATER USE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " How much heat in kilocalories does it take to heat 10 kilograms of\nbathwater from 10\u00b0 Celsius to 20\u00b0 Celsius?",
+        "answer": " 100"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the derivative of sin(w) at w = 0?",
+        "answer": " 1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the derivative of cos ( + w) (read as: cosine of open\nparenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)?",
+        "answer": " -cos(w) (DO NOT ACCEPT: OTHER ANSWERS)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What will likely happen to the amount of dissolved\noxygen in a river downstream of a tributary that brings sewage effluent?\nW) The amount of oxygen will be depleted\nX) The amount of oxygen will stay the same\nY) Oxygen will be generated\nZ) More oxygen will diffuse into the water",
+        "answer": " W) THE AMOUNT OF OXYGEN WILL BE DEPLETED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Does a heavy wet snowfall in Buffalo, New York\nnecessarily mean that Boston, Massachusetts will experience the same weather?\nW) Yes, because they are geographically close and the Westerlies drive storm systems across\nthe U.S. towards the East\nX) Yes, because airmasses hitting New England are always impacted by their proximity to the\nocean and, therefore, pick up moisture that will be dumped as snow\nY) No, because Buffalo, New York, is subject to lake-effect snows; the airmass may be \u201cdried\nout\u201d by the time it gets to Boston\nZ) No, because weather in the U.S. is driven by the Westerlies which push storm systems from\neast to west across the continent",
+        "answer": " Y) NO, BECAUSE BUFFALO, NEW YORK, IS SUBJECT TO LAKE-EFFECT\nSNOWS; THE AIRMASS MAY BE \u201cDRIED OUT\u201d BY THE TIME IT GETS TO BOSTON"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following principles is at work in hybrid cars?\nW) Recapture some of car\u2019s kinetic energy and use it to go faster\nX) Recapture some of the car\u2019s kinetic energy and use it for better fuel economy\nY) Recapture some of the car\u2019s kinetic energy to synthesize gasoline\nZ) Recapture engine heat and convert it to more kinetic energy for the car",
+        "answer": " X) RECAPTURE SOME OF THE CAR\u2019S KINETIC ENERGY AND USE IT FOR\nBETTER FUEL ECONOMY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a force of 10 newtons raises a mass 1.0 meters in 1.0 seconds,\nthen what is the power in watts?",
+        "answer": " 10\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Humans have a gene, called LCT, which encodes lactase. In\nmost of the world, LCT is active in young children but is turned off in adults. However, northern\nEuropeans and three different tribes of African pastoralists carry a mutation that permits it to be\nexpressed in adults. The mutation is different in each of the four cases, indicating the mutation\nis an example of:\nW) Paralogous genes\nX) Convergent evolution\nY) Homologous genes\nZ) Divergent evolution",
+        "answer": " X) CONVERGENT EVOLUTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " The human foot and the monkey foot are very different, despite\ncommon primate ancestry. The evolution of these differing traits allowed organisms to adapt to\ndifferent environmental conditions. This type of evolution is known as:",
+        "answer": " DIVERGENT EVOLUTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " In a parallelogram ABCD, the sides AB and DC can be represented\nby:\nW) Opposite vectors\nX) Two different vectors with the same direction\nY) Two different vectors with the same magnitude\nZ) The same vector",
+        "answer": " Z) THE SAME VECTOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The number 360 has how many positive integer factors?",
+        "answer": " 24\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What kind of plate tectonic boundary formed the\nEast African rift?\nW) Divergent\nX) Convergent\nY) Thrust\nZ) Transform",
+        "answer": " W) DIVERGENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What oceanic plate sits west of the South American\nplate, forming a convergent boundary?",
+        "answer": " NAZCA PLATE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If N represents the number of sides for a regular polygon that\ntessellates the plane, how many different values of N are there?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the limit as x approaches -2 of (x3 + 8)/(2x + 4) (read as: the\nquantity x cubed plus 8 divided by the quantity 2x plus 4).",
+        "answer": " 6\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following ions are NOT isoelectronic with an\nargon atom?\nW) K+\nX) Ti2+\nY) S2-\nZ) Ca2+",
+        "answer": " X) Ti2+"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In a breath analyzer, what color change occurs in a\npotassium dichromate solution in the presence of alcohol?\nW) Orange-yellow to green\nX) Red to blue\nY) Clear to pink\nZ) Orange-yellow to red",
+        "answer": " W) ORANGE-YELLOW TO GREEN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " When the path difference between two slits is an odd multiple of\nthe light\u2019s wavelength divided by 2, the waves arrive 180 degrees out of phase. What kind of\ninterference does this represent?",
+        "answer": " DESTRUCTIVE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A beam of white light is incident on a triangular glass prism with\nan index of refraction of 1.5 for visible light, producing a spectrum. Initially, the prism is in a\nglass aquarium filled with air. If the aquarium is filled with water with an index of refraction of\n1.3, which of the following is true?\nW) The spectrum produced has the deviation of the beam opposite to that in air\nX) The positions of red and violet are reversed in the spectrum\nY) The spectrum produced has greater separation between red and violet than that produced in\nair\nZ) The spectrum produced has lesser separation between red and violet than that produced in\nair",
+        "answer": " Z) THE SPECTRUM PRODUCED HAS LESSER SEPARATION BETWEEN RED\nAND VIOLET THAN THAT PRODUCED IN AIR\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the pH for a solution with 0.01 mole of nitric acid in 1.0\nliter of water?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What are the nonsuperimposable mirror images of a chiral\ncompound called?",
+        "answer": " ENANTIOMERS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The incorporation of beta carotene genes from daffodil flowers\ninto rice represents a type of:\nW) Traditional plant breeding\nX) Natural selection\nY) Genetic engineering\nZ) Bioprospecting",
+        "answer": " Y) GENETIC ENGINEERING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the method by which scientists determine the precise\nchromosomal location for a gene that encodes a particular biological trait?",
+        "answer": " GENE MAPPING\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT an accurate\ndescription of the dominant airmass effecting America\u2019s Pacific Northwest?\nW) Cool\nX) Maritime\nY) Humid\nZ) Dry",
+        "answer": " Z) DRY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The Chinook winds that come from the west and\nmove air down the eastern face of the Rocky Mountains are known as \u201csnow eaters\u201d, because:\nW) The winds bring moist warm air from California, causing the snows to melt and \u201cdisappear\u201d\nfrom the Front Range region of Colorado\nX) The airmass brings cold, dry winds from the peaks of the Rockies, causing the snow to\nfreeze into black ice, making it look like the snow \u201cdisappeared\u201d\nY) The winds blow the snow off the Front Range and onto the Plains, making the snow\n\u201cdisappear\u201d from the eastern face of the mountains\nZ) The airmass warms as it descends, increasing its water vapor capacity and causing the snow\nto sublime and \u201cdisappear\u201d",
+        "answer": " Z) THE AIRMASS WARMS AS IT DESCENDS, INCREASING ITS WATER VAPOR\nCAPACITY AND CAUSING THE SNOW TO SUBLIME AND \u201cDISAPPEAR\u201d"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Which one or ones of the following are aquatic insect nymphs that\nhave external gills on either the thorax or the abdomen: 1) stoneflies, 2) damselflies,\n3) dragonflies, or 4) mayflies?",
+        "answer": " STONEFLIES, DAMSELFLIES, AND MAYFLIES (ACCEPT: 1, 2, 4)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In insects, prothoracicotropic (read as: pr\u014de-thoh-rah-si-koh-\nTROH-pik) hormone stimulates the prothoracic gland to produce what hormone important in\ninsect development?",
+        "answer": " ECDYSONE"
+    }
+]

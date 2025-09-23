@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the mode of the following list of nine numbers: 4, 4, 5, 6, 6, 7,\n7, 7, 8?",
+        "answer": " 7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Fred has an average of 90% on 5 calculus tests. What percent score\ndoes he need on the next test to have an average of 91%?",
+        "answer": " 96\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Name the notable scientist who first devised the\nmathematical laws governing the motion of planetary orbits.\nW) Galileo\nX) Copernicus\nY) Kepler\nZ) Newton",
+        "answer": " Y) KEPLER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Name the first human ever to travel in space.",
+        "answer": " YURI GAGARIN"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In projectile motion, assuming no air resistance, all of the\nfollowing are constant except:\nW) Horizontal speed\nX) Horizontal acceleration\nY) Vertical acceleration\nZ) Vertical speed",
+        "answer": " Z) VERTICAL SPEED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A diver jumps out of a plane into free fall without air resistance.\nWhich of the following quantities is the greatest?\nW) Instantaneous velocity after 1 second\nX) Instantaneous velocity after 2 seconds\nY) Average velocity after 1 second\nZ) Average velocity after 2 seconds",
+        "answer": " X) INSTANTANEOUS VELOCITY AFTER 2 SECONDS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In natural systems, when a population uses the available\nresources at the rate equal to the resources\u2019 renewal rate, the population is said to have\nreached:\nW) Extinction\nX) Constant growth\nY) Holding capacity\nZ) Carrying capacity",
+        "answer": " Z) CARRYING CAPACITY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Why are secondary and tertiary consumers typically more\nsusceptible to pollutants, such as DDT, than organisms lower in the food web?\nW) They are larger\nX) Susceptibility is positively correlated with biomagnification\nY) Consumers come in more direct contact with pollutants\nZ) Pollutant toxicity increases with each cycle of necrosis",
+        "answer": " X) SUSCEPTIBILITY IS POSITIVELY CORRELATED WITH BIOMAGNIFICATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The standard heat of formation of hydrogen gas in the form H\n2\nis:\nW) Always greater than 1\nX) Twice that of atomic hydrogen\nY) Equal to 0\nZ) Determined by checking a table of the Standard Heats of Formation",
+        "answer": " Y) EQUAL TO 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " If the \u2206H (read as: delta H) for a reaction is negative, which of\nthe following statements is true?\nW) The enthalpy of the products is less than the enthalpy of the reactants\nX) Heat is released by the surroundings during the course of this reaction\nY) The enthalpy term will be added to the reactant side of the chemical equation\nZ) Heat is absorbed by the system during the course of this reaction",
+        "answer": " W) THE ENTHALPY OF THE PRODUCTS IS LESS THAN THE ENTHALPY OF\nTHE REACTANTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In 1905, Albert Einstein published his paper about the photoelectric\neffect, for which he later won a Nobel Prize. His studies showed that light exhibits a duality,\nbehaving in which two ways?",
+        "answer": " PARTICLE AND WAVE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What component of the electromagnetic spectrum has the highest\nfrequency?",
+        "answer": " GAMMA RAY (DO NOT ACCEPT: COSMIC RAY)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In what unit is the atomic radius often measured?\nW) Picometers\nX) Millimeters\nY) Nanometers\nZ) Centimeters",
+        "answer": " W) PICOMETERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following neutral elements has the largest atomic\nradius?\nW) Silicon\nX) Phosphorus\nY) Sulfur\nZ) Chlorine",
+        "answer": " W) SILICON\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following completely: (3xy2) (4x2y3) (read as: 3xy squared\ntimes 4x squared y squared)",
+        "answer": " 12 x3y5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve for x: 3x2 + 6x \u2013 9 = 0",
+        "answer": " x = -3, AND x = 1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What U.S. endeavor designed and constructed the first atomic\nbomb?",
+        "answer": " MANHATTAN PROJECT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Nuclear power plants are built with multiple safety components in\norder to help prevent meltdown or the escape of radiation in the event of an accident. Name two\nof these safety components.",
+        "answer": " (ACCEPT TWO) CONTROL RODS, COOLING WATER, CONCRETE LINER,\nSTEEL CONTAINMENT VESSEL, OUTER CONCRETE BUILDING, HUMAN SUPERVISION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a mineral?\nW) Diamond\nX) Coal\nY) Quartz\nZ) Zinc",
+        "answer": " X) COAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals does not have cubic\ncleavage?\nW) Fluorite\nX) Halite\nY) Calcite\nZ) Galena (read as: gah-LEE-nah)",
+        "answer": " Y) CALCITE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What theory predicts that for every known particle, there exists a\nsuperpartner particle of the same mass?",
+        "answer": " SUPERSYMMETRY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Supersymmetry seeks to unify which three fundamental\ninteractions?",
+        "answer": " STRONG, WEAK AND ELECTROMAGNETIC\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following reasons that influence why gasoline\nprices are higher in some U.S. regions than in others: 1) distance from supply, 2) retail\ncompetition, 3) environmental programs, and/or 4) supply disruptions?",
+        "answer": " DISTANCE FROM SUPPLY, RETAIL COMPETITION, ENVIRONMENTAL\nPROGRAMS, AND SUPPLY DISRUPTIONS (ACCEPT: 1, 2, 3, 4, OR ALL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is NOT true about gasoline?\nW) The octane rating of gasoline tells you how much the fuel can be compressed before it\nspontaneously ignites\nX) Gasoline is a hydrocarbon\nY) When gasoline is burned under ideal conditions, its products are carbon dioxide, water, and\nheat\nZ) The overall efficiency of an automotive gasoline engine is about 80%",
+        "answer": " Z) THE OVERALL EFFICIENCY OF AN AUTOMOTIVE GAS ENGINE IS ABOUT\n80%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " You paid $300 for a new Seagull guitar. Your guitar cost $50 more\nthan twice the cost of your friend\u2019s guitar. How much was her guitar?",
+        "answer": " $125"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " In order to include caloric information, a pancake restaurant printed\nnew menus for $1.51 each. With a budget of $2500.00, how many menus could the pancake\nrestaurant print?",
+        "answer": " 1655\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would least likely be used for biomass\nenergy production?\nW) Soybeans and sunflowers\nX) Urban wood waste and biodegradable garbage\nY) Corn and sorghum\nZ) Car parts from a salvage yard",
+        "answer": " Z) CAR PARTS FROM A SALVAGE YARD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " In the United States, corn is the major feedstock for which biofuel?",
+        "answer": " ETHANOL (ACCEPT: ETHYL ALCOHOL, GRAIN ALCOHOL)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The Earth's atmosphere contains roughly what\npercentage of oxygen by volume?\nW) 0.2%\nX) 2%\nY) 20%\nZ) 80%",
+        "answer": " Y) 20%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The average atmospheric pressure at sea level is\nabout 1 atmosphere, which is equivalent to how many kilopascals? Provide your answer as a\ndecimal to the nearest tenth.",
+        "answer": " 101.3\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name two major types of electron microscopes.",
+        "answer": " TRANSMISSION AND SCANNING (ACCEPT: TEM, LVEM FOR TRANSMISSION,\nAND STM (OR SEM) FOR SCANNING)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " One parent is homozygous for type A blood and the other is\nhomozygous for type B blood. Their offspring has the phenotype AB blood. What mode of\ninheritance occurs when an allele from each homozygous parent combines in the offspring, and\nthe offspring simultaneously demonstrates both phenotypes?",
+        "answer": " CODOMINANCE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Change 120 degrees to radians in terms of \u03c0.",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the sine of an angle is negative, which other trigonometric function\nor functions will definitely have negative values?",
+        "answer": " COSECANT\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What weather pressure systems are characteristic of\nsubtropical latitudes?",
+        "answer": " HIGH PRESSURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If you lived near the equator, which kind of surface\nwind circulation would you likely most often experience?\nW) Colliding air masses\nX) Highly variable and unsteady; but mostly blowing from west to east\nY) Sunny weather with little clouds and rain\nZ) Steady wind blowing from east to west",
+        "answer": " W) COLLIDING AIR MASSES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What kind of polygon can never be concave?",
+        "answer": " TRIANGLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about a convex polygon?\nW) Every line segment connecting two interior points lies in the interior\nX) Every line segment connecting two vertices remains inside or on the boundary of the polygon\nY) At least one interior angle is greater than 180 degrees\nZ) The number of edges is finite",
+        "answer": " Y) AT LEAST ONE INTERIOR ANGLE IS GREATER THAN 180 DEGREES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " One wavelength of light is measured:\nW) From node to node\nX) From crest to crest\nY) From crest to trough\nZ) From axis to amplitude",
+        "answer": " X) FROM CREST TO CREST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of electromagnetic radiation has\nthe lowest frequency?\nW) Yellow light\nX) Gamma rays\nY) Ultraviolet radiation\nZ) Green light",
+        "answer": " W) YELLOW LIGHT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following changes with the local acceleration due\nto gravity?\nW) Mass\nX) Density\nY) Inertia\nZ) Weight",
+        "answer": " Z) WEIGHT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Baby Petey drops a spoonful of mashed potatoes from his high\nchair and it hits the floor. This results in what kind of collision?",
+        "answer": " INELASTIC\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Felsic rocks are rich in silicate, while mafic rocks are\nrich in iron. Which of the following rock types would be felsic?\nW) Basalt\nX) Granite\nY) Gabbro\nZ) Dolomite",
+        "answer": " X) GRANITE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following rock types would be from the\ndepositional environment with the lowest energy?\nW) Conglomerate\nX) Sandstone\nY) Siltstone\nZ) Greywacke",
+        "answer": " Y) SILTSTONE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the name of the organized structure within a cell which, in\neukaryotic cells, bears genetic material as a threadlike linear strand of DNA bonded to various\nproteins?",
+        "answer": " CHROMOSOME (DO NOT ACCEPT: CHROMATIN)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specific term describes the specific location of a gene on its\nchromosome?",
+        "answer": " LOCUS (ACCEPT: GENE LOCUS, LOCI)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The quantity of which subatomic particle differs between\nisotopes of a single element?",
+        "answer": " NEUTRONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Given that the atomic number of silver is 47, how many\nneutrons are in the Ag-108 isotope?",
+        "answer": " 61"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following scientists first discovered a cell?\nW) Anton van Leeuwenhoek\nX) Henri Dutrochet\nY) Stephen Inwood\nZ) Robert Hooke",
+        "answer": " Z) ROBERT HOOKE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What specimen did Hooke describe as a multitude of tiny cells\nthat looked like the compartments of honeycomb?",
+        "answer": " CORK"
+    }
+]

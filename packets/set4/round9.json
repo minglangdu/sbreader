@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give the measure of angle (read as: theta), if 0 \u2264 \u2264 2\u03c0, sin =\nand cos = .",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the perimeter of a sector of angle \u03c0/3 radians in a circle with\ncircumference 2\u03c02? Provide your answer in simplest form in terms of \u03c0.",
+        "answer": " 2\u03c0+ \u03c02/3 (ACCEPT: )\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A geologic map uses a combination of lines, symbols\nand colors to show the composition and structure of earth materials across and beneath the\nEarth\u2019s surface. Which of the following would NOT be included on a geologic bedrock map?\nW) Limestone\nX) Granite\nY) Vertisols\nZ) Slate",
+        "answer": " Y) VERTISOLS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What kind of map shows soils, alluvium, and glacial\ndeposits, distinguished on the basis of particle size, texture, and composition?",
+        "answer": " SURFICIAL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A golf cart and a fire truck collide. Which vehicle experiences a\ngreater force in the collision?\nW) Golf cart\nX) Fire truck\nY) Both vehicles experience the same force\nZ) Depends on the speeds of the vehicles",
+        "answer": " Y) BOTH VEHICLES EXPERIENCE THE SAME FORCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Before a light marble and a heavy marble experience a head-on\nelastic collision, the heavy marble has a much higher speed than the light marble. During the\ncollision, which marble experiences greater acceleration?\nW) The light marble\nX) The heavy marble\nY) Both experience the same acceleration\nZ) In an elastic collision, neither marble accelerates",
+        "answer": " W) THE LIGHT MARBLE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What color are the chromophores NOT absorbing in a blue\nshirt?",
+        "answer": " BLUE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following compounds is insoluble in water?\nW) Barium acetate\nX) Beryllium acetate\nY) Lead acetate\nZ) Silver acetate",
+        "answer": " X) BERYLLIUM ACETATE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Salmon dine on smaller fish like tiny herring, thus acquiring the\nenergy in the herring\u2019s meat. The herring ate a lot of food energy over its lifetime that was not\ntransferred to the salmon, however. What happened to that energy?\nW) The energy was destroyed by electrical impulses\nX) The herring converted the energy to oxygen\nY) The herring converted the energy to carbon dioxide\nZ) The herring used the energy of its food for metabolic processes and entropy",
+        "answer": " Z) THE HERRING USED THE ENERGY OF ITS FOOD FOR METABOLIC\nPROCESSES AND ENTROPY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Underwater mountains called seamounts provide a solid surface\nto cling to for many kinds of marine animals. Seamounts are important for all of the following\nreasons, except:\nW) They are sustainable locations for deep-sea fishing\nX) They may be breeding grounds\nY) They support distinctive groups of animals, including corals\nZ) Their altitude they causes complex current patterns",
+        "answer": " W) THEY ARE SUSTAINABLE LOCATIONS FOR DEEP-SEA FISHING\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A number is obtained by tripling an original value, then tripling that\nresult. If the final resulting value obtained by applying the process previously described is 1,\nwhat was the original number?",
+        "answer": " 1/9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What matrix of integers is equal to 3 - (read as: 3\ntimes the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and\nrow 2: negative 4, 1)",
+        "answer": ""
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer as a decimal to the nearest tenth, if you\nstart with 3 grams of Carbon-14, how many grams of isotope will remain after 3 half lives?",
+        "answer": " 0.4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about enzymes?\nW) They catalyze most of the chemical changes that occur in a cell\nX) They are unchanged by the reaction they catalyze\nY) They do not change the normal equilibrium position of a chemical system\nZ) They change the amount of product that is produced",
+        "answer": " Z) THEY CHANGE THE AMOUNT OF PRODUCT THAT IS PRODUCED\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " John has twice the mass of Carl. They jump off a cliff into the\nwater below. Just before the splash:\nW) John has half as much kinetic energy as Carl\nX) John and Carl have the same kinetic energy\nY) John has twice as much kinetic energy as Carl\nZ) John has four times as much kinetic energy as Carl",
+        "answer": " Y) JOHN HAS TWICE AS MUCH KINETIC ENERGY AS CARL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " In a safety crash test, a big truck and a small car have a head-on\ncollision. What can we say about total system momentum?\nW) It is equal to zero\nX) It is less after the crash than before the crash\nY) It is the same before and after the crash\nZ) It is more after the crash than before the crash",
+        "answer": " Y) IT IS THE SAME BEFORE AND AFTER THE CRASH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following produces the largest share of electric\npower generation in the U.S.?\nW) Natural gas\nX) Coal\nY) Nuclear power\nZ) Hydropower",
+        "answer": " X) COAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Methane hydrate is a cage-like lattice of ice inside which are\ntrapped molecules of methane, the chief constituent of natural gas. Which of the following is\nNOT true about methane hydrate?\nW) Deposits generally occur beneath Arctic permafrost and the ocean floor\nX) Methane extraction from methane hydrate has been documented in large-scale field\nexperiments\nY) If pressures are high enough, it is stable far above the melting point of water ice\nZ) The energy content of methane hydrate is very high",
+        "answer": " X) METHANE EXTRACTION FROM METHANE HYDRATE HAS BEEN\nDOCUMENTED IN LARGE-SCALE FIELD EXPERIMENTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " How long, in hours, is the night during the equinox?",
+        "answer": " 12"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the term for the angle of an object\u2019s elevation\nabove the horizon?",
+        "answer": " ALTITUDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the potential difference in volts between two points,\nlocated 2 meters apart, in a constant electric field of 1 volt per meter?",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " When a fighter pilot fires on a plane directly in front of her, the\nmomentum of the fighter pilot and her plane changes in what way?\nW) It increases\nX) It decreases\nY) It stays the same\nZ) It changes direction",
+        "answer": " X) IT DECREASES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Petroleum comes from:\nW) Accumulated carbon rich plant materials\nX) Dinosaur remains\nY) Meteorite rocks that impacted the Earth millions of years ago found deep underground\nZ) Organic sediment transformed over time by bacteria, pressure, and temperature",
+        "answer": " Z) ORGANIC SEDIMENT TRANSFORMED OVER TIME BY BACTERIA,\nPRESSURE, AND TEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Unleaded gasoline pumped at a filling station comes from crude\noil. About what percentage of the oil\u2019s original energy content is present in gasoline when it is\npumped into the vehicle at the station?\nW) 13%\nX) 36%\nY) 50%\nZ) 86%",
+        "answer": " Z) 86%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " The length of a rectangle is 5 inches less than twice the width.\nWhat is the width in inches if the perimeter is 38 inches?\nW) 5\nX) 8\nY) 11\nZ) 14",
+        "answer": " X) 8"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " One side of an equilateral triangle is 6. In simplest form, what is the\naltitude?",
+        "answer": " 3\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Of the following choices, what is the primary direct use of\ngeothermal energy?\nW) Aquaculture\nX) Space heating\nY) Gold mining\nZ) Dehydration of vegetable and fruit products",
+        "answer": " X) SPACE HEATING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Aquaculture applications for geothermal energy are particularly\npromising for all of the following reasons, except:\nW) A variety of freshwater or marine organisms can be raised\nX) There is an abundance of geothermal resources at the required temperature range\nY) Consistent water temperatures increase survival rates\nZ) Consistent water circulation enables year-round harvesting of consistently-sized fish",
+        "answer": " Z) CONSISTENT WATER CIRCULATION ENABLES YEAR-ROUND HARVESTING\nOF CONSISTENTLY-SIZED FISH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which of the following rocks would be most impacted\nby acid rain: 1) chert, 2) limestone, or 3) granite?",
+        "answer": " LIMESTONE (ACCEPT: 2)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Imagine a sandstone that fizzes when exposed to\nhydrochloric acid. Name the mineral that cements the sand grains together.",
+        "answer": " CALCIUM CARBONATE (ACCEPT: CALCITE OR CaCO )\n3\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Russian physiologist Ivan Pavlov performed a famous experiment\nwhere he rang a bell before giving meat powder to dogs, which caused them to salivate. After a\ntime, the dogs would salivate at the sound of the bell alone. What type of learned behavior is\nthis?",
+        "answer": " CONDITIONED RESPONSE (ACCEPT: CONDITIONING)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The common shore ragworm only leaves its sandy tube to feed.\nIf a shadow passes overhead, it will quickly return to the safety of its burrow. If the shadow\npasses overheard repeatedly and nothing happens, the worm will eventually ignore the shadow.\nThis type of learning is called:\nW) Sensitization\nX) Habituation\nY) Conditioned response\nZ) Mimicry",
+        "answer": " X) HABITUATION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If four numbers have an arithmetic mean of 20, and three of the\nnumbers are 17, 18, and 19, what is the fourth number?",
+        "answer": " 26"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What adjective is used to describe a set that can be placed in one-to-\none correspondence with a subset of itself?",
+        "answer": " INFINITE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following marine environments has the\nfewest trophic levels?\nW) Coastal Arctic\nX) Subtropical gyre\nY) Coastal Antarctic\nZ) Peruvian upwelling zone",
+        "answer": " Y) COASTAL ANTARCTIC"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The presence of which organism allows for the low\nlevel of trophic complexity observed in coastal Antarctic waters?",
+        "answer": " KRILL [ACCEPT: EUPHAUSIIDS (read as: yuh-FOH-zee-ids)]"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the measure of angle C in degrees in triangle ABC with sides\nequal to the following: AB = 15 centimeters, AC = 15 centimeters, and BC = 30 centimeters.",
+        "answer": " 30"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If y = p(x) and y = q(x) are two cubic polynomial functions that have\nthe same leading coefficient, what is the maximum possible number of intersections of their\ngraphs?",
+        "answer": " 2\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following compounds has the lowest solubility\nproduct constant at pH 7?\nW) Sodium carbonate\nX) Iron II chloride\nY) Magnesium chloride\nZ) Ammonium nitrate",
+        "answer": " X) IRON II CHLORIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the oxidation number of manganese in potassium\npermanganate?",
+        "answer": " +7"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " When the distance travelled and displacement are equal and\nnonzero for a given object in motion, the object must have travelled:\nW) Back and forth\nX) In a straight line without changing direction\nY) In a circle\nZ) In an ellipse",
+        "answer": " X) IN A STRAIGHT LINE WITHOUT CHANGING DIRECTION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " For an object to travel in a circle, it must experience acceleration\nin what direction?",
+        "answer": " TOWARDS THE CIRCLE'S CENTER\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Give the two elements that primarily make up our sun.",
+        "answer": " HYDROGEN, HELIUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about the Sun?\nW) It vibrates in multiple modes like a bell that is repeatedly struck\nX) Gas near the Sun\u2019s higher latitudes rotate more quickly than gas near its equator\nY) It contains about 99% of the mass in the solar system\nZ) It is magnetic",
+        "answer": " X) GAS NEAR THE SUN\u2019S HIGHER LATITUDES ROTATE MORE QUICKLY THAN\nGAS NEAR ITS EQUATOR"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The bones of a human forearm are homologous to all of the\nfollowing structures except for a:\nW) Whale flipper\nX) Dog forelimb\nY) Bat wing\nZ) Fly wing",
+        "answer": " Z) FLY WING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Female mosquitoes and vampire bats are both sanguivores. This\ntrait in bats and mosquitoes is an example of what type of evolution?",
+        "answer": " CONVERGENT EVOLUTION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In what range of colors do fireflies generally emit light?\nW) Yellow to green\nX) Orange to red\nY) Red to blue\nZ) Blue to violet",
+        "answer": " W) YELLOW TO GREEN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What are the two conditions that distinguish\nbioluminescence from chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)?\nW) Bioluminescence occurs in living organisms and has hydrogen as a common reactant\nX) Bioluminescence occurs in living organisms and requires an enzyme catalyst\nY) Bioluminescence occurs in living organisms and involves the emission of light at a lower\nenergy than chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)\nZ) Bioluminescence occurs uniquely in living organisms and has oxygen as a common reactant",
+        "answer": " X) BIOLUMINESENCE OCCURS IN LIVING ORGANISMS AND REQUIRES AN\nENZYME CATALYST"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Bees are essential pollinators, pollinating approximately 80% of\nflowering agricultural crops. Why do bees pollinate?\nW) It is an inadvertent product of collecting food\nX) Bees benefit when plants procreate\nY) Bees harvest the fruits for food\nZ) It is an inadvertent product of mating",
+        "answer": " W) IT IS AN INADVERTENT PRODUCT OF COLLECTING FOOD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In recent years, honey bee populations have been decreasing.\nWhat impact would the extinction of honey bees have on human agriculture?\nW) Different types of pollinators could be used; there would be no impact on agriculture\nX) All honey bee pollinated plants would go extinct\nY) Plants would asexually reproduce instead; there would be no impact on agriculture\nZ) Some species are only pollinated by honey bees and would therefore need to be hand\npollinated or face extinction",
+        "answer": " Z) SOME SPECIES ARE ONLY POLLINATED BY HONEY BEES AND WOULD\nTHEREFORE NEED TO BE HAND POLLINATED OR FACE EXTINCTION"
+    }
+]

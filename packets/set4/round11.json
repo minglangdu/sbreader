@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is an example of antimatter?\nW) Electron\nX) Photon\nY) Graviton\nZ) Positron",
+        "answer": " Z) POSITRON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Name the two things that together constitute about 95% of the\nuniverse.",
+        "answer": " DARK MATTER AND DARK ENERGY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Below what approximate temperature, in degrees Fahrenheit,\ndoes natural gas become a liquid?\nW) -260\u00b0\nX) -100\u00b0\nY) 0\u00b0\nZ) 5\u00b0",
+        "answer": " W) -260\u00b0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Natural gas is often stored and transported as a liquid because:\nW) It is less flammable as a liquid\nX) It takes up less space as a liquid\nY) Pipelines cannot transport gas\nZ) Liquid natural gas does not smell as bad",
+        "answer": " X) IT TAKES UP LESS SPACE AS A LIQUID"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What are the complex roots of the equation (x + 2)2 = -1?",
+        "answer": " -2 + i AND -2 \u2013 i (ACCEPT: -2 \u00b1 i )"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A car drives 100 miles. For 20% of the time, the car drives at a\nconstant speed of 45 miles per hour. For the remainder of the time, the car drives at a constant\nspeed of 20 miles per hour. How many hours does the entire trip take? Round your answer to\nthe nearest hour.",
+        "answer": " 4\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " How does the production of propane from natural gas compare to\npropane production from oil in the United States?\nW) More propane is produced from oil than from natural gas\nX) More propane is produced from natural gas than oil\nY) Propane production from natural gas and oil is about equal\nZ) Propane is not produced from natural gas or oil",
+        "answer": " Y) PROPANE PRODUCTION FROM NATURAL GAS AND OIL IS ABOUT EQUAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following expresses a challenge or challenges facing\nthe use of hydrogen technology in vehicles?\nW) Fuel cells produce polluting emissions\nX) The technology required to carry thousands of gallons of water is not practical\nY) There are high costs for fuel cells and hydrogen production technologies\nZ) The well to wheel efficiency for hydrogen is less than 1%",
+        "answer": " Y) THERE ARE HIGH COSTS FOR FUEL CELLS AND HYDROGEN\nPRODUCTION TECHNOLOGIES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately what percentage of water on Earth is\nfresh water?\nW) 3%\nX) 7%\nY) 10%\nZ) 15%",
+        "answer": " W) 3%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What type of lake is very clear with few fish and not\nmany plants?\nW) Eutrophic (read as: yuh-TR\u014cE -fik )\nX) Oligotrophic\nY) Mesotrophic\nZ) Phototrophic",
+        "answer": " X) OLIGOTROPHIC\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the term for an RNA virus that is replicated in a host cell\nvia reverse transcriptase to produce DNA, which is then inserted in the host genome?",
+        "answer": " A RETROVIRUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During the reverse transcription process, a deficiency in which of\nthe following enables retroviruses to mutate quickly?\nW) Stop codons\nX) Cytosine (read as: SY-toh-seen)\nY) Proofreading\nZ) DNA",
+        "answer": " Y) PROOFREADING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Evaluate the following expression: (read as: the quantity n\nminus 2 factorial divided by the quantity n minus 3 factorial).\nW) n - 3\nX) n - 2\nY) n\nZ) 1",
+        "answer": " X) n \u2013 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If f(x) = 2x \u2013 1 and f(g(-2)) = 7 (read as: f of g of negative 2 equals 7),\nwhich of the following could be g(x)?\nW) -x2\nX) 2x\nY) 2x2\nZ) |4x + 4| (read as: the absolute value of 4x plus 4)",
+        "answer": " Z) |4x + 4|\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does NOT explain why many\noptical observatories are built at higher altitudes in the mountains?\nW) Less twinkling from the atmosphere\nX) Less light pollution\nY) Less cloudiness\nZ) Convenient access for scientists",
+        "answer": " Z) CONVENIENT ACCESS FOR SCIENTISTS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What is the source of the annual Perseid (read as:\nPER-seed-id) and Leonid meteor showers?\nW) Comets\nX) The Earth passing through an asteroid belt\nY) Early solar system debris\nZ) Deorbiting cold war era satellites",
+        "answer": " W) COMETS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the area of a square if the length of its diagonal is ?",
+        "answer": " 49"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " What transformation is represented by the multiplication of by\n(read as: the 2 by 1 matrix x, y by the 2 by 2 matrix row 1: 1, 0; row 2: 0, -1)?\nW) Reflection through the x\u2013axis\nX) Reflection through the y\u2013axis\nY) Reflection through the line y = x\nZ) Reflection through the origin",
+        "answer": " W) REFLECTION THROUGH THE X\u2013AXIS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances can behave as either a\nLewis acid or a Lewis base?\nW) Ammonia\nX) Hydrochloric Acid\nY) Sodium Hydroxide\nZ) Acetic Acid",
+        "answer": " W) AMMONIA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Of the following 1.0 molar solutions, which will have the\nhighest pH?\nW) Hydrochloric acid\nX) Hydrocyanic acid\nY) Acetic acid\nZ) Sulfuricacid",
+        "answer": " X) HYDROCYANIC ACID"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the name for linear and circular devices that boost beams\nof particles to high energies before the particles are made to collide with each other or with\nstationary objects.",
+        "answer": " ACCELERATOR (ACCEPT: PARTICLE ACCELERATOR) (DO NOT ACCEPT:\nNAMES OF SPECIFIC ACCELERATORS SUCH AS CYCLOTRON, LHC, SNS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Two electric charges are separated by a distance d. What\nhappens to the force if the distance is halved?\nW) It doubles\nX) It quadruples\nY) It is halved\nZ) It remains the same",
+        "answer": " X) IT QUADRUPLES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of these characteristics does NOT indicate\nthat an area was likely glaciated in the past?\nW) A V-shaped valley\nX) Erratics in a valley\nY) A lateral moraine at the side of a valley\nZ) A cirque lake at the top of a valley",
+        "answer": " W) A V-SHAPED VALLEY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Karst topography is generally formed in regions with\nwhich type of rock?\nW) Shale\nX) Obsidian\nY) Metamorphic\nZ) Limestone",
+        "answer": " Z) LIMESTONE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What are the four stages of mitosis?",
+        "answer": " PROPHASE, METAPHASE, ANAPHASE, AND TELOPHASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A sperm cell is found to have 18 chromosomes. How many\nmolecules of DNA were present during Metaphase I of the cell cycle?\nW) 18\nX) 36\nY) 72\nZ) 144",
+        "answer": " Y) 72\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": "\nW) Xenon\nX) Lithium (read as: LI-thee-uhm)\nY) Aluminum\nZ) Iodine",
+        "answer": " W) XENON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the oxidation number of tin in the following formula:\n(NH ) SnCl ?\n4 2 6\nW) -4\nX) -2\nY) +2\nZ) +4",
+        "answer": " Z) +4"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Students are given an organism and asked to create an\nexperiment to determine whether it is ectothermic. They vary room temperature and record\nwhether the body temperature of the organism changes. Which result would be consistent with\nan ectothermic organism?\nW) The organism's body temperature would not vary with room temperature\nX) The organism's body temperature would vary inversely with room temperature\nY) The organism's body temperature would vary with room temperature\nZ) The organism's body temperature would only vary when the room temperature increased",
+        "answer": " Y) THE ORGANISM'S BODY TEMPERATURE WOULD VARY WITH ROOM\nTEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A student wants to know if drinking caffeinated coffee before an\nexam increases performance. To test this hypothesis, the student gives half the class\ncaffeinated coffee and half of the class decaffeinated coffee. What is the independent variable?\nW) The students\nX) Exam performance\nY) Caffeine consumption prior to exam\nZ) There is no independent variable",
+        "answer": " Y) CAFFEINE CONSUMPTION PRIOR TO EXAM\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What principle states that the more precisely we know the location\nof a particle, the less precisely we know its momentum?",
+        "answer": " HEISENBERG UNCERTAINTY PRINCIPLE (ACCEPT: UNCERTAINTY\nPRINCIPLE)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In addition to the mutual uncertainties of position and momentum,\nwhich other set of mutual uncertainties did Heisenberg discover?",
+        "answer": " ENERGY AND TIME"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Uranus is most similar in size and composition to\nwhat other planet?\nW) Mars\nX) Jupiter\nY) Saturn\nZ) Neptune",
+        "answer": " Z) NEPTUNE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Uranus is unique among the planets in our solar\nsystem because:\nW) It has a highly elliptical orbit, and is occasionally further from the Sun than Neptune\nX) It is the only outer planet with an icy shell\nY) Its rotational axis is nearly parallel with its orbital plane\nZ) It orbits the Sun in a clockwise direction, opposite all other planets",
+        "answer": " Y) ITS ROTATIONAL AXIS IS NEARLY PARALLEL WITH ITS ORBITAL PLANE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the range of the set {4, 3, 7, 9, and 8}?",
+        "answer": " 6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If 1543 is the nth term of the arithmetic sequence that begins -7, -2, 3,\nwhat is the value of n?",
+        "answer": " 311"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Homologous structures in animals are evidence supporting\nevolutionary theory, because these structures:\nW) Perform similar functions, but do not share the same basic structure\nX) Can differ in appearance between animals, but are modifications of the same basic structure\nY) Are produced by identical genes, which reside in all animals that share the homologous\nstructure\nZ) Appear identical in all animals that share the homologous structure",
+        "answer": " X) CAN DIFFER IN APPEARANCE BETWEEN ANIMALS, BUT ARE\nMODIFICATIONS OF THE SAME BASIC STRUCTURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What do the human appendix and the python pelvic spurs have\nin common?\nW) They are both homologous\nX) They are both analogous\nY) They are both monophyletic organs\nZ) They are both vestigial organs",
+        "answer": " Z) THEY ARE BOTH VESTIGIAL ORGANS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A magnet would NOT attract which of the following substances?\nW) Aluminum\nX) Iron\nY) Cobalt\nZ) Gadolinium",
+        "answer": " W) ALUMINUM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " On what object does the magnetic force act in an\nelectromagnetic motor?\nW) Brush\nX) Wire\nY) Bearing\nZ) Commutator",
+        "answer": " X) WIRE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the name for a chemical bond that involves sharing\nthe electrons between two non-metals?\nW) Ionic\nX) Polar\nY) Covalent\nZ) Electric",
+        "answer": " Y) COVALENT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In a lead battery, which of the following changes are\noccurring?\nW) Lead loses electrons while hydrogen gains electrons\nX) Lead oxide loses electrons while hydrogen gains electrons\nY) Lead loses electrons while lead oxide gains electrons\nZ) Lead gains electrons while lead oxide loses electrons",
+        "answer": " Y) LEAD LOSES ELECTRONS WHILE LEAD OXIDE GAINS ELECTRONS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In the notation 3d2, the 2 refers to:\nW) The energy level of the electrons\nX) The number of electrons in the orbital 3d\nY) The number of d orbitals in the energy level 3\nZ) The total number of electrons in the n = 3 shell",
+        "answer": " X) THE NUMBER OF ELECTRONS IN THE ORBITAL 3d."
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the maximum number of electrons that can be held in\nthe fourth quantum energy level?",
+        "answer": " 32"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following equations describes a parabola that has a\nvertex at (-2,3)?\nW) y = -2(x + 2)2 - 3\nX) y = -2(x + 2)2 + 3\nY) y = -2(x - 2)2 - 3\nZ) y = -2(x \u2013 2)2 + 3",
+        "answer": " X) y = -2(x + 2)2 + 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the equation for the axis of symmetry for the function\nf(x) = -x2 + 2x + 3?",
+        "answer": " x = 1\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Which photosynthetic process is most associated with anabolism?",
+        "answer": " CALVIN CYCLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Chlorophyll pigments contain which metal ion at the center of their\nchlorine ring?",
+        "answer": " MAGNESIUM (ACCEPT: Mg2+)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The two largest ice sheets on Earth are well known:\nthe Antarctic and Greenland ice sheets. On which continent can the third largest ice sheet be\nfound?",
+        "answer": " SOUTH AMERICA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " There are concerns that melting ice in Greenland\nmight further influence climate by altering oceanic circulation patterns. One possible effect\nwould be lower temperatures in Northern Europe. Name the current serving as an important\ntransporter of heat that would have to be altered for this to occur?",
+        "answer": " THE GULF STREAM (ACCEPT: NORTH ATLANTIC DRIFT)"
+    }
+]

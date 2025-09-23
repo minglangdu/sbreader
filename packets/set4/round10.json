@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " In an electrolytic cell, what is the sign of the charge associated with\nthe anode?",
+        "answer": " POSITIVE (ACCEPT: PLUS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has NOT been shown to be a practical use\nof electrolytic cells?\nW) Recovering pure metal from alloys\nX) Electrolysis\nY) Plating of one metal with another\nZ) Manufacturing of sodium hydroxide",
+        "answer": " X) ELECTROLYSIS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the empirical formula for C H O ?\n6 12 6\nW) C H O\n3 4 3\nX) CHO\nY) CH O\n2\nZ) C H O\n6 12 6",
+        "answer": " Y) CH O\n2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the formula for iron II phosphate?\nW) Fe P\n3 2\nX) FePO\n4\nY) Fe (PO )\n3 4 2\nZ) Fe (PO )\n3 3 2",
+        "answer": " Y) Fe (PO )\n3 4 2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Find the derivative of 2xex (read as: 2x e to the x).\nW)\n2ex +2x\nX) 2xex + ex\nY) 2xex + 2ex\nZ) 2xex",
+        "answer": " Y) 2xex + 2ex"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What matrix is the multiplicative inverse of the 2 by 2 matrix\n(read as: row 1: 3, 1; row 2: 5, 2).",
+        "answer": "\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " How can 2 batteries and three capacitors be arranged to store\nthe maximum amount of energy?\nW) Connect the capacitors in parallel and the batteries in series\nX) Connect the capacitors in series and the batteries in parallel\nY) Connect the capacitors and batteries in parallel\nZ) Connect the capacitors and batteries in series",
+        "answer": " W) CONNECT THE CAPACITORS IN PARALLEL AND THE BATTERIES IN\nSERIES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What would be the total capacitance in microfarads and total\nvoltage of 3 four-microfarad capacitors in parallel and two 1.5 volt batteries in series in a circuit?",
+        "answer": " 12 MICROFARADS AND 3 VOLTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best explains why eliminating\none trophic level in an ecosystem often results in a decrease in organisms two trophic levels\ndown?\nW) Abundance of prey in the eliminated trophic level\nX) Increased predation by organisms one trophic level down\nY) Increased predation by organisms two trophic levels down\nZ) Increased predator diversity",
+        "answer": " X) INCREASED PREDATION BY ORGANISMS ONE TROPHIC LEVEL DOWN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What property of diatoms make them useful as\nclimate proxies?\nW) The chemical makeup of their shells reflects the water chemistry at their time of formation\nX) The narrow temperature range in which they exist makes them markers for paleo0ocean\ntemperatures\nY) Their well-preserved digestive system provide ample evidence for ancient food webs\nZ) Their limited diversity and low adaptability make them key indicators of specific aquatic\nenvironments",
+        "answer": " W) THE CHEMICAL MAKEUP OF THEIR SHELLS REFLECTS THE WATER\nCHEMISTRY AT THEIR TIME OF FORMATION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the largest triangular number less than 25?",
+        "answer": " 21"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A man who is 6 feet tall spots a bird at the top of a 14-foot telephone\npole. If the angle of elevation from his eyes to the top of the pole is 30 degrees, then to the\nnearest foot, how far away is he standing from the base of the pole?",
+        "answer": " 14"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " The human brain contains as many as 100 billion neurons. The\nneurons communicate with each other through electrochemical signals. Which of the following is\nNOT true?\nW) Each neuron can connect to at least 1,000 other neurons\nX) Neurons have a short life span\nY) Brain signals involve less than one-tenth the voltage of an ordinary flashlight battery\nZ) Some messages pass through the nervous system more quickly than others",
+        "answer": " X) NEURONS HAVE A SHORT LIFE SPAN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Brain computer interfaces can measure minute differences in the\nvoltage between neurons, amplify and filter the signal, and then a computer interprets it. All of\nthe following are current applications of brain computer interfaces, except:\nW) Controlling a computer cursor via mental commands\nX) Interpreting brain signals for movement for someone who can\u2019t physically move\nY) Providing a communication link for people who suffer from \u201clocked in\u201d syndrome\nZ) Repairing damaged neurons",
+        "answer": " Z) REPAIRING DAMAGED NEURONS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " During a safety test, a small car and a truck move toward each\nother at the same speed and experience a head-on collision. Afterward, the two objects move\naway from each other along the same line. Which of the following is correct?\nW) The truck will experience a greater speed than the car\nX) The car will experience a greater speed than the truck\nY) The speeds of the truck and the car will be the same\nZ) Sometimes the truck will experience a greater speed and sometimes the car will experience\nthe greater speed",
+        "answer": " X) THE CAR WILL EXPERIENCE A GREATER SPEED THAN THE TRUCK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Mercury or other liquid barometers work by balancing the force\nexerted by the atmosphere with what?",
+        "answer": " FORCE EXERTED BY THE LIQUID"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Hydrogen fuel cells use hydrogen to generate energy. Which of\nthe following is true about hydrogen fuel cells?\nW) Fuel cells are similar to batteries and store hydrogen, which is an energy source by itself\nX) Fuel cells extract the hydrogen from other compounds in nature\nY) Fuel cells dissolve water into hydrogen, creating oxygen and energy\nZ) Fuel cells convert chemical energy in hydrogen into electrical energy by combining hydrogen\ngas with oxygen from the air to produce water and energy",
+        "answer": " Z) FUEL CELLS CONVERT CHEMICAL ENERGY INTO ELECTRICAL ENERGY\nBY COMBINING HYDROGEN GAS WITH OXYGEN FROM THE AIR TO PRODUCE WATER\nAND ENERGY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " If you were to use hydrogen fuel cells in spacecraft, what kind of\nfuel cell type would you most likely prefer?\nW) Phosphoric acid\nX) Molten carbonate\nY) Solid oxide\nZ) Alkaline",
+        "answer": " Z) ALKALINE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Three of these things belong together. Which rock\ndoes NOT belong: 1) gneiss, 2) granite, 3) basalt, or 4) limestone?",
+        "answer": " LIMESTONE (ACCEPT: 4)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What kind of minerals do copper ores tend to be?\nW) Native element\nX) Carbonate and sulfide\nY) Oxide and phosphate\nZ) Hydrocarbon and halide",
+        "answer": " X) CARBONATE AND SULFIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What kind of behavior causes bees to visit flowers to collect\nnectar and pollen?\nW) Learned\nX) Conditioned\nY) Sensitization\nZ) Instinctual",
+        "answer": " Z) INSTINCTUAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Honey doesn't spoil easily because bacteria falling into the\nhoney are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel\nup because honey is a:\nW) Isotonic solution\nX) Hypertonic solution\nY) Hypotonic solution\nZ) Inorganic solution",
+        "answer": " X) HYPERTONIC SOLUTION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " What are the solutions for x in the following equation: x2 \u22122x =8?\nW) 0\nX) 0 and 2\nY) 4 and -2\nZ) -4 and 2",
+        "answer": " Y) 4 AND -2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve for x in simplest form for 3x2 +2x = 2.\n\u22121\u00b1 7",
+        "answer": " x = (ACCEPT: -1/3 \u00b1 /3)\n3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Other than precipitation, what is the most important\nfactor defining a biome?",
+        "answer": " TEMPERATURE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Put the following parts of an ecosystem in order from\nsmallest to largest: biome, community, population, ecosystem, organism, species.",
+        "answer": " ORGANISM, SPECIES, POPULATION, COMMUNITY, ECOSYSTEM, BIOME\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Factor the following expression completely over the integers:",
+        "answer": " (a \u2013 2)("
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Factor the following expression completely over the integers:\n.",
+        "answer": " (a + 2)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Onions, shallots and leeks contain substances that cause our\neyes to water. What element is common to the substances?",
+        "answer": " SULFUR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following 1.0 molar solutions will have the\nlargest change in boiling point from that of pure water?\nW) Sodium bromide\nX) Magnesium iodide\nY) Sucrose\nZ) Potassiumphosphate",
+        "answer": " Z) POTASSIUMPHOSPHATE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Mirages, such as the silvery glimmer you sometimes see on a\ndistant hot highway, are caused by heating of the air near the ground. What relevant property of\nthe heated air is changed?",
+        "answer": " INDEX OF REFRACTION (ACCEPT: DENSITY OF THE AIR)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A steadily increasing force is applied to a box that remains at\nrest for some period of time and then begins to accelerate. Which of the following appropriately\ndescribes what happens to the frictional force during the experiment?\nW) The frictional force remains constant throughout the experiment\nX) The frictional force increases throughout the experiment\nY) The frictional force increases and then suddenly drops to a lower, non-zero value\nZ) The frictional force increases and then suddenly drops to zero",
+        "answer": " Y) THE FRICTIONAL FORCE INCREASES AND THEN SUDDENLY DROPS TO A\nLOWER, NONZERO VALUE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " As an airmass ascends into the atmosphere, its\nwater vapor capacity changes, causing which of the following?\nW) Cloud formation and possible precipitation\nX) Evaporation and drying\nY) Snow\nZ) Hurricane conditions",
+        "answer": " W) CLOUD FORMATION AND POSSIBLE PRECIPITATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What are the names of the three primary atmospheric\ncirculation cells that circulate air between the equator and poles?",
+        "answer": " HADLEY CELL, FERREL (OR MID-LATITUDE) CELL, AND POLAR CELL\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which process will almost certainly result in genetic variation of\noffspring?\nW) Population dispersion\nX) Enzyme production\nY) Cell differentiation\nZ) Zygote fertilization",
+        "answer": " Z) ZYGOTE FERTILIZATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a parent organism experiences a mutation, then all\nsubsequent offspring of that individual will:\nW) Always carry the mutated gene, but only as a recessive\nX) Always carry the gene, but never express it phenotypically\nY) Only carry the mutated gene if it is heritable\nZ) Never carry the gene as mutations cannot be heritable",
+        "answer": " Y) ONLY CARRY THE MUTATED GENE IF IT IS HERITABLE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the shape of the bonding structure of carbon in\ndiamond?",
+        "answer": " TETRAHEDRAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the characteristic shape of tourmaline crystals?",
+        "answer": " HEXAGONAL\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Cutaneous sensation to the lateral aspect of the dorsum of the\nhand is primarily provided by which nerve?",
+        "answer": " ULNAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true regarding vertebrate muscle\ncontractions?\nW) Tropomyosin (read as: tr\u014de-poh-MY-oh-sin) binds the calcium ions and exposes the myosin\nbinding sites on actin filaments\nX) The H zone and I band become shorter\nY) T Tubules spread action potentials into the muscle fiber\nZ) The contraction is terminated when calcium ions are taken up by the sarcoplasmic reticulum",
+        "answer": " W) TROPOMYOSIN BINDS THE CALCIUM IONS AND EXPOSES THE MYOSIN\nBINDING SITES ON ACTIN FILAMENTS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the total resistance, in ohms, of two resistors in parallel\nwhen both are 10 ohm resistors?",
+        "answer": " 5"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If the circuit breaker in a 110-volt circuit is listed at 30 amperes,\nhow many 100 watt light bulbs could you have on that circuit, which includes a TV with 250\nwatts, a hair dryer of 1500 watts and a computer of 150 watts?\nW) 10\nX) 14\nY) 18\nZ) 20",
+        "answer": " X) 14\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following planets has the longest year?\nW) Neptune\nX) Mars\nY) Earth\nZ) Mercury",
+        "answer": " W) NEPTUNE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is it called when Mercury is observed to pass in\nfront of the Sun?",
+        "answer": " A TRANSIT OF MERCURY (ACCEPT: TRANSIT)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " A cylinder and a cone share the same radius and height. What is\nthe ratio of the cylinder\u2019s volume to the cone\u2019s volume?\nW) 1:1 (read as: 1 to 1)\nX) 1.5:1 (read as: 1.5 to 1)\nY) 2:1 (read as: 2 to 1)\nZ) 3:1 (read as: 3 to 1)",
+        "answer": " Z) 3:1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " A math teacher is trying to describe her favorite triangle. The\nlengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeter\nside is 12\u00b0. How many non-congruent triangles fit this description?\nW) 0\nX) 1\nY) 2\nZ) An infinite number",
+        "answer": " Y) 2\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Darwin's finches differ from other finches in the size and shape\nof their beaks. Which of the following factors has been identified as the major influence on the\ndevelopment of the differing beaks?\nW) Access to different food sources\nX) Sexual competition\nY) Protection against predators\nZ) Genetic drift",
+        "answer": " W) ACCESS TO DIFFERENT FOOD SOURCES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Darwin's finches all descended from one species, the Blue-Black\nGrassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often\noccurring together on the same islands. What is the name for speciation that occurs in this way?",
+        "answer": " SYMPATRIC"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The enthalpy in the reaction 3Q + 2R + 300 kilojoules \u00e0\uf0e0\n(read as: yields) 6Y + Z is +150 kilojoules per mole of:\nW) Q\nX) R\nY) Y\nZ) Z",
+        "answer": " X) R"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following changes will increase the reaction\nrate of the reaction between solid magnesium and gaseous oxygen: 2 Mg + O \u00e0\uf0e0 (read as:\n(s) 2(g)\nyields) 2 MgO + heat?\n(s)\nW) Increasing the concentration of oxygen\nX) Removing the magnesium oxide as soon as it is formed\nY) Reducing the temperature\nZ) Decreasing the concentration of oxygen",
+        "answer": " W) INCREASING THE CONCENTRATION OF OXYGEN"
+    }
+]

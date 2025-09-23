@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the van 't Hoff factor for glucose?",
+        "answer": " 1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What color of flame does lithium produce in a flame test?",
+        "answer": " RED\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the name for a spherical collection of stars that\norbits a galactic core as a satellite?",
+        "answer": " GLOBULAR CLUSTER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What method of distance estimation, used for relatively\nclose stars, involves telescope observations at 6-month intervals?",
+        "answer": " PARALLAX TECHNIQUE (ACCEPT: PARALLAX, STELLAR PARALLAX)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which period involved a major extinction event that included the\ndinosaurs?\nW) Between the Paleozoic and Mesozoic eras\nX) Between the Phanerozoic and the Precambrian eras\nY) Between the Mesozoic and Cenozoic eras\nZ) Between the Precambrian and Paleozoic eras",
+        "answer": " Y) BETWEEN THE MESOZOIC AND CENOZOIC ERAS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a 24 hour clock was made to model the major events of the\nevolution of life on Earth, humans would appear:\nW) Close to the beginning of the 24 hour period\nX) About 12 hours through the 24 hour period\nY) About 2 hours before the 24 hours were up\nZ) Less than a minute before the 24 hours were up",
+        "answer": " Z) LESS THAN A MINUTE BEFORE THE 24 HOURS WERE UP\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following does a Carnot engine convert?\nW) Energy to heat\nX) Pressure to volume\nY) Heat to work\nZ) Work to pressure",
+        "answer": " Y) HEAT TO WORK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A heat engine operates with 60 kilocalories of heat supplied, and\nexhausts 40 kilocalories of heat. How much work, in joules, did the engine do? Provide your\nanswer to the nearest thousand.",
+        "answer": " 84,000"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Flowers are actually miniature stems that produce four kinds of\nspecialized:\nW) Roots\nX) Leaves\nY) Vascular tissue\nZ) Cones",
+        "answer": " X) LEAVES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a characteristic of old growth forests?\nW) Soil profiles have well-defined horizons\nX) All trees are roughly the same age\nY) Sunlight is uniformly distributed\nZ) Ground cover is low in organic matter",
+        "answer": " W) SOIL PROFILES HAVE WELL-DEFINED HORIZONS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Careful measurements have shown that the mass of a particular\natom is always slightly less than the sum of the masses of the individual neutrons, protons, and\nelectrons of which the atom consists. What is the difference between the mass of the atom and\nthe sum of the masses of its parts called?",
+        "answer": " MASS DEFECT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A 62 kilogram boy on a 1.50 kilogram skateboard moving at 1.2\nmeters per second steps off and lands on the sidewalk with a velocity of 1.1 meters per second.\nProviding your answer as a decimal rounded to the nearest tenth, how fast is the skateboard\nmoving in meters per second?",
+        "answer": " 5.3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If Saturn is approximately 10 times further from the Sun\nthan Earth, what is the ratio of the intensity of solar radiation it receives relative to Earth?\nProvide your answer in lowest terms.",
+        "answer": " 1/100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " If Earth\u2019s axial tilt was 28\u00b0 in the opposite direction,\nwhich of the following would be true?\nW) There would be more extreme seasonal variations\nX) The eastern and western hemispheres\u2019 seasons would reverse\nY) Plate tectonics would halt\nZ) Tides would reverse their patterns",
+        "answer": " W) THERE WOULD BE MORE EXTREME SEASONAL VARIATIONS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following numbers is not prime?\nW) 137\nX) 143\nY) 167\nZ) 229",
+        "answer": " X) 143"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If a random number R is a real number from the closed interval [0,1],\nthen how many possible integer values could be generated by the expression 12R + 7?",
+        "answer": " 13"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What are the most abundant cells in bones?",
+        "answer": " OSTEOCYTES (read as: OHS-tee-oh-syts)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name all of the following that are NOT located in the cortex of the\nmammalian kidney: 1) Glomeruli and Bowman\u2019s capsules, 2) collecting ducts, and 3) proximal\nconvoluted tubules.",
+        "answer": " 2) COLLECTING DUCTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the formula for sulfurous acid?",
+        "answer": " H SO\n2 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the strongest acid?\nW) HCl\nX) HBr\nY) HI (read as: H eye)\nZ) HNO\n3",
+        "answer": " Y) HI"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following explains why extremely high energy is\nneeded for fusion to work?\nW) To break the nuclei into two parts\nX) To bind the protons and electrons\nY) To overcome the electrical repulsion between two positively charged nuclei\nZ) To create the necessary supercold environment",
+        "answer": " Y) TO OVERCOME THE ELECTRICAL REPULSION BETWEEN TWO\nPOSITIVELY CHARGED NUCLEI"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The temperature in the region of the Sun where fusion occurs is\nabout how many degrees Fahrenheit?\nW) 1,000\nX) 50,000\nY) 7,800,000\nZ) 27,000,000",
+        "answer": " Z) 27,000,000\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following chemical bonds is not important in\npolymer formation?\nW) Glycosidic (read as: gly-koh-SYDIK)\nX) Hydrogen\nY) Peptide\nZ) Phosphodiester (read as: FOHS-foh-DY-ehs-tehr)",
+        "answer": " X) HYDROGEN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What relationship exists between bond length and bond order?",
+        "answer": " INVERSE RELATIONSHIP (ACCEPT: BONDS OF HIGHER ORDER ARE\nSHORTER IN LENGTH)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following radical expressions is in simplest form?\nW) (read as: the square root of 31 over 3)\nX) -5 (read as: negative 5 times the square root of 175)\nY) 6 (read as: 6 times the square root of the quantity x squared over 4)\nZ) \u2013 (read as: the negative square root of 153 x)",
+        "answer": " W)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If x is negative, simplify (read as: 7 times the\nsquare root of 5x times the square root of, open parenthesis, 180x to the fifth, close\nparenthesis)",
+        "answer": " -210x3\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the term used to describe the total amount of energy used\nin the production of a product, including raw material extraction, manufacture, transportation,\nassembly, and all other aspects of production?",
+        "answer": " EMBODIED ENERGY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " In 2009, demand for small wind systems for residential and\nsmall business use grew 15%, adding 20 megawatts of wind-generating capacity. What was the\napproximate capacity of small wind systems in 2008 in megawatts?\nW) 17\nX) 35\nY) 115\nZ) 133",
+        "answer": " Z) 133"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a metamorphic rock?\nW) Schist (read as: SHIST)\nX) Gneiss (read as: NYS)\nY) Basalt\nZ) Marble",
+        "answer": " Y) BASALT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of these is NOT true about ultramafic rock?\nW) The Earth\u2019s mantle is composed of ultramafic rock\nX) Ultramafic rocks are usually dark colored\nY) Ultramafic rock crystallizes at higher temperatures than felsic rock\nZ) Andesite is a type of ultramafic rock",
+        "answer": " Z) ANDESITE IS A TYPE OF ULTRAMAFIC ROCK\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An electron-volt is the:\nW) Energy gained by 1 electron falling through a 1 meter vertical distance\nX) Energy of a visible light photon\nY) Energy of 1 electron accelerated through a 1 volt potential difference\nZ) Energy of a typical electron orbiting a nucleus",
+        "answer": " Y) ENERGY OF 1 ELECTRON ACCELERATED THROUGH A 1 VOLT POTENTIAL\nDIFFERENCE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the world\u2019s largest and highest energy particle\naccelerator, designed to collide proton beams at 7 teraelectron volts?",
+        "answer": " LARGE HADRON COLLIDER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " During oxidative phosphorylation, the proton gradient is used to\ndrive which enzyme?",
+        "answer": " ATP SYNTHASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the approximate Gibbs free energy change per mole\nassociated with oxidation of glucose?\nW) -3000 kilojoules\nX) -3000 joules\nY) 3000 joules\nZ ) 3000 kilojoules",
+        "answer": " W) -3000 KILOJOULES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What are the x-intercepts of y = x2 \u2013 15x + 54?",
+        "answer": " 6 AND 9"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following equations does not have real solutions?\nW) -3x2 + 3 = 0\nX) x2 \u2013 5x + 2 = 0\nY) 4x2 \u2013 3x \u2013 0.25 = 0\nZ) x2 \u2013 x + 1 = 0",
+        "answer": " Z) x2 \u2013 x + 1 = 0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " An engine yields 100 watts of power for every 1000 watts\nreceived. What is the efficiency of the engine?",
+        "answer": " 10%"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Using 750 watts per horsepower, if a 120 horsepower engine ran\nfor 10 hours, how much energy, in kilowatt hours, would it consume? Provide your answer to the\nnearest integer.",
+        "answer": " 900\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which of the following molecules is NOT known to\ndestroy ozone molecules in our stratosphere?\nW) Chloroflurocarbons\nX) Chlorine\nY) Bromine\nZ) Argon",
+        "answer": " Z) ARGON"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following months is the Antarctic\nozone hole the largest?\nW) January\nX) April\nY) July\nZ) September",
+        "answer": " Z) SEPTEMBER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT an example of the negative\neffects of bioaccumulation of toxins in the environment?\nW) The thinning of bird eggshells due to DDT\nX) Inedibility of oysters due to their filter feeding on naturally occurring red tide algae\nY) Birth defects in babies exposed to Accutane in utero\nZ) Inedibility of fish due to mercury content",
+        "answer": " Y) BIRTH DEFECTS IN BABIES EXPOSED TO ACCUTANE IN UTERO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " If a deer population exceeds its carrying capacity, which of the\nfollowing will likely happen?\nW) The birth rate will increase\nX) The death rate will increase\nY) The death rate will decrease\nZ) Carrying capacity will increase",
+        "answer": " X) THE DEATH RATE WILL INCREASE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the reference angle for ?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given coordinates A (1,2), B (7,1), C (3,0), and D (4,6), find the angle\nin degrees between and .",
+        "answer": ""
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Flood basalts, such as the Cretaceous Deccan\nTraps in Siberia, may have had a major impact on which of the following past events?\nW) Climate change\nX) Formation of island arcs\nY) Human development\nZ) Interruption in stratospheric circulation",
+        "answer": " W) CLIMATE CHANGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The Deccan traps of 66 million years ago may have\ninfluenced Earth\u2019s climate through the release of which sulfur species common to volcanic\ngases?",
+        "answer": " SULFUR DIOXIDE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the smallest integer greater than 1 that is relatively prime with\n210?",
+        "answer": " 11"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following numbers is not a Mersenne prime?\nW) 7\nX) 31\nY) 61\nZ) 127",
+        "answer": " Y) 61"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following 1.0 molar solutions will have the\nhighest pH?\nW) Hydrochloric acid\nX) Nitrous acid\nY) Sulfuric acid\nZ) Hydrobromic acid",
+        "answer": " X) NITROUS ACID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " 10 milliliters of a 0.1 molar solution of which of the following\nsubstances added to 10 milliliters of a 0.1 molar acetic acid solution will form a buffer solution?\nW) Hydrochloric acid\nX) Sodium chloride\nY) Sodium hydroxide\nZ) Potassium acetate (read as: AH-seh-tayt)",
+        "answer": " Z) POTASSIUM ACETATE"
+    }
+]

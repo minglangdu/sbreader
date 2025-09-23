@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " White-nose fungus is rapidly spreading across the United States.\nWhich of the following events is least likely to occur as a result of its spread?\nW) Fruit prices will increase\nX) Insect populations will increase\nY) Small flying mammals will die\nZ) Troglobite populations will increase",
+        "answer": " Z) TROGLOBITE POPULATIONS WILL INCREASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What are structures that connect parts of a fungus, providing a\nconduit for the sharing and transport of resources?",
+        "answer": " RHIZOMORPHS (read as: ry-Z\u014cE-mohrfs)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find (read as: the limit as x approaches infinity of the\nquantity x squared plus 10 over the quantity 7 x squared minus 5)",
+        "answer": " 1/7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the equation of the line in slope intercept form of the tangent\ntoy =3x 2 \u22122x +4at x =1.",
+        "answer": " y =4x+1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " TEX86 is a lipid-based paleothermometer (read as:\npay-lee-\u014de-thehr-MOH-meh-tehr) which can reconstruct ancient seawater temperatures. It is\nbased on the temperature sensitivity of marine microorganisms in which archaeal phylum?",
+        "answer": " CRENARCHAEOTA (read as: kren arr kee ah tah)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The TEX86 paleothermometer (read as: pay-ley-\u014de-\nthehr-MOH-meh-tehr), measured from the abundance of crenarchaeal (read as: kren arr kee ah\ntah) lipids in marine sediments, depends on the relative abundance of which class of lipids?\nW) Tetraethers\nX) Long-chain alkenones (read as: AHL-kee-n\u014dens)\nY) Sterols\nZ) Fatty acid methyl esters",
+        "answer": " W) TETRAETHERS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find (read as: the limit as x approaches infinity of e to the\nnegative x)",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A particle moves so its position s in kilometers at time t in hours can be\nexpressed as s(t) = 6t2 + 25. After 5 hours, what is its speed in kilometers per hour and its\nacceleration in kilometers per hour squared, respectively?",
+        "answer": " SPEED: 60, ACCELERATION: 12"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following ionic solids has the highest melting\npoint?\nW) Sodium chloride\nX) Potassium chloride\nY) Magnesium oxide\nZ) Zinc oxide",
+        "answer": " Y) MAGNESIUM OXIDE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the strongest nucleophile (read as:\nNUH-klee-oh-fyl) as measured in methanol?\nW) Iodide\nX) Hydroxide\nY) Ammonia\nZ) Fluoride",
+        "answer": " W) IODIDE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The recommended gauge tire pressure in the front tires of a\nHummer is 26 psi. Estimate, to the nearest whole number, this pressure in atmospheres.",
+        "answer": " 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " As a drill digs a hole to the center of the planet, what are the\nchanges in pressure and gravitational acceleration?\nW) Pressure and gravitational acceleration both decrease\nX) Pressure and gravitational acceleration both increase\nY) Pressure decreases and gravitational acceleration increases\nZ) Pressure increases and gravitational acceleration decreases",
+        "answer": " Z) PRESSURE INCREASES AND GRAVITATIONAL ACCELERATION\nDECREASES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which one or ones of the following household items\nhas, at some point in the history of its production, contained mercury: 1) fluorescent light bulb,\n2) fishing lure, 3) golf ball, and/or 4) soap?",
+        "answer": " FLUORESCENT LIGHTBULB, FISHING LURE, GOLF BALL, AND SOAP\n(ACCEPT: 1, 2, 3, 4, OR ALL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What pair of natural phenomena contribute the most\nto the release of interstitial water from sediment into lake water columns?\nW) Wind and temperature\nX) Wind and current\nY) Current and salinity\nZ) Current and temperature",
+        "answer": " X) WIND AND CURRENT\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What are the two principle protein structures that make up the\ncytoskeleton?",
+        "answer": " MICROFILAMENTS AND MICROTUBULES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following most closely approximates the number of\nprotein-coding genes in the fruit fly genome?\nW) 3,000\nX) 6,000\nY) 12,000\nZ) 24,000",
+        "answer": " Y) 12,000"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a polyprotic acid?\nW) Carbonic acid\nX) Formic acid\nY) Oxalic acid\nZ) Phosphoric acid",
+        "answer": " X) FORMIC ACID"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In a pressure-volume diagram of an isothermal expansion,\nwhat is represented by the area underneath the curve?\nW) Change in pressure\nX) Change in volume\nY) Work done by the gas\nZ) Work done on the gas",
+        "answer": " Y) WORK DONE BY THE GAS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is not a cell that participates in the\nvertebrate innate immune response?\nW) Neutrophil (read as: NUH-troh-fil)\nX) Macrophage\nY) NK Cell\nZ) T Cell",
+        "answer": " Z) T CELL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following molecules is not a component of the\nvertebrate innate immune response?\nW) \u03b1-Defensin\nX) Granzyme\nY) Perforin\nZ) IgE",
+        "answer": " Z) IgE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Name this growing field of physics, based on the use of lasers to\nslow atoms and molecules, that may lead to quantum computers, precision measurement\ndevices, and new states of matter.",
+        "answer": " ULTRACOLD PHYSICS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " David observes that his heart beats 60.0 times per minute from\nhis own frame of reference. If David gets into a rocket and flies away from Earth fast enough so\nthat his heartbeat appears to occur half as frequently as observed from Earth, how fast is the\nrocket traveling in terms of c, expressing your answer as a decimal rounded to the nearest\ntenth.",
+        "answer": " 0.9 c\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following locations has the highest\nannual productivity driven by coastal upwelling?\nW) North America, along the eastern coast of Maine\nX) Africa, along the northern coast of Egypt\nY) South America, along the southeastern coast of Brazil\nZ) Asia, along the western coast of India",
+        "answer": " W) NORTH AMERICA, ALONG THE EASTERN COAST OF MAINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " During an El Ni\u00f1o period, sea surface temperatures\nalong the west coasts of North and South America are relatively warm and upwelling is\nsuppressed. What effect does this generally have on fish catches along these coasts during El\nNi\u00f1o winters?\nW) Fish catches increase\nX) Fish catches decrease\nY) Fish catches are unaffected\nZ) Fish catches increase followed by a sudden decrease",
+        "answer": " X) FISH CATCHES DECREASE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Cosine is positive and sine is negative in which quadrant?",
+        "answer": " FOUR (ACCEPT: FOURTH)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If a librarian has 10 different books to give away and she promised 4\nbooks to Tom, 5 books to Pat, and 1 book to Julie, how many ways can she distribute the\nbooks?",
+        "answer": " 1260\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " The average adult radiates heat energy at approximately the\nsame rate as which of the following wattages of a light bulb?\nW) 10\nX) 50\nY) 100\nZ) 200",
+        "answer": " Y) 100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the maximum kinetic energy in joules an object can have if\nit is connected to a cord that can support up to 10 newtons of tension while the object swings in\na 1 meter radius circular path?",
+        "answer": " 5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Of the following functional groups, which does NOT contain\na carbonyl group?\nW) Amide (read as: AH-myd)\nX) Amine (read as: AH-meen)\nY) Acetyl chloride\nZ) Carboxylic acid",
+        "answer": " X) AMINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the acid anhydride of phosphoric acid?",
+        "answer": " TETRAPHOSPHORUS DECAOXIDE (ACCEPT: P O )\n4 10\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The displacement-time graph of a body that starts from rest and\nmoves away from the origin with constant acceleration appears as which of the following?\nW) A curved line whose slope is increasing in time\nX) A curved line whose slope is decreasing in time\nY) A straight line with zero slope\nZ) A straight line with non-zero slope",
+        "answer": " W) A CURVED LINE WHOSE SLOPE IS INCREASING IN TIME"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " James is working for a detective agency and his assignment is to\nphotograph the pages of a top secret physics paper. James\u2019 tiny camera has the film located\n2.10 centimeters behind the lens, and he must fill the entire piece of 1.00 centimeter film with\nthe picture of the 25 centimeter tall document. How close in centimeters must James be to the\npaper\u2019s pages to get a clear image on the film? Provide your answer as a decimal rounded to\nthe nearest tenth.",
+        "answer": " 52.5"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " If an ideal gas, with an initial volume of 30 liters and an initial\npressure of 2 pascals, undergoes isothermal contraction and shrinks to a final volume of 10\nliters, then what is the final pressure of this gas in pascals?",
+        "answer": " 6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Name the mineral whose deficiency in humans causes growth\nretardation, delayed sexual maturation, infection susceptibility, and diarrhea, contributing to the\ndeath of about 800,000 children worldwide per year.",
+        "answer": " ZINC\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The coordinates of Vertex A of triangle ABC are (6, -3). The triangle\nundergoes a translation of (-8, 14). If the original Vertex B is 6 units to the left of vertex A, what\nare the coordinates of Vertex B after the translation?",
+        "answer": " (-8, 11)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is cosine of 15\u00b0 in simplified radical form?",
+        "answer": " (ACCEPT: )"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following would NOT be an effective way to reduce\nthe amount of generated electrical power lost as heat in transmission lines?\nW) Increase transmission voltage\nX) Decrease transmission voltage\nY) Use superconducting wires\nZ) Use transformers",
+        "answer": " X) DECREASE TRANSMISSION VOLTAGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the amount of heat Q produced when an electric current I\nflows through a resistance R during a time interval t?",
+        "answer": " Q= I2Rt\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What biological process in the nitrogen cycle\ndescribes the conversion of ammonia to nitrates?",
+        "answer": " NITRIFICATION (DO NOT ACCEPT: NITROGEN FIXATION)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What organisms are thought to be responsible for the\nnitrification process in the mesopelagic (read as: meh-zoh-peh-LAH-jik) zone?",
+        "answer": " ARCHAEA (read as: AHR-kee-ah) (ACCEPT: CRENARCHAEOTA)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " According to the kinetic theory of ideal gases, the molecules of\nan ideal gas in a container do which of the following?\nW) Collide with the wall of the container and bounce back\nX) Collide with the container wall and stick to it\nY) Undergo collision among themselves and with the container wall, until their speed reduces to\nzero\nZ) Remain fixed until the container is opened",
+        "answer": " W) COLLIDE WITH THE WALL OF THE CONTAINER AND BOUNCE BACK"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " An astronaut drops a tool while working on Europa. The tool falls\n10 meters and takes 5.0 seconds to fall. What is the acceleration in meters per second squared\ndue to gravity on Europa? Provide your answer as a decimal to the nearest tenth.",
+        "answer": " 0.8 (ACCEPT: -0.8)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Name the weakly radioactive isotope of the element hydrogen that\noccurs both naturally and during the operation of nuclear power plants, has a half-life of 12.3\nyears and emits a weak beta particle.",
+        "answer": " TRITIUM (ACCEPT: H-3)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of radioactive waste would most\nlikely be considered intermediate level, requiring special shielding during handling, burial or\ndisposal deep underground?\nW) Protective clothing\nX) Irradiated fuel\nY) Chemical sludges\nZ) Tools",
+        "answer": " Y) CHEMICAL SLUDGES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " How many different ways are there to seat 4 people in a room that\nhas 10 seats?\nW) 720\nX) 3,240\nY) 5,040\nZ) 151,200",
+        "answer": " Y) 5,040"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " How many vertices and edges, respectively, does a regular\nicosahedron have?",
+        "answer": " VERTICES = 12, EDGES = 30\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Non thermal plasma jets are composed of ionization waves,\nknown as \u201cplasma bullets\u201d, propagating at high velocities. What is the general geometrical\nshape of a plasma bullet?",
+        "answer": " DONUT (ALSO ACCEPT: TOROIDAL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If plasma is placed inside a magnetic mirror machine, particles\nwhich are moving parallel or nearly parallel to the direction of the magnetic field are not trapped.\nWhat is this region called in velocity space?",
+        "answer": " LOSS CONE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Pluto belongs to a diffuse ring of icy objects that\nextends outward from the orbit of Neptune. What is this ring of icy objects called?",
+        "answer": " THE KUIPER (read as: KY-per) BELT (ACCEPT: EDGEWORTH-KUIPER BELT)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The International Astronomical Union recently\ndowngraded Pluto from a planet to a dwarf planet. Which of the proposed criteria for a planet\ndoes Pluto now fail to meet?\nW) It must have an orbit\nX) It must orbit the Sun\nY) It must have the gravitational force to shape itself into a sphere\nZ) It must have cleared its orbit of other debris",
+        "answer": " Z) IT MUST HAVE CLEARED ITS ORBIT OF OTHER DEBRIS"
+    }
+]

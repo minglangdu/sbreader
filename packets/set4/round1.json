@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a particle moves from a position of x = 5 meters out to x = 200\nmeters and back again to x = 5 meters, what is its displacement in meters?",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What are the two features of displacement?",
+        "answer": " MAGNITUDE AND DIRECTION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which trophic level has the most energy?\nW) Consumers\nX) Decomposers\nY) Producers\nZ) Scavengers",
+        "answer": " Y) PRODUCERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which is the approximate percentage of energy transfer from one\ntrophic level to the next?\nW) 10%\nX) 50%\nY) 75%\nZ) 100%",
+        "answer": " W) 10%"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the greatest common factor of the terms in the expression\n3x5y2 + 6x3y5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)?",
+        "answer": " 3x3y2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " At what value of x is there a minimum for the function f(x)= x2 \u2013 6x\n(read as: f of x equals x squared minus 6x)?",
+        "answer": " x = 3\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " If a 250 acre farm were leased for wind development with income of\n$50 per acre per year, how much income would be produced each year?",
+        "answer": " $12,500"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Wind energy is the conversion of wind power into electricity, using\nwind turbines. Which of the following statements is true about wind energy systems?\nW) Wind turbines convert kinetic energy from the wind\nX) Wind farms have to be located on unoccupied pieces of land\nY) Wind energy systems have high impact on air emissions\nZ) Construction costs for wind-powered generators are minimal",
+        "answer": " W) WIND TURBINES CONVERT KINETIC ENERGY FROM THE WIND"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A compressional tectonic environment can result in all\nof the following, except:\nW) Folded mountains\nX) Basin and range\nY) Volcanoes\nZ) Reverse faults",
+        "answer": " X) BASIN AND RANGE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The source of energy that drives a tsunami wave onto\na shore originated:\nW) From the gravitational attraction between the Earth and the Moon\nX) Along the ocean floor\nY) From tidal waves\nZ) In Earth's interior",
+        "answer": " Z) IN EARTH'S INTERIOR\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " When sound waves travelling through the air reach the human\near, the cochlea (read as: K\u014cE-klee-ah) converts the sound wave into:\nW) A chemical response transmitted through the blood stream\nX) An electrical impulse sent to the brain\nY) A lower frequency wave, which resonates within the ear\nZ) Many small wave vectors that are separately communicated to the brain",
+        "answer": " X) AN ELECTRICAL IMPULSE SENT TO THE BRAIN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " How does neural transmission across a synaptic gap occur?\nW) Neural impulses cause the release of neurotransmitters that diffuse across the gap\nX) Neural impulses open potassium-gated channels, allowing sodium to move across the gap\nY) Neural impulses travel across the gap as unidirectional electrical currents\nZ) Neural impulses travel across the gap as multidirectional electrical currents",
+        "answer": " W) NEURAL IMPULSES CAUSE THE RELEASE OF NEUROTRANSMITTERS\nTHAT DIFFUSE ACROSS THE GAP"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Name a real number that does not have a multiplicative inverse.",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given the function y = 4x \u2013 x\u00b2, what are the two values of x for which\nthe corresponding value for y is 0?",
+        "answer": " 0 AND 4\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following statements is true about the\nAndes mountains?\nW) They are folded mountains\nX) They are volcanic mountains\nY) They are near a spreading center\nZ) They are found along a transform boundary",
+        "answer": " X) THEY ARE VOLCANIC MOUNTAINS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The tectonic environment of Iceland is:\nW) A subduction zone\nX) Folded mountains\nY) A mid-ocean ridge\nZ) A mid-plate hot spot",
+        "answer": " Y) A MID-OCEAN RIDGE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " As a fraction in lowest terms, what is the probability of rolling 1 or 3 on\na standard 6-sided die?",
+        "answer": " 1/3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If you roll a standard 6-sided die 2 times, how many different outcomes\nare possible?",
+        "answer": " 36\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following units can be used to express the\nvolume of a liquid?\nW) Micrometers\nX) Milligrams\nY) Grams per cubic centimeter\nZ) Nanoliters",
+        "answer": " Z) NANOLITERS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the process by which electricity is used to split water\ninto hydrogen and oxygen?",
+        "answer": " ELECTROLYSIS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following choices is NOT an example of a rigid\nbody?\nW) Slinky\nX) Wheel\nY) Pool ball\nZ) CD",
+        "answer": " W) SLINKY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Which of the following are transmitted by electromagnetic waves:\n1) radio, 2) television, 3) Rayleigh, or 4) P-waves?",
+        "answer": " RADIO, TELEVISION (ACCEPT: 1, 2)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the best way to get a good\nview of a meteor shower?\nW) Watch it during a full moon\nX) Watch it from a city\nY) Get as far away from urban light pollution as possible\nZ) Wear light clothing",
+        "answer": " Y) GET AS FAR AWAY FROM URBAN LIGHT POLLUTION AS POSSIBLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " When a meteoroid enters the earth\u2019s atmosphere, it\nglows. Sometimes, the earth meets a number of meteoroids, creating a meteor shower. Most\nstreams and swarms of meteoroids are believed to be fragments of what celestial body?",
+        "answer": " COMET"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The combined genetic information of all the members of a\nparticular population is known as the:\nW) Allele (read as: ah-LEEL) frequency\nX) Genome\nY) Directional selection\nZ) Gene pool",
+        "answer": " Z) GENE POOL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The black fur allele B (read as: big b), is dominant over the\nwhite fur allele b (read as: little b). Two mice with black fur mate, producing four offspring: one is\nwhite and three are black. What are the likely genotypes of the two parents?\nW) Bb and Bb\nX) BB and Bb\nY) BB and BB\nZ) BB and bb",
+        "answer": " W) Bb AND Bb\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the process by which particles move from an area of\nhigher concentration to an area of lower concentration, not requiring cellular energy?",
+        "answer": " DIFFUSION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances is transported into cells via\ncarrier-assisted transport?\nW) Water\nX) Carbon dioxide\nY) Oxygen\nZ) Sodium ion",
+        "answer": " Z) SODIUM ION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " For a series of chemical reactions, Hess's law provides a\nmethod for the summation of which property?\nW) Heat of formation\nX) Entropy\nY) Equilibrium constant\nZ) Reaction rate",
+        "answer": " W) HEAT OF FORMATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the difference between heat and temperature?\nW) Temperature is a form of heat, while heat is a measurement\nX) Temperature is a measurement of molecular kinetic energy, while heat is a form of energy\nY) Heat and temperature have different wavelengths\nZ) Heat and temperature have similar wavelengths but different amplitudes",
+        "answer": " X) TEMPERATURE IS A MEASUREMENT OF MOLECULAR KINETIC ENERGY,\nWHILE HEAT IS A FORM OF ENERGY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a car is accelerating along a road, the force acting on the car\nthat causes it to move forward is the reaction force from the car pushing on the ground. What is\nthis reaction force due to?",
+        "answer": " FRICTION BETWEEN THE TIRE AND THE GROUND (ACCEPT: FRICTION)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " If a car is accelerating along a road, what force due to the air does\nthe frictional force have to oppose?",
+        "answer": " DRAG"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is a Robonaut?",
+        "answer": " ROBOTIC ASTRONAUT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The Earth\u2019s tilt wobbles over a period of approximately\n26,000 years. In 10,000 to 13,000 years, what bright star will the axis point to next?",
+        "answer": " VEGA\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given the equation 2x \u2013 y + 5 = 0, find the slope and y-intercept of\nthe line it represents.",
+        "answer": " SLOPE = 2; Y-INTERCEPT = 5 OR (0, 5)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " The equation x2 + y2 = 121 with x > 0 and y < 0 would result in the\ngraph of:\nW) A semicircle below the x-axis\nX) A quarter circle in the 2nd quadrant\nY) A quarter circle in the 4th quadrant\nZ) A complete circle with a radius of 11",
+        "answer": " Y) A QUARTER CIRCLE IN THE 4TH QUADRANT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Some plants spread their pollen via the wind while others use\nanimals to spread their pollen. When a plant uses an animal to spread its pollen, this type of\npollination is called:\nW) Vector pollination\nX) Seed dispersal\nY) Evolutionary adaptation\nZ) Reproductive guarantee",
+        "answer": " W) VECTOR POLLINATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is the most common term for the stage of photosynthesis\n(read as: f\u014de-t\u014de-SIN-teh-sis) during which carbon fixation occurs?",
+        "answer": " CALVIN CYCLE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the oxidation state of Hydrogen in H ?\n2",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the oxidation state of Hydrogen in LiAlH ?\n4",
+        "answer": " -1"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What are the two forms of electrical current?",
+        "answer": " ALTERNATING AND DIRECT CURRENT (ACCEPT: AC AND DC)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most common method of producing\nalternating current?\nW) Circuits varying from parallel to series\nX) Switches automatically turning on and off\nY) Turbines rotating backwards and forwards\nZ) Magnets spinning in a coil of wire",
+        "answer": " Z) MAGNETS SPINNING IN A COIL OF WIRE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following relationships is true?\nW) 1 food calorie is equal to 4.18 kilojoules\nX) 1 joule is equal to 1 food calorie\nY) 1 joule is equal to 4.18 food calories\nZ) 1 food calorie is equal to 4.18 joules",
+        "answer": " W) 1 FOOD CALORIE IS EQUAL TO 4.18 KILOJOULES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In order to calculate the heat of fusion for a piece of ice\nplaced in warm water, you must know:\nW) The energy released by the warm water and the mass of the water\nX) The energy released by the warm water and the mass of the ice\nY) The energy released by the ice and the mass of the warm water\nZ) The energy released by the ice and the mass of ice",
+        "answer": " X) THE ENERGY RELEASED BY THE WARM WATER AND THE MASS OF THE\nICE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the distribution graph of a set of data has a positive skew, then\nwhich tail of the graph is longer?",
+        "answer": " RIGHT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Give the median for the following data set: 1, 2, 7, 7, 8, 9, 10, 11.",
+        "answer": " 7.5\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " A kilowatt-hour is a unit of:\nW) Charge\nX) Power\nY) Energy\nZ) Electric potential",
+        "answer": " Y) ENERGY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What is the Gibbs free energy, in joules, of chlorine gas\nformation?",
+        "answer": " 0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Consider two beaches, both with source material\nfrom the same granitic mountains. The beach located further from the mountains would have:\nW) Dark, more angular particles\nX) Dark, rounder particles\nY) Pink, more poorly sorted sediments\nZ) Lighter-colored, more well-rounded, finer particles",
+        "answer": " Z) LIGHTER-COLORED, MORE WELL-ROUNDED, FINER PARTICLES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a mechanism of\nphysical and chemical weathering?\nW) Mass wasting\nX) Glaciation\nY) Frost wedging\nZ) Groundwater",
+        "answer": " W) MASS WASTING"
+    }
+]

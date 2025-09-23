@@ -1,6 +1,6 @@
 /*-- Global Variables --*/
-const usedSets = 3;
-const sets = [-1, 17, 15, 17];
+const usedSets = 4;
+const sets = [-1, 17, 17, 17, 17];
 var questions = [];
 
 let currentInterval = null; // To keep track of current reading interval
@@ -70,7 +70,7 @@ function getQuestions() {
 function readQuestion(readingSpeed, questionsArray) {
     // Clear any existing interval
     if (currentInterval) {
-	clearInterval(currentInterval);
+	    clearInterval(currentInterval);
     }
     const buzz = document.getElementById("BuzzBtn");
     buzz.disabled = false;

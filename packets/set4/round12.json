@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In the cell, this structure is composed of numerous sets of smooth\ncisternae, forming a structure that looks like a stack of plates. Within the structure, vesicles are\nused to send molecules to the cellular membrane. What structure is this?",
+        "answer": " GOLGI APPARATUS (ACCEPT: GOLGI COMPLEX)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Kent holds up a potato at dinner and announces to his family that\nthe spud is actually made up of cells with lots of large organelles that contain the carbohydrates\nstored by the plant. What are these organelles called?",
+        "answer": " LEUCOPLASTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The lengths of two sides of a triangle are 30 centimeters and 35\ncentimeters, respectively. Between what values, in centimeters, must the length of the third side\nlie?",
+        "answer": " BETWEEN 5 AND 65"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Factor the following expression completely over the integers:",
+        "answer": ""
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What metabolic process occurs frequently in the top\n100 meters of the world\u2019s oceans and is nearly absent at greater depths?",
+        "answer": " PHOTOSYNTHESIS (read as: f\u014de-t\u014de-SIN-teh-sis)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Phytoplankton, like other single celled organisms, are\nlimited in how large they can grow. What geometric relationship describes this limitation?",
+        "answer": " SURFACE AREA TO VOLUME RATIO\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " A student at your school conducts a survey about hair products. He\ndetermines the hair color of 50 of his classmates, and then randomly selects 5 redheads and 5\nbrunettes to participate in his survey. What type of sampling did he use?\nW) Simple random\nX) Stratified random\nY) Cluster\nZ) Systematic",
+        "answer": " Y) CLUSTER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What are the first three terms of the Taylor series for ex at 0?",
+        "answer": " 1, x, x2/2 (ACCEPT: 1, x/1!, x2/2!)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is not a colligative property of\nsolutions?\nW) Vapor pressure elevation\nX) Freezing point depression\nY) Boiling point elevation\nZ) Osmotic pressure",
+        "answer": " W) VAPOR PRESSURE ELEVATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " By name or number, which of the following four types of\nmixtures are generally considered homogeneous?\n1) alloy, 2) suspension, 3) emulsion, 4) colloid",
+        "answer": " 1) ALLOY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What are the three metals that generally comprise ferromagnetic\nmaterials?",
+        "answer": " IRON, COBALT AND NICKEL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " How many turns of wire should a solenoid have if you wish the\nmagnetic field inside the solenoid to be 5 times as great as that of a solenoid with 100 turns of\nwire, if both have the same length and current?",
+        "answer": " 500"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is not a valid water mass\ndefined by a unique temperature and salinity signature?\nW) Antarctic bottom water\nX) North Atlantic deep water\nY) Antarctic intermediate water\nZ) Indian Ocean deep water",
+        "answer": " Z) INDIAN OCEAN DEEP WATER"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the effect of plate tectonics on the width of the\nAtlantic Ocean?",
+        "answer": " IT IS BECOMING LARGER (ACCEPT: BECOMING WIDER)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Birds and bats belong to which taxonomic phylum?",
+        "answer": " CHORDATA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What term describes the specific type of hybridization that occurs\nbetween two subspecies of the same species, such as the Bengal Tiger and the Siberian Tiger?",
+        "answer": " INTRA-SPECIFIC HYBRIDS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The standard heat of formation of calcium oxide is \u2013635.5\nkilojoules per mole. What is the complete, balanced equation for the formation of calcium oxide,\nincluding the energy value?",
+        "answer": " Ca + \u00bd O \u00e0\uf0e0 CaO + 635.5 kJ (read as: Ca solid plus one half O gas yields\n(s) 2(g) (S) 2\nCaO solid plus 635.5 kilojoules) ALSO ACCEPT: 2Ca + O \u00e0\uf0e0 2CaO + 1271 kJ\n(s) (2)(g) (s)\n(NOTE: STUDENTS MUST INDICATE SOLID AND GAS)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The following reaction between hydrogen and oxygen takes\nplace in a closed container and at a temperature that maintains the water vapor in the gas\nphase: 2 H O (read as: in equilibrium with) 2 H + O . In one experiment, the\n2 (g) 2(g) 2(g)\nequilibrium concentrations of the gases are as follows: [H ] = 2.0M, [O ] = 3.0M and [H O] =\n2 2 2\n4.0M. Calculate the value of K for this reaction.\neq",
+        "answer": " K = 0.75\neq\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Albumins, globulins and fibrinogen are all examples of:\nW) Capillary hormones\nX) Myocardial (read as: my-oh-KAHR-di(ah)l) antigens\nY) Plasma proteins\nZ) White blood cells",
+        "answer": " Y) PLASMA PROTEINS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Cranial nerves two, three, seven, and ten refer to which cranial\nnerves, respectively?\nW) Occulomotor, trochlear, optic and facial\nX) Optic, occulomotor, facial and vagus\nY) Trigeminal, olfactory, trochlear and vagus\nZ) Olfactory, vagus, facial and optic",
+        "answer": " X) OPTIC, OCCULOMOTOR, FACIAL AND VAGUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the acceleration of a falling body in meters per second\nsquared after it reaches terminal velocity?",
+        "answer": " 0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " An object is dropped from an office window. The amount of air\nresistance is unknown. After 1 second of falling, which of the following cannot be true?\nW) The velocity is 1 meter per second\nX) The velocity is 11 meters per second\nY) The acceleration is 0 meters per second squared\nZ) The acceleration is 5 meters per second squared",
+        "answer": " X) THE VELOCITY IS 11 METERS PER SECOND\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which soil horizon is likely to have the most organic\nmaterial?\nW) O\nX) A\nY) C\nZ) B",
+        "answer": " W) O"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " As recognizable organic matter on top of the ground\nbegins to decompose, what type of soil does it become?",
+        "answer": " HUMUS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Express the complex number i8 in standard a + bi form equivalent.",
+        "answer": " 1 (ACCEPT: 1 + 0i)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the complex conjugate of the product of 3 + 6i and -10 \u2013 7i?",
+        "answer": " 12 + 81i\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Monster Ralph and Monster Hilda get married and hatch\nFriendly Freddy, their son. Freddy has purple and red striped hair and four eyes: 2 green and 2\ngray. Freddy's hair and eye color are his:\nW) Phenotype\nX) Genotype\nY) Alleles (read as: ah-LEELS)\nZ) Genes",
+        "answer": " W) PHENOTYPE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is true of genetic mutations?\nW) They are always harmful and usually hurt the organism\nX) They are always beneficial and frequently help the organism adapt to the environment\nY) They are not natural and should not happen unless something goes wrong\nZ) They can be harmful, helpful, or have no effect on the organism",
+        "answer": " Z) THEY CAN BE HARMFUL, HELPFUL, OR HAVE NO EFFECT ON THE\nORGANISM"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What do we call the ability of a single molecule to act both as a\nbase and an acid?",
+        "answer": " AMPHOTERISM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Of which of the following acid-base titrations would the pH\nbe less than 7 at the equivalence point?\nW) Strong base, weak acid\nX) Strong base, strong acid\nY) Weak base, weak acid\nZ) Strong acid, weak base",
+        "answer": " Z) STRONG ACID, WEAK BASE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " In an alternating electric current, what is the term most commonly\nused to describe the tendency of charged particles to travel along the surface of their\nconductor?",
+        "answer": " SKIN EFFECT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A transformer is often used in electric circuits to alter what\nquantity?",
+        "answer": " VOLTAGE (ACCEPT: ELECTRIC POTENTIAL, POTENTIAL, POTENTIAL\nDIFFERENCE, ELECTRIC POTENTIAL DIFFERENCE)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " A solution of barium hydroxide is neutralized with a phosphoric\nacid solution. Identify the molecular forms of the two products that are produced in this reaction.",
+        "answer": " Ba (PO ) AND H O\n3 4 2 2"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The strength of the dispersion forces between two non-polar\nmolecules increases with:\nW) The number of hydrogen atoms in the molecule\nX) The number of electrons in the molecule\nY) The magnitude of the largest electronegativity of the atoms involved\nZ) The magnitude of the difference in electronegativity between the atoms",
+        "answer": " X) THE NUMBER OF ELECTRONS IN THE MOLECULE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the slope of a vector in standard position with an angle of 45\u00b0\nbelow the positive x axis?",
+        "answer": " -1"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Solve the following equation for x:",
+        "answer": " x = 25 (DO NOT ACCEPT: x = 9)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Which law of thermodynamics could be stated as: energy tends to\ndistribute itself among the greatest number of particles possible?",
+        "answer": " 2ND (ACCEPT: LAW OF ENTROPY)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " When the same amount of energy is applied to 1-gram portions of\nwater, ethanol, copper and iron, for which one does the temperature increase the least?",
+        "answer": " WATER\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The Haber-Bosch process revolutionized agriculture\nby providing a cheap, easy method to make fertilizers of an element essential for plant growth.\nWhich of the following is this essential element?\nW) Iron\nX) Potassium\nY) Phosphorus\nZ) Nitrogen",
+        "answer": " Z) NITROGEN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What is the term that describes the increase in primary\nproduction of an aquatic ecosystem following enrichment with chemical nutrients?",
+        "answer": " EUTROPHICATION (read as: yuh-tr\u014de-fi-KAY-shohn)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What term describes momentum transfer from a photon to a\nphysical object ?",
+        "answer": " RADIATION PRESSURE (ACCEPT: LIGHT PRESSURE)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Nuclear reactions, such as those that occur in power generating\nreactors, are said to be critical when:\nW) They are able to sustain their level of activity without an external neutron source\nX) They have been shut down by the introduction of neutron poisons such as boron\nY) They are increasing in power at a rate faster than expected\nZ) They are producing more thorium than uranium",
+        "answer": " W) THEY ARE ABLE TO SUSTAIN THEIR LEVEL OF ACTIVITY WITHOUT AN\nEXTERNAL NEUTRON SOURCE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Wind can be harnessed to generate electricity via turbines.\nWhich of the following is the greatest challenge to widespread use of wind for electricity?\nW) Wind turbines are huge, expensive, and not particularly aesthetic\nX) Wind has major negative ecological and environmental effects\nY) Suitable locations for wind farms with sufficiently constant and fast winds are limited\nZ) Wind farms lead to significant loss of agricultural lands",
+        "answer": " Y) SUITABLE LOCATIONS FOR WIND FARMS WITH SUFFICIENTLY CONSTANT\nAND FAST WINDS ARE LIMITED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Identical wind turbines are put in four locations: sea level, 5,000\nfeet, 10,000 feet, and 14,000 feet. Assuming the same wind speed, which turbine will produce\nthe most energy?",
+        "answer": " SEA LEVEL"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following intervals contains both solutions of x2 - 3x =\n0?\nW) 0 less than x less than 2\nX) 0 less than x less than 4\nY) 0 less than or equal to x less than 4\nZ) -3 less than x less than or equal to 2",
+        "answer": " Y) 0 less than or equal to x less than 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Find the sum of every odd integer between 5 and 55, inclusive.",
+        "answer": " 780\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " How is geothermal power produced?\nW) Heat energy is extracted from high temperature lava after eruptions\nX) Water from extremely hot springs is circulated in pipes in nearby homes for heating\nY) Hot dry volcanic rocks are extracted from deep underground and processed in place at a\ngeothermal plant\nZ) Mile-or-more-deep wells are drilled into underground reservoirs to tap steam and very hot\nwater that drive turbines",
+        "answer": " Z) MILE-OR-MORE-DEEP WELLS ARE DRILLED INTO UNDERGROUND\nRESERVOIRS TO TAP STEAM AND VERY HOT WATER THAT DRIVE TURBINES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " In order to replenish the supply of steam at the geothermal plant\ncalled The Geysers, which of the following does an underground pipeline deliver?\nW) Wastewater\nX) River water\nY) Ocean water\nZ) Rain water",
+        "answer": " W) WASTEWATER"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which type of rock is most likely to be drilled for oil?\nW) Granite\nX) Limestone\nY) Sandstone\nZ) Basalt",
+        "answer": " Y) SANDSTONE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of rock is likely to cap a\nlayer of rock rich in oil?\nW) Sandstone\nX) Shale\nY) Slate\nZ) Granite",
+        "answer": " X) SHALE"
+    }
+]

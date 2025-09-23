@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Two or more structures are said to be homologous if they are alike\nbecause of shared ancestry. Ovaries and testes share a developmental ancestry, meaning that\nthe structures arose from the same tissue in what physical stage of human life?",
+        "answer": " EMBRYO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " All Homo sapiens are thought to share a common matrilineage.\nWhat genetic information has been used as key evidence for this shared matrilineage?\nW) Mitochondrial (read as: my-toh-KOHN-dree-ahl) DNA\nX) Nuclear DNA\nY) Plasma membranes\nZ) Cytoplasmic tRNA",
+        "answer": " W) MITOCHONDRIAL DNA\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Given a standard deck of 52 cards, what is the probability, expressed\nas a fraction in lowest terms, that the first card dealt is a heart?",
+        "answer": ""
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " An ichthyologist wants to know the fish population of a pond. She\ncatches 60 fish, tags them, and releases them. Two weeks later, she catches 50 fish and 7 of\nthem have tags. Based on the data, what is the best estimate of the fish population of the pond?\nRound your answer to the nearest hundred.",
+        "answer": " 400"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following sedimentary environments\nwould a dominantly organic sedimentary rock most likely be formed?\nW) Shallow marine\nX) Deep ocean\nY) Wind-blown desert\nZ) Glacial outwash plain",
+        "answer": " W) SHALLOW MARINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A high-energy river environment will most likely create\nwhich of the following deposits:\nW) Laminar silt beds\nX) Course-grained, angular cross bedding\nY) Poorly sorted beds with no structure\nZ) Well rounded gravels",
+        "answer": " Z) WELL ROUNDED GRAVELS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What do we call a mathematical object that possesses both magnitude\nand direction?",
+        "answer": " VECTOR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If b is a negative vector of a given vector a, then how do b and a\ncompare?\nW) a has a smaller magnitude than b\nX) b has a smaller magnitude than a\nY) b has the same magnitude as a, applied in the opposite direction\nZ) b has a larger magnitude than a, applied in the opposite direction",
+        "answer": " Y) B HAS THE SAME MAGNITUDE AS A, APPLIED IN THE OPPOSITE\nDIRECTION"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What letter designates the lowest energy subshell in any shell?",
+        "answer": " S"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Identify the scientist who proposed the existence of energy\nlevels for the electrons in an atom.",
+        "answer": " BOHR\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What causes low-pressure weather systems, such as tropical\ncyclones, to spin counter-clockwise in the Northern Hemisphere and clockwise in the Southern\nHemisphere?",
+        "answer": " CORIOLIS EFFECT (ACCEPT: CORIOLIS FORCE, ROTATION OF THE EARTH)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Billions of tiny ice crystals rub together to produce electron\nimbalances within storm clouds. What do we see when electrons arc to another cloud or to the\nground?",
+        "answer": " LIGHTNING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following minerals could be mined to\ncreate electrical wiring?\nW) Chalcopyrite (read as: kahl-koh-PY-ryt)\nX) Limestone\nY) Galena (read as: gah-LEE-nah)\nZ) Gypsum",
+        "answer": " W) CHALCOPYRITE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is the most abundant mineral\ngroup found in the Earth's crust?\nW) Carbonates\nX) Oxides\nY) Sulfides\nZ) Silicates",
+        "answer": " Z) SILICATES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Most shelled organisms in the ocean make their shells out of\ncalcium carbonate. What effect would increasing ocean acidity have on the shells of these\norganisms?",
+        "answer": " DISSOLVE/CORRODE THEIR SHELLS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " In the 1960s, a group of bacteria were discovered with magnetic\ncrystals in a specialized organelle. It is believed that these bacteria used the crystals to help\nthem align with what natural phenomenon?",
+        "answer": " THE EARTH'S MAGNETIC FIELD"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a common ion?\nW) Na2+\nX) Al3+\nY) B2+\nZ) Kr2+",
+        "answer": " X) Al3+"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following has an electron configuration of 1s2 2s2\n2p6 3s2 3p6 (read as: 1 s 2, 2 s 2, 2 p 6, 3 s 2, 3 p 6)?\nW) Sodium ion\nX) Chlorine\nY) Neon\nZ) Calcium ion",
+        "answer": " Z) CALCIUM ION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In humans, where does the organ responsible for balance\nreside?\nW) Inner ear\nX) Middle ear\nY) Outer ear\nZ) Hypothalamus",
+        "answer": " W) INNER EAR"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " What is a common name for adipose tissue?",
+        "answer": " FAT"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the term that describes the separation of visible light into\nits component colors by a prism?",
+        "answer": " DISPERSION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following colors of light has the most energy?\nW) Yellow\nX) Red\nY) Green\nZ) Violet",
+        "answer": " Z) VIOLET\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT considered a\ncomponent of the modern theory of ice ages?\nW) The Earth wobbles on its axis\nX) The tilt of the Earth varies\nY) Plate tectonics causes Earth's equator to change location\nZ) The Earth's orbit around the Sun varies",
+        "answer": " Y) PLATE TECTONICS CAUSE EARTH'S EQUATOR TO CHANGE LOCATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Isostatic rebound following the end of the most\nrecent ice age caused which of the following?\nW) Localized sea level rise\nX) Localized sea level drop\nY) Mountain formation in the eastern part of the U.S.\nZ) Volcanism in Southern Mexico",
+        "answer": " X) LOCALIZED SEA LEVEL DROP"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The point (1, 2) is reflected across the x axis. What are the\ncoordinates of its image?",
+        "answer": " (1, -2)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A viper had a length of 30 centimeters at 6 months of age and a\nlength of 1.3 meters at 15 years old. Assuming that its growth was linear, which of the following\nis closest to its length in meters at 10 years old?\nW) 0.6\nX) 0.8\nY) 1\nZ) 1.2",
+        "answer": " Y) 1\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " What characteristic has made angiosperms so successful\nduring the last 140 million years?\nW) They are very tall, outcompeting other plants for sunlight\nX) They have flowers to attract pollinators\nY) They are thorny to deter herbivores from consuming them\nZ) They are the only plants that can reproduce asexually",
+        "answer": " X) THEY HAVE FLOWERS TO ATTRACT POLLINATORS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Fruits primarily function in order to entice animals to eat them.\nIn what way does this benefit the fruiting plant?\nW) Animals disperse the seeds\nX) Animals pollinate while eating the fruits\nY) Animals eat the fruit instead of other parts of the plant\nZ) There is no benefit to the plant",
+        "answer": " W) ANIMALS DISPERSE THE SEEDS"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is true about the alpha particle?\nW) It is a hydrogen atom\nX) It was discovered by J.J. Thomson\nY) It was used by Ernest Rutherford in experiments relating to the nucleus of the atom\nZ) It is purely electromagnetic radiation",
+        "answer": " Y) IT WAS USED BY ERNEST RUTHERFORD IN EXPERIMENTS RELATING TO\nTHE NUCLEUS OF THE ATOM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What term best describes the type of reaction that converts\nuranium in the soil to radon?\nW) Acid-base\nX) Fusion\nY) Electromagnetic radiation\nZ) Radioactive decay",
+        "answer": " Z) RADIOACTIVE DECAY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A child is holding a string with a yo-yo dangling at the bottom of\nit. As the child yanks the string up, the tension in the string will:\nW) Decrease\nX) Increase\nY) Stay the same\nZ) Become negative",
+        "answer": " X) INCREASE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " When a girl wearing roller blades throws a ball in front of her, she\nslides backwards. Her movement is an illustration of which of Newton\u2019s Laws of Motion?",
+        "answer": " THIRD"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What is the process that best describes the transfer of\nelectrons from one atom to another through electrostatic attraction?\nW) Ionic bonding\nX) Repulsion\nY) Nuclear force\nZ) Covalent bonding",
+        "answer": " W) IONIC BONDING"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " The force between two electrically charged objects can be\nchanged by altering what two quantities?",
+        "answer": " THE AMOUNT OF CHARGE AND THE DISTANCE BETWEEN THE OBJECTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If 8x3 \u2013 4y = -16x, express y as a function of x in simplest form.",
+        "answer": " y = 2x3 + 4x"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Solve the quadratic equation 3x2 +2x\u22128=0.\nW) x =2 or \u22124\nX) x =8 or \u221212\nY) x = \u22122 or 4/3\nZ) x =8 or \u22124/3",
+        "answer": " Y) x = -2 OR 4/3"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " What kind of potential energy is stored in the reservoir behind a\ndam?",
+        "answer": " GRAVITATIONAL"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a significant limitation to the\nfurther development of U.S. hydropower?\nW) Availability of sites for new large hydro facilities\nX) Regulatory requirements\nY) Maintenance costs\nZ) Environmental concerns",
+        "answer": " Y) MAINTENANCE COSTS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " In what year did astronauts first land on the Moon?",
+        "answer": " 1969"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " NASA\u2019s Lunar Reconnaissance Orbiter, which\nreached lunar orbit in June of 2009, has gathered digital information about the moon. Which of\nthe following has NOT been observed by LRO?\nW) The far side of the moon is rougher and has more craters than the near side\nX) Cliffs in the lunar crust indicate that the moon has expanded in the recent past\nY) Astronaut landing sites\nZ) Lunar rilles, which look like river channels",
+        "answer": " X) CLIFFS IN THE LUNAR CRUST INDICATE THAT THE MOON HAS EXPANDED\nIN THE RECENT PAST"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " Providing your answer to the nearest degree, what is absolute\nzero in degrees Celsius?",
+        "answer": " -273 DEGREES CELSIUS (ACCEPT: 273 DEGREES CELSIUS BELOW ZERO)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " When air in a closed system is heated, what does it do?",
+        "answer": " EXPANDS (ACCEPT: RISES)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following devices stores electrical energy in\nchemical form in order to release it slowly through a circuit?\nW) Inductor\nX) Resistor\nY) Capacitor\nZ) Battery",
+        "answer": " Z) BATTERY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of battery is most commonly used in\nautomobiles?\nW) Lithium-ion (read as: LI-thee-uhm)\nX) Nickel Cadmium\nY) Lead-acid\nZ) Zinc chloride",
+        "answer": " Y) LEAD-ACID"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Determine the slope of the line that has the equation:\ny \u2013 14 = 7 (x + 2) - 5.",
+        "answer": " 7"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Line 1 and line 2 are parallel. If line 1 contains the points (6, 13)\nand (4, 11) and line 2 contains the point (8, 20), determine which of the following points lies on\nline 2.\nW) (12, 15)\nX) (18, 10)\nY) (10, -12)\nZ) (14, 26)",
+        "answer": " Z) (14, 26)\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a renewable resource?\nW) Diamonds\nX) Wood\nY) Coal\nZ) Propane",
+        "answer": " X) WOOD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following choices describes one reason why the\ngreenhouse effect is important?\nW) It warms the Earth to a temperature necessary for life on Earth\nX) It allows solar radiation to escape, preventing extreme radiation\nY) It cools the Earth to a temperature necessary for life on Earth\nZ) It creates nitrogen for Earth\u2019s atmosphere",
+        "answer": " W) IT WARMS THE EARTH TO A TEMPERATURE NECESSARY FOR LIFE ON\nEARTH"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Why is the Kepler telescope unique?\nW) It is pointed at one specific target\nX) It is focused on a large section of the sky\nY) It is scanning the entire sky\nZ) It generates a small amount of data",
+        "answer": " X) IT IS FOCUSED ON A LARGE SECTION OF THE SKY"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What are scientists hoping to discover with the Kepler\ntelescope?",
+        "answer": " PLANETS LIKE THE EARTH"
+    }
+]

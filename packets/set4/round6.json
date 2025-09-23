@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The emission of helium nuclei refers to which form of radiation?\nW) Alpha\nX) Beta\nY) Delta\nZ) Gamma",
+        "answer": " W) ALPHA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The atomic matter converted into energy by the atomic bomb in\nWorld War II at Hiroshima weighed about as much as a:\nW) Penny\nX) Bowling ball\nY) Refrigerator\nZ) Whale",
+        "answer": " W) PENNY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " If the side lengths of a triangle are 3 meters, 4 meters, and 5 meters,\nthen what is the area in square meters?",
+        "answer": " 6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If two angles of a triangle inscribed in a circle are 40\u02da and 110\u02da,\nwhat is the degree measure of the arc intercepted by the third angle?\nW) 15\nX) 30\nY) 60\nZ) 210",
+        "answer": " Y) 60"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following consumes the most energy?\nW) All Personal vehicles\nX) All Trains\nY) All Airplanes\nZ) All Buses",
+        "answer": " W) ALL PERSONAL VEHICLES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Electric vehicles are propelled by electric motors powered by\nrechargeable battery packs. Which of the following is NOT an accurate battery-related issue for\nelectric vehicles?\nW) They need to be recharged after 100 to 200 miles of use\nX) They are inefficient\nY) They are expensive\nZ) They are heavy",
+        "answer": " X) THEY ARE INEFFICIENT\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a major process for\nmechanical weathering of rock?\nW) Frost wedging\nX) Oxidation\nY) Abrasion\nZ) Pressure-release fracturing",
+        "answer": " X) OXIDATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If you place a drop of strong acid on a limestone rock,\nwhat gas is released?",
+        "answer": " CARBON DIOXIDE (ACCEPT: CO )\n2"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Given that nuclear reactions are a great source of energy, which\nof the following represents one of the main concerns about nuclear energy production?\nW) The expense of building and maintaining safe nuclear power plants\nX) A shortage in uranium\nY) Waste accumulation\nZ) Lack of knowledge about the technique",
+        "answer": " Y) WASTE ACCUMULATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is a characteristic of alpha decay?\nW) Alpha decay occurs in heavy nuclei where the electrostatic repulsion between the protons in\nthe nucleus is large\nX) The mass of a nucleus that undergoes alpha decay will be changed by only a small amount\nY) Neither the mass number nor the atomic number is changed\nZ) The atomic number increases by 1",
+        "answer": " W) ALPHA DECAY OCCURS IN HEAVY NUCLEI WHERE THE ELECTROSTATIC\nREPULSION BETWEEN THE PROTONS IN THE NUCLEUS IS LARGE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The chairs in a theater are numbered. Robert painted all of the chairs\nfrom #25 to #35, inclusive. How many chairs did he paint?",
+        "answer": " 11"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Sally plans to sell tickets for the school play. It costs $150 to print the\ntickets. If she sells the tickets for $4 each, how many must she sell to make a profit of at least\n$500?",
+        "answer": " 163"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following best describes the flow of energy in an\necosystem?\nW) Sun \u2192 heterotroph \u2192 autotroph (read as: Sun to heterotroph to autotroph)\nX) Chemotroph \u2192 autotroph \u2192 heterotroph (read as: chemotroph to autotroph to heterotroph)\nY) Detritovore \u2192 autotroph \u2192 heterotroph (read as: detritovore to autotroph to heterotroph)\nZ) Sun \u2192 autotroph \u2192 heterotroph (read as: Sun to autotroph to heterotroph)",
+        "answer": " Z) SUN \u2192 AUTOTROPH \u2192 HETEROTROPH"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Great Lakes coastal wetlands occur along the Great lakes\nshoreline and portions of the tributary rivers and streams. Which of the following are NOT\nabiotic factors that influence patterns of species co-occurrence and distributions:\nW) Kinds of aquatic system\nX) Fluctuations in Great Lakes water levels\nY) Physical and chemical characteristics of the bedrock\nZ) Vegetation zonation",
+        "answer": " Z) VEGETATION ZONATION\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Circling near the edge of the Solar System, the Oort\nCloud is a collection of what?",
+        "answer": " COMETS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT true about quasars?\nW) They give off enormous amounts of energy\nX) They can be seen with the unaided eye\nY) They may emit gamma rays\nZ) Some theorists say that there are black holes in the center of the galaxies in which the\nquasars are located",
+        "answer": " X) THEY CAN BE SEEN WITH THE UNAIDED EYE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " What is the greatest common factor of 120 and 165?",
+        "answer": " 15"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Simplify the following expression: (tan x + cot x)(sin x cos x) (read as:\nopen parenthesis tangent x plus cotangent x close parenthesis times open parenthesis sine x\ncosine x close parenthesis).",
+        "answer": " 1\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Identify the substance being reduced in the following reaction:\n3 Zn + Fe O \u00e0\uf0e0 (read as: yields) 2Fe + 3 ZnO.\n2 3",
+        "answer": " THE Fe3+ IN THE Fe O (ACCEPT: Fe3+ OR IRON III. DO NOT ACCEPT: IRON OR\n2 3\nIRON METAL)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following substances could be a precipitate in a\ndouble replacement reaction in an aqueous solution?\nW) Silver chloride\nX) Barium hydroxide\nY) Lead nitrate\nZ) Zinc chloride",
+        "answer": " W) SILVER CHLORIDE"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a flavor of quark?\nW) Charm\nX) Weird\nY) Top\nZ) Down",
+        "answer": " X) WEIRD"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Amy is pulling a heavy cart. It is harder to start pulling the cart\nthan to keep the cart in motion because the kinetic frictional force:\nW) Has decreased\nX) Is zero once the cart starts moving\nY) Is only present when the cart is first pulled\nZ) Is less than the static frictional force",
+        "answer": " Z) IS LESS THAN STATIC FRICTIONAL FORCE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Which planet maintains the highest average\ntemperature due to its considerably thicker atmosphere?",
+        "answer": " VENUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " If the input of methane in the Martian atmosphere is 2\nx 106 moles per day, and 6 x 108 moles are estimated to reside in the Martian atmosphere, what\nis the residence time of methane in days?",
+        "answer": " 300"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " A mutation that produces a dominant allele (read as: ah-LEEL)\nwould:\nW) Give the bearer a selective advantage\nX) Result in the death of the bearer\nY) Be expressed as an observable phenotype in a heterozygous organism\nZ) Never produce an observable phenotype",
+        "answer": " Y) BE EXPRESSED AS AN OBSERVABLE PHENOTYPE IN A HETEROZYGOUS\nORGANISM"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " If two parents are both heterozygous for a given trait, about what\npercent of the time would they produce a homozygous offspring?",
+        "answer": " 50%\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " What happens when metal freezes and forms a solid?\nW) The metal gets high electrical conductivity\nX) The atoms form crystals\nY) The atoms have higher density\nZ) The atoms form liquids",
+        "answer": " X) THE ATOMS FORM CRYSTALS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following do NOT have liquid crystals as a\npossible component?\nW) Mood rings\nX) Digital thermometers\nY) Stalactites\nZ) Laptop computers",
+        "answer": " Y) STALACTITES"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " How do vaccines work to prevent illness? They:\nW) Stimulate production of disease-specific antibodies\nX) Calm the body's inflammatory response\nY) Stop antihistamines from triggering an immune response\nZ) Alter cell surface proteins, blocking pathogens\u2019 ability to enter the cell",
+        "answer": " W) STIMULATE PRODUCTION OF DISEASE-SPECIFIC ANTIBODIES"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is true about vitamins?\nW) Vitamins give you energy\nX) Vitamins are inorganic compounds low in calories that can provide energy when dieting\nY) Vitamins are organic compounds and serve as a great way to maintain energy levels when\nyou don't have time to eat\nZ) Vitamins do not provide energy for the body",
+        "answer": " Z) VITAMINS DO NOT PROVIDE ENERGY FOR THE BODY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " The NASA \u201cVomit Comet\u201d allows passengers to feel the effects of\nweightlessness by ascending to 30,000 feet and then dropping downward at what acceleration?",
+        "answer": " g (ACCEPT: 9.8 m/s2, THE ACCELERATION DUE TO GRAVITY)"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Imagine that you tie a ball on the end of a long string and swing\nit around your head in a horizontal circle. If you let go of the string, where will the ball go\ninitially?\nW) It will hit you in the head\nX) It will fall at your feet\nY) It will fly up in the air\nZ) It will continue in the direction in which it was traveling when you let go",
+        "answer": " Z) IT WILL CONTINUE IN THE DIRECTION IN WHICH IT WAS TRAVELING\nWHEN YOU LET GO"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " The Moon\u2019s composition is most similar to which\nlayer of Earth?\nW) Crust\nX) Mantle\nY) Core\nZ) Asthenosphere (read as: ahs-THEH-noh-sfir)",
+        "answer": " W) CRUST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Approximately how long, in days, does it take the\nMoon to rotate about its axis?\nW) It does not rotate about its axis\nX) 7\nY) 28\nZ) 365",
+        "answer": " Y) 28\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Using one exterior angle per vertex, what is the sum in degrees of the\nmeasures of the exterior angles of a convex dodecagon?",
+        "answer": " 360"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Given that a is not a multiple of \u03c0, the expression (cos a / tan a )\n(1 \u2013 cos2 a) (read as: cosine of a over tangent of a times the quantity 1 minus cosine squared of\na) is equivalent to which of the following expressions?\nW) cos a\nX) cos2 a sin a\nY) sin2 a cos2 a\nZ) cos2 a",
+        "answer": " X) cos2 a sin a"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " In beats per minute, what is the normal range of resting heart\nrates in adults?\nW) 20 to 50\nX) 60 to 100\nY) 80 to 120\nZ) 100 to 150",
+        "answer": " X) 60 TO 100"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Name the blood type referred to as the \"universal donor\" because\npeople of any blood type can accept it.",
+        "answer": " O NEGATIVE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is used to measure the decay time for\nan unstable isotope?\nW) Radioactive-life\nX) Half-time\nY) Isotope-time\nZ) Half-life",
+        "answer": " Z) HALF-LIFE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " An isotope has a half-life of 26 years. If a sample of this\nisotope has a mass of 300.0 grams, how long will it take in years until 37.5 grams remain?",
+        "answer": " 78"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Pure water would conduct electricity if we added to it which of\nthe following?\nW) Sugar\nX) Alcohol\nY) Salt\nZ) Pepper",
+        "answer": " Y) SALT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A positive and negative charge are initially 1 centimeter apart.\nWhat happens to the force between them as they are moved closer and closer together?",
+        "answer": " IT INCREASES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What do we call electrons in the outer shell of an atom that\ncan participate in forming chemical bonds with other atoms?",
+        "answer": " VALENCE ELECTRONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " What is the maximum number of electrons that a shell of n = 3\ncan accommodate?",
+        "answer": " 18"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is not equal to (read as: 5 squared to\nthe power of 3)?\nW)\n( 53)2\n(read as: 5 cubed to the power of 2)\nX) 55\nY) 56\nZ)\n( 53)( 53)\n(read as: 5 cubed times 5 cubed)",
+        "answer": " X) 55"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " Where does the graph of cross the x-axis?",
+        "answer": " AND (ACCEPT: )\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " What region of the country has the greatest percentage of\nhomes heated with heating oil?\nW) Northwest\nX) Northeast\nY) Southwest\nZ) Southeast",
+        "answer": " X) NORTHEAST"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a possible reason for potentially\ndramatic changes in home oil heating prices?\nW) Crude oil price changes\nX) Outdoor temperature\nY) Insufficient supplies\nZ) The burning of wood",
+        "answer": " Z) THE BURNING OF WOOD"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Greenhouse gases in the Earth\u2019s atmosphere are\ntrapping excess heat, resulting in radiative imbalance. Which of the following is responsible for\nabsorbing the greatest fraction of this excess heat?\nW) Ice\nX) Atmosphere\nY) Ocean\nZ) Land",
+        "answer": " Y) OCEAN"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " What is the largest size of sediment you would\nexpect to find near the headwaters of a stream?\nW) Boulder\nX) Pebble\nY) Gravel\nZ) Sand",
+        "answer": " W) BOULDER"
+    }
+]

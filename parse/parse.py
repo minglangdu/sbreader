@@ -78,9 +78,10 @@ def parsepdf(url, file, result):
 ####
 
 for round in range(1, 18):
-    URL = f"https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round{round}.pdf"
+    # URL = f"https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-1/round{round}.pdf"
     # URL = f"https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-2/round{round}.pdf"
     # URL = f"https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-3/Round-{round}C.pdf"
+    URL = f"https://science.osti.gov/-/media/wdts/nsb/pdf/HS-Sample-Questions/Sample-Set-4/Round{round}.pdf"
     FILE = f"pdfs/round{round}.pdf"
-    RESULT = f"../packets/set1/round{round}.json"
+    RESULT = f"../packets/set4/round{round}.json"
     parsepdf(URL, FILE, RESULT)

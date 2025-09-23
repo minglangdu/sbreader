@@ -1,0 +1,352 @@
+[
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " A molecule having a chemical formula of CH CCCH would be\n3 3\nclassified by which of the following?\nW) Alkyne\nX) Alkene\nY) Alkane\nZ) Aldehyde (read as: AHL-deh-hyd)",
+        "answer": " W) ALKYNE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " The rare earth elements are primarily composed of elements\nfrom which groups of the periodic table?\nW) Transition metals and main group\nX) Alkali and alkaline\nY) Lanthanides (read as: LAHN-thah-nyds) and actindies\nZ) Alkaline and transition metals",
+        "answer": " Y) LANTHANIDES AND ACTINIDES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What substance primarily determines the viscosity of\nmagma?",
+        "answer": " SILICA"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following is NOT a property of\npyroclastic (read as: py-r\u014de-KLAHS-tik) flows?\nW) They can flow uphill\nX) They move slowly\nY) Hot rock and ash flow like a turbulent blanket over the ground\nZ) They glow red at night but appear grey in the daytime",
+        "answer": " X) THEY MOVE SLOWLY"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " During meiosis, haploid cells are created from diploid parent\ncells. In animals, this process only takes place in:\nW) Gametes\nX) Reproductive organs\nY) Somatic cells\nZ) Plasma cells",
+        "answer": " X) REPRODUCTIVE ORGANS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Certain species of fungi are self-fertile, in which a sexual spore can\nresult from the fusion of nuclei that are genetically distinct but derived from the same body.\nWhat do we call these kinds of organisms?",
+        "answer": " HOMOTHALLIC\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the ideal mechanical advantage of a 24 inch lever if the\nfulcrum is located 6 inches from the resistance, which is at one end of the lever?",
+        "answer": " 3"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " What is the mechanical advantage of a screw with a radius of 1\ncentimeter and a thread of 0.25 centimeters? Provide your answer to the nearest integer.",
+        "answer": " 25"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following organisms is NOT an autotroph?\nW) Pigmented sulfur bacteria\nX) Palm tree\nY) Nitrifying bacteria\nZ) Mosquito",
+        "answer": " Z) MOSQUITO"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Besides water, what is the second most common reducing agent\nthat most autotrophs use?",
+        "answer": " HYDROGEN SULFIDE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " Which one of the following statements concerning permanent bar\nmagnets is NOT true?\nW) The north pole of a permanent magnet is attracted to a south pole of another magnet\nX) The direction of a magnetic field is indicated by the north pole of a compass\nY) All permanent magnets are surrounded by a magnetic field\nZ) When a permanent magnet is cut in half, one piece will be a north pole and one a south pole",
+        "answer": " Z) WHEN A PERMANENT MAGNET IS CUT IN HALF, ONE PIECE WILL BE A\nNORTH POLE AND ONE PIECE WILL BE A SOUTH POLE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The force exerted by a coiled spring is directly proportional to\nwhich of the following?\nW) Uncoiled length of the spring\nX) Diameter of the string\nY) Thickness of the string\nZ) Extension of the string",
+        "answer": " Z) EXTENSION OF THE STRING"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The surface of Titan is so cold that water is only stable\nin ice form. However, Titan still has clouds, rain, and lakes composed of which category of\nsubstances that includes oil and gasoline.",
+        "answer": " HYDROCARBONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " A mineral with the chemical formula\nCa Mg Si O 2(OH) belongs to which of the following mineral groups?\n2 5 8 2 2\nW) Serpentines\nX) Amphiboles\nY) Olivines (read as: OH-li-veens)\nZ) Pyroxenes (read as: py-ROHK-seens)",
+        "answer": " X) AMPHIBOLES\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " How would you classify a reaction in which solid potassium\nand chlorine gas react to form the ionic compound potassium chloride?\nW) Decomposition\nX) Combustion\nY) Synthesis\nZ) Disproportionation",
+        "answer": " Y) SYNTHESIS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Generally, what type of reaction is an acid base reaction?",
+        "answer": " DOUBLE DISPLACEMENT (ACCEPT: DOUBLE REPLACEMENT)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " The Spotted Owl is considered an endangered species in the\nwestern United States, largely due to competition from the introduced Barred Owl. These two\nspecies are genetically similar and are believed to have speciated from a common ancestor\nafter separation of the two populations on opposite coasts of the United States. This is an\nexample of:\nW) Allopatric speciation\nX) Sympathetic speciation\nY) Sympatric speciation\nZ) Genetic drift",
+        "answer": " W) ALLOPATRIC SPECIATION"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Short Answer",
+        "content": " Spotted Owls and Barred Owls are examples of ecotypes that can\ninterbreed to produce Sparred Owls \u2013 a hybrid species. Which of the following is NOT true\nabout the sparred owls?\nW) They are protected under the Endangered Species Act since they are offspring of spotted\nowls\nX) They may interbreed with spotted owls, reducing future numbers of pure spotted owls\nY) They may interbreed among themselves, creating a new subspecies\nZ) They could trigger the extinction of the Spotted Owl",
+        "answer": " W) THEY ARE PROTECTED UNDER THE ENDANGERED SPECIES ACT SINCE\nTHEY ARE OFFSPRING OF SPOTTED OWLS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Most atoms combine to form molecules in such a way that\nthey have how many electrons in a valence shell?",
+        "answer": " 8"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " In which of the following groups does the elemental form\nhave a completed valence shell?\nW) Group 8\nX) Group 10\nY) Group 18\nZ) Group 28",
+        "answer": " Y) GROUP 18"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Short Answer",
+        "content": " A truck starts from rest. After 4 seconds of constant acceleration,\nits instantaneous speed is 8 meters per second. What is the average speed in meters per\nsecond over the first four seconds?",
+        "answer": " 4"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " The Leidenfrost effect is what causes water to \"skitter\" across a\nhot surface such as a pan and can permit a droplet to persist for longer on the hot surface at\nhigher temperatures. On what is the water floating?\nW) A cushion of superheated air\nX) An insulating layer of steam\nY) An insulating piece of the surface it sublimed\nZ) A transitory cold zone",
+        "answer": " X) AN INSULATING LAYER OF STEAM\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If x = 4 and y = 2, which of the following expressions is undefined?\nW) 3x +\nX) 2y + 4x\nY) xy \u2013 x2\nZ) x +",
+        "answer": " W) 3x +"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following functions is continuous at x = -1?\nW)\nX)\nY)\nZ)",
+        "answer": " Y)"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " The typical efficiency of an automobile engine is approximately\nwhich of the following percentages?\nW) 95\nX) 65\nY) 25\nZ) 5",
+        "answer": " Y) 25"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " Mechanical power produced by wind turbines needs to be\nconverted into electrical energy before it can be used. What is necessary to accomplish this\nconversion?",
+        "answer": " GENERATOR\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The area of a square is 36 square centimeters. What is the length of\nits diagonal in centimeters in simplest radical form?",
+        "answer": " 6"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The diagonals of a rhombus are 12 centimeters and 16 centimeters\nlong. What is the perimeter of the rhombus in centimeters?",
+        "answer": " 40"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Multiple Choice",
+        "content": " Eccentricity of an orbit describes:\nW) Its deviation from a circular orbit\nX) Its deviation from the ecliptic\nY) Its time difference from a standard day\nZ) Its tumble ratio",
+        "answer": " W) ITS DEVIATION FROM A CIRCULAR ORBIT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " The eccentricities of closed orbits range between\nwhich two numbers?",
+        "answer": " 0 AND 1\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " If a soldier wants to shoot a projectile as far into enemy territory\nas possible over level ground, at what angle from the ground should the projectile be shot?\nW) 0\u00b0\nX) 30\u00b0\nY) 45\u00b0\nZ) 60\u00b0",
+        "answer": " Y) 45\u00b0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " PHYSICS ",
+        "answertype": "Multiple Choice",
+        "content": " A dart is shot from ground level over level ground with a speed\nof 30 meters per second at an angle of 30\u00b0 above the ground. Assuming no air resistance, what\nis the vertical speed in meters per second of the dart when it hits the ground?\nW) 0\nX) 9.8\nY) 15\nZ) 30",
+        "answer": " Y) 15"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following types of coal is of high quality and has the\nhighest energy content?\nW) Subbituminous (read as: suhb-bi-tuh-MI-nehs)\nX) Bituminous (read as: bi-TUH-mi-nehs)\nY) Lignite (read as: LIG-nyt)\nZ) Peat",
+        "answer": " X) BITUMINOUS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Burning wood leads to the release of chemical energy via the\nprocess of oxidation. Which of the following describes this more accurately?\nW) Wood \u2192 (read as: yields) Fire\nX) Wood + Oxygen \u2192 (read as: yields) Carbon Dioxide + Water + Energy\nY) Wood + Oxygen \u2192 (read as: yields) Coal + CarbonDioxide + Energy\nZ) Wood + Oxygen \u2192 (read as: yields) Carbon Dioxide + Water + Sulfur Dioxide + Energy",
+        "answer": " X) WOOD + OXYGEN \u2192 CARBON DIOXIDE + WATER + ENERGY\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " The radius of a bicycle tire is 10 inches. How far does the wheel\ntravel in inches in 6 revolutions?\nW) 45 \u03c0\nX) 60 \u03c0\nY) 90 \u03c0\nZ) 120 \u03c0",
+        "answer": " Z) 120 \u03c0"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " If a train\u2019s wheels have a diameter of 4 feet and turn at rate of \u03c0\nradians per second, how fast is the train moving in feet per second?\nW) 2\nX) 4\nY) 2\u03c0\nZ) 4\u03c0",
+        "answer": " Y) 2\u03c0"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " ENERGY ",
+        "answertype": "Short Answer",
+        "content": " When a ball rolls on a pool table, it eventually stops moving\nbecause of friction between the ball and the table. In this case, the kinetic energy of the ball has\nbeen converted to what other form of energy?",
+        "answer": " HEAT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " ENERGY ",
+        "answertype": "Multiple Choice",
+        "content": " Plug-in hybrid electric vehicles are:\nW) Completely powered by electricity\nX) Powered by electricity until batteries are discharged and then powered by gasoline\nY) Completely powered by solar energy\nZ) Powered completely by biofuels",
+        "answer": " X) POWERED BY ELECTRICITY UNTIL BATTERIES ARE DISCHARGED AND\nTHEN POWERED BY GASOLINE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " What type of water condition is created by differing\nwater densities resulting from melting ice caps and glaciers?",
+        "answer": " STRATIFIED"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Thermohaline circulation is an important moderator of\nEarth\u2019s climate. Approximately how long in years does it take for a parcel of water to transit this\ncirculation pathway?\nW) 1\nX) 10\nY) 100\nZ) 1000",
+        "answer": " Z) 1000"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " According to the Hardy-Weinberg Law, from generation to\ngeneration, gene frequencies and genotype frequency in a randomly-breeding population are:\nW) Constant\nX) Increasing\nY) Decreasing\nZ) Variable, depending upon habitat limitations",
+        "answer": " W) CONSTANT"
+    },
+    {
+        "type": "Bonus",
+        "subject": " BIOLOGY ",
+        "answertype": "Multiple Choice",
+        "content": " Some transposons in bacteria carry genes for proteins as well\nas the gene for transposase. These proteins often benefit the bacteria by imparting:\nW) Antibiotic resistance\nX) Growth factors\nY) Gamete formation\nZ) New organelles",
+        "answer": " W) ANTIBIOTIC RESISTANCE\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " Given two parallel lines in a plane, the set of points that lie in that\nplane and are equidistant from the given lines forms a:\nW) Point\nX) Segment perpendicular to the lines\nY) Circle\nZ) Line",
+        "answer": " Z) LINE"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Multiple Choice",
+        "content": " In a plane, the set of points equidistant from a point and a line form\na:\nW) Ellipse\nX) Parabola\nY) Triangle\nZ) Tip of a cone",
+        "answer": " X) PARABOLA"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Found on Mars, what is the name of the largest\nvolcano in the Solar System?",
+        "answer": " OLYMPUS MONS"
+    },
+    {
+        "type": "Bonus",
+        "subject": " EARTH AND SPACE ",
+        "answertype": "Short Answer",
+        "content": " Mars has the largest and deepest canyon system in\nthe Solar System. What is its name?",
+        "answer": " VALLES MARINERIS\n________________________________________________________________________"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " A fair 6-sided die is rolled 2 times. As a fraction in lowest terms, what\nis probability of rolling a 5 both times?\n1",
+        "answer": "\n36"
+    },
+    {
+        "type": "Bonus",
+        "subject": " MATH ",
+        "answertype": "Short Answer",
+        "content": " The first row in a theatre contains 8 seats. Every other row contains 2\nseats more than the one in front of it. How many people can sit in the first 6 rows?",
+        "answer": " 78"
+    },
+    {
+        "type": "Toss-up",
+        "subject": " CHEMISTRY ",
+        "answertype": "Short Answer",
+        "content": " Determine the oxidation state of each of the elements in the\npolyatomic ion C O 2-.\n2 4",
+        "answer": " CARBON = 3+; OXYGEN = 2-"
+    },
+    {
+        "type": "Bonus",
+        "subject": " CHEMISTRY ",
+        "answertype": "Multiple Choice",
+        "content": " Which of the following 1.0 molar solutions will have the\nlargest change in boiling point from that of pure water?\nW) Sodium bromide\nX) Magnesium iodide\nY) Sucrose\nZ) Potassium phosphate",
+        "answer": " Z) POTASSIUM PHOSPHATE"
+    }
+]
