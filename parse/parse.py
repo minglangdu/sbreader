@@ -1,7 +1,7 @@
-import requests
 import pdfplumber
 import json
 import os
+
 
 GET = True
 
@@ -9,13 +9,26 @@ GET = True
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0',
     'Referer': 'https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions',
-    'Connection': 'keep-alive'
+    'Connection': 'keep-alive',
 }
-SUBJECTS = ["EARTH AND SPACE", "EARTH SCIENCE", "PHYSICS", "MATH", "CHEMISTRY", "ENERGY", "BIOLOGY", "GENERAL SCIENCE", "ASTRONOMY", "COMPUTER SCIENCE"]
+
+SUBJECTS = [
+    "EARTH AND SPACE",
+    "EARTH SCIENCE",
+    "PHYSICS",
+    "MATH",
+    "CHEMISTRY",
+    "ENERGY",
+    "BIOLOGY",
+    "GENERAL SCIENCE",
+    "ASTRONOMY",
+    "COMPUTER SCIENCE",
+]
+
 
 def parsepdf(url, file, result):
     if GET:
-        os.system(f"./get.sh {url} {file}")
+        os.system(f"/usr/bin/env wget {url} -O {file}")
 
     content = ""
     with pdfplumber.open(file) as pdf:
@@ -28,16 +41,27 @@ def parsepdf(url, file, result):
 
     data = []
     next = {}
-    stage = -1 # -1: not in question; 0: type; 1: content and types; 1.5: content 2: answer; 2.5: only answer
+    # -1: not in question;
+    # 0: type;
+    # 1: content and types;
+    # 1.5: content
+    # 2: answer;
+    # 2.5: only answer
+    stage = -1
     # attributes: type, answer, content, answertype, subject
     for line in content.splitlines():
-        old = (stage * 2) / 2 # idk i'm too lazy to import copy
+        old = stage
         # getting stage
         if ("Page" in line):
             stage = -1
-        if ("TOSS UP" in line or "TOSS-UP" in line or "BONUS" in line):
+        if ("TOSS UP" in line
+            or "TOSS-UP" in line
+            or "BONUS" in line):
             stage = 0
-        if ("Short Answer" in line or "Short answer" in line or "Multiple Choice" in line or "Multiple choice" in line):
+        if ("Short Answer" in line
+            or "Short answer" in line
+            or "Multiple Choice" in line
+            or "Multiple choice" in line):
             stage = 1
         if ("ANSWER" in line):
             stage = 2
@@ -45,8 +69,11 @@ def parsepdf(url, file, result):
         if ((old == 2.5 or old == 2) and stage != 2.5 and stage != old):
             # checking
             print(next)
-            if ("type" not in next or "subject" not in next or "answertype" not in next or "content" not in next or "answer" not in next):
-                
+            if ("type" not in next
+                or "subject" not in next
+                or "answertype" not in next
+                or "content" not in next
+                or "answer" not in next):
                 raise Exception("Incomplete")
             data.append(next)
             next = {}
@@ -57,7 +84,7 @@ def parsepdf(url, file, result):
         elif (stage == 1):
             for subject in SUBJECTS:
                 if (subject in line):
-                    next["subject"] = " " + subject + " " # backwards compatibility
+                    next["subject"] = f" {subject} " # backwards compatibility
                     break
             next["answertype"] = ("Short Answer" if ("Short Answer" in line) else "Multiple Choice")
             next["content"] = line.partition(next["answertype"])[2]
@@ -85,3 +112,4 @@ for round in range(1, 18):
     FILE = f"pdfs/round{round}.pdf"
     RESULT = f"../packets/set4/round{round}.json"
     parsepdf(URL, FILE, RESULT)
+
